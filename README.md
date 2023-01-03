@@ -108,8 +108,6 @@ pbrody | 6
 rooftopportapotty | 6
 ro-_-b | 6
 revanchist1 | 6
-
-Username	Tag	Color	Downvotes	Upvotes	
 lops21 | 6
 eth10kisfud | 6
 concernedcustomer33 | 6
@@ -210,7 +208,7 @@ nevilleharris | 3
 need-a-bencil | 3
 mwiwm | 3
 mrcatface13 | 3
-Username	Tag	Color	Downvotes	Upvotes	
+
 morganzero | 3
 megroovin | 3
 logic_beach | 3
@@ -311,7 +309,7 @@ larrybob4 | 2
 kotmynetchup | 2
 koratickle | 2
 kenzi28 | 2
-Username	Tag	Color	Downvotes	Upvotes	
+
 kb1985 | 2
 juxtanotherposition | 2
 jin366 | 2
@@ -412,8 +410,6 @@ vegetable-agent-6491 | 1
 vashstamp3de | 1
 vacremon2 | 1
 urbandystopia | 1
-
-Username	Tag	Color	Downvotes	Upvotes	
 ubiest | 1
 tyrolf | 1
 txstreet | 1
@@ -514,8 +510,6 @@ pennvic | 1
 passetisse | 1
 paper-gains | 1
 pandemoniumpermad | 1
-
-Username	Tag	Color	Downvotes	Upvotes	
 palegirlshnnng | 1
 paddyputthepipedown | 1
 overcookedchicken | 1
@@ -616,7 +610,7 @@ ianazch | 1
 i_haven-t_reddit | 1
 hotgirls-eth | 1
 hot_lava_poured_in | 1
-Username	Tag	Color	Downvotes	Upvotes	
+
 hokumbafflegab | 1
 hodlingsteady | 1
 hodleth | 1
@@ -717,8 +711,6 @@ crypolyf | 1
 crap___shoot | 1
 cptnobvs3 | 1
 cpayyyy | 1
-
-Username	Tag	Color	Downvotes	Upvotes	
 cozypinetree | 1
 cowsclaw | 1
 corn-potage | 1
