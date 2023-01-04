@@ -4,7 +4,11 @@
 
 # Daily Doots Leaderboard
 
-<small>Last Updated Jan 2, 2023</small>
+<callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/evmavericks) for a roundup of the top 10 Doots of the Week!</callout>
+
+<input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
+
+<small>783 Dooters - Last Updated Jan 3, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
@@ -24,25 +28,26 @@ Rank | Username   | Daily Doots
 . | hipaces | 20
 . | ethlongmusk | 20
 . | decibels42 | 20
+. | realjohnbmaclemore | 19
 . | coldsnap | 19
 . | liberosist | 18
 . | alexiskef | 18
 . | syentist | 18
-. | realjohnbmaclemore | 18
 . | nixorokish | 18
 . | moschus11 | 18
+. | benido2030 | 18
 . | ethacct | 17
-. | benido2030 | 17
 . | dcinvestor | 16
 . | maleficent_plankton | 16
 . | -lightfoot | 16
 . | thecryptosandbloods | 15
+. | stablecoin | 15
 . | pr0nh0li0 | 15
 . | chapo_rouge | 15
 . | savage_x | 14
-. | stablecoin | 14
 . | oyurukemono | 14
 . | needlerop | 14
+. | maswasnos | 14
 . | offmyporch | 13
 . | hblask | 13
 . | teedeepee | 13
@@ -52,7 +57,6 @@ Rank | Username   | Daily Doots
 . | nikola_j | 12
 . | replykindly | 12
 . | quadraticsharting | 12
-. | maswasnos | 12
 . | domotheus | 12
 . | dashby1 | 12
 . | austonst | 12
@@ -74,6 +78,7 @@ Rank | Username   | Daily Doots
 . | mkkoll | 9
 . | ec265 | 9
 . | ch3white10 | 9
+. | bagogel12 | 9
 . | yeahdave4 | 8
 . | harryzke | 8
 . | jumnhy | 8
@@ -85,7 +90,6 @@ Rank | Username   | Daily Doots
 . | not_selling_eth | 8
 . | minimalgravitas | 8
 . | confucius_said | 8
-. | bagogel12 | 8
 . | accountaccumulator | 8
 . | 696_eth | 8
 . | theonlyhodlerincuau | 7
@@ -146,6 +150,8 @@ Rank | Username   | Daily Doots
 . | barthib | 5
 . | bad_investment | 5
 . | 1l0o | 5
+. | lawfultots | 4
+. | whovillage | 4
 . | wegotsumnewbands | 4
 . | timmerwb | 4
 . | thoughts4food | 4
@@ -189,7 +195,6 @@ Rank | Username   | Daily Doots
 . | pinkyandthebrainer | 3
 . | itchy_ad_3659 | 3
 . | midnightonmars | 3
-. | whovillage | 3
 . | vvander | 3
 . | toethmooonguy | 3
 . | themoondancekid | 3
@@ -268,6 +273,7 @@ Rank | Username   | Daily Doots
 . | spontaneousdream | 2
 . | splintercole | 2
 . | speedemon92 | 2
+. | sourdoughpretzel4444 | 2
 . | sorangutan | 2
 . | smellymammoths | 2
 . | sku | 2
@@ -352,6 +358,7 @@ Rank | Username   | Daily Doots
 . | crypt0curios | 2
 . | crispykfc | 2
 . | cory_eth | 2
+. | communist_mini_pesto | 2
 . | coinanon | 2
 . | cheeky-gorilla | 2
 . | caturday_yet | 2
@@ -451,7 +458,6 @@ Rank | Username   | Daily Doots
 . | spectacledhero | 1
 . | special-meaning3539 | 1
 . | sp3xl | 1
-. | sourdoughpretzel4444 | 1
 . | sosayethweall | 1
 . | sonotyou | 1
 . | somedaysitsdark | 1
@@ -477,6 +483,7 @@ Rank | Username   | Daily Doots
 . | samus3015 | 1
 . | samuelshix | 1
 . | roberto250b | 1
+. | robertloblaw2 | 1
 . | rinmusya | 1
 . | rickshawjojo | 1
 . | ribilla_ | 1
@@ -595,6 +602,7 @@ Rank | Username   | Daily Doots
 . | jade_sorceress | 1
 . | its_spelled_iain | 1
 . | itchykittehs | 1
+. | ironicspeech | 1
 . | internal-strategy512 | 1
 . | inhuman_moose | 1
 . | infinitemilieu | 1
@@ -644,6 +652,7 @@ Rank | Username   | Daily Doots
 . | flamesrisehigher | 1
 . | first-flower-3465 | 1
 . | fiftyfirstsnails | 1
+. | fifthrooter | 1
 . | fibrepunk2077 | 1
 . | fernadopoo | 1
 . | feichalo | 1
@@ -655,6 +664,7 @@ Rank | Username   | Daily Doots
 . | ethrocketeer | 1
 . | ethrevolution | 1
 . | ethnocent | 1
+. | ethmaxitard | 1
 . | etherduck | 1
 . | eth2353 | 1
 . | etereve | 1
@@ -674,6 +684,7 @@ Rank | Username   | Daily Doots
 . | drogean2 | 1
 . | drew41 | 1
 . | dretherious | 1
+. | dray11 | 1
 . | dpxlumpi | 1
 . | dotslaxx | 1
 . | dondochaka | 1
@@ -712,7 +723,6 @@ Rank | Username   | Daily Doots
 . | cowsclaw | 1
 . | corn-potage | 1
 . | competitive-regret21 | 1
-. | communist_mini_pesto | 1
 . | colangelodid911 | 1
 . | clearlyjustsomeguy | 1
 . | claystring | 1
@@ -779,11 +789,13 @@ Rank | Username   | Daily Doots
 . | 404bachee | 1
 . | 10kethisfud | 1
 . | 0xrel0aded | 1
+. | 0xdepositcontract | 1
 . | 0xboba | 1
 . | 0661 | 1
 . | -filterfeeder- | 1
 . | -darkknight | 1
 . | ---truthseeker--- | 1
+
 
 
 ##
@@ -807,4 +819,52 @@ table tbody tr {
 table tr td:first-child::before {
   content: counter(rowNumber);
 }
+input { 
+  width: 380px;
+  max-width: 98%;
+}
 </style>
+
+<script>
+
+// apply filter after search typing delay
+function search() {
+  delay(function(){
+    applyFilter();
+  }, 400 );
+}
+
+// filter users to ones that match search term
+function applyFilter() {
+  let searchInput = document.getElementById('searchInput');
+  let searchText = searchInput.value.toLowerCase();
+  let rows = document.getElementsByTagName("tbody")[0].innerHTML.split("<tr");
+  let show = `style="visibility: visible;"`;
+  let hide = `style="visibility: collapse;"`;
+  let table = rows[0];
+
+  for (let i = 1; i < rows.length; i++) {
+    let user = rows[i].split("<td>");
+    let row;
+    if (user[2].includes(searchText)) {
+      row = show + user.join("<td>");
+      row.replace(hide, "");
+    } else {
+      row = hide + user.join("<td>");
+      row.replace(show, "");
+    }
+    table += "<tr " + row;
+  }
+  document.getElementsByTagName("tbody")[0].innerHTML = table;
+}
+
+// general delay function
+var delay = (function(){
+  var timer = 0;
+  return function(callback, ms){
+    clearTimeout (timer);
+    timer = setTimeout(callback, ms);
+  };
+})();
+
+</script>
