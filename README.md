@@ -844,13 +844,16 @@ function applyFilter() {
   let table = rows[0];
 
   for (let i = 1; i < rows.length; i++) {
-    let user = rows[i].split("<td>");
+    let splitStart = ".com/u/";
+    let splitEnd = "</a>";
+    let regex = new RegExp("(?:"+splitStart+")((.[\\s\\S]*))(?:"+splitEnd+")", "ig");
+    let user = rows[i];
     let row;
-    if (user[2].includes(searchText)) {
-      row = show + user.join("<td>");
+    if (regex.exec(user)[1].includes(searchText)) {
+      row = show + user;
       row.replace(hide, "");
     } else {
-      row = hide + user.join("<td>");
+      row = hide + user;
       row.replace(show, "");
     }
     table += "<tr " + row;
