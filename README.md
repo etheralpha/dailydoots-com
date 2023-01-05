@@ -826,8 +826,19 @@ input {
 }
 </style>
 
-<script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LWYNV17K3R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LWYNV17K3R');
+</script>
+
+
+<script>
 // apply filter after search typing delay
 function search() {
   delay(function(){
@@ -870,5 +881,4 @@ var delay = (function(){
     timer = setTimeout(callback, ms);
   };
 })();
-
 </script>
