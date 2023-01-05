@@ -8,7 +8,7 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>784 Dooters - Last Updated Jan 3, 2023</small>
+<small>784 Dooters - Last Updated Jan 4, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
