@@ -6,6 +6,8 @@
 
 <callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/eRrVDx7M) for a roundup of the top 10 Doots of the Week!</callout>
 
+<callout>🛠 Who's working on what? [View Projects](#projects)</callout>
+
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
 <small>786 Dooters - Last Updated Jan 7, 2023</small>
@@ -800,6 +802,36 @@ Rank | Username   | Daily Doots
 . | [---truthseeker---](https://reddit.com/u/---truthseeker---) | 1
 
 
+[↑ Back to top ↑](#)
+
+
+
+
+## Projects
+
+In an effort to spread awareness of what everyone in the project is working on, below is a list of users and their projects.
+
+|  | Username              | Description
+---|-----------------------|------------------------------------------
+.  | 696_eth               | Composes top EVMavericks events of the week
+.  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
+.  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
+.  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including this site!)
+.  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
+.  | LogrisTheBard         | Exploring financial topics related blockchain: <https://tokenomicsexplained.com/>
+.  | Mister_Eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
+.  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
+.  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
+.  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
+.  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
+.  | wizardofhex           | Creating an app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!) <https://github.com/wizardofhex/poapgateddocuments>
+.  | ZeroTricks            | [EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened "On this Day" in Ethereum
+
+
+[↑ Back to top ↑](#)
+
+
 
 ##
 
@@ -810,6 +842,8 @@ Rank | Username   | Daily Doots
       <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
   </svg>
 </a>
+
+Made by [Ether Alpha](https://etheralpha.org/) with ❤️
 
 
 <style>
