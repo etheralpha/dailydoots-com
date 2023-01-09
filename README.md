@@ -825,10 +825,10 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | InsideTheSimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
-.  | LogrisTheBard         | Exploring financial topics related blockchain: <https://tokenomicsexplained.com/>
+.  | LogrisTheBard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
 .  | Mister_Eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
-.  | nixorokish            | EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
 .  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
 .  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets
@@ -837,7 +837,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | Tricky_Troll          | Tricky's Daily Doots
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
-.  | wizardofhex           | Creating an app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!) <https://github.com/wizardofhex/poapgateddocuments>
+.  | wizardofhex           | [POAP Gated Documents](https://github.com/wizardofhex/poapgateddocuments) - An app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!)
 .  | ZeroTricks            | [EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened "On this Day" in Ethereum
 
 
