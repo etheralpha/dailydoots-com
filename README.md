@@ -812,6 +812,8 @@ Rank | Username   | Daily Doots
 
 In an effort to spread awareness of what everyone in the project is working on, below is a list of users and their projects.
 
+|  | Username              | Description
+---|-----------------------|------------------------------------------
 .  | 696_eth               | Composes top EVMavericks events of the week
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
