@@ -808,24 +808,32 @@ Rank | Username   | Daily Doots
 
 
 
-## Projects
+# Projects
 
 In an effort to spread awareness of what everyone in the project is working on, below is a list of users and their projects.
 
-|  | Username              | Description
----|-----------------------|------------------------------------------
 .  | 696_eth               | Composes top EVMavericks events of the week
+.  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
+.  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
+.  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
+.  | ToEthMooonGuy         | "To ETH Mooon!!! ┗(°0°)┛"
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including this site!)
+.  | InsideTheSimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
+.  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | LogrisTheBard         | Exploring financial topics related blockchain: <https://tokenomicsexplained.com/>
 .  | Mister_Eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
+.  | nixorokish            | EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
 .  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
 .  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
+.  | Tricky_Troll          | Tricky's Daily Doots
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
 .  | wizardofhex           | Creating an app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!) <https://github.com/wizardofhex/poapgateddocuments>
 .  | ZeroTricks            | [EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened "On this Day" in Ethereum
