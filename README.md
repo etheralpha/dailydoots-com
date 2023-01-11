@@ -816,6 +816,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 ---|-----------------------|------------------------------------------
 .  | 696_eth               | Composes top EVMavericks events of the week
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
+.  | bbroad25              | ".08 today, easy."
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | domotheus             | EF Researcher
