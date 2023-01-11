@@ -817,6 +817,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | 696_eth               | Composes top EVMavericks events of the week
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
+.  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
@@ -837,6 +838,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | Tricky_Troll          | Tricky's Daily Doots
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
+.  | Wholesome_Crypto      | [Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path
 .  | wizardofhex           | [POAP Gated Documents](https://github.com/wizardofhex/poapgateddocuments) - An app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!)
 .  | ZeroTricks            | [EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened "On this Day" in Ethereum
 
