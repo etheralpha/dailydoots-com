@@ -819,6 +819,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | bbroad25              | ".08 today, easy."
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
+.  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
 .  | domotheus             | EF Researcher
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
