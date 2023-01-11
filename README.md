@@ -818,6 +818,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
+.  | domotheus             | EF Researcher
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
