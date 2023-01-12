@@ -821,6 +821,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | 696_eth               | [EVMavericks Weekly](https://evmavericks-weekly.netlify.app/) - The top EVMavericks events of the week
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | bbroad25              | ".08 today, easy."
+.  | BramBramEth           | Working on a seed phrase recovery tool
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
@@ -828,7 +829,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
-.  | ToEthMooonGuy         | "To ETH Mooon!!! ┗(°0°)┛"
+.  | fc-test               | Working on building a web3 game
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including this site!)
 .  | InsideTheSimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
 .  | Jey_s_TeArS           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
@@ -845,6 +846,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
+.  | ToEthMooonGuy         | "To ETH Mooon!!! ┗(°0°)┛"
 .  | Tricky_Troll          | Tricky's Daily Doots
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
 .  | Wholesome_Crypto      | [Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path
