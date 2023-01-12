@@ -818,7 +818,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 
 |  | Username              | Description
 ---|-----------------------|------------------------------------------
-.  | 696_eth               | Composes top EVMavericks events of the week
+.  | 696_eth               | [EVMavericks Weekly](https://evmavericks-weekly.netlify.app/) - The top EVMavericks events of the week
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | bbroad25              | ".08 today, easy."
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
