@@ -4,7 +4,7 @@
 
 # Daily Doots Leaderboard
 
-<callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/eRrVDx7M) for a roundup of the top 10 Doots of the Week!</callout>
+<callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/evmavericks) for a roundup of the top 10 Doots of the Week!</callout>
 
 <callout>🛠 Who's working on what? [View Projects](#projects)</callout>
 
