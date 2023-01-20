@@ -829,6 +829,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | bbroad25              | ".08 today, easy."
 .  | BramBramEth           | Working on a seed phrase recovery tool
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
+.  | cryptojobsgg          | [CryptoJobs.gg](https://cryptojobs.gg/) - The #1 crypto jobs board for employers and future employees
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
 .  | domotheus             | EF Researcher
