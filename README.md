@@ -1600,6 +1600,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | cryptojobsgg          | [CryptoJobs.gg](https://cryptojobs.gg/) - The #1 crypto jobs board for employers and future employees
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
+.  | danceratopz           | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
 .  | domotheus             | EF Researcher
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
@@ -1607,6 +1608,7 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
 .  | fc-test               | Working on building a web3 game
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including this site!)
+.  | haurog                | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | hashtagfuzzmaster     | "ALL HAIL THE ETERNAL CRAB"
 .  | InsideTheSimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
 .  | Jey_s_TeArS           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
