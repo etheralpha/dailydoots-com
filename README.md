@@ -13,15 +13,15 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>795 Dooters - Last Updated Jan 25, 2023</small>
+<small>795 Dooters - Last Updated Jan 26, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
-. | [superphiz](https://reddit.com/u/superphiz) | 80
+. | [superphiz](https://reddit.com/u/superphiz) | 81
 . | [kbrot](https://reddit.com/u/kbrot) | 51
 . | [tricky_troll](https://reddit.com/u/tricky_troll) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 43
-. | [logristhebard](https://reddit.com/u/logristhebard) | 42
+. | [logristhebard](https://reddit.com/u/logristhebard) | 43
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 35
 . | [set1less](https://reddit.com/u/set1less) | 29
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 26
@@ -81,12 +81,12 @@ Rank | Username   | Daily Doots
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 11
 . | [seamonkey82](https://reddit.com/u/seamonkey82) | 10
 . | [cutsnek](https://reddit.com/u/cutsnek) | 10
+. | [thehighflyer](https://reddit.com/u/thehighflyer) | 10
 . | [bakedent](https://reddit.com/u/bakedent) | 10
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 9
 . | [harryzke](https://reddit.com/u/harryzke) | 9
 . | [vedran_](https://reddit.com/u/vedran_) | 9
-. | [thehighflyer](https://reddit.com/u/thehighflyer) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
 . | [ch3white10](https://reddit.com/u/ch3white10) | 9
@@ -212,6 +212,7 @@ Rank | Username   | Daily Doots
 . | [itchy_ad_3659](https://reddit.com/u/itchy_ad_3659) | 3
 . | [midnightonmars](https://reddit.com/u/midnightonmars) | 3
 . | [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 3
+. | [vvpan](https://reddit.com/u/vvpan) | 3
 . | [vvander](https://reddit.com/u/vvander) | 3
 . | [toethmooonguy](https://reddit.com/u/toethmooonguy) | 3
 . | [themoondancekid](https://reddit.com/u/themoondancekid) | 3
@@ -269,7 +270,6 @@ Rank | Username   | Daily Doots
 . | [wolfparking](https://reddit.com/u/wolfparking) | 2
 . | [watch_dominion_now](https://reddit.com/u/watch_dominion_now) | 2
 . | [wanna_know_more](https://reddit.com/u/wanna_know_more) | 2
-. | [vvpan](https://reddit.com/u/vvpan) | 2
 . | [vectorvictorious](https://reddit.com/u/vectorvictorious) | 2
 . | [vandelay101](https://reddit.com/u/vandelay101) | 2
 . | [username_error](https://reddit.com/u/username_error) | 2
