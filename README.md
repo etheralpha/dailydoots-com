@@ -825,13 +825,219 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #4: January 27, 2023</summary>
+
+[Listen Live](https://discord.gg/evmavericks) | [POAP Checkout](https://checkout.poap.xyz/#/sale/f71f6844-8e4f-429a-be25-b281988f145d)
+
+*Special guest [James Wigginton](https://www.orrick.com/en/People/D/3/2/James-Wigginton) joins us to discuss DAO/COOP configurations and the benefits over an LLC structure.*
+
+<details>
+<summary>Shitpost of the week: u/superphiz</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5l84r7/)
+
+Phiz, if you can see this, you're in yesterday's daily. WAKE UP!
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10icjgc/comment/j5gxj7p/)
+
+*Settlement layer,*
+
+*Immune to any slayer,*
+
+*Best blockchain player.*
+
+</details>
+<details>
+<summary>Today in Ethereum: u/ZeroTricks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10krmxu/daily_general_discussion_january_25_2023/j5sfukm/)
+
+On this day...
+
+In 2022:
+
+- Syndicate [introduces](https://syndicate.mirror.xyz/4p6a0nKpBYMSxoAfN6KpjcUwJSD2t68Dq7zgoliB4pk) Web3 Investment Clubs, a social investing tool built on the Syndicate Protocol transforming any Ethereum wallet into an investing DAO.
+- Vitalik Buterin [lists](https://notes.ethereum.org/@vbuterin/single_slot_finality) the technical challenges and possible solutions in moving Ethereum to single-slot finality.
+- Risk Harbor Core v2 [is released](https://medium.com/riskharbor/risk-harbor-core-v2-now-live-on-ethereum-mainnet-7411e58bc328), featuring levered vaults, a risk management automated market maker and a risk engine.
+- Arbitrum [gets updated](https://twitter.com/BFreshHB/status/1486057303224856578) to lower transfer fees.
+- Crypto exchange MEXC Global [adds support](https://twitter.com/MEXC_Global/status/1485780322176225282) for Arbitrum.
+- Spot the misfeth at $2455, or ₿0.06646.
+
+
+In 2021:
+
+- Mike Novogratz’s Galaxy Digital [announces](https://mcusercontent.com/4ee5467326fbf62430854c9c7/files/ace9e56d-f328-463b-88e7-5d2ecaad90fd/GFM_Galaxy_Ethereum_Fund_One_Pager_January_2021.pdf) Ether-focused funds.
+- ConsenSys [partners](https://consensys.net/blog/press-release/consensys-announces-partnership-with-chinas-blockchain-services-network) with China's Blockchain-based Service Network (BSN) to make Consensys Quorum accessible for enterprises and government organizations.
+- ETH takes off better with headwinds, from $1391 to $1325, or ₿0.04306 to ₿0.04092.
+
+
+In 2020:
+
+- Curve Finance [fixes](https://blog.curve.fi/vulnerability-disclosure) a critical vulnerability found by Sam Sun, which allowed anyone to drain the smart contract.
+- ETH thinks outside the box at $161, or ₿0.01929.
+
+
+In 2019:
+
+- Zachary Williamson [proposes](https://github.com/ethereum/EIPs/issues/1724) EIP1724, or "zkERC20", a confidential token standard.
+- ETH winces at the sight of $116, or ₿0.03233.
+
+
+In 2018:
+
+- No-cost stock trading app Robinhood [announces](http://blog.robinhood.com/news/2018/1/24/dont-sleep)  zero-fee trading of Bitcoin and Ether, starting in February.
+- Nate Rush and Danny Ryan release [v0.2](https://github.com/ethereum/cbc-casper/releases/tag/0.2.0) of the CBC Casper prototypes.
+- Mobius Network's CEO David Gobaud [reasons](https://www.coindesk.com/why-a-39-million-ico-chose-stellar-over-ethereum) why his startup held its $39 Million ICO on Stellar instead of Ethereum: "too slow, too expensive and too insecure".
+- ETH adjusts its angle of attack to $1053, or ₿0.09451.
+
+
+In 2017:
+
+- Microsoft and IoT platform Mojix [announce](http://www.coindesk.com/microsoft-unveils-project-manifest-a-plan-for-product-tracking-via-blockchain) Project Manifest to track goods using RFID on the Ethereum blockchain.
+- Tendermint [v0.8](https://medium.com/@jaekwon/tendermint-0-8-release-eff1d308b583) is released, with vastly improved stability, validator set changes, handshake between Tendermint and the app, BFT-liveness fixes, more tests and the port of TMSP to ABCI.
+- ETH radiates at $10.6, or ₿0.01173.
+
+
+In 2016:
+
+- MyEtherWallet [announces](https://reddit.com/r/ethereum/comments/42ka13/coming_soon_myetherwallet_chrome_extension/) a Chrome Extension.
+- Love is in the ETH from $2.1 to $2.5, or ₿0.00532 to ₿0.00637.
+
+-------------
+
+[^(compiled with love)](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/)
+
+</details>
+<details>
+<summary>Community: u/alexiskef has an ELI5 for the Ethereum KZG ceremony</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10fu4px/daily_general_discussion_january_19_2023/j4zrfmk/)
+
+Hey friends! As you might have noticed from the many comment threads these past 2-3 days, the Ethereum Foundation has been running (since the beginning of this week and for approximately two more months) something called the [KZG Ceremony](https://ceremony.ethereum.org/). 
+
+**MY** noob-friendly eli5 is that this super-easy-to-participate and open-to-everyone ceremony will contribute (via super-fancy-behind-the-scene math) the necessary randomness for the trust assumptions of the upcoming EIP4844, aka ProtoDanksharding.
+
+(The official explanation is: "*This ceremony, sometimes called a "Trusted Setup", will generate a structured reference string (SRS) which is needed for the commitments to work. An SRS is secure as long as at least one participant in the ceremony successfully conceals their secret.")*
+
+The website of the Ceremony has plenty of information on all things ceremony, however, I wanted to share with you all an 🎧🔥 [excellent podcast episode](https://epicenter.tv/episodes/478) 🔥🎧 with a conversation between Carl Beekhuizen & Trenton Van Epps from the Ethereum Foundation and the host of [Epicenter.tv](https://Epicenter.tv), Friederike Ernst.
+
+The topics the three of them touch on, are:
+
+* Danksharding and scaling Ethereum
+* Data BLOBs and data availability
+* KZG ceremony
+* How trusted setups evolved
+* KZG commitment requirements
+* How trust is ensured
+* Combining randomness
+* How storing secrets is prevented
+* General contribution details
+* Special contributions
+* Quantum vulnerability
+* General EIP-4844 timeline
+
+I certainly do not understand 99% of the math, but this conversation really helped me understand the basic ideas behind the whole process! Enjoy!
+
+</details>
+<details>
+<summary>Random: u/Bob-Rossi is familiarizing themselves with Linux for the start of their staking journey</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10gp4if/daily_general_discussion_january_20_2023/j56ezbm/)
+
+Public accountability update on my staking journey w/ u/benido2030
+
+After an appreciated pep-talk last week, I took a few hours this week to continue to familiarize myself with Linux. Namely the terminal - found a random YouTube video to just follow along with and type through some basic commands. I think this has been helpful so far because my first attempt at all this I just jumped into a staking guide with literal zero understanding what was going on with the terminal. It was an unnecessary stressor knowing one deviation from a guide and I'm screwed.
+
+I am hoping to get a little more familiar with Linux in general before I go further. So if anyone has ideas / videos of things that helped them when they were starting I'd love to see them. I noticed the [CoinCashew Guide](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-i-installation/guide-or-security-best-practices-for-a-eth2-validator-beaconchain-node) has a lot of security best practice type things I need to familiar myself with, so may start focusing on that stuff. 
+
+If anyone cares (and to in general share back links myself) someone here gave me this link (sorry, it was awhile ago) --- [https://linuxcommand.org/tlcl.php](https://linuxcommand.org/tlcl.php) --- which was a nice starter read and this was the video I followed along with --- [https://www.youtube.com/watch?v=s3ii48qYBxA](https://www.youtube.com/watch?v=s3ii48qYBxA) --- which had a lot of similiar stuff but was easy to follow in video. Both super basic, but I can't stress enough how much of a newbie I am with Linux... so it was a comfy start. 
+
+I'd also like to keep this quasi-weekly thing going, so if anyone else is trying going down their staking journey feel free to jump in.
+
+</details>
+<details>
+<summary>Analysis: u/LogrisTheBard discusses NFT tickets</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10icjgc/daily_general_discussion_january_22_2023/j5fm373/)
+
+I think the form of NFTs ripe for the next bull cycle will be different. Just as web2 innovated on web1 by adding interactivity, I think we’ll see the same occur for the next wave of NFT’s. Gone will be the hype for profile pictures and we'll transition towards NFTs with steady demand and which produce revenue streams.
+
+I don't think the infrastructure will be there next bull market for real world asset NFTs like car or house deeds. Governments already have systems for those and even if it would reduce their costs that isn't a metric they are optimizing for. So, I'm looking at informatic use cases of the blockchain that can remain in the digital realm to the point of delivery.
+
+Chief among these are live events or NFT ticketing. Live events occur on a regular basis and the total addressable market cap here makes the art market blush. I particularly like this use case because it serves everyone better except the existing parasitic middlemen.
+
+Just from a technical feature perspective, NFTs provide a provenance trail. If you gate NFT transfers to KYC'd customers then the venues which switch to this system can actually know who attended their events. This is obviously useful information which is lost now and it enables entirely new pathways to engagement between performers and attendees. For example there could be exclusive ticket sale rounds to whitelisted addresses based on previous event attendance.
+
+Additionally there are trust and corruption issues with current ticketing approaches such as corrupt release mechanisms and opaque service charge fees. At the very least having the sale logic on the blockchain can add transparency and equal access to the process. Protocols like POAP and Funfair have already demonstrated provably fair lottery mechanisms when demand outstrips supply. Alternatively more market-like initial auction systems have been demonstrated by newer tokens like Gearbox which used [0xCider](https://gov.gearbox.fi/t/gip-31-1-gear-strategy-cider-ed-liquidity/2050/87). Blockchains are demonstrably excellent at executing a provably fair, transparent process.
+
+As to fees, a lot of the service fee charged by Ticketmaster actually goes to [middlemen or the venue](https://thehustle.co/the-sneaky-economics-of-ticketmaster/). It's how they were able to grow to their current size: they stopped treating the attendee as the customer. There is a market opportunity here to reduce Ticketmaster's cut of the fees though. That is still substantial. Ticketmaster's revenue was [$12.3B in 2022](https://www.economicliberties.us/press-release/live-nation-ticketmasters-record-earnings-come-at-the-expense-of-fans-artists-and-venue-owners/). It's a rather perfect opportunity for some Defi mullet and we're already seeing it start to happen even from Ticketmaster themselves[[1]](https://nbatopshot.com/nba-allstar-vip-pass)[[2]](https://news.bitcoin.com/binance-to-sell-nft-tickets-for-major-italian-soccer-club-lazio/)[[3]](https://techcrunch.com/2022/08/31/ticketmaster-taps-the-flow-blockchain-to-let-event-organizers-issue-nfts-tied-to-tickets/). This is where things like Rarible's multi-chain protocol would really shine as it is fully indexed and is made to allow numerous frontends, dial their own parameters, and for people to pick whatever chain they want.
+
+Finally, unlike a normal ticket stub or plain digital record an NFT ticket can be associated with extra metadata (even after the event). A system like Ticketmaster could add some type of history system so you can view a collection of your previous events and event highlight reels for each but they haven't in 20 years. By contrast, this is much more normal for NFTs already. Integrate this into a digital picture frame and you can have a place on superfan's wall that cycles through highlights of the favorite games they've attended or that lets them build a digital gallery in something like Decentraland and compete with other fans.
+
+So, there's an opportunity here to improve the status quo for venues, performers, and attendees and the only one who stands to lose is a generally reviled middleman. I don't think we'll get as much push-back from the consumers here as we'll see from Gamefi. However, stuff will need to be built.
+
+The UX for buying tickets needs to be tailored to buying tickets. Customers need to see the layout of the venue for the seats being sold, be shown the context of the event, and be offered pathways to deeper engagement with that event’s community. All of these are UI centric changes that don’t require much contract code and are ripe for innovation. Adjacent to the chain, the NFT metadata stored on IPFS could be standardized for easier integration into navigation and viewing software.
+
+</details>
+<details>
+<summary>OPSEC: u/REALJohnBMacLemore has two cybersecurity updates for us</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5johgf/)
+
+Norton’s “Lifelock” password manager accounts hacked in credential stuffing attack.
+
+<https://www.cnet.com/tech/services-and-software/norton-lifelock-accounts-targeted-what-to-know-and-how-to-protect-your-passwords/>
+
+Credential stuffing is where an attacker uses usernames and passwords obtained in a previous hack to access other accounts. Phase 4 of my guide addresses this btw.
+
+Stay safe out there!
+
+---
+
+<https://reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5mes6h/>
+
+macOS/iOS bros! Stop watching SuperPhiz reruns and update now! Moooaar security updates! Moooaar kernel vulnerabilities patched! macOS 12, macos 13, iOS 15, 16 and … iOS 12!? Yeah… 12. Weird. So if you’re still using an iPhone 3GS, update it too.
+
+<https://support.apple.com/en-us/HT201222>
+
+Edit: Oh and macOS 13 got Yubikey support. About f’ing time Apple!
+
+</details>
+<details>
+<summary>Community: u/Syentist shares good news from the first Shanghai upgrade shadow fork</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10j5dkj/daily_general_discussion_january_23_2023/j5jstcj/)
+
+[Mainnet shadow fork 1 finalising, according to Marius from the Geth team. 🥳](https://twitter.com/vdWijden/status/1617530244302532615)
+
+Assuming devnets run for another month, and then the two public testnets are spaced 3 weeks apart, that would put end March Shanghai. If devnets are run for two weeks and then the two public testnets each spaced two weeks apart, Shanghai date would be early March. Either way Shanghai in March seems increasingly likely (Just my own guessing, nothing official from the core devs on a date yet)
+
+</details>
+<details>
+<summary>Random: u/bakindhuman is getting started on their solo staking journey</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10jyo68/daily_general_discussion_january_24_2023/j5quguk/)
+
+I'm a long time hodler. At the moment I have most of my ETH staked with CB. With withdrawals coming soon. I figured now is a good time to explore solo staking. Since I'm not tech savvy. I feel solo staking is a little out of my comfort zone. I looked into using dapenode and rocketpool. After looking at tons of videos and guides. I decided to try the rocketpool route. I followed this guys YouTube video. 
+
+<https://youtu.be/-o3IV3AClw8>
+
+I was able to follow along pretty good and now I'm officially running a node on rocketpools testnet. I'm surprised it's actually working. With that said. I feel like I'm missing so much understanding of what is really happening with my node. All I know is I followed a bunch of copy and paste code into the terminal and got it to work. Did I secure my device enough? Did I set up ssh that I have no idea how to use? Is my firewall setup? What is my computer going to do when I lose power? At this moment I'm a very dangerous eth staker. There's so much I need to learn in order to trust myself with staking real eth. I wish there was some kind of staking class I could attend. I'm going to keep learning as much as I can until withdrawals are enabled. Once that happens my eth will go back to the safety of my hardware wallet until I feel 100% comfortable staking on my own. Thanks to everyone of you that help guys/gals like myself. Cheers.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #3: January 20, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=W4T2x_TomXA) | [POAP](https://poap.gallery/event/97630)
 
 <details>
 <summary>Shitpost of the week: Meme from u/pr0nh0li0 who stole it from Hsaka</summary>
-<https://reddit.com/r/ethfinance/comments/10ezr5l/daily_general_discussion_january_18_2023/j4w2xtd/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10ezr5l/daily_general_discussion_january_18_2023/j4w2xtd/)
 
 [Lmao](https://i.imgur.io/FjUSp0V_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 
@@ -840,7 +1046,7 @@ Rank | Username   | Daily Doots
 </details>
 <details>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
-<https://www.reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4n4lza/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4n4lza/)
 
 *Network density,*
 
@@ -851,7 +1057,7 @@ Rank | Username   | Daily Doots
 </details>
 <details>
 <summary>Random: u/Tricky_Troll decides now is a good time to reflect on the good, the bad and the ugly of how he played the last bull market</summary>
-<https://reddit.com/r/ethfinance/comments/109rzd5/daily_general_discussion_january_12_2023/j40rrwq/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/109rzd5/daily_general_discussion_january_12_2023/j40rrwq/)
 
 **Disclaimer: This is a long-winded reflective post. Skip to the end if you would prefer a TL;DR.**
 
@@ -896,7 +1102,7 @@ TL;DR:
 </details>
 <details>
 <summary>OPSEC: u/696_eth reminds us of some tips to keep our crypto assets safe and secure</summary>
-<https://reddit.com/r/ethfinance/comments/109rzd5/daily_general_discussion_january_12_2023/j40d0kx/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/109rzd5/daily_general_discussion_january_12_2023/j40d0kx/)
 
 **hardware wallet is a MUST** if you have more than $2k in crypto and you are not cashing that out right now and leaving.
 
@@ -909,7 +1115,7 @@ I know to most people it's a given but I keep seeing people getting hacked here 
 </details>
 <details>
 <summary>OPSEC: u/RooftopPortaPotty investigates the Revoke.Cash extension and reveals some privacy concerns</summary>
-<https://reddit.com/r/ethfinance/comments/10amvdl/daily_general_discussion_january_13_2023/j47tn1w/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10amvdl/daily_general_discussion_january_13_2023/j47tn1w/)
 
 The following will serve as an *extremely* abbreviated version of my research into the revoke.cash browser extension, focusing as narrowly on privacy as I can.
 
@@ -964,7 +1170,7 @@ Be careful out there, folks
 </details>
 <details>
 <summary>Community: u/SwagtimusPrime WANTS YOU to contribute to the Ethereum KZG ceremony!</summary>
-<https://reddit.com/r/ethfinance/comments/10amvdl/daily_general_discussion_january_13_2023/j47dmss/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10amvdl/daily_general_discussion_january_13_2023/j47dmss/)
 
 gm gentlemen,
 
@@ -979,7 +1185,7 @@ You'll get a POAP too, so get going and help secure & scale Ethereum! This will 
 </details>
 <details>
 <summary>Random: u/RooftopPortaPotty gets thanked by u/interweaver for their security analyses with a great explanation why they are so important</summary>
-<https://reddit.com/r/ethfinance/comments/10bh29t/daily_general_discussion_january_14_2023/j4cj8yx/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10bh29t/daily_general_discussion_january_14_2023/j4cj8yx/)
 
 > To make an analogy, your posts about security analysis, and potentially teaching us to do those kinds of investigations ourselves, play the same role in the broader ecosystem that fraud proofs do on optimistic rollups. If you start with a trusted system, and the system is honest, then all is well and good, but if they're not honest, and nobody is checking on them, then they can get away with anything. For such a system to become trustless, you need a sufficient number of capable fraud-checkers who are checking often enough such that there's a near-certainty someone would catch malfeasance if it were present. The more people capable of checking ecosystem tools to see if they're doing bad things, the more trustless the ecosystem becomes. It's really crucial
 
@@ -1000,7 +1206,7 @@ This is last call for requests, before I leave this up to the community to conti
 </details>
 <details>
 <summary>Random: u/davidahoffman shares his perspective on recent criticisms of Bankless</summary>
-<https://reddit.com/r/ethfinance/comments/10cc78w/daily_general_discussion_january_15_2023/j4fzd5q/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10cc78w/daily_general_discussion_january_15_2023/j4fzd5q/)
 
 Hey Fam
 
@@ -1017,7 +1223,7 @@ Love you guys
 </details>
 <details>
 <summary>Community: u/Spacesider shares his staking experience and tips for anyone else experiencing similar issues</summary>
-<https://reddit.com/r/ethfinance/comments/10cc78w/daily_general_discussion_january_15_2023/j4frjwo/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10cc78w/daily_general_discussion_january_15_2023/j4frjwo/)
 
 So a little something regarding how my staking experience is going.
 
@@ -1038,9 +1244,9 @@ If anyone else has been getting poor attestation performance, this may be someth
 </details>
 <details>
 <summary>Random: u/benido2030 shares their learnings from 2022</summary>
-<https://reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4ktvza/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10d6prc/daily_general_discussion_january_16_2023/j4ktvza/)
 
-I wrote a long post about my [learnings](https://www.reddit.com/r/ethfinance/comments/rpgcip/daily_general_discussion_december_27_2021/hq4yyqn/) at the end of 2021. That was (in hindsight) after we had peaked and I think it's just reasonable to update that post and include my 2022 learnings.
+I wrote a long post about my [learnings](https://reddit.com/r/ethfinance/comments/rpgcip/daily_general_discussion_december_27_2021/hq4yyqn/) at the end of 2021. That was (in hindsight) after we had peaked and I think it's just reasonable to update that post and include my 2022 learnings.
 
 1. **Don't invest in last cycles coins** - Still very valid, and probably even more important now that we might be on the verge of recovering and potentially starting a new cycle.
 1. **Understand the narrative** - This one is tricky. I think when I wrote this in 2021 I thought by just understanding the narrative and being early you will print. True is: narratives are important, but most likely (at least for me) only really relevant in a bull market. Or the other way around: Narratives are nice in bear market, but that doesn't mean they will safe you. E.g. There was a "real yield" season and GMX did hold pretty nicely, but it's probably an exception. Other narratives didn't help me at all. This leads to:
@@ -1057,7 +1263,7 @@ I have some goals for the next 24-36 months and hope that reflecting on my learn
 </details>
 <details>
 <summary>Community: u/etheraider has a message from the EVM stewards giving out free EVMavericks t-shirts at ETHDenver!</summary>
-<https://reddit.com/r/ethfinance/comments/10e4kij/daily_general_discussion_january_17_2023/j4qeo8i/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10e4kij/daily_general_discussion_january_17_2023/j4qeo8i/)
 
 Free EVMavericks Tees for ETHDenver!
 
@@ -1074,7 +1280,7 @@ There will also be a few ethfinance & evmaverick hang outs planned for ETHDenver
 </details>
 <details>
 <summary>Community: u/pbrody shares the latest updates on Nightfall hitting the mainstream media!</summary>
-<https://reddit.com/r/ethfinance/comments/10ezr5l/daily_general_discussion_january_18_2023/j4wdrxx/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10ezr5l/daily_general_discussion_january_18_2023/j4wdrxx/)
 
 Greetings all...there's been great coverage on the Nightfall privacy announcement. I've got a consolidate list of the links we hit:
 
@@ -1104,13 +1310,13 @@ From my POV, a good day here. Made great progress getting everyone at EY on the 
 
 <details>
 <summary>Shitpost of the week: u/ExperienceGoblintown</summary>
-<https://www.reddit.com/r/ethfinance/comments/108x76j/comment/j3z3zvt/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/108x76j/comment/j3z3zvt/)
 
 What the... Where are y'all going?
 </details>
 <details>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
-<https://www.reddit.com/r/ethfinance/comments/105hh6b/daily_general_discussion_january_7_2023/j3ecl10/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/105hh6b/daily_general_discussion_january_7_2023/j3ecl10/)
 
 *Another night shift,*
 
@@ -1121,7 +1327,7 @@ What the... Where are y'all going?
 </details>
 <details>
 <summary>Random: u/BigglyBillBrasky has a personal update</summary>
-<https://reddit.com/r/ethfinance/comments/103r9ly/daily_general_discussion_january_5_2023/j329102/
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/103r9ly/daily_general_discussion_january_5_2023/j329102)
 >
 
 The Brasky's Strike Back Part II
@@ -1135,7 +1341,7 @@ The last few months have definitely been a trial and has put a lot of stress on 
 </details>
 <details>
 <summary>OPSEC: u/magnushansson shares a new paper on crypto network security</summary>
-<https://reddit.com/r/ethfinance/comments/103r9ly/daily_general_discussion_january_5_2023/j31az1r/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/103r9ly/daily_general_discussion_january_5_2023/j31az1r/)
 
 Economist Eric Budish [presents a new paper (video)](https://www.youtube.com/watch?v=mYFRQGwe7rI&ab_channel=EconomicsDepartment%2COxfordUniversity) showing skepticism regarding the cost of securing the Bitcoin network. The main criticism boils down to the fact that there is no trust in the system (trustless), in the sense that there is no "memory" to build up trust. A miner is only trusted by spending computing resources right now, but does not get rewarded for building up a good reputation. He argues that although this is a perfectly fine model for security, it get's very expensive. In the concluding remarks, Budish briefly discusses PoS and says that it could potentially be used in a better way.
 
@@ -1152,14 +1358,14 @@ And this blog post: <https://hugonguyen.medium.com/a-review-of-budishs-51-attack
 </details>
 <details>
 <summary>Random: u/diego-d explains why they don't really see the point in Bitcoin anymore</summary>
-<https://reddit.com/r/ethfinance/comments/104mg1j/daily_general_discussion_january_6_2023/j39muiw/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/104mg1j/daily_general_discussion_january_6_2023/j39muiw/)
 
 For the first time in my 6 years of crypto I am starting to seriously ponder: I do not actually get the 'point' of bitcoin. It's unprofitable to mine it. It pays no yield if you already have it. It doesn't protect you from inflation. It needs a steady supply of greater fools during its cycle because its security costs scale with price (see: boom-bust curve). Its vocal supporters are cringe. I've always agreed that bitcoin is pristine collateral while ETH has a place as a programmable crypto asset but things have changed. I'm at the point where the flippening is not a meme anymore - it is the guaranteed outcome of the supply/demand dynamics that we are witnessing now - just needs more time to play out. ETH is now the pristine collateral imo, and I don't see why in the future ETH can't have flipped Bitcoin multiple times.
 
 </details>
 <details>
 <summary>Community: u/waqwaqattack shares their latest interview on RocketFuel with Jasper aka u/sikhsoldiers</summary>
-<https://reddit.com/r/ethfinance/comments/104mg1j/daily_general_discussion_january_6_2023/j373fs4/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/104mg1j/daily_general_discussion_january_6_2023/j373fs4/)
 
 I recorded a new Launch Pad episode with [/u/sikhsoldiers](https://reddit.com/u/sikhsoldiers). Jasper is an extremely popular member of the Rocket Pool community.
 
@@ -1172,7 +1378,7 @@ For those of you who don’t know, Launch Pad is an interview series within Rock
 </details>
 <details>
 <summary>Ecosystem: u/austonst enlightens us to the conflict of interest for entities running MEV block builder and MEV relays</summary>
-<https://reddit.com/r/ethfinance/comments/105hh6b/daily_general_discussion_january_7_2023/j3cqss0/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/105hh6b/daily_general_discussion_january_7_2023/j3cqss0/)
 
 MEV-Boost relay transaction censorship has gotten a good amount of attention since the Merge, and for good reason. Fortunately, word has gotten around and the trend is improving.
 
@@ -1205,7 +1411,7 @@ Right now, Ultrasound and Agnostic are the only relays not operating their own b
 </details>
 <details>
 <summary>Ecosystem: u/superphiz has some predictions for the Shanghai upgrade</summary>
-<https://reddit.com/r/ethfinance/comments/105hh6b/daily_general_discussion_january_7_2023/j3c2ahu/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/105hh6b/daily_general_discussion_january_7_2023/j3c2ahu/)
 
 I'm going to make some guesses for what might happen on the beacon chain regarding withdrawals. I want to qualify these as "guesses", because reality rarely unfolds as we expect and it would overestimate my foresight to call them predictions. Also, since I'm not making predictions, I acknowledge that it's difficult to quantify the results of many of these guesses.
 
@@ -1231,7 +1437,7 @@ I'm going to make some guesses for what might happen on the beacon chain regardi
 </details>
 <details>
 <summary>OPSEC: u/Maleficent_Plankton reminds us about a recent scam that has been going around</summary>
-<https://reddit.com/r/ethfinance/comments/106bh8s/daily_general_discussion_january_8_2023/j3h7bg5>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/106bh8s/daily_general_discussion_january_8_2023/j3h7bg5)
 
 There was a fairly-notable phishing post on r/CC yesterday where the user mistakenly sent tokens to an address that looked very similar to his actual address (same starting and ending characters). He originally thought he had clipboard malware that changed his address, but it turned out he actually copied to the wrong address.
 
@@ -1250,14 +1456,14 @@ All these similar-looking address had interacted with his account in the past 2 
 
 Blockchain explorers and and some wallets will show these transactions. The recommended way to avoid getting tricked is to use an address book of whitelisted addresses. Most wallets and exchanges have an address book feature.
 
-**I've posted a comprehensive list of crypto scams here** along with best practices to avoid getting scammed: <https://www.reddit.com/r/ethfinance/comments/106lsai/comprehensive_list_of_common_crypto_scams_and/>
+**I've posted a comprehensive list of crypto scams here** along with best practices to avoid getting scammed: <https://reddit.com/r/ethfinance/comments/106lsai/comprehensive_list_of_common_crypto_scams_and/>
 
 If you're active in DeFi, you'll probably come across many scams and random phishing airdrops on your accounts. Especially true on low-fee networks like Polygon PoS and BSC.
 
 </details>
 <details>
 <summary>Community: u/DoubtStarsAreFire invites everyone to join the Hodlercon discord ahead of planning for the 2024 meet up</summary>
-<https://reddit.com/r/ethfinance/comments/1076f4p/daily_general_discussion_january_9_2023/j3ks6a2/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1076f4p/daily_general_discussion_january_9_2023/j3ks6a2/)
 
 We had so much fun in Hawaii we’re going to do it again… for those of you that don’t know HodlerCon 2024 is currently in the planning stages. Join our [Discord](https://discord.gg/9K634swKJ4) to get involved
 
@@ -1268,7 +1474,7 @@ Luau Dao is submitting a presentation about our Decentralized Layer Zero Vacatio
 </details>
 <details>
 <summary>Random: u/MinimalGravitas discusses goats and staking?!</summary>
-<https://reddit.com/r/ethfinance/comments/10827ir/daily_general_discussion_january_10_2023/j3qgc9r/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10827ir/daily_general_discussion_january_10_2023/j3qgc9r/)
 
 GM EthFam,
 
@@ -1289,7 +1495,7 @@ RocketPool is the G.O.A.T.
 </details>
 <details>
 <summary>Community: u/-lightfoot highlights the significance which staking withdrawals has on decentralisation and u/diego-d follows up with their zero to hero staking journey</summary>
-<https://www.reddit.com/r/ethfinance/comments/108x76j/comment/j3vgs6i/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/108x76j/comment/j3vgs6i/)
 
 Don’t underestimate the decentralizing impact Shanghai will have. Lots of people fully aligned with Ethereum’s defining values like me have ETH staked with cexs where we would rather not, for various reasons, who will be empowered by withdrawals to revisit their position and consider going solo.
 
@@ -1299,7 +1505,7 @@ It might take 6 months but I’m really looking forward to watching the transiti
 
 I named my testnet validator raspberry pi ‘Goldfish’ because I often couldn’t leave it alone more than a day without it dying. Even put a little goldfish sticker on it. I’m looking forward to carrying that bs over onto a nuc; name suggestions welcome.
 
-<https://www.reddit.com/r/ethfinance/comments/108x76j/comment/j3vp7io/>
+<https://reddit.com/r/ethfinance/comments/108x76j/comment/j3vp7io/>
 
 This brings back memories. I was so systems illiterate that it took me about a week to set up my rig before even syncing the block chains. Almost every step in the guides I had to Google something or pester the kind people in the ethstaker discord. I’d never used Linux before. Had to actually Google where to find the command prompt in Ubuntu as if ‘Terminal’ wasn’t obvious enough. Didn’t know what port forwarding was. Many such examples. Once I finally felt like I knew what I was doing, I wiped the entire system and started again from scratch. Then did that a couple more times. Each time getting quicker and more confident. I think by the 3rd try I had got it down to 30 minutes before syncing the blockchains. I ended up validating on testnet for only 1 day, then swapped over to mainnet. I specifically remember phiz telling me to practice on testnet longer but beacon chain launch was imminent. I hesitated due to no withdrawal mechanism but decided there was no way I was missing genesis lol. It’s been more than 2 years since then, my rig diligently staking 24/7 without any major problems. In a weird way it’s been one of the only constants in my life, as life’s events pass by.
 
@@ -1308,7 +1514,7 @@ Tldr; I agree Shanghai will likely increase decentralisation. if I can do it, li
 </details>
 <details>
 <summary>Honorable Mention: Ethereum Foundation Researchers AMA</summary>
-<https://www.reddit.com/r/ethereum/comments/107cqi8/ama_we_are_ef_research_pt_9_11_january_2023/>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/107cqi8/ama_we_are_ef_research_pt_9_11_january_2023/)
 
 </details>
 </details>
@@ -1326,13 +1532,13 @@ Tldr; I agree Shanghai will likely increase decentralisation. if I can do it, li
 
 <details>
 <summary>Shitpost of the week: u/nixorokish</summary>
-<https://reddit.com/r/ethfinance/comments/1014ypw/daily_general_discussion_january_2_2023/j2ln9qj/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1014ypw/daily_general_discussion_january_2_2023/j2ln9qj/)
 
 mister eth, please report to the principal's office
 </details>
 <details>
 <summary>Ecosystem: u/ethmaxitard shares zkSYNCS devotion to ethereums vision</summary>
-<https://reddit.com/r/ethfinance/comments/zxxihz/daily_general_discussion_december_29_2022/j230i3l/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/zxxihz/daily_general_discussion_december_29_2022/j230i3l/)
 
 [‘Make sure Ethereum wins’ — Steve Newcomb reveals zkSync’s prime directive](https://cointelegraph.com/magazine/make-sure-ethereum-wins-steve-newcomb-reveals-zksyncs-prime-directive/)
 
@@ -1344,7 +1550,7 @@ Probably stuff all the gigabrains in ethfinance already know but cool to see zkS
 </details>
 <details>
 <summary>Community: u/RobertLobLaw2 discusses their journey from ETH holder to ETH staker</summary>
-<https://reddit.com/r/ethfinance/comments/zyspvz/daily_general_discussion_december_30_2022/j27v88q/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/zyspvz/daily_general_discussion_december_30_2022/j27v88q/)
 
 I have a few Rocketpool validators that are currently pending. They should be active in 3 hours. After I write this comment, I'm going to bed. I'm not very active in this sub but I lurk like a mf. I'm feeling inspired to talk about my journey from an ETH Holder to an ETH Staker.
 
@@ -1356,13 +1562,13 @@ That last statement will remain true until either Ethereum fails or I fail to up
 </details>
 <details>
 <summary>Ecosystem: u/superphiz brief us on ethereum's big goals for 2023</summary>
-<https://reddit.com/r/ethfinance/comments/zzn04h/daily_general_discussion_december_31_2022/j2fl3c4/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/zzn04h/daily_general_discussion_december_31_2022/j2fl3c4/)
 
 ICYMI: The target milestone for 2023 is to ship EIP-4844, aka Proto-Danksharding. If you want to make a difference in the Ethereum ecosystem and you're looking for a way to get involved, learn about EIP-4844 and educate others. While education feels low-value to many people, bringing more eyes to a project like this brings new developers and more momentum. Don't underestimate your own ability to make a difference on the network. I know that withdrawals in 2023 will get a lot of attention, and we know it's in the pipeline, but 4844 is the giant target.
 </details>
 <details>
 <summary>Random: u/-DarkKnight’new years resolution is to learn about ethereum and focus less on price</summary>
-<https://reddit.com/r/ethfinance/comments/100d6c2/daily_general_discussion_january_1_2023/j2hswf0/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/100d6c2/daily_general_discussion_january_1_2023/j2hswf0/)
 
 My new year's resolution is to focus more on learning ethereum rather than focusing on price.
 
@@ -1381,7 +1587,7 @@ Accumulate more ETH
 </details>
 <details>
 <summary>Analysis: u/RooftopPortaPotty continues their weekly investigation ofnew crypto CHROME extensions</summary>
-<https://reddit.com/r/ethfinance/comments/100d6c2/daily_general_discussion_january_1_2023/j2jdzfl/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/100d6c2/daily_general_discussion_january_1_2023/j2jdzfl/)
 
 This is the second installment of my series of posts regarding the privacy of various Chrome browser crypto wallet extensions.
 
@@ -1467,7 +1673,7 @@ Happy New Year, yall!
 </details>
 <details>
 <summary>Analysis: u/LogrisTheBard discusses the efficiency of yearn finances payroll system</summary>
-<https://reddit.com/r/ethfinance/comments/1014ypw/daily_general_discussion_january_2_2023/j2osvx6/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1014ypw/daily_general_discussion_january_2_2023/j2osvx6/)
 
 I continue to be amazed by the transparency of Defi sometimes. Just [look](https://llamapay.io/streams?chainId=1&address=ychad.eth) at the Yearn.finance employee expenses here. Continuously streamed, withdrawn whenever the payee wants. Compare this to your traditional corporate payroll system.
 
@@ -1479,7 +1685,7 @@ But you know... people say crypto has no value.
 </details>
 <details>
 <summary>OPSEC: u/Maswasnos shares a sus email from juno</summary>
-<https://reddit.com/r/ethfinance/comments/101zwim/daily_general_discussion_january_3_2023/j2tsika/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/101zwim/daily_general_discussion_january_3_2023/j2tsika/)
 
 Interesting message from Juno Finance:
 
@@ -1499,9 +1705,9 @@ Maybe they're shifting around their crypto backend and they aren't sure how asse
 </details>
 <details>
 <summary>OPSEC: u/REALJohnBMacLemore recommends all juno and wyreusers withdraw funds</summary>
-<https://reddit.com/r/ethfinance/comments/101zwim/daily_general_discussion_january_3_2023/j2u3jlg/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/101zwim/daily_general_discussion_january_3_2023/j2u3jlg/)
 
-Heyyo! My Pride! I wanted to bring more attention to [this post by Maswasnos](https://old.reddit.com/r/ethfinance/comments/101zwim/_/j2tsika) further down in the daily.
+Heyyo! My Pride! I wanted to bring more attention to [this post by Maswasnos](https://reddit.com/r/ethfinance/comments/101zwim/_/j2tsika) further down in the daily.
 
 If you have crypto assets stored with Juno or Wyre, withdrawal them now!
 The email in that post feels funny to me. The words seem exceptionally well chosen to provide the most warning with the least possible legal consequences. I suggest you heed their warning. If you custody with someone else, be sure they are not using Wyre to custody their assets. IMO, that is who Juno is attempting to warn you about.
@@ -1510,7 +1716,7 @@ Again, nothing confirmed, just my feeling.
 </details>
 <details>
 <summary>OPSEC: u/Dreth is listing all the different kinds of scams and collecting examples</summary>
-<https://reddit.com/r/ethfinance/comments/102vnu4/daily_general_discussion_january_4_2023/j2weoyq/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/102vnu4/daily_general_discussion_january_4_2023/j2weoyq/)
 
 Heya fam, I need some help collecting more scam examples that are different to those I already have. If anyone has examples, I'd appreciate a DM with it, a reply to this post with an imgur link or something or a discord DM at dreth#1988 if you have any good examples I haven't listed.
 
@@ -1544,7 +1750,7 @@ A million thanks to everyone that have helped me out !
 </details>
 <details>
 <summary>Community: u/404bachee is making the most of the build market</summary>
-<https://reddit.com/r/ethfinance/comments/102vnu4/daily_general_discussion_january_4_2023/j2w5lte/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/102vnu4/daily_general_discussion_january_4_2023/j2w5lte/)
 
 have a great day my fellow "eth maxis".
 
@@ -1569,7 +1775,7 @@ anyway, thank you for reading my post, have a great day and may the force be wit
 </details>
 <details>
 <summary>Honorable Shoutout</summary>
-<https://reddit.com/r/ethfinance/comments/1014ypw/daily_general_discussion_january_2_2023/j2pt4o8/>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1014ypw/daily_general_discussion_january_2_2023/j2pt4o8/)
 
 Well...I think some records will never be broken.. According to my notes [/u/Maleficent_Plankton](https://reddit.com//u/Maleficent_Plankton) has the best P/E ratio in the sub.
 
