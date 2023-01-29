@@ -1895,7 +1895,7 @@ function applyFilter() {
     let regex = new RegExp("(?:"+splitStart+")((.[\\s\\S]*))(?:"+splitEnd+")", "ig");
     let user = rows[i];
     let row;
-    if (regex.exec(user)[1].includes(searchText)) {
+    if (regex.exec(user)[1].indexOf(searchText) !== -1) {
       row = show + user;
       row.replace(hide, "");
     } else {
