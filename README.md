@@ -13,7 +13,7 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>800 Dooters - Last Updated Feb 2, 2023</small>
+<small>800 Dooters - Last Updated Feb 3, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
@@ -27,10 +27,10 @@ Rank | Username   | Daily Doots
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 28
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 26
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 25
+. | [syentist](https://reddit.com/u/syentist) | 25
 . | [interweaver](https://reddit.com/u/interweaver) | 25
 . | [etheraider](https://reddit.com/u/etheraider) | 25
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 23
-. | [syentist](https://reddit.com/u/syentist) | 23
 . | [alexiskef](https://reddit.com/u/alexiskef) | 22
 . | [benido2030](https://reddit.com/u/benido2030) | 22
 . | [liberosist](https://reddit.com/u/liberosist) | 20
@@ -87,6 +87,7 @@ Rank | Username   | Daily Doots
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 9
 . | [harryzke](https://reddit.com/u/harryzke) | 9
 . | [vedran_](https://reddit.com/u/vedran_) | 9
+. | [the-a-word](https://reddit.com/u/the-a-word) | 9
 . | [papazio](https://reddit.com/u/papazio) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
@@ -103,13 +104,13 @@ Rank | Username   | Daily Doots
 . | [not_selling_eth](https://reddit.com/u/not_selling_eth) | 8
 . | [kudeta](https://reddit.com/u/kudeta) | 8
 . | [confucius_said](https://reddit.com/u/confucius_said) | 8
+. | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 8
 . | [accountaccumulator](https://reddit.com/u/accountaccumulator) | 8
 . | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 7
 . | [pbrody](https://reddit.com/u/pbrody) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [unitedterror](https://reddit.com/u/unitedterror) | 7
 . | [thepaypay](https://reddit.com/u/thepaypay) | 7
-. | [the-a-word](https://reddit.com/u/the-a-word) | 7
 . | [steven_a_mma_goat](https://reddit.com/u/steven_a_mma_goat) | 7
 . | [phimarhal](https://reddit.com/u/phimarhal) | 7
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 7
@@ -124,6 +125,7 @@ Rank | Username   | Daily Doots
 . | [thehansgruber](https://reddit.com/u/thehansgruber) | 6
 . | [skythe4](https://reddit.com/u/skythe4) | 6
 . | [silentjxhn](https://reddit.com/u/silentjxhn) | 6
+. | [sfcpfc](https://reddit.com/u/sfcpfc) | 6
 . | [ro-_-b](https://reddit.com/u/ro-_-b) | 6
 . | [pocketwailord](https://reddit.com/u/pocketwailord) | 6
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 6
@@ -131,7 +133,6 @@ Rank | Username   | Daily Doots
 . | [lops21](https://reddit.com/u/lops21) | 6
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 6
 . | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 6
-. | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 6
 . | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 6
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 5
 . | [zk_snacks](https://reddit.com/u/zk_snacks) | 5
@@ -174,8 +175,8 @@ Rank | Username   | Daily Doots
 . | [theethmeister](https://reddit.com/u/theethmeister) | 4
 . | [suddenmind](https://reddit.com/u/suddenmind) | 4
 . | [silver5005](https://reddit.com/u/silver5005) | 4
+. | [shitshotdead](https://reddit.com/u/shitshotdead) | 4
 . | [sfdao91](https://reddit.com/u/sfdao91) | 4
-. | [sfcpfc](https://reddit.com/u/sfcpfc) | 4
 . | [rumblecat](https://reddit.com/u/rumblecat) | 4
 . | [roargrrrr](https://reddit.com/u/roargrrrr) | 4
 . | [plaenar](https://reddit.com/u/plaenar) | 4
@@ -298,7 +299,6 @@ Rank | Username   | Daily Doots
 . | [sku](https://reddit.com/u/sku) | 2
 . | [sirrayshio](https://reddit.com/u/sirrayshio) | 2
 . | [silktouchm](https://reddit.com/u/silktouchm) | 2
-. | [shitshotdead](https://reddit.com/u/shitshotdead) | 2
 . | [shiftli](https://reddit.com/u/shiftli) | 2
 . | [seanathanwaters](https://reddit.com/u/seanathanwaters) | 2
 . | [sabishiifury](https://reddit.com/u/sabishiifury) | 2
