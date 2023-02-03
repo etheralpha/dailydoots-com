@@ -832,7 +832,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #4: January 27, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [POAP Checkout](https://checkout.poap.xyz/#/sale/f71f6844-8e4f-429a-be25-b281988f145d)
+[Livestream Recording](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [POAP](https://poap.gallery/event/98654)
 
 *Special guest [James Wigginton](https://www.orrick.com/en/People/D/3/2/James-Wigginton) joins us to discuss DAO/COOP configurations and the benefits over an LLC structure.*
 
