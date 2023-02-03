@@ -1144,7 +1144,7 @@ In a comment in response to this one I'll be posting the "Final Remarks" portion
 
 </details>
 <details>
-<summary>Community: u/696_eth shares the EVMavericks [weekly update</summary>
+<summary>Community: u/696_eth shares the EVMavericks weekly update</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/10oudh1/daily_general_discussion_january_30_2023/j6gxea1/)
 
 [EVMavericks Weekly: previous weeks & more!](https://evmavericks-weekly.netlify.app/) 
