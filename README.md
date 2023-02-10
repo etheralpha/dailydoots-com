@@ -5,7 +5,7 @@
 
 # Daily Doots Leaderboard
 
-<callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/evmavericks) for a roundup of the top 10 Doots of the Week! Recordings will be posted to [YouTube](https://www.youtube.com/@evmavericks/streams).</callout>
+<callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/4csv3J2N) for a roundup of the top 10 Doots of the Week! Recordings will be posted to [YouTube](https://www.youtube.com/@evmavericks/streams).</callout>
 
 <button id="weekly-callout" onclick="window.location.href='#weekly-doots';">View Weekly Doots</button>
 
@@ -840,7 +840,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #6: February 10, 2023</summary>
 
-[Listen Live](https://discord.gg/evmavericks) | [POAP Checkout](https://checkout.poap.xyz/#/sale/91d09320-7f13-4d46-84bb-0044047c06ba)
+[Listen Live](https://discord.gg/4csv3J2N) | [POAP Checkout](https://checkout.poap.xyz/#/sale/91d09320-7f13-4d46-84bb-0044047c06ba)
 
 **Announcements**
 
