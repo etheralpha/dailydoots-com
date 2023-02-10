@@ -838,6 +838,258 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #6: February 10, 2023</summary>
+
+[Listen Live](https://discord.gg/evmavericks) | [POAP Checkout](https://checkout.poap.xyz/#/sale/91d09320-7f13-4d46-84bb-0044047c06ba)
+
+**Announcements**
+
+- EVMavericks: There are currently two Snapshot Proposal live in need of your vote
+  - [EVM Distribution Phase 2, Vote 1](https://snapshot.org/#/evmaverick.eth/proposal/0x8223cfbbc80d999362c19a225b2e377a0884c12e8bda9477e863af3d1c6b54fd), ends Feb 11, 2023, 8:28 PM UTC
+  - [Stewardship Proposal](https://snapshot.org/#/evmaverick.eth/proposal/0x0d6bf68aa4a9ff238551409e13a0f7c2cdebd6f439c829949c346255d46c03e5), ends Feb 17, 2023, 9:00 AM UTC
+- EthStaker: On Friday February 17 @ 2pm EST (7pm UTC) EthStaker is hosting a call with Lodestar
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10yhsb2/comment/j7y5nse/)
+
+[u/Mister_Eth](https://reddit.com/u/Mister_Eth)
+
+> Ethereum
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> $1541
+
+[u/hanniabu](https://reddit.com/u/hanniabu)
+
+> 0.071
+
+</details>
+<details>
+<summary>Shitpost of the week: u/cryptowocurrency BREAKING NEWS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10woz0p/daily_general_discussion_february_8_2023/j7ode7g/)
+
+***BREAKING NEWS:*** According to the official Bitcoin Core release notes, the upcoming v23.0 will now allow users to attach files to bitcoin transactions. These attached files will be stored in the segregated witness data of the chain.
+
+[Here's a screenshot of the beta UI.](https://i.imgur.com/yAyroYC.png)
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10woz0p/comment/j7rg0r6/)
+
+*Documentation,*
+
+*Blockchain accommodation,*
+
+*Build generation.*
+
+</details>
+<details>
+<summary>Today in Ethereum: u/ZeroTricks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10yhsb2/daily_general_discussion_february_10_2023/j7zinf1/)
+
+On this day...
+
+In 2022:
+
+- Optimism [discloses](https://optimismpbc.medium.com/disclosure-fixing-a-critical-bug-in-optimisms-geth-fork-a836ebdf7c94) a critical, unexploited and fixed bug in its Geth fork, found by Jay Freeman, that made it possible to create ETH on the Layer 2.
+- MakerDAO [launches](https://immunefi.com/bounty/makerdao) a $10 Million bug bounty on Immunefi.
+- ETH, take my energy, for $3241 to $3078, or ₿0.07309 to ₿0.07064.
+
+
+In 2021:
+
+- Ethereum-based social media project Unite [pulls the plug](https://twitter.com/unite_cmty/status/1359482482828148736) due to high gas prices.
+- The Eth2 staking contract [holds](https://www.theblockcrypto.com/linked/94442/over-3-million-eth-worth-5-billion-staked-eth2-contract) over 3 million ether, currently worth more than $5.3 billion.
+- Celebrity-supported art collective Ethernity [launches](https://twitter.com/EthernityChain/status/1359529609860059138) its first NFT collection.
+- ETH at $1742, or ₿0.0388: a Musk have.
+
+
+In 2020:
+
+- Trenton Van Epps [lists](https://medium.com/@trenton.v/eth2-misconceptions-top-5-6edafaeccac1) the top 5 misconceptions about Ethereum: “Eth2 will never launch”, “Eth2 makes Eth1 immediately deprecated”, “There will be 2 ETH tokens from the fork”, “All Eth2 decisions are made by Vitalik”, “Eth2 is a catch-all fix for Eth1”.
+- Paul Hauner [runs](https://twitter.com/paulhauner/status/1226817210057805825) 100k Eth2 Lighthouse validators on 12x low-spec servers.
+- ETH backs its tracks from $229 to $220, at ₿0.02266.
+
+
+In 2019:
+
+- ETH really whips the llama's ass from $120 to $125, or ₿0.03255 to ₿0.03384.
+
+
+In 2018:
+
+- Coinbase [launches](https://commerce.coinbase.com/signin) Coinbase Commerce, a payment plugin for e-commerce sites allowing customers to pay directly in Ethereum and a few other cryptocurrencies.
+- The public beta of AKASHA Emergence [is launched](https://blog.akasha.world/2018/02/10/akasha-beta-emergence), a decentralized social network on Ethereum and IPFS.
+- /u/aerotrader [writes](https://reddit.com/r/ethtrader/comments/7wls2i/leveraging_your_long_eth_position_with_makers_cdp/) a brief introduction on how to leverage a long ETH position with Maker.
+- ETH plays the requiem for a lambo from $882 to $859, at ₿0.10105.
+
+
+In 2017:
+
+- ShapeShift's Erik Voorhees [finds himself holding some extra ETH](https://twitter.com/ErikVoorhees/status/830197808573587457) "to use as payments, since Bitcoin is becoming too expensive/delayed".
+- Aragon, a platform for creating companies on top of the Ethereum blockchain, [is launched](https://www.reddit.com/r/ethereum/comments/5t6wop/introducing_the_aragon_project_bringing_the_dao/) in alpha stage.
+- ETH short squeezes $11.3, from ₿0.0111 to ₿0.01139.
+
+
+In 2016:
+
+- [Nick Szabo](https://twitter.com/NickSzabo4/status/697484196311232512): "Ethereum can solve any problem a computer can solve: but with far greater reliability and security and far less performance and efficiency."
+- ETH tickles the amygdala from $3.9 to $4.4, or ₿0.01043 to ₿0.01163.
+
+---
+
+[compiled with love](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/)
+
+</details>
+<details>
+<summary>Community: u/cheeky-gorilla reports back from the Edelweiss Interop Workshop</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10rigcl/daily_general_discussion_february_2_2023/j6wdzn9/)
+
+By now you've probably heard that last week was the [Edelweiss Interop Workshop](https://twitter.com/peter_szilagyi/status/1620095331252981760) (the successor to the [Amphora Interop](https://blog.ethereum.org/2021/10/15/amphora-merge-milestone)), where Ethereum's core devs spent a week together in the mountains to work on withdrawals, 4844 (aka proto-danksharding) and EOF.
+
+I was invited to join due to my work on the [Protocol Guild](https://protocol-guild.readthedocs.io/en/latest/), and - even though it still feels like a dream - I wanted to share my experience, especially as someone without a technical background.
+
+Was the workshop a success? Absolutely. To quote a core dev, "we left with a flawless Capella/Shanghai fork", and there was a 4844 testnet with all but one client team! 4844 in July? 👀
+
+I'll admit I was INCREDIBLY nervous going into this event, I couldn't sleep properly for days in advance - I was literally going to meet the majority of my heroes, and I was 100% going to be the dumbest person in the room at all times.
+
+Well, I can happily confirm that "you should never meet your heroes" does NOT apply to Ethereum's core protocol contributors. These are some of the most interesting (and surprisingly funny) people I've ever met, and even though there was [a lack of diversity](https://twitter.com/trent_vanepps/status/1620438540328005633), they came from all over the world, with all sorts of different backgrounds. And despite the fact that the price of ETH is never discussed on ACD calls, I can confirm that Ethereum's core devs are bullish: I heard more than one conversation about [ultra sound money](https://ultrasound.money/), and [RatioGang](https://ratiogang.com/) was also strongly represented! I'm an introvert, but everyone was so incredibly welcoming and kind, I never had any issues talking to people.
+
+Overall, the passion these individuals have for Ethereum is genuine and contagious, and I feel more confident than ever in Ethereum's ability to execute its [roadmap](https://twitter.com/VitalikButerin/status/1588669782471368704) while staying aligned to its values of decentralization, openness and long-term thinking.
+
+Other highlights included organizing a core dev run one morning, and as a pretty hardcore privacy enthusiast, I even had the pleasure of giving privacy tips to Vitalik! Oh and there was that one time that Danny Ryan wasn't allowed at dinner because he was wearing flip flops 😛
+
+I'll end with one note of encouragement for those who need it: if I can end up at this kind of event, then so can you. To quote Danny Ryan, "doors are wide open at Ethereum". My "door" was the Protocol Guild booth at Devcon Bogota, where I asked Trent and Tim if they needed any operational help with the Guild, and turns out they did! (For the introverts, I passed by the booth 3-4 times before I gathered up the nerve to talk to them - don't let shyness gatekeep your passions!). Now I spend my time coordinating / helping with the Guild's [v2 architecture](https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html#v2-architecture) upgrade, fundraising and marketing, all without a technical background.
+
+This comment is already much longer than I expected, so I'll end it here. TLDR: everything good about Ethereum is reflected in its core devs, and the barriers to entry are probably lower than you think!
+
+</details>
+<details>
+<summary>Ecosystem: u/Canadiens1993 thinks that US tax laws are inhibiting solo staking</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10scsic/daily_general_discussion_february_3_2023/j730mpx/)
+
+**Unclear Tax Treatment for Staking (USA):  Centralization Vector?**
+
+Let me explain.  Retail has a choice:
+
+\- Staking on, say, Coinbase and it prepares and sends you the requisite tax form every year.  You forego a small percentage of your staking rewards in exchange for this service, and you must  entrust your ETH with a regulated custodian (centralization risk); or
+
+\- per current IRS position, solo stakers must record revenue for each attestation (every 6 min), for each block produced (random) and tips/MEV (random).  There is a valid legal argument for staking rewards to be taxed when sold (not when received), but the IRS has dismissed it - [https://www.proofofstakealliance.org/12423-posa-response-to-irs-stance-on-staking](https://www.proofofstakealliance.org/12423-posa-response-to-irs-stance-on-staking). So what does this mean in practice.
+
+1. **Taxable income**: Setting aside how to deal with Shanghai and managing price volatility given the queue for withdrawals, you'll need to record revenue every 6min for the ETH received as taxable income (currently: 13329 GWei) at the value on the date/time "received"; and then (and this is where I lose my shit);
+2. **Capital Gain/Loss Tax**: if and when you sell ETH in the future you will need to record a capital gain/loss using the cost basis above for that petty 13329 GWei received.  You will never be selling only 13329 GWei.
+
+If you think I just made the case for LSDs, then you understand the problem.  Maybe this can easily fixed with more sophisticated tax software?    **WE NEED TO LOBBY FOR A CHANGE IN THE IRS's TREATMENT OF STAKING REWARDS FOR SOLO STAKERS.**
+
+*Note: I'm not a member of the PoS Alliance and not a tax lawyer or CPA, just a random dude who pays his taxes and truly believes in decentralization and the transformational potential of the Ethereum network.*
+
+</details>
+<details>
+<summary>Ecosystem: u/vvpan quells our expectations on the current state of rollups and their future development timeline</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10t6kdg/daily_general_discussion_february_4_2023/j79lvy8/)
+
+I've been known to come off kind of negative about the state of roll-ups. I do think that long-term they are the absolute best way to scale blockchains. Justin Drake the other day blew the minds of all participants of Bankless Bullcase for Ethereum by saying that the synchronous composability between zk rollups is such that different different rollups can combine their liquidity into a single pool and that Danksharding does not break that composability. Yet the key is *long-term.* Optimism, the oldest optimistic rollup, has not yet gotten to fraud proofs and neither has Arbitrum. And ZK is a much much more complex technology that requires highly skilled mathematically skilled developers to implement and will roll out slower at least because there is much more potential for bugs (although Justin Drake said Ethereum research team recently figured out how to add "training wheels" to a rollup). I think [this tweet](https://twitter.com/Scroll_ZKP/status/1621573597566468096) from Scroll zkEVM account is telling about where we are.  
+I am not saying this to be a downer, but to say that we have to have realistic expectations. Big announcements for "mainnet" of this or that rollup or some new improvement to one are galore and sometimes I feel like they are borderline disingenuous. I understand their teams - they reach significant personal milestones and they want to share. But a secure decentralized general-puprose rollup of any kind seems to be behind the horizon for now.
+
+</details>
+<details>
+<summary>Analysis: u/nikola_j shares DeFi Saver's latest features</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10u5d4l/daily_general_discussion_february_5_2023/j7aqft0/)
+
+Hey fellas, wanted to share something we put together recently at defi saver - a dedicated page for various leveraged ETH staking options that you can check out at: [https://app.defisaver.com/recipes/leveraged-staking](https://app.defisaver.com/recipes/leveraged-staking)
+
+We added support for both Aave v3 and the new WETH-based deployment of Compound v3 in the past two weeks and both offered new interesting options for leveraging LSDs vs ETH for amplified staking yield, so we thought this made sense.
+
+For now you can find different (w)stETH/ETH options across Aave v2, v3 and CompV3-WETH in there, as well as the cbETH/ETH combo available in Compound (which is at net negative yield atm because of high pool utilisation).
+
+Next: we'll have a new Morpho-Aave integration live, and after that we expect to see rETH added to Aave v3 on the mainnet \*and\* wstETH added to Aave v3 on Optimism. So you can definitely expect to see a growing number of options there in the coming weeks and months.
+
+Btw, if you check it out, we'd love to hear what else we could add, so please don't hesitate. I also posted an alternative rundown on this on [twitter](https://twitter.com/_nikolajankovic/status/1622183165098971136) / [nitter](https://nitter.net/_nikolajankovic/status/1622183165098971136) (nitter isn't loading this for me atm, did twitter already kill it? :/)
+
+</details>
+<details>
+<summary>Random: u/Megroovin shares the good news for Gemini Earn customers</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10uz7x0/daily_general_discussion_february_6_2023/j7i1xqz/)
+
+Maybe some hope afterall for us Gemini Earn users. [u/jtnichol](https://reddit.com/u/jtnichol)
+
+Email from Gemini:
+
+Hi there,
+
+Today, Gemini reached an agreement in principle with Genesis Global Capital, LLC (Genesis), Digital Currency Group, Inc. (DCG), and other creditors on a plan that provides a path for Earn users to recover their assets. This agreement was announced in Bankruptcy Court today.
+
+This plan is a critical step forward towards a substantial recovery of assets for all Genesis creditors. In addition, Gemini will be contributing up to $100 million more for Earn users as part of the plan, further demonstrating Gemini’s continued commitment to helping Earn users achieve a full recovery.
+
+We have been working around the clock since November 16, 2022 to reach this milestone. We greatly appreciate your support and patience during this time. It has allowed us to maximize our efforts on your behalf. There is still much work to be done to complete this process, including further due diligence of Genesis financials and judicial approval of this plan, but we are confident that we now have a framework in place to execute on. Thank you for putting your trust in us during this challenging time.
+
+We will continue to update you on how to participate in the recovery, key dates, information, and milestones as they unfold on the Earn status page.
+
+Onward and Upward,
+
+Team Gemini
+
+</details>
+<details>
+<summary>Ecosystem: u/abcoathup Day in Ethereum Contributor shares Zhejiang testnet upgraded to Shapella</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10vuce8/daily_general_discussion_february_7_2023/j7nvvgs/)
+
+Zhejiang testnet upgraded to Shapella, BLS changes and full & partial withdrawals processed  
+<https://twitter.com/BarnabasBusa/status/1622975351520481280>
+
+</details>
+<details>
+<summary>Random: u/maninthecryptosuit Revolut, one of the more popular European neo-banks launches ETH staking</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10vuce8/daily_general_discussion_february_7_2023/j7mktio/)
+
+And so it begins: Revolut, one of the more popular European neo-banks launches ETH staking (among other cryptos):
+
+<https://cointelegraph.com/news/digital-bank-revolut-launches-crypto-staking-for-uk-and-eea-customers-report>
+
+Edit: [Neo-bank = Digital bank.](https://razorpay.com/blog/business-banking/what-is-a-neobank/)
+
+Official link: <https://blog.revolut.com/staking/>
+
+Thanks!
+
+</details>
+<details>
+<summary>Random: u/theethmeister The current moment feels like we are caught in a wave of uncertainty</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10woz0p/daily_general_discussion_february_8_2023/j7omifz/)
+
+I hope everyone has a great day. The current moment feels like we are caught in a wave of uncertainty due to economic and political constraints and factors but that does not mean you should lose faith in the premise of a decentralized monetary system or this community. 
+
+The doldrums of the crab should not deter you from your belief that ETH  is the best technological investment at this time. This can obviously change in the future due to a new cryptocurrency/blockchain displacing ETH or quantum technology rendering our keys worthless. However it is my belief we are still on the ground floor of an emerging asset class. I remember when I used to tell my school friends to connect with me online but they didn't even have internet access because they were lacking dial up modems on their Windows 95 desktops. I found so many great communities online and made a great many number of friends on the "world wide web" before it became so commonplace as it is now. In the end I honestly do not know if the internet has been a net positive in light of the harmful effects of social media and the ease of scamming.
+
+Sorry for the rambling, but my point is Ethereum and Ethfinance remind me of those mid to late 90s internet moments, which leads me to think that $10k USD is a ridiculously low valuation after withdrawals are enabled. The current period is in the Web 1 phase (Angelfire, Xanga, Yahoo Mail) and not even comparable to Web 2.0. We need some hopium so I am going to prognosticate a low of $15k USD in 2025. Buy now and sell never.
+
+</details>
+<details>
+<summary>Community: u/ethnocent dropping bombs on carbon footprint chatter</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10woz0p/daily_general_discussion_february_8_2023/j7setba/)
+
+The concept of the “carbon footprint” was the brainchild of an advertising firm working for BP.
+
+Same bucket as recycling trash that goes into the same land fills as general waste.
+
+More important things to focus on individually, sorry for the jaded take.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #5: February 3, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=mREo3TWlMi4) | [POAP](https://poap.gallery/event/99709)
