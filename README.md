@@ -2450,7 +2450,7 @@ Just wanted to give a shoutout on that amazing achievement.
 
 # Projects
 
-In an effort to spread awareness of what everyone in the project is working on, below is a list of users and their projects.
+In an effort to spread awareness of what everyone in the community is working on, below is a list of users and their projects.
 
 |  | Username              | Description
 ---|-----------------------|------------------------------------------
@@ -2477,11 +2477,13 @@ In an effort to spread awareness of what everyone in the project is working on, 
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | LogrisTheBard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
+.  | midnightonmars        | [GridPlus](https://gridplus.io/) CEO
 .  | Mister_Eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
 .  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
 .  | ProfStrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
+.  | readreed              | [POAP Studio](https://www.poap.studio/) team member
 .  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
 .  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
