@@ -848,9 +848,339 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #7: February 17, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/#/sale/7be0e9ea-d682-4ec3-9f84-bcaa66a8e4a6)
+
+*Special guest VP joins us from [Hexagon](https://twitter.com/HexagonApp), a group born out of Golem project. A new app funding Ethereum infrastructure & public goods projects. Rewards from 100,000 staked ETH are powering a sandbox for governance and community funding experiments. [Read more...](https://docs.hexagonapp.xyz/)*
+
+**Announcements**
+
+* EthStaker: On Friday February 17 (today) @ 2pm EST (7pm UTC) EthStaker is hosting a call with Lodestar
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/114c6on/comment/j8vgwjk/)
+
+
+[u/Mister_Eth](https://reddit.com/u/Mister_Eth)
+
+> Ethereum
+
+[u/the-A-word](https://reddit.com/u/the-A-word)
+
+> $1656
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.069
+
+
+</details>
+<details>
+<summary>
+Shitpost of the week: u/15kisFUD Regulators!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10zdqvt/daily_general_discussion_february_11_2023/j83ld04/)
+
+*90s G-funk synth starts playing*
+ 
+Regulators  
+We regulate any investing of your property  
+We're damn good too  
+But you can't be any geek off the street  
+You gotta be able to use the Howey test, if you know what I mean  
+Earn your keep  
+Regulatooorssss! Mount up
+  
+  
+[Verse 1] It was a February day, some time around noon  
+Gary G was at his desk, seeing ETH moon  
+He thought real' hard then came up with a plan  
+Hit centralized staking with a nation-wide ban  
+  
+  
+[Chorus] Regulators in the house, don't you mess around  
+The SEC and Gary, they got it all locked down  
+They're coming with the rules and they're coming to pound  
+Gary G and SEC they keep the crypto scene sound  
+  
+  
+[Verse 2] When the Kraken rose up, with its tentacles wide  
+The SEC and Gary stood side by side  
+They slayed the beast together, Howey hammer in hand  
+Now the crypto world is under their command  
+ 
+  
+[Chorus] Regulators in the house, don't you mess around  
+The SEC and Gary, they got it all locked down  
+They're coming with the rules and they're coming to pound  
+Gary G and SEC they keep the crypto scene sound  
+  
+  
+[Verse 3] When Phiz got the call, he got the smile  
+He'd been trying to achieve this for a while  
+Ethereum staking decentralized and free  
+Superphiz and me, the Gary to the G  
+  
+  
+[Outro] I'm tweaking into a whole new era  
+Decentralized Finance, I dare ya  
+Trust on a whole new level  
+Smart contracts are the rules and the rules immu-table  
+ETH, code, We brings decentralization, ETH-funk  
+Where code is law, aligned incentives  
+If you know like I know, you don't want to step to this  
+It's the Ethereum era, funked out with a unicorn twist  
+If you smoke like I smoke then you're high like every day  
+And if yo' ass is centralized Gary G will regulate
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10zdqvt/comment/j869zk0/)
+
+*SEC website,*
+
+*Staking form still out of sight,*
+
+*Guidance they won't write.*
+
+
+</details>
+<details>
+<summary>Today in Ethereum: u/ZeroTricks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/113jhtv/comment/j8rm8wq/)
+
+On this day...
+
+In 2022:
+
+- Twitter [adds](http://help.twitter.com/using-twitter/tips) Ethereum address support to its tipping feature.
+- Solidity v0.8.12 [improves](https://blog.soliditylang.org/2022/02/16/solidity-0.8.12-release-announcement) the JavaScript / Wasm binary.
+- Non-custodial Ethereum wallet Rainbow [raises](https://news.bitcoin.com/ethereum-web3-wallet-rainbow-raises-18-million-from-alexis-ohanians-seven-seven-six) $18 Million from Seven Seven Six.
+- ETH, don't drop the opsec, not for a sec, at $3128, or ₿0.07116.
+
+
+In 2021:
+
+- Coinbase [opens](https://blog.coinbase.com/join-the-waitlist-for-ethereum-2-0-staking-rewards-on-coinbase-1ef15b0b5280) an Eth2 staking waitlist.
+- Marvel artists [add](https://medium.com/portion/marvel-artists-add-25-nfts-to-portion-io-platform-fueling-mainstream-nft-adoption-37cd9324dbfa) 25 NFTs to Ethereum-based art- and collectable marketplace Portion.io.
+- ETH finds a message in a $1781 bottle, cryptically mentioning ₿0.0362.
+
+
+In 2020:
+
+- ETH resides at $260, or ₿0.02615, as all the fun happens at ETHDenver 2020.
+
+
+In 2019:
+
+- Parity’s Afri Schoedon [wants to remove](https://www.trustnodes.com/2019/02/16/paritys-afri-schoedon-now-wants-to-completely-remove-the-difficulty-bomb) Ethereum's difficulty bomb.
+- ETH lives in the present at $123, or ₿0.03397.
+
+
+In 2018:
+
+- Cosmos, OmiseGo, Golem, Maker, Global Brain and Raiden [put together](https://www.coindesk.com/vitalik-buterin-hopes-new-ethereum-fund-will-deliver-hype) $100 Million to create the Ethereum Community Fund, to support Ethereum's ecosystem infrastructure.
+- 372 Ether [is paid](https://twitter.com/avsa/status/964564072065880064) to build the starting foundation of a Doge-Ethereum bridge.
+- The ETH boat captain steers at $944, or ₿0.09261.
+
+
+In 2017:
+
+- Melonport [completes](https://medium.com/@melonproject/melonport-contribution-round-up-c83926721bad) their ICO in 13 minutes.
+- Consensys-backed VariabL [introduces](https://medium.com/stabl-blog/stabl-bringing-stable-tokens-and-derivative-products-to-the-ethereum-blockchain-df4d5eba89d9) StabL, a derivatives market with stable tokens on the public Ethereum blockchain.
+- MyEtherWallet's new release [v3.5.0](https://reddit.com/r/ethereum/comments/5ueysp/myetherwallet_v350_swap_eth_btc_rep_via_bity/) allows directly swapping ETH, BTC and REP via Bity.
+- Peter Vessenes forms a partnership to consult and invest in Ether projects, stating that "the combination of an incredibly insular core dev community with a toxic minority of the broader community has killed Bitcoin".
+- The ethricacies of ethimacy rule at $12.9, or ₿0.01255.
+
+
+In 2016:
+
+- Ethereum wallet Mist [v0.4.0](https://github.com/ethereum/mist/releases/tag/0.4.0) is released, supporting pre-sale ETH import.
+- Some say ETH is a craptocurrency as it moves from $5.3 to $4.3, or ₿0.0133 to ₿0.01059.
+
+-------------
+
+[compiled with love](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/)
+
+</details>
+<details>
+<summary>Ecosystem: u/oblvnxknight the one sane person at the SEC seems to have little influence</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10xn2mv/daily_general_discussion_february_9_2023/j7wt9wm/)
+
+The one sane person at the SEC seems to have little influence - she's echoed this sentiment for a few years now and not much has changed. Not a criticism to her, more a comment on the SEC's approach to regulation being firmly entrenched
+
+<https://twitter.com/HesterPeirce/status/1623796583807451139>
+
+Today, the SEC shut down Kraken’s staking program and counted it as a win for investors. I disagree and therefore dissent.
+
+Kraken operated a service through which its customers could offer their tokens up for staking. The customers earned returns, and the company earned a fee. The Commission argues that this staking program should have been registered with the SEC as a securities offering. Whether one agrees with that analysis or not, the more fundamental question is whether SEC registration would have been possible. In the current climate, crypto-related offerings are not making it through the SEC’s registration pipeline. An offering like the staking service at issue here raises a host of complicated questions, including whether the staking program as a whole would be registered or whether each token’s staking program would be separately registered, what the important disclosures what be, and what the accounting implications would be for Kraken.
+
+We have known about crypto staking programs for a long time. Although it may not have made a difference, I should have called for us to put out guidance on staking long before now. Instead of taking the path of thinking through staking programs and issuing guidance, we again chose to speak through an enforcement action, purporting to “make clear to the marketplace that staking-as-a-service providers must register and provide full, fair, and truthful disclosure and investor protection.”[1] Using enforcement actions to tell people what the law is in an emerging industry is not an efficient or fair way of regulating.[2] Moreover, staking services are not uniform, so one-off enforcement actions and cookie-cutter analysis does not cut it.[3]
+
+Most concerning, though, is that our solution to a registration violation is to shut down entirely a program that has served people well. The program will no longer be available in the United States, and Kraken is enjoined from ever offering a staking service in the United States, registered or not. A paternalistic and lazy regulator settles on a solution like the one in this settlement: do not initiate a public process to develop a workable registration process that provides valuable information to investors, just shut it down.
+
+More transparency around crypto-staking programs like Kraken’s might well be a good thing. However, whether we need a uniform regulatory solution and if that regulatory solution is best provided by a regulator that is hostile to crypto, in the form of an enforcement action, is less clear.
+
+</details>
+<details>
+<summary>OPSEC: /u/REALJohnBMacLemore Reddit employee hacked in sophisticated phishing attack</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10yhsb2/daily_general_discussion_february_10_2023/j7zov1i/)
+
+Reddit employee hacked in sophisticated phishing attack. Backend compromised since Feb 5th. 
+
+<https://techcrunch.com/2023/02/10/reddit-says-hackers-accessed-internal-data-following-employee-phishing-attack/>
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10yhsb2/daily_general_discussion_february_10_2023/j8vbvjk/)
+
+[u/superphiz](https://reddit.com/u/superphiz):
+
+I definitely imagine JBM as the Mel Gibson character from Lethal Weapon. He'll let you think he's a little off his rocker, but that's just a ruse to hide a skilled operator.
+
+</details>
+<details>
+<summary>Analysis: /u/maleficent_plankton For those who want to learn how to use APIs</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10yhsb2/daily_general_discussion_february_10_2023/j7y6tq1/)
+
+For those who want to learn how to use APIs: Circle/USD is doing a introduction to API education campaign on StackUp: <https://app.stackup.dev/campaign_page/enabling-payments-with-circle>
+
+Not every StackUp quest is worth the effort, but this one seems really easy. It'll walk you through how to use APIs and create a basic web app. The first 3 quests are already up. So far, this one seems pretty basic for anyone who is decently-technical. You don't have to have prior dev knowledge.
+
+**Also, there is a monetary reward for completing quest**. The rewards are limited, so they can run out.
+
+</details>
+<details>
+<summary>Random: u/busterrulezzz found an interesting mental model to describe the relationship between Ethereum and civil society</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/10yhsb2/daily_general_discussion_february_10_2023/j7zb05g/)
+
+This is going to be long, sorry.
+
+I think I've found an interesting mental model to describe the relationship between Ethereum and civil society, especially with respect to the (sometimes) irrational hatred for the protocol.
+
+I believe that as a public good, Ethereum is like a large public transportation project.
+
+Indeed, every Western city that has decided to invest in such projects has faced absolutely incredible opposition. In Bordeaux, France, the tramway project caused protests, arguments, political riff raff - a non-negligible portion of the population swore that they would never use the tramway, because they were opposed to it from the beginning.
+
+Now, two decades later, Bordeaux is a model for major European cities, and the opposition has disappeared. The ridership of the tramway is extraordinary, which suggests that even the most furious opponents have pounded on their pride and are using the service when they need it.
+
+It's the same everywhere. When London wanted to reduce the number of cars in the city center, the anger of the citizens was incredible. Twenty years later, no one would go back. I experienced it personally in Montreal: the current mayor built bike lanes on major commercial arteries, which led opponents to predict the imminent death of downtown. Four years later, the city's liveliest thoroughfares are the ones that received new bike lanes, and absolutely no one is calling for a reversal - even the most rabid opponents.
+
+This got me thinking. Why were these citizens so fiercely opposed to a public good? On what arguments was their opposition based?
+
+I went back and read their open letters and angry tweets. Basically, the opponents were concerned that the loss of parking space would hurt business, create traffic congestion, and make the city ugly (!).
+
+Literally none of this has happened. In fact, the exact opposite has happened. 
+
+Now, let's ask ourselves why these arguments overrode the emotions of the opponents. My theory is that it is a "failure of imagination": an inability to imagine the world differently, to find creative solutions that are outside the current paradigm. They are stuck in the only model they know, and are unable to believe that another world is possible. 
+
+There is also, in my opinion, an element of ego. Many of the opponents were at the top of the social pyramid - wealthy businessmen, popular TV hosts, bourgeois, etc. The world as it is has been extremely generous to them, so why change it? Besides, the idea that a revolution could arise from outside the system that brought them into the world is frightening for them. It means that their privileges are not so solid after all.
+
+I believe Ethereum is in a similar situation.
+
+Our protocol is a public good. It belongs to its participants, and literally any human being can deploy an application on it. This is an absolutely revolutionary idea from the outside - have you seen what Vitalik looks like? It's impossible that a nerd like that, with no credibility in high society, has come up with something good. So his creation is necessarily a fraud, which must be fought
+
+So these opinion leaders declare Ethereum an enemy to be fought, and the citizens used to following what the top of the pyramid tells them jump on the bandwagon, without asking themselves if their fight is really relevant.
+
+TL;DR : Ethereum will (hopefully) follow the same trajectory as public transit projects.
+
+</details>
+<details>
+<summary>Ecosystem: u/mgr37 explains the use of the validator mnemonic after the withdrawal address is set</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1108k4a/daily_general_discussion_february_12_2023/j88acu5/)
+
+Good question !
+
+As I understand it, yes the seed will no longer be useful for normal operation:
+
+- once withdrawal address set, it can't be changed
+- partial withdrawal will be automated to the withdrawal address.
+- exit is triggered with validator keys (the one used to run the validator client) and actual full withdrawal will be automated to the withdrawal address.
+
+
+BUT you would still need it for:
+
+- derivating new validator keys from the same seed (not compulsory, you could use a new seed for new validators, but might be handy -> see next point)
+- re-generate your validator keys in case they got lost (i.e. staking rig hard drive crash). I think that's the main reason to keep the seed (and use the same seed when rolling new validators). 
+You could backup the keys instead but it's easier to keep a seed backup than keys backup IMO.
+
+</details>
+<details>
+<summary>Ecosystem: u/Blueberry314E-2 does some research on the SEC vs BUSD</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1111020/daily_general_discussion_february_13_2023/j8euz36/)
+
+Some of my own research on SEC vs BUSD:
+
+The New York Department of Financial Services (DFS) has told Paxos to stop making its own version of BUSD (a digital currency) "as a result of several unresolved issues related to Paxos’ oversight of its relationship with Binance in regard to Paxos-issued BUSD."
+
+Paxos’ BUSD product is **related to, but separate from**, Binance’s self-issued *Binance-pegged BUSD*. Binance’s *self-issued BUSD*, which is not directly regulated by NYDFS, **is independently wrapped and issued by the crypto exchange on blockchains beyond Ethereum**. In other words, Binance can take a single Paxos-issued BUSD, create an *analogous BUSD* on another blockchain (like Binance’s own blockchain, for example), and freeze a corresponding Paxos-issued BUSD. “The Department has not authorized *Binance-Peg BUSD* on any blockchain, and *Binance-Peg BUSD* is not issued by Paxos."
+
+So the issue here is not 'true' BUSD issued by Paxos. The problem is that Binance was sneakily issuing alternative *unregulated BUSD* on it's own blockchain and others, and passing them off as the real, regulated, Ethereum based BUSD issued by Paxos.
+
+Paxos has told its customers that it will end its relationship with Binance for BUSD. The DFS is watching Paxos closely to make sure it can handle redemptions properly, following new safety rules. **It's important to know that Paxos was allowed to make BUSD on the Ethereum blockchain, but** ***Binance-Peg BUSD*** **is not approved or made by Paxos.** There are no restrictions from the DFS for New York companies to list or trade the existing Paxos-issued BUSD.
+
+Looks to me like Binance is to blame here, SEC is just trying to clean up their mess.
+
+Sources:
+
+[https://www.cnbc.com/2023/02/13/paxos-ordered-to-cease-minting-binance-stablecoin-by-new-york-regulator.html](https://www.cnbc.com/2023/02/13/paxos-ordered-to-cease-minting-binance-stablecoin-by-new-york-regulator.html)
+
+[https://www.dfs.ny.gov/consumers/alerts/Paxos\_and\_Binance](https://www.dfs.ny.gov/consumers/alerts/Paxos_and_Binance)
+
+[https://paxos.com/2023/02/13/paxos-will-halt-minting-new-busd-tokens/](https://paxos.com/2023/02/13/paxos-will-halt-minting-new-busd-tokens/)
+
+</details>
+<details>
+<summary>Random: u/Lazy_Physicist has a cool idea for once Stakewise V3 launches</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/111vdwx/daily_general_discussion_february_14_2023/j8kik5e/)
+
+Regulatory news aside, I've just had a thought. Stakewise v3 would allow node operators to set up vaults with whitelisted addresses for allocators. This in theory allows us to set up vaults where only holders of EVMavericks/EIPandas/etc. are allowed to deposit ETH into. I'm sure there are others here like myself who have overallocated on the hardware for our own staking rigs or have extra bandwidth. If I were to use swise I would probably set up multiple vaults if I didn't have to provide any collateral to do so. A vault or two to stake for "members" who can't or won't solo stake free of commission, then however many public vaults I want to run with a commission. This could be an interesting way for communities to drive value to their NFT Collections.
+
+
+Edit: SWISE staking taking a share of the fees will probably factor into how feasible this is
+
+</details>
+<details>
+<summary>Ecosystem: u/KingLeo23 has the latest of Gary Gensler's shenanigans</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/112qy29/daily_general_discussion_february_15_2023/j8p273q/)
+
+Here's Gensler's latest chokepoint attempt:
+
+<https://www.sec.gov/news/press-release/2023-30>
+
+Here's two of his commissioners calling out his bullshit:
+
+<https://www.sec.gov/news/statement/peirce-statement-custody-021523>
+
+<https://www.sec.gov/news/statement/uyeda-statement-custody-021523>
+
+Here's a statement from the blockchain association on it
+
+<https://nitter.snopyta.org/BlockchainAssn/status/1625957398077734913>
+
+And here's a good thread from Jake Chervinsky on it
+
+<https://nitter.snopyta.org/jchervinsky/status/1625947639773552641>
+
+Consider donating to crypto lobbying groups this year if you have the means and care about the future of this industry in the US.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #6: February 10, 2023</summary>
 
-[Listen Live](https://discord.gg/4csv3J2N) | [POAP Checkout](https://checkout.poap.xyz/#/sale/91d09320-7f13-4d46-84bb-0044047c06ba)
+[Livestream Recording](https://www.youtube.com/watch?v=Vk1y-RRdr3E) | [POAP](https://poap.gallery/event/100715)
 
 **Announcements**
 
