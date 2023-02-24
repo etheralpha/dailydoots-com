@@ -854,7 +854,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #7: February 17, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/#/sale/7be0e9ea-d682-4ec3-9f84-bcaa66a8e4a6)
+[Livestream Recording](https://www.youtube.com/watch?v=bHHAsudu418) | [POAP]([https://checkout.poap.xyz/#/sale/7be0e9ea-d682-4ec3-9f84-bcaa66a8e4a6](https://poap.gallery/event/101860))
 
 *Special guest VP joins us from [Hexagon](https://twitter.com/HexagonApp), a group born out of Golem project. A new app funding Ethereum infrastructure & public goods projects. Rewards from 100,000 staked ETH are powering a sandbox for governance and community funding experiments. [Read more...](https://docs.hexagonapp.xyz/)*
 
