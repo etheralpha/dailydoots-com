@@ -854,7 +854,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #8: February 24, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/#/sale/ef08b3ff-1f10-4de8-a32e-cea6b0eda1eb)
+[Livestream Recording](https://www.youtube.com/watch?v=QhifKezKprY) | [POAP](https://poap.gallery/event/105654)
 
 **Announcements**
 
