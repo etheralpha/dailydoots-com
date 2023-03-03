@@ -879,7 +879,7 @@ Rank | Username   | Daily Doots
 
 </details>
 <details>
-<summary>Shitpost of the week: u/KingLeo23's answers whether u/Ethical-trade is a security</summary>
+<summary>Shitpost of the week: u/KingLeo23 answers whether u/Ethical-trade is a security</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/11evx0c/daily_general_discussion_march_1_2023/jahxuiw/)
 
 [u/Ethical-trade](https://reddit.com/u/Ethical-trade)
@@ -974,7 +974,7 @@ In 2016:
 </summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/119q5kg/daily_general_discussion_february_23_2023/j9oq1yx/)
 
-[u/Ethical-trade](https://reddit.com/u/Ethical-trade)
+[u/Ethical-trade](https://reddit.com/u/Ethical-trade):
 
 In the past, Binance launched its own L1 with the Binance Smart Chain.
 
@@ -994,7 +994,7 @@ This fully validates Ethereum's rollup centric roadmap.
 
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/119q5kg/daily_general_discussion_february_23_2023/j9oqtli/)
 
-[u/etheraider](https://reddit.com/u/etheraider)
+[u/etheraider](https://reddit.com/u/etheraider):
 
 While some may find the Coinbase "Base" news underwhelming or would have hoped for something different, the way I see it, this is a huge signal in the crypto space that the number one crypto company in the world is choosing to go all in on building on Ethereum. 
 
@@ -1081,10 +1081,9 @@ ICYMI: [Spotify is piloting token-enabled playlists powered by Ethereum NFTs](ht
 </details>
 <details>
 <summary>Random: u/silentjxhn is finding crypto boring but u/stablecoin and u/cryptOwOcurrency disagree</summary>
-
-From: [u/stablecoin](https://reddit.com/u/stablecoin)
-
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/11d4bra/daily_general_discussion_february_27_2023/jaamg79/)
+  
+[u/stablecoin](https://reddit.com/u/stablecoin):
 
 Can't believe there's this many upvotes. Off the top of my head I can think about:
 
@@ -1108,9 +1107,9 @@ This bear market is honestly so much harder to keep track of developments than t
 
 ---
 
-From: [u/cryptOwOcurrency](https://reddit.com/u/cryptOwOcurrency)
-
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/11d4bra/daily_general_discussion_february_27_2023/jaaqtme/)
+
+[u/cryptOwOcurrency](https://reddit.com/u/cryptOwOcurrency):
 
 Money should be boring. The fact that we had exciting money for a few years (bootstrapping/awareness phase of Bitcoin, then of Ethereum) is a marvel in the history of money.
 
