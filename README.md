@@ -3499,6 +3499,7 @@ In an effort to spread awareness of what everyone in the community is working on
 ---|-----------------------|------------------------------------------
 .  | 404bachee             | Creating an LSD DEX and lending app
 .  | 696_eth               | [EVMavericks Weekly](https://evmavericks-weekly.netlify.app/) - The top EVMavericks events of the week
+.  | atleft                | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | bbroad25              | ".08 today, easy."
 .  | BramBramEth           | Working on a seed phrase recovery tool
