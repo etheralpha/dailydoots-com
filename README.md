@@ -857,6 +857,297 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #10: March 10, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/sale/2ca34608-9e2d-4d19-989d-6c59dc8387f7)
+
+*Announcements*
+
+- Contrats to jamescarnley.eth, a long time contributor of [r/EthFinance](https://reddit.com/r/ethfinance) for winning a GridPlus Lattice1 + 2 SafeCards in [last week's raffle](https://poap.fun/2079)! 🎉
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ngir4/daily_general_discussion_march_10_2023/jbn72jb/)
+
+[u/Mister_Eth](https://reddit.com/u/Mister_Eth)
+
+> Ethereum
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> It was $1420 at midnight
+
+[u/nixorokish](https://reddit.com/u/nixorokish)
+
+> 0.071 when i looked but that's less memey
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11kqzjp/comment/jbad37w/)
+
+*The stack overflowed,*
+
+*The memory took a bribe,*
+
+*On chain you can't hide.*
+
+</details>
+<details>
+<summary>Today in Ethereum: u/ZeroTricks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11mkewq/daily_general_discussion_march_9_2023/jbk05of/)
+
+On this day...
+
+In 2022:
+
+- Optimism [reveals](https://medium.com/ethereum-optimism/cannon-cannon-cannon-introducing-cannon-4ce0d9245a03) its next-gen fault proof Cannon, able to run an EVM-equivalent Layer 2 and enabling the theoretical minimum calldata gas costs.
+- Startup Upstream [raises](https://www.forbes.com/sites/alexkonrad/2022/03/09/web3-upstream-raises-12-million-dao-tools) $12.5 Million for its "DAO in a Box" Web3 Toolkit.
+- ETH heard you like airdrops so it put an airdrop in your airdrop for $2578, $2731 or ₿0.06503.
+
+
+In 2021:
+
+- MakerDAO [announces](https://forum.makerdao.com/t/announcing-the-optimism-dai-bridge-with-fast-withdrawals/6938) a DAI bridge to Optimism's Layer 2 with near-instant withdrawals.
+- Digital art platform ArtStation announces and [rescinds](https://magazine.artstation.com/2021/03/a-statement-from-artstation) a PoC with NFTs, after backlash from users about Ethereum's carbon footprint.
+- ETH is coarse and gets everywhere between $1865, ₿0.03503 and ₿0.0341.
+
+
+In 2020:
+
+- ETH learns to sneeze into the elbow at $203, or ₿0.0256.
+
+
+In 2019:
+
+- AlphaWallet [introduces](https://github.com/AlphaWallet/TokenScript) TokenScript to create SmartTokens, traditional ERC20 or ERC721 tokens with extendable structure and signed JavaScript.
+- ETH happily camps between $138 and ₿0.03482.
+
+
+In 2018:
+
+- Vitalik Buterin [announces](https://www.youtube.com/watch?v=uyuA11PDDHE) Plasma Cash at EthCC.
+- ETH flabbergasts from $702 to $729, or ₿0.07556 to ₿0.07832.
+
+
+In 2017:
+
+- Yoichi Hirai [takes](https://medium.com/@pirapira/formal-methods-on-another-casper-8a75f6e02073) a good look at Vlad Zamfir's Casper.
+- Mediachain [unveils](https://blog.mediachain.io/a-new-cryptocurrency-to-reward-creative-commons-creators-e41e1791c4c0) its Ethereum-based content creation token CCcoin.
+- ETH reasons beyond reasoning from $16.5 to $17.8, or ₿0.01433 to ₿0.01494.
+
+
+In 2016:
+
+- Ether.camp produces the first hybrid Ethereum and Bitcoin ATM.
+- Bedeho Mender [explains](https://medium.com/@bedeho/why-your-ethereum-project-will-most-likely-fail-d14b6d8f1c7c) why your Ethereum project will most likely fail.
+- ETH becomes $11.9 out of thin air and some 9.8 USDfrom $9.8 to $11.9, or ₿0.02373 to ₿0.02868.
+
+---
+
+[compiled with love](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/)
+
+</details>
+<details>
+<summary>Shitpost of the week: u/okdragonfruits</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11lo2v3/daily_general_discussion_march_8_2023/jbf8wa0/)
+
+Two guys named Ray walk into a bar...
+
+They tell the bartender “This place sucked until we walked in here.” “Why’s that?” Says the bartender.
+
+“Because we’re Rays in the bar!!!”
+
+</details>
+<details>
+<summary>Analysis: u/Ender985 is still reporting in from the NFT-verse</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11fuqpf/daily_general_discussion_march_2_2023/jalxme8/)
+
+Meanwhile in the NFT-verse..
+
+Reporting from the trenches of the great marketplace wars of '23. OpenSea has engineered their next move to combat Blur's rapid ascent into the market. What did they do?
+
+Introduce a new table view! Where the NFT jpg is reduced to a few pixels, just like in Blur. The way art was always meant to be traded!
+
+On a more serious note, this war has already caused some collateral damage, with the royalties race to the bottom. The argument goes that 10k profile picture collections probably should not have royalties, while it makes more sense for 1/1 art pieces. 
+
+Well, the royalties paid on ArtBlocks (an NFT platform for curated artists) has now gone from 7.5% to 2.5%. This suggests that the markets for these two types of NFTs may not be so different after all.
+
+</details>
+<details>
+<summary>Community: u/benido2030 ponders on building on a greater purpose for this community</summary>
+[View on Reddit →]()
+
+Yesterday two things that longterm members posts and that are not connected somehow caught my attention and made me think. The first one was [this post](https://reddit.com/r/ethfinance/comments/11evx0c/comment/jahzvw8/) by Bob Rossi, the second one was [a comment](https://reddit.com/r/ethfinance/comments/11evx0c/comment/jah4v8c/) by superphiz in a completely different thread. 
+
+Some personal thoughts with regards to Bobs post: I totally feel you. I want to contribute more in the space and think I would be able to add some value here and there, but hell I am just a random anon on the internet that's mid bell curve. 
+
+But what if superphiz is right (and I think he is)? What if EVMs (which I am going to replace with members of this sub, since not everyone does hold one) will become community guardians? What if this place is something special and if you have established yourself as a valuable and know community member you are highly likely to add value to projects in the ETH ecosystem, hence also hop? What if we used the community we have built here to send people to different DAOs to positively influence decisions made in the ecosystem? What if at one point any EVM and their arguments in a (DAO) discussion are seen with different eyes just because of the NFT?
+
+</details>
+<details>
+<summary>Ecosystem: u/wolfparking covers ERC-4337</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11gsztq/daily_general_discussion_march_3_2023/jatsizb/)
+
+This was deployed at the EthDenver conference: [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337). Am I right to think that this is a really underrated implementation?
+
+I've read from a few sources that this level of account abstraction will eventually allow wallets to operate as programmable smart contracts; which could be used to recover lost private keys. We're not there yet, but still exciting!
+
+News articles: [msn.com](https://www.msn.com/en-us/money/other/ethereum-activates-account-abstraction-touted-by-co-founder-buterin-as-key-advance/ar-AA186sIg) and
+[BusinessInsider](https://markets.businessinsider.com/news/currencies/ethereum-activates-account-abstraction-touted-by-founder-buterin-as-key-advance-1032137536)
+
+> Could allow users to do away with the common practice of backing up a set of words on a piece of paper, enabling new ways to secure wallets. For example, users could set up two-factor authentication to access a wallet via biometric data, or program multi-signature wallets providing shared access to a single account.
+
+Additionally, this:
+
+> Vitalik Buterin has stated that ERC-4337 enables a fully decentralized fee market for smart contract wallet operations.
+
+Vitalik [posted](https://twitter.com/VitalikButerin/status/1576199517434949634): 
+
+> You should be able to send an op into a public mempool, and if it pays enough fees, reliably expect it to get included. This should NOT depend on ANY:
+> 
+> * Centralized actors
+> * Reputation systems for op senders
+> * ETH held in a separate EOA
+> * External services for account creation
+
+With L2 fee structure the fee requirement diminishes. 
+
+I'm not technically skilled/knowledgeable enough to understand why this integration won't presently allow account recovery, but we're almost there apparently. Vitalik mentions that it can't be solved by ERC-4337, but EIP-3074 and EIP-5003 would get us there. Very cool shit. Anyone want to chime in on anything I misunderstood?
+
+</details>
+<details>
+<summary>Ecosystem: u/hanniabu discusses Privacy Pools, the successor to Tornado Cash in response to the OFAC regulation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ip8sx/daily_general_discussion_march_5_2023/jb12o1q/)
+
+Really surprised to see the Tornado Cash successor Privacy Pools isn't being discussed in more detail here
+
+[https://twitter.com/ameensol/status/1632083054272430080](https://twitter.com/ameensol/status/1632083054272430080)
+
+Since anybody can exclude any deposit, it seems it would be difficult to get any type of assurance of your anonymity set.
+
+I also wonder if you can run into a situation where you can't withdraw. For example if a hacker makes a large deposit and then withdraws for others, then there won't be enough funds for everyone else to withdraw if they all want to exclude the hacker.
+
+And not sure why the subsets are even needed if receipts are provided, which Tornado Cash already did.
+
+</details>
+<details>
+<summary>Community: u/DoubtStarsAreFire has some great news about Logris building the double Logris into Alchemix</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ip8sx/daily_general_discussion_march_5_2023/jb1i37k/)
+
+BUIDL Week is over here at EthDenver. You may have noticed a lack of a certain [u/logristhebard](https://reddit.com/u/logristhebard) around the subreddit. That's because he has been diligently working on the [Logris Vaults](https://app.buidlbox.io/projects/logrisvaults). Some of you saw the Alpha that I dropped earlier in the week... we are now one step closer to the [Double Logris](https://tokenomicsexplained.com/the-double-logris/) becoming a reality. 
+
+It's been a long week and Logris has been working flat out to get the project across the finish line. We're about to pitch in a little bit here... still waiting on our time so I can't tell you that. But, I'm really excited about what we accomplished and really Really REALLLLLYYYY proud of him. 
+
+Logris says he's proud of [this function](https://github.com/DavionKalhen/LogrisV1/blob/78b5cc87fe29c7222b38da6624cf9e12503d54af/src/leveragers/EulerCurveMetaLeverager.sol#L158). What a nerd. 
+
+[Here's the link to the video walkthrough!](https://www.youtube.com/watch?v=4ioRcaMQhOI&t=25s)
+
+</details>
+<details>
+<summary>Community: u/austonst has the full wrap up from ETHDenver</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11jq6y5/daily_general_discussion_march_6_2023/jb48g07/)
+
+**ETHDenver Day 10** ([Yesterday](https://reddit.com/r/ethfinance/comments/11ip8sx/daily_general_discussion_march_5_2023/jazo2by/))
+
+The final day of ETHDenver! There were no traditional talks from established companies or researchers; today was all about the hackathon teams. Each project was submitted to one of five tracks (DeFi, Impact / Social Goods, DAOs / Community, NFT/Gaming/Metaverse, and Infrastructure) and could also compete for sponsor bounties ([big list here](https://app.buidlbox.io/ethdenver/ethdenver-2023)).
+
+Projects had to be submitted by 8 AM, then from 10-2 teams showed off what they made. On the regular presentation stages, teams went up to the stage corresponding to their track and gave a 1:30 pitch and demo, with a little time for questions. When they weren't on stage, they were downstairs in the main buidl room where the sponsor bounty judges and random attendees could learn about what they made. Track judges picked the top three of each track to present on the main stage during the closing ceremony at 3 PM, then five final winners were chosen.
+
+Miscellaneous notes: I don't think I can see an overall list of hackathon projects, but each one does have their own page if you know what URL to go to. But for most I don't know the URL so it's going to be hard to link to them. I also heard that there was a major hiccup where in the midst of planning out judging, a bunch of teams just got missed entirely and weren't scheduled for a pitch slot or a table location. The team worked to resolve it, but with everything happening so fast some teams were just screwed over. Hopefully it's better next year. Also I finally checked out the arcade area, good collection of imported Japanese arcade games, nice selection of rhythm games in particular.
+
+* [**Logris Vaults:**](https://app.buidlbox.io/projects/logrisvaults) A good place to start off the list. DoubtStars has been [talking about this project](https://reddit.com/r/ethfinance/comments/11ip8sx/daily_general_discussion_march_5_2023/jb1i37k/) so I don't really need to. I didn't find the team on the buidl floor, but I can throw it on here anyway because it's cool.
+* **ChainRep:** A project to put security audits and reports (or at least links and a general rating) on-chain. Reviews point to the smart contract in question, and are written by reviewers who are issued certificates by trusted entities like the EF or something. So you could potentially make a DeFi protocol that generally works with any ERC20 token, but checks ChainRep and only allows tokens with positive reviews from certified reviewers.
+* **MintUI:** A library of React components for web3 that share information between one another to make web3 programming easier. Main example (as the name would imply) is NFT minting.
+* **Composooor:** Would appreciate more insight into this. The team was saying something about how it's hard to build composable dapps/protocols using other protocols that rely on off-chain data. So this is a MetaMask snap (bounty hunting ho!) that simplifies this composability and significantly reduces the amount of code you need to create a clean integration.
+* **Dual Rollup:** Cartesi is an [existing platform](https://docs.cartesi.io/cartesi-rollups/overview/) I'm only just learning about for developing optimistic rollups whose execution environment is literally a [Linux VM on RISC-V](https://docs.cartesi.io/machine/intro/). This project uses that to run a ZK *prover* on Cartesi, or ultimately a ZK rollup on an optimistic rollup. I get the concept but I feel like I'm barely able to grasp the implications. The team suggested you may be able to implement a universal (or at least cross-EVM) ZK bridge.
+* **Alice's Ring:** A project for proof of solvency. With it, tenant Alice can prove to landlord Bob that she has enough assets to cover rent, notably *without revealing the actual address to Bob*. Then, if Alice later uses [zkBob](https://www.zkbob.com/) to actually pay her rent, Bob may never actually have to see Alice's actual assets. The team says that the proof must be computed over multiple blocks or something in order to prevent someone from proving solvency after taking a flash loan. But nothing is stopping Alice from generating the proof then immediately selling, transferring, or gambling it away.
+* **Artist Hunger Games:** A pretty wild project in which artists get paid to participate in a hunger-games style game. A DAO of NFT holders have the ability to vote on which artists get removed from the game each round, and can also do silly votes on things like telling the artists where to live or eat. Make it a reality show kind of thing. I was reminded of [Mark](https://www.ted.com/talks/mike_merrill_how_i_became_the_world_s_first_publicly_traded_person) [Merrill](https://www.wired.com/2013/03/ipo-man/), who famously sold off shares of himself.
+* **CryptoTaco:** A point-of-sale tool for merchants to accept crypto for payments without having to worry about keys or wallets or whatever. Uses [Magic's](https://magic.link/) tools to onboard merchants using their email addresses. These guys had a lot of enthusiasm, but I'm not sure they're fully aware of how busy this space is. Hasn't bitpay been doing this since 2013 or something?
+* **QuestGPT:** Basically [AI Dungeon](https://play.aidungeon.io/main/home) implemented as a Discord chatbot, using DALL-E to create images related to the story which are then minted as NFTs. Pretty nice user experience in the end. Not quite the same degree of control as AI Dungeon gives you though. I was told they use multiple AIs (all GPT?) working together to keep track of context/worldstate and regularize the story.
+* **Factorial:** Modular libraries/tools for building DeFi protocols, one example being a "liquidation module" for any time you may need to do something analogous to liquidating a user's position.
+
+The following are the finalists who presented at the closing ceremony. These were short talks and it was easy to miss critical details, so this may be quick.
+
+* **Sesame (Winner!):** Allows you to use Ethereum on your phone without internet by sending data over SMS. Has a little wallet interface that can update ETH market price and portfolio value, and lets you send simple transactions.
+* **FundPG (Winner!):** A no-loss donation pool that allows users to specify some percentage of their yield to go to public goods.
+* **Krypto Kredit:** Some sort of credit score platform using [Huma](https://huma.finance/). Kind of missed the details.
+* **Bitcoin Vitalik's Vision:** Fork of the OP stack to post data on Bitcoin, inspired by ordinals of course. Team answered a question about their experience by saying "it sucks to build on Bitcoin".
+* **Swappy (Winner!):** Token swaps using natural language queries. You type in "Swap 5 USDC on Ethereum for MATIC on Polygon" and it parses it with GPT, prompts you if you're missing anything, constructs the actual details of the swap, lets you visualize and confirm it, then executes.
+* **Rhinestone:** My notes on this literally say "something something account abstraction" sorry.
+* **Slang:** Lets you write a single command to generate code to integrate with Ceramic (decentralized data storage) as if it were a web2 database.
+* **Inheritable:** Web3 wills for inheritance. Puts inheritances in a Merkle tree for verifying claims. Lets you establish a group of Witnesses who attest/vote that you're dead to start the inheritance process.
+* **BaZaarK (Winner!):** I believe this was about selling an NFT but using ZP proofs to do so without revealing all of its traits. May find some specialized use cases.
+* **MyMule:** Virtual pet game with a 3D environment where the pets are NFTs. If you interact with it regularly and keep it happy, it prints some ERC20 tokens for you. If you let its happiness bar go to zero then it dies.
+* **Synesthesia:** Collecting music NFTs isn't as fun as JPEG NFTs because of the difference in medium. This project creates generative art for each piece of music based on its metadata to make catchy pictures to go along with them.
+* **ZKpoEx (Winner!):** This provides a way for auditors to create a ZK proof that an exploit (generally agnostic to the type of exploit) exists, without revealing the specific details of how it works. Good way to do responsible disclosure. Probably my favorite out of the finalists.
+* **Tribe.Credit:** P2P lending protocol. You can deposit some capital, then it connects to your phone's contact list and you can say how much you'd be willing to lend that person. If they borrow from you, you don't get to see who exactly it is or how much. If they don't repay you then identity gets revealed and they get kicked out.
+* **GasPay (listed as Gasly elsewhere):** Simple token swap tool that just adds the ability to pay for gas in whatever token you want.
+* **Denoted:** A medium/hackmd/notion kind of writing site that integrates with all sorts of crypto data and analytics tools to create graphs and visualizations embedded in the posts. Generated dynamically so can update over time.
+* **M3mber:** I think this is a way to mint an NFT that represents a membership in something with an expiry date (pitched as a way for DAOs to bring in recurring money like a subscription rather than just the one-off token sale). They use ENS domains, with [NameWrapper](https://github.com/ensdomains/ens-contracts/tree/master/contracts/wrapper) to accomplish this; is it only because ENS domains already have expiry built in so they don't have to code it from scratch?
+* **GovBlocks:** DAO management platform. Modular design, has useful things you would expect like DAO members being able to start a vote to change a governance parameter.
+
+That was actually the last day. Some people are sticking around for the mountain retreat, but that's not really something to report on. I'll assemble a final review tomorrow and that'll be it!
+
+</details>
+<details>
+<summary>Ecosystem: u/KingLeo23 has more on the fight between crypto and the SEC</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11kqzjp/daily_general_discussion_march_7_2023/jb9othy/)
+
+https://www.veritasanalyticsllc.com/finacial-forensics-news/2023/3/6/law360-op-ed-crypto-is-a-major-question-only-appellate-courts-can-answer
+
+Interesting legal op-ed about the potential future of crypto regulation as the Ripple case progresses through the courts.
+
+TLDR: The conservative supreme court has renewed interest in containing federal agencies to the powers explicitly defined by congress evidenced by WV vs. EPA ruling last year referencing the "major questions doctrine" in the ruling. Regardless of the outcome in lower courts for Ripple vs. SEC, the ruling is likely to be appealed to higher courts and this author at least thinks the SEC's authority over crypto assets falls under the "major questions doctrine" that needs to be decided by congress and could potentially neuter Gensler's further attempts to destroy the industry in the US.
+
+</details>
+<details>
+<summary>OPSEC: u/REALJohnBMacLemore has another amazing private, free and open source app</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11lo2v3/daily_general_discussion_march_8_2023/jbesix8/)
+
+Aaayo! It’s ya most annoying boy back with mooaar open source software! Now, if you’re like me, your short term memory is shot due to excessive and repeated blows to the head. If you’re also like me, your wife makes you aware of that fact no less than 10 times a day… so you probably take a lot of notes so you don’t feel stupid, like me. On your phone, the desktop, on the mirror after a shower … *Don’t forget to put on pants today!*
+
+Notes are personal and often contain personal information, subtle details about your life and your extremely valuable intellectual property like your unreleased raps. Are you going to trust that level of information to Evernote!? OneNote!? You know who just bought Evernote? Bending Spoons. You know what Bending Spoons does? AI… yeah. They want your raps bro! Don’t even get me started on Microsoft (OpenAI) OneNote! *Ahhhhhhh!*
+
+So, today I present an open source, self hosted, zero knowledge, end to end encrypted note taking app named [Joplin](https://joplinapp.org). Joplin is a full featured notes app with markdown support, image/website/screen clip insertion support and so much more! Syncing between your mobile and desktop can be done with Joplin’s paid cloud service but they also support S3, Nextcloud, WebDAV, Dropbox, OneDrive or the local filesystem (syncthing?), so you don’t have to pay more for their cloud if you don’t want.
+
+They have fully featured, open source apps for Android/iOS and Linux, Windows, Mac and … FreeBSD!? *Whoah! So hardcore!* Even the Joplin cloud server software is open source… ohhh! and … and there’s a terminal app for my fellow shell dwellers out there. You can really feel the nerd love here. Check it out!
+
+Joplin:  
+<https://joplinapp.org>
+
+Github:  
+<https://github.com/laurent22/joplin/>
+
+</details>
+<details>
+<summary>Analysis: u/bagogel12 shares some small new DeFi protocols being built</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11lo2v3/daily_general_discussion_march_8_2023/jbf8b5h/)
+
+You all know, this bear is a builder. Here are some newish, not-so-well-known Defi protocols. As they are new, they are not battle-tested and deployed capital are potentially at risk. Don‘t ape in with your life savings.
+
+**Numoen.com** \- an AMM on Arbitrum which let you access leverage with no liquidation penality, oracleless. It‘s done as a power perpetual ETH\^2. But there is a price,you pay relatively high funding rates so it‘s rather good for short term trades. 
+
+**Sturdy.finance** \- another leverage protocol. Here you can leverage up DEX pool tokens or alternatively lend your ETH/stables to the one using leverage.
+
+**Contango.xyz** \- you can buy or sell a forward contract, and contango borrows on the fixed-rate markets, swaps on the spot markets, and lends back on the fixed rate markets. Sounds complicated, but also fascinating money lego. Be aware: very early stage, in beta with unaudited contracts!
+
+**Ondo.finance** / **fluxfinance.com**: Ondo is gate-keeped (100k min. deposit), so I‘m not sure if you manage to get into their pools (I‘ve not tried it). But if not, you can get relatively high APY (currently) on stables (USDC,USDT or DAI) by depositing into their partner protocol fluxfinance.
+
+**IPOR.io** \- an Inter-protocol Offered Rate for Decentralized Finance. It‘s too complicated to explain it in simple words by myself, so I refer to their elaborate documentation: https://docs.ipor.io/
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #9: March 3, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=WuwyR17DjJw) | [POAP](https://poap.gallery/event/108151)
