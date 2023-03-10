@@ -861,7 +861,7 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/sale/2ca34608-9e2d-4d19-989d-6c59dc8387f7)
 
-*Announcements*
+**Announcements**
 
 - Contrats to jamescarnley.eth, a long time contributor of [r/EthFinance](https://reddit.com/r/ethfinance) for winning a GridPlus Lattice1 + 2 SafeCards in [last week's raffle](https://poap.fun/2079)! 🎉
 
