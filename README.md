@@ -281,7 +281,7 @@ Rank | Username   | Daily Doots
 . | [readreed](https://reddit.com/u/readreed) | 2
 . | [moderatelytortoise](https://reddit.com/u/moderatelytortoise) | 2
 . | [zestykite](https://reddit.com/u/zestykite) | 2
-. | [zerotrick](https://reddit.com/u/zerotrick) | 2
+. | [zerotricks](https://reddit.com/u/zerotricks) | 2
 . | [yourburningpizza](https://reddit.com/u/yourburningpizza) | 2
 . | [wrekhesh](https://reddit.com/u/wrekhesh) | 2
 . | [wootnasty](https://reddit.com/u/wootnasty) | 2
