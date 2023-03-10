@@ -859,7 +859,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #9: March 3, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/sale/1fbae9f3-8656-4040-aac7-9e64c3ca35aa)
+[Livestream Recording](https://www.youtube.com/watch?v=WuwyR17DjJw) | [POAP](https://poap.gallery/event/108151)
 
 **Announcements**
 
