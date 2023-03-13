@@ -3812,6 +3812,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | InsideTheSimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
 .  | Jey_s_TeArS           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
+.  | Juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | LogrisTheBard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
 .  | midnightonmars        | [GridPlus](https://gridplus.io/) CEO
@@ -3823,6 +3824,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | readreed              | [POAP Studio](https://www.poap.studio/) team member
 .  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
 .  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets
+.  | seamonkey82           | The client whisperer
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
