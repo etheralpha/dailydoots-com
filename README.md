@@ -3829,13 +3829,14 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | ProfStrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
 .  | readreed              | [POAP Studio](https://www.poap.studio/) team member
 .  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
-.  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets
+.  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets<br>Reincarnation of u/skidseverywhere
 .  | seamonkey82           | The client whisperer
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | ToEthMooonGuy         | "To ETH Mooon!!! ┗(°0°)┛"
 .  | Tricky_Troll          | Tricky's Daily Doots
+.  | usesbinkvideo         | The subscriber countoooor
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
 .  | Wholesome_Crypto      | [Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path
 .  | wizardofhex           | [POAP Gated Documents](https://github.com/wizardofhex/poapgateddocuments) - An app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!)
