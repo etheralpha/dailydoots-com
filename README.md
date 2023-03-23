@@ -3792,7 +3792,7 @@ Just wanted to give a shoutout on that amazing achievement.
 
 # Projects
 
-In an effort to spread awareness of what everyone in the community is working on, below is a list of users and their projects.
+In an effort to spread awareness of what everyone in the community is working on, below is a list of users and their projects. Working on something cool and not listed? Send a DM to [u/hanniabu](https://reddit.com/u/hanniabu) to get added.
 
 |  | Username              | Description
 ---|-----------------------|------------------------------------------
@@ -3807,6 +3807,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | danceratopz           | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
+.  | dmihal                | [CryptoStats Founder](https://cryptostats.community/) - A community-driven neutral source for crypto metrics
 .  | domotheus             | EF Researcher
 .  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
@@ -3819,6 +3820,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | Jey_s_TeArS           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
 .  | Juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
+.  | lefterisjp            | [Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | LogrisTheBard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
 .  | midnightonmars        | [GridPlus](https://gridplus.io/) CEO
