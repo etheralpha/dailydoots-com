@@ -4166,6 +4166,7 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 
 |  | Username              | Project              | Info
 ---|-----------------------|----------------------|---
+.  | _WebOfTrust           | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | Bob-Rossi             | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | TheNextBestGuess      | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/fishfearme.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
@@ -4180,6 +4181,7 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 .  | lefterisjp            | Hop                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | liberosist            | Hop                  | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | superphiz             | Hop                  | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | _WebOfTrust           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | dmihal                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | lefterisjp            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | liberosist            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
