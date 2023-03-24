@@ -4166,6 +4166,7 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 
 |  | Username              | Project              | Info
 ---|-----------------------|----------------------|---
+.  | Bob-Rossi             | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | ENS                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
 .  | lefterisjp            | ENS                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
