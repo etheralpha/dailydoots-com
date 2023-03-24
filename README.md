@@ -4168,6 +4168,8 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 ---|-----------------------|----------------------|---
 .  | Bob-Rossi             | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | TheNextBestGuess      | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/fishfearme.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | Ytocin                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | ENS                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
 .  | lefterisjp            | ENS                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
 .  | superphiz             | ENS                  | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
@@ -4183,6 +4185,7 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 .  | liberosist            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | MinimalGravitas       | Optimism             | [view details and delegate](https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | pseudotheos           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/pseudotheos.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | Ytocin                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | DCinvestor            | Uniswap              | [view details and delegate](https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3)
 
 
