@@ -866,9 +866,320 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #11: March 17, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | no POAP
+
+<details>
+<summary>WANTED: The morning trinity</summary>
+
+[u/Mister_Eth](https://reddit.com/u/Mister_Eth)
+
+*crickets*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/RevolutionarySoil11</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11mkewq/daily_general_discussion_march_9_2023/jblagp1/)
+
+Now, this is a story all about how
+
+Our lives got flipped-turned upside down
+
+And I'd like to take a minute
+
+Just sit right there
+
+I'll tell you how we became gentlemen of a sub called ethfinanciér:
+
+-
+
+In Ethereum Trader, born and raised
+
+On the daily was where I spent most of my days
+
+Chillin' out, meming, tradin', all cool
+
+And all buying' some shitcoins outside of the school
+
+-
+
+When a couple of mods who were up to no good
+
+Started making trouble in our neighborhood
+
+We told them donuts are whack and jtnichol got scared
+
+He said, "You're movin' with cutsnek into ethfinancier"
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11rnp2q/comment/jcbapzc/)
+
+*Neutral referee,*
+
+*Yet he plays for his own team,*
+
+*Markets should stay free.*
+
+</details>
+<details>
+<summary>Today in Ethereum: u/ZeroTricks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11tipbq/daily_general_discussion_march_17_2023/jcj9402/)
+
+On this day...
+
+In 2022:
+
+- All Bored Ape NFTs from NFT fractionalizing service NFTX are [temporarily borrowed](https://www.theblockcrypto.com/post/138410/someone-borrowed-5-bored-apes-to-claim-1-1-million-of-ape-tokens) via a flash loan to claim 60000 APE worth over $1 Million.
+- Valued at $1.65 Billion, Optimism [completes](https://medium.com/ethereum-optimism/money-long-team-strong-8526c6943fd7) a Series B fundraise of $150 Million, led by A16z and Paradigm.
+- Polygon [integrates](https://cointelegraph.com/news/polygon-onboards-simba-chain-for-ethereum-scaling-and-infrastructure-development) the Simba Chain to scale and build new infrastructure for Web3, starting with the launch of a white-label NFT marketplace.
+- Tokenized Vault Standard ERC-4626 [becomes](https://twitter.com/joey__santoro/status/1504603906726240258) final, allowing for uniformity between yield-bearing tokens, to be used by many DeFi projects.
+- ETH exists in the reality of $2815 and ₿0.06874.
+
+
+In 2021:
+
+- Meitu [buys](https://corp-static.meitu.com/corp-new/ENG.pdf) another $28 Million in ETH and $22 Million in BTC.
+- Terraform Labs [launches](http://coindesk.com/anchor-launch-ust-stablecoin-dai-defi) the decentralized UST stablecoin, [undermining](https://twitter.com/d0h0k1/status/1372115254511955969) DDoS attackers in the process.
+- Bitfly [launches](https://twitter.com/etherchain_org/status/1372269004115566594) a MEV beta program to increase mining rewards via transaction sequencing/frontrunning, compensating for EIP-1559.
+- Vlad Zamfir sues Casper Labs Inc. over improper use of the Casper name.
+- AMD [refuses](https://www.pcgamer.com/amd-cryptocurrency-mining-limiter-ethereum/) to limit Ethereum mining: "we will not be blocking any workload".
+- Jonty Wareing [finds](https://twitter.com/jonty/status/1372163423446917122) that most NFTs reference URLs or IPFS hashes which are bound to break in the future.
+- The Harris Poll [claims](https://theharrispoll.com/stimulus-check-spending) ~7% of Americans used funds from Stimulus Checks to buy cryptocurrencies like  Bitcoin and Ether.
+- ETH returns a lost wallet containing $1823 and ₿0.03097.
+
+
+In 2020:
+
+- Prysmatic Lab’s Ivan Martinez [explains](https://medium.com/@0xKiwi/what-eth2-has-learned-from-eth1-d1f7e0830a98) what Eth2 improves on Eth1, apart from staking and sharding: minimum viable issuance, statelessness, account abstraction and execution environments.
+- MKR holders [accept](https://blog.makerdao.com/usdc-approved-by-maker-governance-as-the-third-collateral-type-of-the-maker-protocol) USDC as a third collateral asset in the Maker Protocol, after ETH and BAT.
+- Opera [allows](https://www.theblockcrypto.com/post/58929/opera-now-lets-us-users-buy-bitcoin-and-ether-via-apple-pay) U.S. users to buy BTC and ETH directly from its in-built crypto wallet, via Apple Pay and debit cards.
+- ETH eats the crypto crumbles between $111 and $114, at ₿0.02178.
+
+
+In 2019:
+
+- Maxwell Foley [explains](https://qihardware.org/2019/03/17/vdf-faq-1) Eth2 verifiable delay functions.
+- ETH's profits are verified to be delayed at $140, or ₿0.03484.
+
+
+In 2018:
+
+- There goes my Ether, watch it as it goes from from $601 to $553, or ₿0.07265 to ₿0.06983.
+
+
+In 2017:
+
+- No drama for ETH today from $45.4 to $46.8, or ₿0.03865 to ₿0.04259.
+
+
+In 2016:
+
+- The DAO whitepaper [is released](https://reddit.com/r/ethereum/comments/4auw6z/new_slockit_milestone_reached_the_dao_whitepaper/).
+- ETH welcomes early adopters betwen from $12.6 to $11, or ₿0.03005 to ₿0.02613.
+
+---
+
+[compiled with love](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/)
+
+</details>
+<details>
+<summary>u/vsesuk1 laughs at the New York Attorney General's comments on Ethereum</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11mkewq/daily_general_discussion_march_9_2023/jblly9q/)
+
+Lol holy crap bunch of dummies over there at NYAG office. At least Gensler's team understand crypto...
+
+From: [https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XDXIUrIw3tVafxqwEqVfKw==](https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=XDXIUrIw3tVafxqwEqVfKw==)
+
+> Under proof-of-work, computers on the Ethereum network competed to answer amathematical puzzle in order to verify transactions on the blockchain and receive in-kind digital asset rewards. Under proof-of-stake, however, validators, pledge or “stake” their holdings in ETH and are randomly chosen to verify transactions on the blockchain and receive an in-kind digital asset reward. By shifting to proof-of-stake, ETH no longer relies upon competition between computers, but instead now relies on a pooling method that incentivizes users to own and stake ETH. The shift to proof-of-stake significantly impacted the core functionality and incentives for owning ETH, because ETH holders now can profit merely by participating in staking.
+
+Lol, "*merely* by participating in staking" holy christ project much? Is this a highschoolers essay?
+
+And why is it a security Ms AG?
+
+> the Ethereum Foundation claims on its website that users of Ethereum “see it as a digital store of value because the creation of new ETH slows down over time.”
+
+Lol just like bitcoin, which even Gensler has clearly stated is the only crypto he views as definitely NOT security? Can't even line up your arguments between agencies...
+
+But wait there's more?
+
+> Since transitioning to the proof-of-stake consensus, the value proposition has altered significantly because possession of ETH translates directly to profit potential by earning staking rewards
+
+Hey everyone, did you realize that you're earning staking rewards just by holding Eth in your hardware wallet!!!!!
+
+I have no idea how any of this will play out, but I can definitely say that NYAG is a fucking clown show compared the SEC when it comes to this stuff.
+
+</details>
+<details>
+<summary>u/MrVodnik and u/KotMyNetchup on the Silicon Valley Bank collapse and USDC backing shortfall</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ngir4/daily_general_discussion_march_10_2023/jbpxfdc/)
+
+[u/MrVodnik](https://reddit.com/u/MrVodnik):
+
+Stolen from r WSB:
+
+[https://i.redd.it/gjolf3latzma1.jpg](https://i.redd.it/gjolf3latzma1.jpg)
+
+97.3% of SVB deposits are not FDIC insured. This means, most of \~$200 bln, that used to belong to many, many tech companies and start-ups, just disappeared. Probably many jobs will fallow. 
+
+This truly is a crypto day happening in TradFi. 
+
+Hello 2008, my old friend...
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ngir4/daily_general_discussion_march_10_2023/jbrozo0/)
+
+[u/KotMyNetchup](https://reddit.com/u/KotMyNetchup):
+
+According to their latest tweet, Circle stands to lose 8% of the USDC backing at most. It sounds like the most reasonable expectation is that FDIC will be able to recover a decent amount of funds from SVB. I'm expecting >50% to be returned. But looking at the pessimistic side, we have a 4-8% haircut on USDC. $0.92-$0.96. We're seeing that price range now.
+
+The next question is if prices close enough to that range can be sustained long enough for Circle to be able to inject liquidity into the market as needed. I don't know what mechanisms Circle uses to do this, other than promises and market forces. If it comes down to promises and market forces that might not be enough.
+
+Another question is at what point USDC price starts to have knock on effects beyond a simple bank run. A lot of defi is built around USDC. What systems will start to deteriorate if USDC starts to depeg more? At what point do systems start to fall apart?
+
+</details>
+<details>
+<summary>u/KingLeo23 shares Justin Drake's EthResearch post on "Based Rollups</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ngir4/daily_general_discussion_march_10_2023/jbp05hj/)
+
+[New drop from Justin Drake](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016) on ethresearch "based rollups" that use L1 sequencing. Looks like they would inherently force L1 alignment and sequencer decentralization rather than having to rely on the good faith of L2 teams.
+
+</details>
+<details>
+<summary>u/nixorokish shares The Summer of Protocols</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ngir4/daily_general_discussion_march_10_2023/jbn88dx/)
+
+The first town hall for the [Summer of Protocols](https://mobile.twitter.com/TimBeiko/status/1632847129545940992) happens tomorrow, about 9 hours from this comment. 
+
+If you're interested in participating, highly recommend attending! I haven't finished reading the Unreasonable Sufficiency of Protocols (sort of a manifesto for the course) yet but it's really good so far, very thought-provoking, and I'm thinking of recording a version to listen to.
+
+*edit*. quick synopsis of the Summer of Protocols if you're lazy: it's basically a brain incubator where some very thoughtful people are going to get together and try to define what a "protocol" is, examine existing examples, and how to design one that is future-proof, capable of ossifying to some degree, incentivizes good outcomes, and look at how much stewardship that thing will need. 
+
+This is awesome and, in my mind, the kind of philosophical analysis that we need to make sure Ethereum (or any protocol) has a sufficient amount of thought put into it to try to steer away from some of the dystopian outcomes that something like the internet has brought about.
+
+If algorithms on the internet can change people's behaviors to rapidly foster a kind of hatred that causes people to do things they otherwise wouldn't have, why wouldn't we assume that that behavior-changing power also works in the other direction to incentivize willing participants to better coordinate with each other? This is why I'm here. Because the infancy of Ethereum is the most exciting and malleable part and I think something like this is capable of stewarding it to a place where it actually makes a difference.
+
+</details>
+<details>
+<summary>u/RevolutionarySoil11 thinks about the publics' perception of the cryptosphere</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ocbsl/daily_general_discussion_march_11_2023/jbtp31j/)
+
+> Literally how can people outside the "cryptosphere" look at crypto and not think "scam"?
+
+A quote from u/geliboy695000 earlier today and I want to repost it here for exposure and discussion because it's important. 
+
+When you look at social media, any time the topic comes up or problems in crypto are brought up, the threads are flooded with bots and scammers shilling whatever shitcoin they get paid to shill. If I were not already in the space and knew what goes on I'd 100% think cryptocurrency is just scams all the way down. And just to be explicitely clear: Ethereum itself has enabled this too with ERC-20s and the like. [Just look at what's literal number 4 in market cap among those tokens](https://etherscan.io/tokens) and then scroll down further for all the less popular bs coins like Dogelon & co. 
+
+We need to somehow find a way to exclude the grifters and scammers from the discussions while still being open and true to the crypto ideals, and also welcoming to newcomers and open to new ideas. It seems like mission impossible.
+
+How can legitimate projects be promoted without at the same time giving exposure to the wrong people? How can the general public be educated, because it doesn't seem  knowledge of blockchain tech and its uses has increased that much in the mainstream over the past years. The majority of people still doesn't even seem to understand even just Bitcoin, which has been around for 13 years now and is arguably the most basic and among the easiest blockchains to understand in principle. 
+
+This matters, because if most people do not understand how this tech can help society and how it works, they'll think it's useless and will support legislation that cracks down and hinders crypto adoption. They might cheer the criminalization of private non-KYCed wallets only to find a couple of years down the line to be forced to use CBDC and have banks not only control their money but monitor all their habits as well. It's probably not what the majority wants but if we don't help them understand they won't know anything about it.
+
+</details>
+<details>
+<summary>u/JayPeaEm has some updates on all the banking shenanigans</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11p6xk6/daily_general_discussion_march_12_2023/jbzx2uv/)
+
+Grüezi EthFinance 😁
+
+* [Signature Bank](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm) looks to have fallen just moments ago. Bank Run feedback loops are not fun🔥🏦🔥 
+* So it looks like SVB gets no bailout, yet all the depositors get their money back. I think the Federal Reserve Printers are tired from Covid but... 😬
+* Nothing political, but just saw US Treasury Secretary was just in Kiev assuring [US Aid will keep flowing](https://www.wsj.com/video/janet-yellen-makes-surprise-visit-to-kyiv-discusses-us-economic-aid/335DFFCC-EA79-402C-95F8-867F2C29B294.html)... yet is only [monitoring](https://www.bloomberg.com/news/videos/2023-03-10/yellen-treasury-monitoring-a-few-banks-amid-svb-losses) the deposits of all the small businesses in trouble by SVB? 🤔 
+* USDC & DAI pegs are now stabilized. Made a killing in fees as LP, but I think I'll keep it all parked in stablecoins for the foreseeable future; I get sea sick easy from all the rocking 🛥️🌊
+* Glad to see everyone active here and on Discord. Saw quite a few fellow whales help stabilize the stablecoins depegging and act really quick. There's much more resilience in the ecosystem than many can understand. Hopefully the "gains" stay put for now. 
+
+Love you all, keep being ambassadors, and keep helping any- and everyone who asks for it!
+
+Pröschtli 🍻
+
+</details>
+<details>
+<summary>u/REALJohnBMacLemore needs your help!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11q1nrm/daily_general_discussion_march_13_2023/jc3nqn3/)
+
+Dear EVMs, EIPanda’s and the ETHFinance community,
+
+I come before you today to genuinely ask for your help. Please take the time to read this, I know it is long but I believe it is important. No jokes this time. Thanks in advance friends.
+
+As you may or may not know, I started a website called “Caches.” If you’ve never visited it, I will briefly explain. If you have, then you already know. Caches is a social network/community website focused on Web3 Technology and Ethereum. A place to explore all of the interesting technologies and ideas that are spinning off of this new paradigm that we all love. It’s completely anonymous, and membership is free and only available via Ethereum wallet login.
+
+I intended for Caches to be somewhere for our community to teach, and share our knowledge outside of the walls of third parties like Reddit or Discord. Something we own, so our voices can be properly heard, and so they can’t be muted due to some draconian corporate attack on crypto or something. A place where you could “cache” your content and share it with the world anonymously, using identity technology being pioneered by Ethereum. Our mark on the world outside our biosphere. I also hoped we could show the world how you build a community, powered by web3 technology, out here on the old www... A home.
+
+Now I have a lot of ideas, but that’s the gist of it. I have spent a lot of time in this pursuit and I have struggled with it. The platform I chose to build Caches on, WordPress, has absolutely no help, plugins, or extensions for crypto/web3. Really no good CMS platform out there does. Since I am a terrible coder, and I am already familiar with developing websites rapidly using Wordpress, I chose to move forward using it to save time, for better or for worse. This has been an adventure to say the least.
+
+Recently, I spoke with another EVM, [/u/juxtanotherposition](https://reddit.com/u/juxtanotherposition), and we immediately hit it off. Turns out, just by stroke of luck that on March 24th, 2023 he will be giving a presentation at WordCamp Phoenix on *“Wordpress, Community and Web3.”* Strange how the world works sometimes … Caches is built on Wordpress, it has custom developed Web3 authentication and NFT gating, and it was made for a community… his very own community! This was literally a match made in heaven! So with all that said, we agreed to feature Caches during the presentation as an example of community built on Wordpress with web3 tech!
+
+That means **we will have eyes from the Wordpress developer community focused on Caches and the EVM!** *AAAAHHHH!* This is why I need your help! Now look, I know I’m funny, and I make you laugh, and maybe you’ve even checked out Caches once or twice to humor me, and then laughed yourself to sleep ... but I need them to see the value in this. Not just for me, or Caches, or the EVMs … for Ethereum.
+
+**Why is Wordpress important?**
+
+Wordpress is a free, open source content management system that powers an astounding **43% of all websites** online. I bet you didn’t know Caches ran on Wordpress before I told you, did you? A lot of your favorite sites run on it. It’s free, open source, community developed, and extensible. It also runs on a completely opensource technology stack. Wordpress.org develops the Wordpress software and they are a non-profit entity. Their ethos is very aligned with ours. They want to enable people to have their own platform to share their ideas, and words without having to rely on anyone. You can check out their [about us](https://wordpress.org/about/) page if you aren’t familiar with them.
+
+**Why is this important for the community?**
+
+Since Caches was built for the EVM/ETHFi community, we have a very unique opportunity to get our ideas, and our community out to potentially thousands of Wordpress developers who will be viewing Caches during @juxta’s presentation. They will undoubtedly share Caches with other developers. That means we have an opportunity to get web3 ideas and even our community baked into Wordpress! I literally can not think of a bigger opportunity for us, and for Ethereum. If we can get developers to create plugins, extensions, themes and more that enable and integrate web3 technology into Wordpress, we have an opportunity to put this in front of 43% of website owners WORLDWIDE! I can not think of a better group than all of you to guide and usher these people into this new paradigm.
+
+With our help we can get this technology out to the world, and we can foster the Wordpress community during their exploration of this new technology. Give them a place to safely ask questions and get good answers ranging from JBM to Logris level. A place to share ideas, develop friendships and connections … just like we all have done through the sub. This is our opportunity to put the community at the forefront of something big outside our walls and build ourselves as an authority in this space.
+
+**What’s in it for me?**
+
+Juxta has asked if Caches could be a sort of “development” test bed for Wordpress web3 plugins and technology. I like this idea, we get free development work to make Caches the premier web3 community and the developers get a real live site to develop their product. This is a win/win/win! I get to see the thing I started grow and flourish at the hands of people much smarter and more capable than me. It’s beautiful man! That’s really it. I hope to use it to make money, however we decide to do that, just like you.
+
+**What’s in it for you?**
+
+I honestly built this site for our community. I genuinely built it to enable everyone to be heard out here on the web. As I have repeatedly stated, I don’t want to own this thing by myself. So I hope you can join me, we can come up with new ways to push Ethereum/web3 forward in the web2 and we can come up with creative ways for everyone in the community to earn some money for themselves without turning into a marketing machine. I want everyone to be a part of that journey, and I want everyone to be able to contribute ideas to that goal, and most importantly I want to work with you to figure out how we can own this thing together in the fairest way possible. I don’t have any of that figured out, but that’s ultimately where I want to be… a community owned and operated by the community.
+
+**How can I help?**
+
+Pop in the EVM discord. If you're not an EVM, I still want your help. Please. Join the public-channel and DM a mod to have the "Caches" role added to your account and then you'll be able to see the #caches channel there even if you don't have an EVM. I will use that to try to collaborate and focus our energies best I can. I need you! We have just 10 days to try and make Caches, the community and Ethereum look good... but hey... this is just the beginning. So don't do it for me. Do it for **ETHEREUM.**
+
+Sincerely,  
+JBM 👊🏻
+
+</details>
+<details>
+<summary>u/Savage_X shares news of the newest version of GPT-4 and its Solidity prowess</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11qy7me/daily_general_discussion_march_14_2023/jc8ardn/)
+
+GTP4 apparently knows solidity pretty well...
+
+> I dumped a live Ethereum contract into GPT-4. 
+> 
+> In an instant, it highlighted a number of security vulnerabilities and pointed out surface areas where the contract could be exploited. It then verified a specific way I could exploit the contract
+
+https://twitter.com/jconorgrogan/status/1635695064692273161
+
+</details>
+<details>
+<summary>u/hanniabu explains a key part of EthFinance lore and how it made us who we are</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11rnp2q/daily_general_discussion_march_15_2023/jc9fnxx/)
+
+Ethtrader donuts were key in the formation of this sub. Not just because it triggered the exodus, but because of the type of people it promoted to leave. 
+
+The people that hate grifts and cash grabs, the people that see this as more than a way to make money, the people that are in it for the tech, etc.
+
+It distilled the community down to those that believe in the original ethos ethereum was founded on, and we do our best to carry forward.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #10: March 10, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/sale/2ca34608-9e2d-4d19-989d-6c59dc8387f7)
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP](https://poap.gallery/event/109458)
 
 **Announcements**
 
