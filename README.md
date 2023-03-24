@@ -7,9 +7,7 @@
 
 <callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/4csv3J2N) for a roundup of the top 10 Doots of the Week! Recordings will be posted to [YouTube](https://www.youtube.com/@evmavericks/streams) and [Spotify](https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I).</callout>
 
-<button id="weekly-callout" onclick="window.location.href='#weekly-doots';">View Weekly Doots</button>
-
-<callout>🛠 Who's working on what? [View Projects](#projects)</callout>
+<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [🛠️ Community Projects](#projects) &nbsp;&nbsp;|&nbsp;&nbsp; [🗳️ EthFinance Delegates](#delegates)</callout>
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
@@ -4158,6 +4156,37 @@ In an effort to spread awareness of what everyone in the community is working on
 
 
 [↑ Back to top ↑](#)
+
+
+
+
+# Delegates
+
+Delegate your votes to a member of the EthFinance community. Are you a delegate and not listed? Send a DM to [u/hanniabu](https://reddit.com/u/hanniabu) to get added.
+
+|  | Username              | Project              | Info
+---|-----------------------|----------------------|---
+.  | dmihal                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | dmihal                | ENS                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
+.  | lefterisjp            | ENS                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
+.  | superphiz             | ENS                  | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
+.  | lefterisjp            | Gitcoin              | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xDbD27635A534A3d3169Ef0498beB56Fb9c937489)
+.  | Bob-Rossi             | Hop                  | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | dmihal                | Hop                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | dybsy                 | Hop                  | [view details and delegate](https://www.tally.xyz/profile/dybsy.sismo.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | lefterisjp            | Hop                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | liberosist            | Hop                  | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | superphiz             | Hop                  | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | dmihal                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | lefterisjp            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | liberosist            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | MinimalGravitas       | Optimism             | [view details and delegate](https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | pseudotheos           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/pseudotheos.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | DCinvestor            | Uniswap              | [view details and delegate](https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3)
+
+
+[↑ Back to top ↑](#)
+
 
 
 
