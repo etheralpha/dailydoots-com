@@ -864,6 +864,469 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #12: March 24, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/sale/92be490b-59f3-42ee-af92-1e5851a4c63d)
+
+Guest appearance by Anthony Bertolino, Head of Growth at POAP, to discuss the release of POAP Drops! <https://drops.poap.xyz/>
+
+**Announcements**
+
+- POAP has released POAP Drops, a brand new interface for easily creating and distributing your POAPs where you can also browse past POAP drops, manage existing drops, and much more!
+- Shapella upgrade POAP.art party on April 12 9:30 UTC+0 (5:30am EST), more details to come
+- There's a new [Delegates](#delegates) section where you can find members of the EthFinance community to delegate votes to
+- Upcoming guests:
+  - March 31: Gloria Kimbwala from SuperModular.xyz
+  - April 7: Evin McMullen from Disco.xyz
+  - April 14: Chris Whinfrey from Hop Protocol
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/120axdk/comment/jdgisaw/)
+
+[u/Mister_Eth](https://reddit.com/u/Mister_Eth):
+
+*crickets*
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> $1814
+
+[u/nixorokish](https://reddit.com/u/nixorokish)
+
+> 0.064
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Syentist</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11x8e2l/daily_general_discussion_march_21_2023/jd6kihv/)
+ 
+I urge anyone who hasn't done so to read through the chapter on digital assets in the Economic Report of the President. It's gives a full picture of the deviousness and flippancy of the Biden administration towards crypto. Take this gem on pg 238 for example
+
+> crypto assets to date do not appear to offer any investments with any fundamental value, nor do they act as an effective alternative to fiat money, improve financial inclusion or make payments more efficient; instead their innovation has been mostly about creating artificial scarcity in order to support crypto assets' prices - and many of them have no fundamental value
+
+Complete horseshit. They **do** act as a non-inflationary alternative to debasement of fiat money, today. They *do* act as a self-custodial alternative to money which relies on trusting banks which are literally teetering, today. 
+
+They *do* improve financial inclusion. A kid in rural India or Mexico or Romania can take part in the Ethereum defi ecosystem with just an internet connection, today. Trading securities and treasuries and holding American dollars is a privilege to a tiny fraction of the world, and it's sad to see the Biden ainistration not see this. 
+
+They *do* make payments more efficient. This is increasingly clear for internet native payments. Buying and selling digital native art and culture, paying members of a DAO, transferring funds to colleagues in the same team but all over the world, making small payments in countries like Nigeria and Lebanon with collapsing local currencies - various crypto solutions *do* make payments efficient in these instances, today.  
+
+And last and most importantly of all, is that *even if crypto had no usecase* (which isn't true as I pointed out above), even if, that value judgement is still not the business of the federal government. Here's a great take by Chervinsky 
+
+> [Too many policymakers are playing venture capitalist, guessing which technologies will be valuable and which won't.Tech neutrality is a core principle of good policy for a reason. Picking winners and losers is hard enough for the professionals. Government should stay out of it.](https://twitter.com/jchervinsky/status/1638365111508246531)
+
+If you're tired of this government lying, gaslighting and overreach, a good place to start is to sign up for the crypto advocacy program by Coinbase: <https://actnow.io/z31xN5P>
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11zaqp2/comment/jden86g/)
+
+*Do Kwon arrested,*
+
+*Arbitrum still congested,*
+
+*Rewards devested.*
+
+</details>
+<details>
+<summary>Today in Ethereum: u/ZeroTricks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11zaqp2/daily_general_discussion_march_23_2023/jdewhkt/)
+
+On this day...
+
+In 2022:
+
+- GameStop [launches](https://medium.loopring.io/gamestop-nft-marketplace-powered-by-loopring-l2-6cdb9289d937) its NFT Marketplace in beta, in partnership with zk-Rollup based Ethereum Layer 2 Loopring.
+- ETH injects zeroes in numbers like $3030, or ₿0.0707.
+
+
+In 2021:
+
+- Uniswap [presents](https://uniswap.org/blog/uniswap-v3) v3, up to 4000x more capital efficient and featuring Concentrated Liquidity positions, allowing liquidity providers to set price ranges.
+- Ethworks [introduces](https://medium.com/ethworks/introducing-usedapp-framework-for-rapid-dapp-development-4959361f242a) framework for rapid DApp development useDApp.
+- Coinbase Pro [announces](https://blog.coinbase.com/ankr-ankr-curve-dao-token-crv-and-storj-storj-are-launching-on-coinbase-pro-62dbd9208d7c) support for ANKR, CRV and STORJ.
+- ETH counts the beans at $1679, or ₿0.03067.
+
+
+In 2020:
+
+- Uniswap [v2](https://uniswap.org/blog/uniswap-v2) is launched on all testnets, with pure ERC20 pairs, price oracles and flash swaps.
+- ZenGo [sounds the alarm](https://zengo.com/badapprove-defi-security) on "baDAPProve", or how attackers can abuse approved, but highly excessive privileges to steal users tokens.
+- ETH rediscovers its wings from $124 to $135, at ₿0.021.
+
+
+In 2019:
+
+- As if ETH needs stablecoins at $138, or ₿0.03429.
+
+
+In 2018:
+
+- Basic Attention Token is the first ERC-20 token [to become](https://www.reddit.com/r/ethtrader/comments/86ls1f/bat_is_now_an_apple_verified_virtual_currency/) an Apple verified virtual currency.
+- Ethereum Improvement Proposal site [eips.ethereum.org](http://eips.ethereum.org) goes live; automatically generated from all merged EIPs.
+- ETH flails at $538, or ₿0.06156.
+
+
+In 2017:
+
+- Storj [plans to migrate](http://blog.storj.io/post/158740607128/migration-from-counterparty-to-ethereum) its decentralized storage from Bitcoin-based Counterparty to Ethereum.
+- Brave [announces](https://basicattentiontoken.org/tokenoverview2017) it will launch an ICO for Ethereum-based  ad token BAT.
+- Coinbase [receives](http://www.dfs.ny.gov/about/press/pr1703221.htm) the approval to trade Ether and Litecoin in New York.
+- ETH cajoles traders for $42.7 to $43.8, or ₿0.04066 to ₿0.04221.
+
+
+In 2016:
+
+- Engineers at BitGo [create](https://www.ether.li) Ethereum multis-sig wallet Ether.li.
+- Japanese Bitcoin exchange Coincheck [starts trading](http://themerkle.com/bitcoin-exchange-coincheck-brings-ethereum-to-japan) Ether.
+- No malice found in ETH going from $11.3 to $12.4, or ₿0.02709 to ₿0.02964.
+
+---
+
+[compiled with love](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/)
+
+</details>
+<details>
+<summary>u/REALJohnBMacLemore shares the latest ERC to get created and its implications</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11slqjw/daily_general_discussion_march_16_2023/jcivmjj/)
+
+**BREAKING NEWS!**  
+
+EIP-4804 is now an ERC! So like under ERC-4804, internet users have the option to type “web3://” vs “http://” in their browsers to bring up DApps such as Uniswap or onchain NFTs directly! OMMFG Bros! We can now directly run a query to the EVM!
+
+> web3://jbmaclemore.eth/
+
+News:  
+
+<https://www.tradingview.com/news/cointelegraph:d34c7580d094b:0-forget-http-ethereum-has-a-new-url-standard-that-can-t-be-blocked/>
+
+</details>
+<details>
+<summary>u/nixorokish, a real crypto native and OG fell victim to a phishing attempt and tells her story</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11slqjw/daily_general_discussion_march_16_2023/jcggo1x/)
+
+dang. First time I've ever fallen for something stupid. I went to check out Arbitrum eligibility and clicked the first link under the announcement. The link did look like a scam to me but I had just read a friend comment that the legit airdrop announcement / video "looks like a scam", so my brain had its defenses down. Only connected and *I think* it just took whatever already had approvals? Which was all my DAI. feelsbadman.jpg - 5400 DAI is no small sum. It unfortunately looks like they got a few people before the tweet was hidden.
+
+My brain finally went 'nope' when it asked to approve RPL, but everything before that was just a signature to connect (I think?), not a transaction or approval. 
+
+Things I could have done better (that I usually would do!):
+
+- Matched the twitter handle from the tweet to the actual account    
+- Found the link elsewhere (verified it) before connecting my wallet, especially in their discord    
+- Generally slow down and read when signing things from my wallet.     
+
+Expensive lesson learned! I'm going to lay down and watch a movie or something, I'm super bummed that I'm a dummy.
+
+
+Another thing learned in this (thanks to /u/Ribilla_ ) - DAI is a special kind of ERC20 that allows transfers that require only a signature (`permit`, which is a signature-based approval function) - it doesn't look like your typical approval or transaction. So even signatures when connecting to sites should be treated as potentially dangerous and giving away your assets.    
+
+See here: <https://reddit.com/r/ethfinance/comments/11slqjw/daily_general_discussion_march_16_2023/jch9a3s/>
+
+</details>
+<details>
+<summary>u/bagogel12 and u/Unitedterror on the Euler exploit</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11tipbq/daily_general_discussion_march_17_2023/jck76nq/)
+
+[u/bagogel12](https://reddit.com/u/bagogel12):
+
+I can give a short update regarding the Euler exploiter situation. It's still a developing story ... if you missed episode 1 and 2, you find them here: [link](https://reddit.com/r/ethfinance/comments/11q1nrm/daily_general_discussion_march_13_2023/jc3gqo1/) / [link](https://reddit.com/r/ethfinance/comments/11slqjw/daily_general_discussion_march_16_2023/jceexxm/)
+
+**S02E03 - The merciful hacker (cont.)**
+
+After the exploiter sent 100 ETH to one affected user, DLNews identified this lucky person. DLnews is actually quite good - I didn't know Defillama has it's own newspaper! After [Swap.defillama.com/](https://Swap.defillama.com/) it's another killer product of the Llama universe ...
+
+The interesting part of this episode is: The 100 ETH are actually worth more than what the user lost 78 wstETH (or 86 ETH). Essentially, the user would have profited from the "deal". Being now officially doxxed he sent back 12 ETH to the official Euler depositor address. Is this correct? Who knows, we'll see if Euler will push for the full amount to be returned. It's a subplot which runs through the entire season. ...
+
+For more information on this incident, I refer directly to DLnews:
+
+[https://www.dlnews.com/articles/regulation/euler-finance-hacker-eth-wallets-solidity-developer-exploit/](https://www.dlnews.com/articles/regulation/euler-finance-hacker-eth-wallets-solidity-developer-exploit/)
+
+**S02E02 - The maniac hacker**
+
+Every morning the hacker gets up, he's doing something with his freshly earnt money. If you own $200M you can have some fun with it, right?
+
+So, Today morning, he decided to give 100 ETH to the allegedly North Korean and OFAC sanctioned Ronin Exploiter Address, probably Lazarus controlled. Here is the tx: [https://etherscan.io/tx/0x202a67d3a1d52e4dd5e1eebe49da511164b6e4a1ebe717dcf4674dd83a2bd457](https://etherscan.io/tx/0x202a67d3a1d52e4dd5e1eebe49da511164b6e4a1ebe717dcf4674dd83a2bd457)
+
+Is he trying to fool us? Some kind of weird joke of 21 year old hacker? Or is it some kind of attribution to them? What will come next? Sending some to SBF or Alamada?
+
+Or is he just bored and want his warrant level raised like in GTA?
+
+Before he sent the 100 ETH to KimJongUn, he moved 1k ETH between his wallets but it's sitting there idle. At the moment, in total only 1.5k ETH has been sent to Tornando, the rest still in ETH (85k) or DAI (35 M).
+
+**S02E03 - Tornado Cash Activity**
+
+I did some tracking of the wallets which have used Tornado Cash recently. The activity has fallen quite a bit after it was hit with OFAC sanction rule. So it's kind of easy to track the activity even visually and manually. Here is the result:
+
+[https://imgur.com/a/IbbO5db](https://imgur.com/a/IbbO5db)
+
+I'm a bit surprised that 125ETH (and a batch of 100 ETH) went pretty straight from Tornado into Binance. The other larger chunks were moved into railgun and multiBTC, only some smaller amounts ran over "privacy oriented" exchanges.
+
+It seems that the merciful-maniac hacker has not cashed their ETH out yet.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11tipbq/daily_general_discussion_march_17_2023/jcld1o4/)
+
+[u/Unitedterror](https://reddit.com/u/Unitedterror):
+
+Okay Okay -- Heres the official Post-Mortem thread for the Euler hack: <https://twitter.com/TraversaJulian/status/1636782111616122881>
+
+I reposted an earlier draft of it yesterday but I think the conversation here should really be around how safe people felt Euler was.
+
+It was generally considered "as safe" as Compound, Aave, Maker, etc., and having a loss of ~$200m kind of breaks many previous assumptions about safety...
+
+So my only conclusion is that we need to move towards more resilient mechanisms, mechanisms that cost significantly more to execute but are necessary to move forward effectively.
+
+- Rate limiting
+- Explicit / Limited Upgradability
+- Built in diversification
+- Circuitbreakers
+- Isolated custodial modules
+
+It really goes on, but these can only be effectively done if we all move towards L2's.
+
+With the arb airdrop, now is the time to push for L2 adoption and the security that we really need to move DeFi forward.
+
+</details>
+<details>
+<summary>u/Kukai_walker drafted a letter to their representative and shared the template for you. YES YOU</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11tipbq/daily_general_discussion_march_17_2023/jcm0fi7/)
+
+At the encouragement of u/TheCryptosAndBloods [yesterday](https://reddit.com/r/ethfinance/comments/11slqjw/comment/jcfgbdu/?utm_source=share&utm_medium=web2x&context=3), I drafted a letter to my US representative, who happens to be among the 100+ member [Congressional Progressive Caucus](https://progressives.house.gov/home).  I took the perspective that crypto is well aligned with progressive principles so they should engage.  Including here for crowdsourcing feedback to improve it and/or for others to cut and paste from it especially if you too have a CPC representative:
+
+=======================
+
+Dear Representative xxx:
+  
+\[removed doxxable intro\]
+
+I am writing to you today to **encourage you and CPC to engage actively in policymaking around digital assets (aka, crypto)**.
+
+As one of the 20% of Americans who own digital assets, I have used much of my recent time to teach myself about digital assets and the broader domain of blockchain technology.  This is a highly technical field, requiring me to learn about such areas as cryptography, finance, decentralized networks, computing, and others.  This knowledge has yielded practical benefits in that I have learned how to join thousands of others to stake ether on the Ethereum blockchain which now provides me with a steady income.
+
+This knowledge has also allowed me to cut through the hype, misinformation, and disinformation surrounding cryptocurrency in the popular discourse to conclude that in fact, **the crypto ecosystem of digital assets, smart contracts, and public blockchains such as Bitcoin and Ethereum has value and will disrupt economic and business systems around the world.** For instance:
+
+• Decentralized financial protocols allow everyday people to instantly make payments around the world and make loans and other financial transactions without commercial middlemen
+
+• Immutable and transparent records on the public blockchain can protect intellectual property and assure fair and transparent management of royalties
+
+• Public blockchains can serve as a permanent store of critical personal events including birth, death, graduation, etc.
+
+• Assignment of unique non-fungible tokens can help manage ownership and transfer of collectibles, valuables, artwork, etc.
+
+• Blockchain has potential business uses such as on-line gaming, supply chain management or carbon credit system.
+
+• The crypto ecosystem can transform the internet business model from allowing dominant internet platforms (eg, Facebook, Google, Apple) to own and profit from personal information to a “web3” model where the user controls their own data on the blockchain.
+
+I have also been struck by the fact that **there is significant alignment between the principles underlying cryptocurrency and the progressive agenda.**  The essence of the crypto ecosystem is that data and open-source computer code distributed and synchronized around the world can replace reliance on institutional middlemen (eg, banks, internet platforms) with a decentralized transparent system available to all whose trust comes from the decentralized crypto ecosystem in which users can directly take custody of their own assets and personal data.  These features can directly support the progressive agenda and its commitment to sweeping, transformative change:
+
+• Income inequality can be reduced by helping underserved populations—who under legacy systems often cannot get a loan, buy a house, or start a business—to build wealth and carry out financial transactions without needed to rely on gatekeeping banks that may have institutional biases that disadvantage them.  
+
+• Facilitating crypto use can help advance racial justice and equity.  A 2019 FDIC survey found that 14% of African American households and 12% of Hispanic American households were unbanked compared to only 2.5% of white households.  A recent Harris Poll found that 30% of Black Americans and 27% of Hispanic Americans owned crypto compared to 17% of white Americans.
+
+• Replacing banks with self-custody and a fully transparent accounting on a public blockchain will reimagine the role of institutions that exacerbate injustice and inequality. 
+
+**Congress must and will create a policy framework for digital assets in the US; it will be important to help shape this policy to promote progressive principles.** Now is the time to act.  Congress will likely see a number of bills introduced this session on such issues as rights to self-custody, defining digital asset taxonomy, and clarifying regulatory oversight.  Discussion on such legislation has already begun in the new Digital Assets, Financial Technology, and Inclusion Subcommittee of the House Financial Services Committee which has recently expanded its scope to include cryptocurrency.  This Subcommittee includes two CPC members—representatives Torres of NY and Sherman of CA.  The CPC can utilize its subcommittee membership and other opportunities to actively engage in shaping this legislation to reflect progressive priorities.
+
+Moreover, **engaging on this issue provides a great opportunity for bipartisanship.** The need for regulation has bipartisan agreement. A number of Republican members have been actively supportive of addressing policy in this area (eg, representative Emmer of MN, Davidson of OH, and others).  It would be remarkable, yet natural, to join forces with the other party on this issue to demonstrate its importance to the American people.
+
+In addition to legislation, **progressive congressional oversight is needed**. I have been dismayed at the administration’s actions that, in the context of overall banking system failures and under the guise of consumer protection, are inhibiting the development of a regulatory environment that would allow the digital asset sector to prosper.  There are those who believe that the administration is responding to entrenched interests that are threatened by the transformative change that crypto may catalyze, taking advantage of the current banking crises to squash crypto, such as by discouraging banks from holding crypto or servicing crypto clients.
+
+I hope you and the CPC will take on this important issue to both support the progressive agenda as well as keep America’s leadership in this new sector.  Blockchain and crypto are borderless by nature.  If the US cannot provide a fertile environment for innovation, the developers will go elsewhere and will not be serving the country or its people.
+
+Thank you very much.
+
+================
+
+</details>
+<details>
+<summary>u/LogrisTheBard finishes his post on decentralised identity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11ufzg6/daily_general_discussion_march_18_2023/jco0gh3/)
+
+Revised/finished post from the other day.
+
+DID (Decentralized ID) systems are a hot topic right now. They are needed for everything from free to play games, social media networks, and airdrops to governance systems like OPs Citizens House. There is (rightly so) a lot of buzz and various takes on how to approach this topic. I think this is one of the existential risks of Defi and I've written about that [before](https://tokenomicsexplained.com/defi-governance-endgame/) (that sure aged well). I'm personally in favor of the [Gitcoin Passport](https://go.gitcoin.co/passport) framework that enables each user to define their own calculation for Sybil Resistance by identifying their stamps and then having an attestation system like I proposed [awhile ago](https://tokenomicsexplained.com/harnessing-collector-psychology-for-good/) compress long form off-chain calculations into simple on-chain maps. The focus of these systems ends at being a proof of humanity per address. They are specifically attempting to solve Sybil-resistance.
+
+However, I think there is the potential to layer reputation systems like credit scores on top of Sybil-resistance and I think the potential of this is largely unexplored. For the sake of this discussion I'll limit reputation to being a purely quantitative, monetary history of honesty rather than history of competence, impact, or ideology. In that context reputation is synonymous with trust. If we want to keep this purely quantitative, what can we objectively measure about something (e.g. code, people, institutions, etc) that makes people trust it? Here are what I think are the three primary pillars of trust:
+
+* **Social Attestation**. When someone signs off on a code review, they are making an attestation. Systems like BrightId and Proof of Humanity are entirely social attestations. These systems are inherently subjective and usually *gameable* so are unreliable on their own but much of the world is entirely built upon attestation layers (your government ID for example).
+
+* **Time**. The longer something has been there the more time attackers have had to inspect it, identify a vulnerability, and attack it. The longer a person has been around the more opportunities have arisen that might lure them to dishonesty. In a permissionless system, time proves doubts to be illusory in the same way that a $20 bill on a busy street is probably fake or glued to the floor the longer it sits there.
+
+* **Opportunity Cost of Honesty**. Watch carefully how trust is used once granted. Any position of trust is exploitable to some degree. Otherwise what are you trusting? Honesty is the degree to which an actor is *suboptimal at exploiting that trust*. Yes, I'm aware how unintuitive that definition of honesty sounds but that's as close as I've come to a formal definition. Your unexploited trust value (UTV) is your maximum exploitable trust - exploited trust.
+
+These pillars stand together to form the base on which a credit system could be built. They are a subset of what Vitalik [identified](https://vitalik.ca/general/2021/03/23/legitimacy.html) in his post on legitimacy.
+
+The first two are straightforward to measure. The latter is a bit more like measuring carbon deltas for Carbon Credits, Sybil values, or MEV because the maximum exploitable trust term is so subjective. With PoS Sybil-resistance is derived from the money you have. Conversely, your UTV is derived from the money you don't (in a sense). It's the money you *don't* have because you chose to be honest. This is akin to the forgery-resistance score from Gitcoin passport being floored at the amount you have spent/lost.
+
+The fact that this is subjective (and potentially monetizable) will probably lead to competing standards for how to calculate it much like credit agencies today. Your address will have the equivalent of an Experian score from multiple aggregators which combines the three pillars above into a single number that anyone can query. Each Defi protocol could choose to use a different score, a combination of scores, or create their own score. Could this lead to abuse by an agency? Yes, but less than the current system which isn't permissionless. 
+
+But how do you bootstrap trust if no one will give you a position of trust you can honor/exploit? You can't bootstrap a system like this based on unsecured loans without first getting robbed by a few ten-thousand *Sybilooors*. The capital efficient answer today is to get involved in communities until someone is willing to grant you trust based on social attestation and time alone. That lacks a certain scalability element though. I think we can do better, even while remaining permissionless. You have to rely on some form of *suboptimality* otherwise the system will be gamed for profit. So what forms of permissionless economic suboptimality are already on-chain? The few that come to mind for me are donations to public goods, unrealized losses on airdrops, suboptimal votes in the face of bribes, and delegated credit.
+
+None of these are perfect. The first criteria requires money to bootstrap. The second and third may have ulterior selfish motives the system can't see. The fourth is basically an extension of social attestation and just begs the question. So how do you bootstrap trust on someone with nothing to give and nothing to lose? I have no good answer but the above is the beginning of a formulation.
+
+Why does it matter? Because this value can be integrated into tokenomic systems. I mentioned unsecured lending above, which is probably the first thing that comes to mind when you hear credit system, but I think that's actually one of the worst use cases for this. To explain why, we first have to break Defi collateral into two categories. The first category is money used as collateral for good behavior but which doesn't have a credibly neutral recipient. ETH staking is the largest example of this category but there are many others. The only criteria here is that the system has an objective, enforceable slashing condition. In this category the money just needs to be forfeit by the staker but it doesn't need to **go anywhere**. The second category is money used to reimburse someone. This includes all your money markets, collateralized stablecoins, insurance protocols, etc. It is more viable to use UTV as collateral for the former category. I wouldn't recommend this for the Ethereum base chain because the data to calculate this is on the base chain and this is a subjective score, not credibly neutral.
+
+So where does this get us? Take a PoS system (not DPoS, that's dumb). The purpose of this system is to reach consensus on something. There are two necessary economic components to a PoS system. First, you have to be able to reward honest actors to incentivize participation. Second, each actor needs something at stake they can lose by being dishonest so you have entropy of bad actors over time. I've never seen a system designed so the failure of the dishonest actors is the main reward driver of the honest ones so I assume any such system has a revenue stream attached to it. Now, could we use reputation credit/UTV for such a system in lieu of capital? It certainly satisfies the something at stake requirement. You just have to be able to prevent collusion in the system and prevent bad actors from joining at a faster rate than the dishonesty entropy.
+
+To prevent collusion I'll rely what I call Bitcoin's/Satoshi's great insight. The failure rate of attacking a network scales super-linearly with the number of anonymous actors in that network. This is because the chance of leaking a secret scales exponentially with the network and there is a common Schelling point to unify against dishonest actors once a secret is exposed. This is the *primary* value of decentralization. Past a certain threshold it is safe and profitable to be honest and risky and expensive to be dishonest. So the key to preventing collusion is to increase decentralization and protect anonymity of actors. Defi satisfies this.
+
+To solve dishonesty entropy we're just using a different collateral (which is still a scarce resource). Today we use capital for Sybil-resistance. This does not provably satisfy the entropy condition and so plutocratic attacks on PoS systems today are *possible*. Given the source of this alternative collateral (historical honesty) UTV may prove out to be a superior selection criteria for identifying honest consensus participants.
+
+This actually creates a beautiful sort of flywheel. By acting honestly you build a reputation score. You can stake your reputation in order to promise certain services. By fulfilling your promise you generate both an income stream and further reputation. This creates a compounding benefit to continue acting honestly. A world in which honest actors can build an income stream predicated on their reputation and potentially bootstrapped through community service is also a basis for UBI. It's a step closer to the type of world in which I'd like to live. A few disclaimers though. First, nothing is ever fully proven to be trustworthy. Second, trust is not monotonically increasing. As systems or the world with which they integrate change trust in them fluctuates.
+
+P.S. I've been asked to plug an on-topic game from the EVMaverick's called Layer Zero. The basic premise of the game is to willingly enter into a contract with a group of people who can all openly rug the contract. Everyone has to put a share of collateral into the pot to join. Anyone in the game can take the pot. If no one takes the pot then everyone is generating UTV at the pot size * participants. Conceptually, a set of non-conspiring participants in a game like this can generate more in UTV than the money at stake. While UTV as defined above is scarce if it can be generated faster than capital it could out-compete capital for shares of revenue streams because of this.
+
+Self-serving [link](https://tokenomicsexplained.com/monetizing-honesty)
+
+</details>
+<details>
+<summary>u/alexiskef shares news of DeFi Llama forking their own platform</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11vd15b/daily_general_discussion_march_19_2023/jctfvna/)
+
+The DefiLlama team is [forking](https://twitter.com/0xngmi/status/1637425043482222599?t=hwk8m-r1H-oPPfJkFAxzLg&s=19) Defillama
+
+[According](https://twitter.com/0xngmi/status/1637425049106784256?t=ZIVOP-3nsVggGEO9Jwio5Q&s=19) to Oxngmi: "The person who controls both defillama’s twitter and domain has decided to launch a token despite everybody in the team not wanting it. That is why we (the DefiLlama team who have built the site you all know and love for the past three years) have decided to fork Defillama and start fresh on llama.fi and @llamadotfi"
+
+DO NOT TRUST ANY COMMUNICATION OR TOKEN FROM @Defillama or Defillama .com"
+
+I have no idea if this is true, but the accounts seem to be the ones that control the extension. Personally I have not uninstalled it, but be careful until we find out what is actually happening..
+
+</details>
+<details>
+<summary>u/0xBOBA hasn't been checking price for the last 3 months and checks in with us</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11vd15b/daily_general_discussion_march_19_2023/jcv3xmn/)
+
+I tried to not check prices.  I lasted 3 months.  I ended up checking because of the SVB news.  Good to see ETH up 50% since I left.  Makes me a little less worried about my CDP.  The $ARB airdrop was a nice surprise too.  Glad I didn’t miss it while I was gone.  The only other thing I was really worried about while I was gone were my non-ETH holdings. 
+
+With withdrawals coming I finally gave up on my LINK and swapped them for RPL.  More confidence in RPL than LINK.  Should have done it long ago. I got too attached to my LINK and waited too long for the ratio to recover.  (I’m a horrible trader). Lesson learned there.  But I need an exit plan for RPL. It’s only 2% of my portfolio though.  
+
+I’ve used this drop in the ratio to unload most of my BTC.  Now only 3% of my portfolio. 0% at 0.055 if my limit orders go through. A part of me wants to keep a little bit of BTC just for nostalgic reasons but I really don’t see the point of BTC. I skimmed some of the recent dailies and see others offloading their BTC.  This probably means the ratio will continue to drop ☹️
+
+So now I am 95% ETH and too heavy in ETHE in my retirement funds. Feels nice (other than the horrible ETHE price: what’s going on there?).  It was kind of nice not checking the price for a few months, but I also missed reading the daily. 
+
+I’ll probably stick around to claim my $ARB and maybe until withdrawals are enabled.  Anything fun to do on Arbitrum these days?   Something that won’t make taxes a mess next year.
+
+</details>
+<details>
+<summary>u/wolfparking has some Airdrop hunting ideas</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11waa98/daily_general_discussion_march_20_2023/jczjgzy/)
+
+Airdrop Ideas? 
+
+I recently joked with some friends at work about how the ARB airdrop would be my only work bonus this year and, of course, they got super interested. Last Xmas I gave them all RPL and it has tripled in value, but since then they haven't really done anything with defi or crypto. However, I think airdrop farming might just be the push that gets them swimming!
+
+So, I'm compiling a list of some of my airdrop farming tasks that I plan on doing every week. For the uninitiated, I'll provide step-by-step guides on some of the tasks every week if I can. I'll post all that here in the [caches.xyz](https://caches.xyz/) forum: <https://caches.xyz/forums/discussion/airdrop-hunts-checklist/>
+
+(Must sign in to see today's update)
+
+Here is the shortened version of it. Please let me know if you have any ideas I can add!
+
+*Bonus and super useful if you can add whether or not it is likely to happen, costs involved, or potential gains
+
+~~[ ] • Attend Swell Discord meeting today on 3/17.~~ 
+
+[ ] • Prepare art for Swell memes and articles and post a tweet about it on their Discord Week of 3/19 (deadline Fri?)
+
+[ ] • Create StarknetID ([My guide](https://caches.xyz/forums/discussion/airdrop-hunts-checklist/) created 3/19)
+
+[ ] • Zksync 1.0 transactions (Use zig zag)
+
+[ ] • Scroll testnet transactions.
+
+[ ] • Matcha.xyz swaps.
+
+[ ] • Continue interacting on Optimism and Arbitrum (Use HOP and VSTA)
+
+[ ] • orbiter.finance (Bridge)
+
+[ ] • starknet testnet (mint NFTs, create blocks NFT, dapps)
+
+[ ] • checkout earni.fi
+
+[ ] • GMX blueberry lottery
+
+[ ] • Use argent wallet (swaps, dapps, and LP)
+
+[ ] • Use Lens (make a post, friend, etc)
+
+If you don't mind, please engage on the [caches.xyz](https://caches.xyz/) forum if you need assistance as I'm certain that others will have the same or similar questions as you there.
+
+</details>
+<details>
+<summary>u/Ender985 has an update from the NFT world</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11x8e2l/daily_general_discussion_march_21_2023/jd2chxa/)
+
+Meanwhile, more NFT shenanigans..
+
+535 DeGods NFTs that had been previously burned in Ethereum, were "ressurrected" as ordinals in BTC, at 0.333 BTC per mint this past weekend. 
+
+They all sold out in a single block.
+
+The project dominated ordinals secondary markets, with over $1M in volume, ahead of YugaLab's twelvefold ordinals by >7x. It seems ordinals are here to stay, and more so if they are backed by already established brands such as DeGods.
+
+</details>
+<details>
+<summary>u/SoNotYou discusses compromised Arbitrum airdrop wallets</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11x8e2l/daily_general_discussion_march_21_2023/jd2b2kk/)
+
+Yesterday some twitter user found out ~2400 compromised accounts all approving ARB. Someone analysed these (actually 2225) wallets and 1791 wallets are elligble for around 3 million ARB total.
+
+<https://github.com/ArbitrumFoundation/sybil-detection/issues/3>
+
+Many users became victim by following links under the announcement tweet. Suprised Arbitrum didn't provide the link to their website with the annoucement or turn off replies. They are not new to how crypto scams and hacks work.
+
+<https://twitter.com/arbitrum/status/1636352104913666050>
+
+Frustrating to see that so much damage is done. Users have personal responsibility sure. But I think the damage wouldn't be this big if Arbitrum guided users to the right place. Maybe I am a bit unreasonable here... 
+
+Stuff like this can't be happening if crypto ever wants to become 'mainstream'.
+
+*I have not been hacked personally and this just an observation.*
+
+</details>
+<details>
+<summary>u/busterrulezzz has something to say about Balaji</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11y8xk3/daily_general_discussion_march_22_2023/jd7n6bh/)
+
+I will take Balaji seriously when he goes to explain his theory to people who have the intellectual background to ask him the hard questions.
+
+His appearance on Bankless and the Pomp show yesterday were appalling. Those weren't interviews, they were oral presentations. He could have said that Satoshi was going to come down from heaven to wash away our sins and give us eternal life, and the hosts would have nodded their heads and said "woah."
+
+Balaji is not the intellectual he claims to be. An intellectual does not choose hosts sold out to his cause to make his point - instead, he will go directly to confront those who disagree. This is the very basis of the scientific method. I also find his tone to be alarmist, dramatic, filled with hyperbole created to capture attention.
+
+Who is he, anyway? He is an engineer who became a multi-millionaire in the early 2010s - he has no expertise in finance, history or politics, beyond what he has read elsewhere. Ironically, he made his fortune from the system he says he wants to escape today. His claim to fame is that he "predicted" the pandemic on January 30, 2020. Except that on January 30th, the WHO declared a "global health emergency", Wuhan had already been cut off from the rest of the world, there were confirmed cases in dozens of countries... He was a bit early, sure, but it is not the feat he claims.
+
+Finally, about his $1M prediction, he has already prepared his exit. In three months he will say, "Oh, the bet was just a wake-up call, you shouldn't have taken it at face value, I'm not sure about the timeline, but hyperinflation will happen soon." It won't happen, and he'll push the deadline again and again, until he disappear into irrelevance.
+
+</details>
+<details>
+<summary>u/nixorokish has the deets on Coinbase's Wells notice from the SEC</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/11y8xk3/daily_general_discussion_march_22_2023/jd9w9ky/)
+
+<https://twitter.com/brian_armstrong/status/1638654192138199041>
+
+Brian Armstrong:
+> 1/ Today Coinbase received a Wells notice from the SEC focused on staking and asset listings. A Wells notice typically precedes an enforcement action.    
+> [...]    
+> 4/ We are proud to stand up for our customers and the industry in these moments.
+
+Honestly... best that Coinbase, who's well-capitalized and equipped to handle this, to be the one to go to court with the SEC and set a precedent. A win for crypto against the SEC in court would be a big deal and there's no one better poised to do that than CB.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #11: March 17, 2023</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | no POAP
