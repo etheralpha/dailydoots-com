@@ -4574,49 +4574,49 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | atleft                | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | bbroad25              | ".08 today, easy."
-.  | BramBramEth           | Working on a seed phrase recovery tool
+.  | brambramEth           | Working on a seed phrase recovery tool
 .  | bullmeza              | [Bequest](https://www.bequest.finance/) - A Dead Man's switch to distribute your tokens and NFTs to selected recipients
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | cryptojobsgg          | [CryptoJobs.gg](https://cryptojobs.gg/) - The #1 crypto jobs board for employers and future employees
-.  | Cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
+.  | cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | danceratopz           | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
 .  | dmihal                | [CryptoStats Founder](https://cryptostats.community/) - A community-driven neutral source for crypto metrics
 .  | domotheus             | EF Researcher
-.  | Dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
+.  | dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
 .  | fc-test               | Working on building a web3 game
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including this site!)
 .  | haurog                | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | hashtagfuzzmaster     | "ALL HAIL THE ETERNAL CRAB"
-.  | InsideTheSimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
-.  | Jey_s_TeArS           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
+.  | insidethesimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
+.  | jey_s_tears           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
-.  | Juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
+.  | juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
 .  | lefterisjp            | [Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
-.  | LogrisTheBard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
+.  | logristhebard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
 .  | midnightonmars        | [GridPlus](https://gridplus.io/) CEO
-.  | Mister_Eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
+.  | mister_eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
 .  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
-.  | ProfStrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
+.  | profstrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
 .  | readreed              | [POAP Studio](https://www.poap.studio/) team member
-.  | REALJohnBMacLemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
-.  | RooftopPortaPotty     | Doing security analysis of browser extensions and web3 wallets<br>Reincarnation of u/skidseverywhere
+.  | realjohnbmaclemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
+.  | rooftopportapotty     | Doing security analysis of browser extensions and web3 wallets<br>Reincarnation of u/skidseverywhere
 .  | seamonkey82           | The client whisperer
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
-.  | the-A-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
-.  | ToEthMooonGuy         | "To ETH Mooon!!! ┗(°0°)┛"
-.  | Tricky_Troll          | Tricky's Daily Doots
+.  | the-a-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
+.  | toethmooonguy         | "To ETH Mooon!!! ┗(°0°)┛"
+.  | tricky_troll          | Tricky's Daily Doots
 .  | usesbinkvideo         | The subscriber countoooor
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
-.  | Wholesome_Crypto      | [Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path
+.  | wholesome_crypto      | [Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path
 .  | wizardofhex           | [POAP Gated Documents](https://github.com/wizardofhex/poapgateddocuments) - An app to share POAP-encrypted documents and open to contributors (registered with GitPOAP!)
-.  | ZeroTricks            | [EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened "On this Day" in Ethereum
+.  | zerotricks            | [EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened "On this Day" in Ethereum
 
 
 [↑ Back to top ↑](#)
@@ -4630,29 +4630,29 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 
 |  | Username              | Project              | Info
 ---|-----------------------|----------------------|---
-.  | _WebOfTrust           | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
-.  | Bob-Rossi             | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | _weboftrust           | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | bob-rossi             | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
-.  | TheNextBestGuess      | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/fishfearme.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
-.  | Ytocin                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | thenextbestguess      | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/fishfearme.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | ytocin                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | dmihal                | ENS                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
 .  | lefterisjp            | ENS                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
 .  | superphiz             | ENS                  | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
 .  | lefterisjp            | Gitcoin              | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xDbD27635A534A3d3169Ef0498beB56Fb9c937489)
-.  | Bob-Rossi             | Hop                  | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+.  | bob-rossi             | Hop                  | [view details and delegate](https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | dmihal                | Hop                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | dybsy                 | Hop                  | [view details and delegate](https://www.tally.xyz/profile/dybsy.sismo.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | lefterisjp            | Hop                  | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | liberosist            | Hop                  | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
 .  | superphiz             | Hop                  | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
-.  | _WebOfTrust           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | _weboftrust           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | dmihal                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | lefterisjp            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | liberosist            | Optimism             | [view details and delegate](https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
-.  | MinimalGravitas       | Optimism             | [view details and delegate](https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | minimalgravitas       | Optimism             | [view details and delegate](https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | pseudotheos           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/pseudotheos.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
-.  | Ytocin                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
-.  | DCinvestor            | Uniswap              | [view details and delegate](https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3)
+.  | ytocin                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | dcinvestor            | Uniswap              | [view details and delegate](https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3)
 
 
 [↑ Back to top ↑](#)
