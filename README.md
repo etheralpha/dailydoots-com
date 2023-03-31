@@ -7,7 +7,7 @@
 
 <callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/4csv3J2N) for a roundup of the top 10 Doots of the Week! Recordings will be posted to [YouTube](https://www.youtube.com/@evmavericks/streams) and [Spotify](https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I).</callout>
 
-<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [🛠️ Community Projects](#projects) &nbsp;&nbsp;|&nbsp;&nbsp; [🗳️ EthFinance Delegates](#delegates)</callout>
+<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [🛠️ Community Profiles](#profiles) &nbsp;&nbsp;|&nbsp;&nbsp; [🗳️ EthFinance Delegates](#delegates)</callout>
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
@@ -4563,7 +4563,7 @@ Just wanted to give a shoutout on that amazing achievement.
 
 
 
-# Projects
+# Profiles
 
 In an effort to spread awareness of what everyone in the community is working on, below is a list of users and their projects. Working on something cool and not listed? Send a DM to [u/hanniabu](https://reddit.com/u/hanniabu) to get added.
 
