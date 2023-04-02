@@ -4588,6 +4588,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
 .  | fc-test               | Working on building a web3 game
+.  | geoffbezos            | Crypto opportunities monthly roundup
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including this site!)
 .  | haurog                | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | hashtagfuzzmaster     | "ALL HAIL THE ETERNAL CRAB"
