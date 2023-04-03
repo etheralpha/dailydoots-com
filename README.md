@@ -4603,6 +4603,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | jey_s_tears           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>[GridPlus](https://gridplus.io/) team member
 .  | juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
+.  | kudeta                | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | lefterisjp            | [Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | logristhebard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
