@@ -4623,6 +4623,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | therocketman_eth      | Offchain Labs (Arbitrum) Integration Engineer
 .  | toethmooonguy         | "To ETH Mooon!!! ┗(°0°)┛"
 .  | tricky_troll          | Tricky's Daily Doots
+.  | unitedterror          | [Illuminate Founder](https://illuminate.finance/) - A fixed rate lending protocol aggregator
 .  | usesbinkvideo         | The subscriber countoooor
 .  | waqwaqattack          | [Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all the happenings in the Rocket Pool community on Discord, Reddit, and the DAO forum and Reddit's r/ethfinance daily thread
 .  | wholesome_crypto      | [Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path
