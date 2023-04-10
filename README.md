@@ -4592,7 +4592,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | dmihal                | [CryptoStats Founder](https://cryptostats.community/) - A community-driven neutral source for crypto metrics
 .  | domotheus             | EF Researcher
 .  | dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
-.  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
+.  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content <br> Part of the core team at Unstoppable Games
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
 .  | fc-test               | Working on building a web3 game
 .  | geoffbezos            | Crypto opportunities monthly roundup
