@@ -1178,14 +1178,9 @@ And of course, thank you so much to the ethfinance community. I gravitated here 
 
 ---
 
-[View on Reddit →]()
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/12i920r/daily_general_discussion_april_11_2023/jfu803h/)
 
 [u/etheraider](https://reddit.com/u/etheraider):
-
-</details>
-<details>
-<summary></summary>
-[View on Reddit →](https://reddit.com/r/ethfinance/comments/12i920r/daily_general_discussion_april_11_2023/jfu803h/)
 
 As [u/LeagueGreedy](https://reddit.com/u/LeagueGreedy) mentioned we are excited to celebrate Shapellowl with you!
 
