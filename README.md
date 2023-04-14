@@ -916,7 +916,7 @@ Mister_Eth left to buy some milk 😢
 
 I deposited my ETH into the staking contract 871 days ago. Later, on 1 Dec 2020, Beacon Chain launched, and since then my solo staking rig has been running 24/7 with near perfect uptime. Total downtime amounts to probably less than half an hour. I've earned a nice amount in consensus and execution rewards.  Operationally it has cost me nearly nothing, about £100-150 in electricity over the 2 or so years, and about 12 hours of my time. It runs in a fanless case, so I don't even hear it. I sometimes forget it even exists. It contributes to the Ethereum network and is a source of passive income that has truly no intrusion in my life. And yet, I can't wait to instantaneously exit all of my validators and dump all of my ETH later tonight.
 
-edit: thank you [u/superphiz(https://reddit.com/u/superphiz) for chadding in with the gold!
+edit: thank you [u/superphiz](https://reddit.com/u/superphiz) for chadding in with the gold!
 
 </details>
 <details>
