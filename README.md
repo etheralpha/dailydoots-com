@@ -889,8 +889,8 @@ Guest appearance by Anthony Bertolino, Head of Growth at POAP, to discuss the re
 - Shapella upgrade POAP.art party on April 12 9:30 UTC+0 (5:30am EST), more details to come
 - There's a new [Delegates](#delegates) section where you can find members of the EthFinance community to delegate votes to
 - Upcoming guests:
-  - March 31: Gloria Kimbwala from SuperModular.xyz
-  - April 7: Evin McMullen from Disco.xyz
+  - March 31 (cancelled): Gloria Kimbwala from SuperModular.xyz
+  - April 7 (cancelled): Evin McMullen from Disco.xyz
   - April 14: Chris Whinfrey from Hop Protocol
 
 <details>
