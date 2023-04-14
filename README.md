@@ -15,7 +15,7 @@
 
 Rank | Username   | Daily Doots
 -----|------------|------------
-. | [superphiz](https://reddit.com/u/superphiz) | 102Moderator
+. | [superphiz](https://reddit.com/u/superphiz) | 102
 . | [logristhebard](https://reddit.com/u/logristhebard) | 56
 . | [tricky_troll](https://reddit.com/u/tricky_troll) | 56
 . | [kbrot](https://reddit.com/u/kbrot) | 52
