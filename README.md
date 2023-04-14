@@ -879,7 +879,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #12: March 24, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/sale/92be490b-59f3-42ee-af92-1e5851a4c63d)
+[Livestream Recording](https://www.youtube.com/watch?v=K8n4M1ltdBQ) | [POAP](https://poap.gallery/event/111365)
 
 Guest appearance by Anthony Bertolino, Head of Growth at POAP, to discuss the release of POAP Drops! <https://drops.poap.xyz/>
 
@@ -1342,7 +1342,7 @@ Honestly... best that Coinbase, who's well-capitalized and equipped to handle th
 <details>
   <summary>Week #11: March 17, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | no POAP
+No stream | No POAP
 
 <details>
 <summary>WANTED: The morning trinity</summary>
@@ -1653,7 +1653,7 @@ It distilled the community down to those that believe in the original ethos ethe
 <details>
   <summary>Week #10: March 10, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP](https://poap.gallery/event/109458)
+[Livestream Recording](https://www.youtube.com/watch?v=LWNxFT7goPY) | [POAP](https://poap.gallery/event/109458)
 
 **Announcements**
 
