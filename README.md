@@ -884,7 +884,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #15: April 14, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/122667)
+[Livestream Recording](https://www.youtube.com/watch?v=B7qRiEzM4LE) | [POAP](https://poap.gallery/event/122667)
 
 Guest appearance by Christopher Whinfrey, Co-Founder of Hop Protocol! <https://hop.exchange/>
 
@@ -2355,7 +2355,7 @@ Honestly... best that Coinbase, who's well-capitalized and equipped to handle th
 <details>
   <summary>Week #11: March 17, 2023</summary>
 
-No stream | No POAP
+[Livestream Recording](https://www.youtube.com/watch?v=ALt23lX6vl0) | No POAP
 
 <details>
 <summary>WANTED: The morning trinity</summary>
