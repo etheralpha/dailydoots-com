@@ -892,6 +892,8 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/123583)
 
+Guest appearance by Gloria Kimbwala, Principal Engineer at SuperModular.xyz https://supermodular.xyz/
+
 **Announcements**
 
 - Superphiz created a POAP to celebrate [u/Tricky_Troll](https://reddit.com/u/Tricky_Troll) completing a full year of daily doots in EthFinance: <https://checkout.poap.xyz/123280>
