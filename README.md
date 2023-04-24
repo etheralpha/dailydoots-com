@@ -890,7 +890,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #16: April 21, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/123583)
+[Livestream Recording](https://www.youtube.com/watch?v=n6cLenFLq2I) | [POAP Checkout](https://poap.gallery/event/123583)
 
 Guest appearance by Gloria Kimbwala, Principal Engineer at SuperModular.xyz https://supermodular.xyz/
 
