@@ -1398,7 +1398,7 @@ Keep 'er lit,
 
 - Yeopaa.
 
-![- Yeopaa.](https://i.ibb.co/n8XNjHX/IMG-0790.jpg)
+<https://i.ibb.co/n8XNjHX/IMG-0790.jpg> (wedding photo)
 
 </details>
 <details>
