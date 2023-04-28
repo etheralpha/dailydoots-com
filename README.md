@@ -3052,7 +3052,7 @@ It distilled the community down to those that believe in the original ethos ethe
 
 **Announcements**
 
-- Contrats to jamescarnley.eth, a long time contributor of [r/EthFinance](https://reddit.com/r/ethfinance) for winning a GridPlus Lattice1 + 2 SafeCards in [last week's raffle](https://poap.fun/2079)! 🎉
+- Congrats to jamescarnley.eth, a long time contributor of [r/EthFinance](https://reddit.com/r/ethfinance) for winning a GridPlus Lattice1 + 2 SafeCards in [last week's raffle](https://poap.fun/2079)! 🎉
 
 <details>
 <summary>The morning trinity</summary>
