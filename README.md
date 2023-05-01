@@ -7,7 +7,7 @@
 
 <callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/4csv3J2N) for a roundup of the top 10 Doots of the Week! Recordings will be posted to [YouTube](https://www.youtube.com/@evmavericks/streams) and [Spotify](https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I).</callout>
 
-<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [🛠️ Community Profiles](#profiles) &nbsp;&nbsp;|&nbsp;&nbsp; [🗳️ EthFinance Delegates](#delegates)</callout>
+<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [🛠️ Community Profiles](#profiles) <br> [🗳️ EthFinance Delegates](#delegates) &nbsp;&nbsp;|&nbsp;&nbsp; [🦁 Chrome Extension](https://github.com/etheralpha/ethfinance-extension)</callout>
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
