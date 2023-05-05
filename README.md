@@ -893,7 +893,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #17: April 28, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/124517)
+[Livestream Recording](https://www.youtube.com/watch?v=saq7NkGh4PY) | [POAP](https://poap.gallery/event/124517)
 
 **Announcements**
 
