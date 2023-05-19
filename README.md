@@ -7,7 +7,7 @@
 
 <callout>📣 Join the Ethfinance Livestream every Friday 12pm EST in the [EVMavericks Discord](https://discord.gg/4csv3J2N) for a roundup of the top 10 Doots of the Week! Recordings will be posted to [YouTube](https://www.youtube.com/@evmavericks/streams) and [Spotify](https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I).</callout>
 
-<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [🛠️ Community Profiles](#profiles) <br> [🗳️ EthFinance Delegates](#delegates) &nbsp;&nbsp;|&nbsp;&nbsp; [🦁 Chrome Extension](https://github.com/etheralpha/ethfinance-extension)</callout>
+<callout>[🗓️ Weekly Doots](#weekly-doots) &nbsp;&nbsp;|&nbsp;&nbsp; [👤 Community Profiles](#profiles) <br> [🗳️ EthFinance Delegates](#delegates) &nbsp;&nbsp;|&nbsp;&nbsp; [🦁 Chrome Extension](https://github.com/etheralpha/ethfinance-extension)</callout>
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
@@ -911,7 +911,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #18: May 5, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/125267)
+[Livestream Recording](https://www.youtube.com/watch?v=6bw1j2qVXoU) | [POAP]([https://checkout.poap.xyz/125267](https://poap.gallery/event/125267))
 
 **Announcements**
 
