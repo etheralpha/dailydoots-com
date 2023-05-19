@@ -1027,14 +1027,14 @@ I could make a valid (but scammy) ERC-20 token where the "**transfer**()" functi
 
 ##**What is a BRC-20 token?**
 
-First off ... documentation on the BRC-20 standard absolutely sucks: https://domo-2.gitbook.io/brc-20-experiment/
+First off ... documentation on the BRC-20 standard absolutely sucks: <https://domo-2.gitbook.io/brc-20-experiment/>
 
 I thought it was a joke, but that's the full token standard documentation.
 
 Some more info:
 
-* https://domo-2.gitbook.io/brc-20-experiment/examples
-* https://thebitcoinmanual.com/articles/brc-20-tokens/
+* <https://domo-2.gitbook.io/brc-20-experiment/examples>
+* <https://thebitcoinmanual.com/articles/brc-20-tokens/>
 
 BRC-20 is just a short JSON object (a simple data structure) and does not contain any functions. It's based on ordinal theory and relies on the ordinal nodes to operate on it and provide it with **standard** functions.
 
@@ -1196,13 +1196,13 @@ Mr McHenry: We want a collab of CFTC and SEC to make laws and close regulatory g
 Durgee: I'm the only non-attorney here. Already there are conflicting laws against other existing laws for crypto from the SEC and CFTC. This is a developing tech innovation that happens to be a digital currency as well. Adoption at this stage is not a tech problem, it's a human conditioning issue. A 13 year old in their lifetime has grown up with BTC and only known a world with crypto in their life.
 
 
-Mr Santori: Kraken is well established in the US and the world. Europe has more effective rules from tested principles unlike the US. Gaps in US have created litigation that doesn't protect consumers. Mandates needed to protect us: <https://www.youtube.com/live/gwJ1QAwP7UE?feature=share&t=43m21s>
+Mr Santori: Kraken is well established in the US and the world. Europe has more effective rules from tested principles unlike the US. Gaps in US have created litigation that doesn't protect consumers. Mandates needed to protect us: <https://www.youtube.com/live/gwJ1QAwP7UE?t=43m21s>
 
 
 Mr Massad: Confusion about commodity/security classification of crypto worsens the gap problem. How can we apply Howey test without this info? We need to pass a compliance law directing CFTC and SEC (or SRO; self regulating agency) to create laws and enforce them, without rewriting commodities and securities laws. Regardless of your stance on crypto we need this framework to protect consumers.
 
 
-Mr Blaugrand: If investors could have traded digital assets on an exchange that was regulated like the NY Stock exchange, FTX situation wouldn't have happened. We can use the established rules we already have and apply it to crypto with these 4 rules: <https://www.youtube.com/live/gwJ1QAwP7UE?feature=share&t=58m34s>
+Mr Blaugrand: If investors could have traded digital assets on an exchange that was regulated like the NY Stock exchange, FTX situation wouldn't have happened. We can use the established rules we already have and apply it to crypto with these 4 rules: <https://www.youtube.com/live/gwJ1QAwP7UE?t=58m34s>
 
 Mr Steil (WI): We still have no path forward for regulation, even after Gensler's meeting with Congress. Congress is ready to do the job. How do we not miss out vs overseas? W/Shoenberger: Switzerland made it very clear to define security/commodities. It gave them legal security and clarity that allowed them to proceed successfully. This framework that they provided certainly provided the legal certainty to be headquartered there and to have legal clarity around the classification instantly. W/Durgee: The rest of the world has more stability and growth in every avenue of crypto. 3x as much investments vs the US in some markets.
 
