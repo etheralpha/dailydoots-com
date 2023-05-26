@@ -973,7 +973,7 @@ It wouldn't take much volume from Fidelity to cancel out the... checks notes... 
 <summary>Shitpost of the week, part deux</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/daily_general_discussion_may_26_2023/jlo2kxd/)
 
-[u/](https://reddit.com/u/monkeyhold99):
+[u/monkeyhold99](https://reddit.com/u/monkeyhold99):
 
 Ethereum is the only digital asset in the world that is all of the below:
 
@@ -991,7 +991,7 @@ Traditional finance people and most normies *still* have not figured this out. I
 
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/daily_general_discussion_may_26_2023/jloluo7/)
 
-[u/](https://reddit.com/u/ajmonkfish):
+[u/ajmonkfish](https://reddit.com/u/ajmonkfish):
 
 Let's rearrange that and get a catchy acronym.
 
