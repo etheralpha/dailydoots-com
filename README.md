@@ -11,34 +11,34 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>880 Dooters - Last Updated May 19, 2023</small>
+<small>884 Dooters - Last Updated May 26, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 109
-. | [logristhebard](https://reddit.com/u/logristhebard) | 61
+. | [logristhebard](https://reddit.com/u/logristhebard) | 63
 . | [tricky_troll](https://reddit.com/u/tricky_troll) | 60
 . | [kbrot](https://reddit.com/u/kbrot) | 55
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 45
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 45
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 44
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 44
 . | [syentist](https://reddit.com/u/syentist) | 43
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
 . | [set1less](https://reddit.com/u/set1less) | 42
-. | [696_eth](https://reddit.com/u/696_eth) | 40
+. | [696_eth](https://reddit.com/u/696_eth) | 42
 . | [nixorokish](https://reddit.com/u/nixorokish) | 38
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 35
-. | [etheraider](https://reddit.com/u/etheraider) | 34
+. | [etheraider](https://reddit.com/u/etheraider) | 35
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 33
+. | [benido2030](https://reddit.com/u/benido2030) | 32
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 31
-. | [benido2030](https://reddit.com/u/benido2030) | 31
+. | [hanniabu](https://reddit.com/u/hanniabu) | 31
 . | [interweaver](https://reddit.com/u/interweaver) | 30
-. | [hanniabu](https://reddit.com/u/hanniabu) | 30
+. | [alexiskef](https://reddit.com/u/alexiskef) | 27
 . | [austonst](https://reddit.com/u/austonst) | 27
-. | [alexiskef](https://reddit.com/u/alexiskef) | 26
+. | [ender985](https://reddit.com/u/ender985) | 25
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 24
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 24
-. | [ender985](https://reddit.com/u/ender985) | 24
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 23
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
 . | [stablecoin](https://reddit.com/u/stablecoin) | 22
@@ -56,31 +56,32 @@ Rank | Username   | Daily Doots
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
 . | [needlerop](https://reddit.com/u/needlerop) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
+. | [the-a-word](https://reddit.com/u/the-a-word) | 17
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 17
 . | [ethacct](https://reddit.com/u/ethacct) | 17
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 17
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 16
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
-. | [the-a-word](https://reddit.com/u/the-a-word) | 16
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 16
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 15
 . | [nikola_j](https://reddit.com/u/nikola_j) | 15
+. | [papazio](https://reddit.com/u/papazio) | 15
 . | [ber10](https://reddit.com/u/ber10) | 15
+. | [aaj094](https://reddit.com/u/aaj094) | 15
 . | [teedeepee](https://reddit.com/u/teedeepee) | 14
-. | [papazio](https://reddit.com/u/papazio) | 14
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 14
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 14
+. | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 14
 . | [dreth](https://reddit.com/u/dreth) | 13
 . | [offmyporch](https://reddit.com/u/offmyporch) | 13
 . | [hblask](https://reddit.com/u/hblask) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
+. | [wolfparking](https://reddit.com/u/wolfparking) | 13
 . | [revanchist1](https://reddit.com/u/revanchist1) | 13
 . | [pa7x1](https://reddit.com/u/pa7x1) | 13
-. | [aaj094](https://reddit.com/u/aaj094) | 13
-. | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 13
+. | [masterroshi9](https://reddit.com/u/masterroshi9) | 13
 . | [seamonkey82](https://reddit.com/u/seamonkey82) | 12
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 12
-. | [wolfparking](https://reddit.com/u/wolfparking) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
 . | [kingleo23](https://reddit.com/u/kingleo23) | 12
@@ -90,50 +91,50 @@ Rank | Username   | Daily Doots
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
 . | [unitedterror](https://reddit.com/u/unitedterror) | 11
 . | [thehighflyer](https://reddit.com/u/thehighflyer) | 11
+. | [sonotyou](https://reddit.com/u/sonotyou) | 11
 . | [pegcity](https://reddit.com/u/pegcity) | 11
-. | [masterroshi9](https://reddit.com/u/masterroshi9) | 11
 . | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 11
 . | [kudeta](https://reddit.com/u/kudeta) | 11
 . | [etherbie](https://reddit.com/u/etherbie) | 11
 . | [cutsnek](https://reddit.com/u/cutsnek) | 10
-. | [sonotyou](https://reddit.com/u/sonotyou) | 10
+. | [silentjxhn](https://reddit.com/u/silentjxhn) | 10
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 10
 . | [defirobot](https://reddit.com/u/defirobot) | 10
 . | [bakedent](https://reddit.com/u/bakedent) | 10
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
 . | [harryzke](https://reddit.com/u/harryzke) | 9
+. | [pbrody](https://reddit.com/u/pbrody) | 9
 . | [vedran_](https://reddit.com/u/vedran_) | 9
 . | [thehansgruber](https://reddit.com/u/thehansgruber) | 9
-. | [silentjxhn](https://reddit.com/u/silentjxhn) | 9
+. | [spacesider](https://reddit.com/u/spacesider) | 9
 . | [phimarhal](https://reddit.com/u/phimarhal) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 9
 . | [haurog](https://reddit.com/u/haurog) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
 . | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 9
 . | [ch3white10](https://reddit.com/u/ch3white10) | 9
 . | [barthib](https://reddit.com/u/barthib) | 9
 . | [barleythecat](https://reddit.com/u/barleythecat) | 9
+. | [atyzze](https://reddit.com/u/atyzze) | 9
 . | [yeahdave4](https://reddit.com/u/yeahdave4) | 8
+. | [abcoathup](https://reddit.com/u/abcoathup) | 8
 . | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 8
 . | [ev1501](https://reddit.com/u/ev1501) | 8
 . | [jumnhy](https://reddit.com/u/jumnhy) | 8
-. | [pbrody](https://reddit.com/u/pbrody) | 8
+. | [wulkingdead](https://reddit.com/u/wulkingdead) | 8
 . | [weedstocks](https://reddit.com/u/weedstocks) | 8
-. | [spacesider](https://reddit.com/u/spacesider) | 8
 . | [showbizza](https://reddit.com/u/showbizza) | 8
 . | [ro-_-b](https://reddit.com/u/ro-_-b) | 8
 . | [pembull](https://reddit.com/u/pembull) | 8
 . | [not_selling_eth](https://reddit.com/u/not_selling_eth) | 8
 . | [iscaacsi](https://reddit.com/u/iscaacsi) | 8
+. | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 8
 . | [confucius_said](https://reddit.com/u/confucius_said) | 8
 . | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 8
 . | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 8
 . | [bigglybillbrasky](https://reddit.com/u/bigglybillbrasky) | 8
-. | [atyzze](https://reddit.com/u/atyzze) | 8
 . | [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 8
 . | [accountaccumulator](https://reddit.com/u/accountaccumulator) | 8
-. | [abcoathup](https://reddit.com/u/abcoathup) | 7
-. | [wulkingdead](https://reddit.com/u/wulkingdead) | 7
 . | [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [thepaypay](https://reddit.com/u/thepaypay) | 7
@@ -146,31 +147,34 @@ Rank | Username   | Daily Doots
 . | [mayneminu](https://reddit.com/u/mayneminu) | 7
 . | [magnushansson](https://reddit.com/u/magnushansson) | 7
 . | [keepontruckinbag](https://reddit.com/u/keepontruckinbag) | 7
+. | [juxtanotherposition](https://reddit.com/u/juxtanotherposition) | 7
 . | [jmart762](https://reddit.com/u/jmart762) | 7
 . | [jin366](https://reddit.com/u/jin366) | 7
 . | [jbroja](https://reddit.com/u/jbroja) | 7
 . | [ipeculiarly](https://reddit.com/u/ipeculiarly) | 7
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 7
-. | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 7
 . | [doubtstarsarefire](https://reddit.com/u/doubtstarsarefire) | 7
 . | [1l0o](https://reddit.com/u/1l0o) | 7
 . | [thenextbestguess](https://reddit.com/u/thenextbestguess) | 6
+. | [timmerwb](https://reddit.com/u/timmerwb) | 6
+. | [theethmeister](https://reddit.com/u/theethmeister) | 6
+. | [t0bii](https://reddit.com/u/t0bii) | 6
+. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 6
 . | [sal_t_nuts](https://reddit.com/u/sal_t_nuts) | 6
+. | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 6
 . | [lops21](https://reddit.com/u/lops21) | 6
-. | [juxtanotherposition](https://reddit.com/u/juxtanotherposition) | 6
 . | [cosmiccollusion](https://reddit.com/u/cosmiccollusion) | 6
 . | [asdafari12](https://reddit.com/u/asdafari12) | 6
+. | [_weboftrust](https://reddit.com/u/_weboftrust) | 6
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 5
 . | [zk_snacks](https://reddit.com/u/zk_snacks) | 5
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 5
 . | [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
 . | [vvpan](https://reddit.com/u/vvpan) | 5
 . | [vvander](https://reddit.com/u/vvander) | 5
-. | [timmerwb](https://reddit.com/u/timmerwb) | 5
+. | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 5
 . | [themoondancekid](https://reddit.com/u/themoondancekid) | 5
 . | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
-. | [theethmeister](https://reddit.com/u/theethmeister) | 5
-. | [t0bii](https://reddit.com/u/t0bii) | 5
 . | [stalslagga](https://reddit.com/u/stalslagga) | 5
 . | [skidseverywhere](https://reddit.com/u/skidseverywhere) | 5
 . | [sinnu2s](https://reddit.com/u/sinnu2s) | 5
@@ -182,7 +186,6 @@ Rank | Username   | Daily Doots
 . | [rapante](https://reddit.com/u/rapante) | 5
 . | [perleflamme](https://reddit.com/u/perleflamme) | 5
 . | [offthewall1066](https://reddit.com/u/offthewall1066) | 5
-. | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 5
 . | [mr_cheese_curds](https://reddit.com/u/mr_cheese_curds) | 5
 . | [mirved](https://reddit.com/u/mirved) | 5
 . | [luukiemans](https://reddit.com/u/luukiemans) | 5
@@ -202,18 +205,15 @@ Rank | Username   | Daily Doots
 . | [best_coder_na](https://reddit.com/u/best_coder_na) | 5
 . | [bad_investment](https://reddit.com/u/bad_investment) | 5
 . | [ab111292](https://reddit.com/u/ab111292) | 5
-. | [_weboftrust](https://reddit.com/u/_weboftrust) | 5
 . | [404bachee](https://reddit.com/u/404bachee) | 5
 . | [18boro](https://reddit.com/u/18boro) | 5
 . | [lawfultots](https://reddit.com/u/lawfultots) | 4
 . | [whovillage](https://reddit.com/u/whovillage) | 4
 . | [wegotsumnewbands](https://reddit.com/u/wegotsumnewbands) | 4
 . | [watch_dominion_now](https://reddit.com/u/watch_dominion_now) | 4
-. | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 4
 . | [thoughts4food](https://reddit.com/u/thoughts4food) | 4
 . | [suddenmind](https://reddit.com/u/suddenmind) | 4
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 4
-. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 4
 . | [silver5005](https://reddit.com/u/silver5005) | 4
 . | [sfdao91](https://reddit.com/u/sfdao91) | 4
 . | [sabishiifury](https://reddit.com/u/sabishiifury) | 4
@@ -253,12 +253,14 @@ Rank | Username   | Daily Doots
 . | [itchy_ad_3659](https://reddit.com/u/itchy_ad_3659) | 3
 . | [midnightonmars](https://reddit.com/u/midnightonmars) | 3
 . | [vandelay101](https://reddit.com/u/vandelay101) | 3
+. | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 3
 . | [toethmooonguy](https://reddit.com/u/toethmooonguy) | 3
 . | [tinfoilheadphones](https://reddit.com/u/tinfoilheadphones) | 3
 . | [the_statustician](https://reddit.com/u/the_statustician) | 3
 . | [survivaleast](https://reddit.com/u/survivaleast) | 3
 . | [splinunz](https://reddit.com/u/splinunz) | 3
 . | [sayno2mids](https://reddit.com/u/sayno2mids) | 3
+. | [pudgypeng](https://reddit.com/u/pudgypeng) | 3
 . | [professionaiact](https://reddit.com/u/professionaiact) | 3
 . | [pinkpuppyball](https://reddit.com/u/pinkpuppyball) | 3
 . | [oblomov1](https://reddit.com/u/oblomov1) | 3
@@ -275,13 +277,17 @@ Rank | Username   | Daily Doots
 . | [kotmynetchup](https://reddit.com/u/kotmynetchup) | 3
 . | [keynya](https://reddit.com/u/keynya) | 3
 . | [kairepaire](https://reddit.com/u/kairepaire) | 3
+. | [kainzilla](https://reddit.com/u/kainzilla) | 3
 . | [jbmai](https://reddit.com/u/jbmai) | 3
 . | [iwanttobeweve](https://reddit.com/u/iwanttobeweve) | 3
 . | [imelia29](https://reddit.com/u/imelia29) | 3
+. | [imaybeslow](https://reddit.com/u/imaybeslow) | 3
 . | [hlpe](https://reddit.com/u/hlpe) | 3
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 3
 . | [gumbeat007](https://reddit.com/u/gumbeat007) | 3
 . | [general_illus](https://reddit.com/u/general_illus) | 3
+. | [frenkthetank](https://reddit.com/u/frenkthetank) | 3
+. | [fiah84](https://reddit.com/u/fiah84) | 3
 . | [fatlever2](https://reddit.com/u/fatlever2) | 3
 . | [eth2353](https://reddit.com/u/eth2353) | 3
 . | [epiphany153](https://reddit.com/u/epiphany153) | 3
@@ -352,7 +358,6 @@ Rank | Username   | Daily Doots
 . | [redditor31415927](https://reddit.com/u/redditor31415927) | 2
 . | [red4141](https://reddit.com/u/red4141) | 2
 . | [pulisordie](https://reddit.com/u/pulisordie) | 2
-. | [pudgypeng](https://reddit.com/u/pudgypeng) | 2
 . | [ptuchinho19](https://reddit.com/u/ptuchinho19) | 2
 . | [psullzzz](https://reddit.com/u/psullzzz) | 2
 . | [proto-n](https://reddit.com/u/proto-n) | 2
@@ -383,24 +388,21 @@ Rank | Username   | Daily Doots
 . | [larrybob4](https://reddit.com/u/larrybob4) | 2
 . | [koratickle](https://reddit.com/u/koratickle) | 2
 . | [kenzi28](https://reddit.com/u/kenzi28) | 2
-. | [kainzilla](https://reddit.com/u/kainzilla) | 2
 . | [jjohncs1v](https://reddit.com/u/jjohncs1v) | 2
 . | [jimyxx](https://reddit.com/u/jimyxx) | 2
+. | [jaypeaem](https://reddit.com/u/jaypeaem) | 2
 . | [jamjodsnaj](https://reddit.com/u/jamjodsnaj) | 2
 . | [jacoblongesq](https://reddit.com/u/jacoblongesq) | 2
 . | [jackfreeman_](https://reddit.com/u/jackfreeman_) | 2
 . | [itchykittehs](https://reddit.com/u/itchykittehs) | 2
 . | [inter_mirifica](https://reddit.com/u/inter_mirifica) | 2
 . | [imnotthomas](https://reddit.com/u/imnotthomas) | 2
-. | [imaybeslow](https://reddit.com/u/imaybeslow) | 2
 . | [iliiililii](https://reddit.com/u/iliiililii) | 2
 . | [ican20](https://reddit.com/u/ican20) | 2
 . | [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
 . | [gulmorgg](https://reddit.com/u/gulmorgg) | 2
 . | [goatwasher](https://reddit.com/u/goatwasher) | 2
-. | [frenkthetank](https://reddit.com/u/frenkthetank) | 2
 . | [free__will](https://reddit.com/u/free__will) | 2
-. | [fiah84](https://reddit.com/u/fiah84) | 2
 . | [fheredin](https://reddit.com/u/fheredin) | 2
 . | [experiencegoblintown](https://reddit.com/u/experiencegoblintown) | 2
 . | [ethnocent](https://reddit.com/u/ethnocent) | 2
@@ -433,6 +435,7 @@ Rank | Username   | Daily Doots
 . | [crypt0curios](https://reddit.com/u/crypt0curios) | 2
 . | [crispykfc](https://reddit.com/u/crispykfc) | 2
 . | [cory_eth](https://reddit.com/u/cory_eth) | 2
+. | [corn-potage](https://reddit.com/u/corn-potage) | 2
 . | [communist_mini_pesto](https://reddit.com/u/communist_mini_pesto) | 2
 . | [coinanon](https://reddit.com/u/coinanon) | 2
 . | [caturday_yet](https://reddit.com/u/caturday_yet) | 2
@@ -447,6 +450,7 @@ Rank | Username   | Daily Doots
 . | [blocksandpixels](https://reddit.com/u/blocksandpixels) | 2
 . | [biketourthrowaway](https://reddit.com/u/biketourthrowaway) | 2
 . | [bibilieli](https://reddit.com/u/bibilieli) | 2
+. | [believeinapathy](https://reddit.com/u/believeinapathy) | 2
 . | [batmanrockss](https://reddit.com/u/batmanrockss) | 2
 . | [bakindhuman](https://reddit.com/u/bakindhuman) | 2
 . | [badassmotherfker](https://reddit.com/u/badassmotherfker) | 2
@@ -496,7 +500,6 @@ Rank | Username   | Daily Doots
 . | [vacremon2](https://reddit.com/u/vacremon2) | 1
 . | [usesbinkvideo](https://reddit.com/u/usesbinkvideo) | 1
 . | [urbandystopia](https://reddit.com/u/urbandystopia) | 1
-. | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 1
 . | [ubiest](https://reddit.com/u/ubiest) | 1
 . | [tyrolf](https://reddit.com/u/tyrolf) | 1
 . | [txstreet](https://reddit.com/u/txstreet) | 1
@@ -511,6 +514,7 @@ Rank | Username   | Daily Doots
 . | [traumerx](https://reddit.com/u/traumerx) | 1
 . | [toothache0](https://reddit.com/u/toothache0) | 1
 . | [tomr750](https://reddit.com/u/tomr750) | 1
+. | [tokenizedhuman](https://reddit.com/u/tokenizedhuman) | 1
 . | [tmturbo](https://reddit.com/u/tmturbo) | 1
 . | [timwmusic](https://reddit.com/u/timwmusic) | 1
 . | [tigawood](https://reddit.com/u/tigawood) | 1
@@ -563,6 +567,7 @@ Rank | Username   | Daily Doots
 . | [shiba_son_of_doge](https://reddit.com/u/shiba_son_of_doge) | 1
 . | [sexyborisjohnson](https://reddit.com/u/sexyborisjohnson) | 1
 . | [several-listen7915](https://reddit.com/u/several-listen7915) | 1
+. | [sepyke](https://reddit.com/u/sepyke) | 1
 . | [scurrox](https://reddit.com/u/scurrox) | 1
 . | [scribblebutter](https://reddit.com/u/scribblebutter) | 1
 . | [scheistermeister](https://reddit.com/u/scheistermeister) | 1
@@ -685,7 +690,6 @@ Rank | Username   | Daily Doots
 . | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 1
 . | [jbudz](https://reddit.com/u/jbudz) | 1
 . | [jbgt](https://reddit.com/u/jbgt) | 1
-. | [jaypeaem](https://reddit.com/u/jaypeaem) | 1
 . | [jamcowl](https://reddit.com/u/jamcowl) | 1
 . | [jadenpls](https://reddit.com/u/jadenpls) | 1
 . | [jade_sorceress](https://reddit.com/u/jade_sorceress) | 1
@@ -817,7 +821,7 @@ Rank | Username   | Daily Doots
 . | [cpayyyy](https://reddit.com/u/cpayyyy) | 1
 . | [cozypinetree](https://reddit.com/u/cozypinetree) | 1
 . | [cowsclaw](https://reddit.com/u/cowsclaw) | 1
-. | [corn-potage](https://reddit.com/u/corn-potage) | 1
+. | [cow_tipping_olympian](https://reddit.com/u/cow_tipping_olympian) | 1
 . | [competitive-regret21](https://reddit.com/u/competitive-regret21) | 1
 . | [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 1
 . | [colangelodid911](https://reddit.com/u/colangelodid911) | 1
@@ -858,7 +862,6 @@ Rank | Username   | Daily Doots
 . | [betterstartliving](https://reddit.com/u/betterstartliving) | 1
 . | [bennyggbennyg](https://reddit.com/u/bennyggbennyg) | 1
 . | [benjamin](https://reddit.com/u/benjamin) | 1
-. | [believeinapathy](https://reddit.com/u/believeinapathy) | 1
 . | [bazzravish32](https://reddit.com/u/bazzravish32) | 1
 . | [battlepine](https://reddit.com/u/battlepine) | 1
 . | [barkieg](https://reddit.com/u/barkieg) | 1
@@ -891,6 +894,7 @@ Rank | Username   | Daily Doots
 . | [0xrel0aded](https://reddit.com/u/0xrel0aded) | 1
 . | [0xdepositcontract](https://reddit.com/u/0xdepositcontract) | 1
 . | [0xdefiant](https://reddit.com/u/0xdefiant) | 1
+. | [0xcazador](https://reddit.com/u/0xcazador) | 1
 . | [0661](https://reddit.com/u/0661) | 1
 . | [-filterfeeder-](https://reddit.com/u/-filterfeeder-) | 1
 . | [-darkknight](https://reddit.com/u/-darkknight) | 1
@@ -908,6 +912,275 @@ Rank | Username   | Daily Doots
 
 
 
+<details>
+  <summary>Week #20: May 26, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/127668)
+
+Guest appearance by Rhett Shipp from [Gravita Protocol](https://www.gravitaprotocol.com/), a decentralized borrowing protocol.
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/comment/jlnuxly/)
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> Ethereum
+
+[u/NeedlerOP](https://reddit.com/u/NeedlerOP)
+
+> $1805
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.068
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13ogyzj/comment/jl7ownt/)
+
+*Tax crypto traders,*
+
+*The debt ceiling deal breakers,*
+
+*Rug pulling raiders.*
+
+</details>
+<details>
+<summary>Queue update: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13r8eom/comment/jljuy08/)
+
+Your daily beacon chain dose.
+
+Pending validators: Joining 72.9k, leaving 0
+
+* Entry queue +2300 from yesterday's number
+* It will take just over 36 days for the entry queue to clear
+* In around 2 and a half days the amount of daily validators that can both enter or exit will be increased from 1800 to 2025
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/somedaysitsdark</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13qbpch/daily_general_discussion_may_24_2023/jlfpmul/)
+
+It wouldn't take much volume from Fidelity to cancel out the... checks notes... negative ETH issuance
+
+</details>
+<details>
+<summary>Shitpost of the week, part deux</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/daily_general_discussion_may_26_2023/jlo2kxd/)
+
+[u/](https://reddit.com/u/monkeyhold99):
+
+Ethereum is the only digital asset in the world that is all of the below:
+
+- decentralized 
+- productive 
+- secure
+- useful 
+- immutable
+- permission-less
+- trust-less 
+
+Traditional finance people and most normies *still* have not figured this out. I know we’ve come a long way since 2015, but I really believe we are super early adopters here. Will be interesting to look back on these threads in 5, 10, 15 years time.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/daily_general_discussion_may_26_2023/jloluo7/)
+
+[u/](https://reddit.com/u/ajmonkfish):
+
+Let's rearrange that and get a catchy acronym.
+
+Secure
+Trustless
+Useful
+Permissionless
+Productive
+Immutable
+Decentralized
+
+ETH is STUPPID!
+
+Great work everyone, take the rest of the day off.
+
+</details>
+<details>
+<summary>u/cryptOwOcurrency explains why you shouldn't burn your scam NFTs</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13kozpl/daily_general_discussion_may_18_2023/jknuv6i/)
+
+Imagine an Ethereum spam token as a small piece of land in the middle of the desert that has a big sign planted in it saying "/u/barthib owns this". You have no idea who put the sign there, and the land is obviously worthless, so why would you bother driving out into the desert to try to claim it or to take down the sign?
+
+TL;DR Hide it. Don't interact with it or try to "get rid of it".
+
+Conceptually speaking, Ethereum tokens (including NFTs) don't exist "in" your address like ETH does. They exist "in" their own token contract that maintains its own separate ledger. This contract's code is determined entirely by the creator of the NFT.
+
+When your wallet software checks your address for tokens, what it's basically doing (through a couple levels of indirection) is pinging the smart contract that the token creator published, asking it "does this address own any of your token? If so, which one(s) does it own?" The token's creator can, if they wish, tell the contract to respond to this inquiry with literally anything. They could tell your wallet that you own an amount of their token equal to the current block number, or randomize every day the tokens the contract says you own, if they wanted to.
+
+When you interact with a token, your wallet is reaching out to the token contract and running the code defined there by the creator of the token, which can also be anything they want. So a situation like this could occur:
+
+* You try to send the token to the null address.
+* By doing so, your wallet calls the "transfer" function on that random token contract.
+* The "transfer" function is malicious, and tries to trick you into sending the attacker other tokens out of your wallet, or even just reverts (fails) your transaction causing you to lose your gas fee.
+
+**Edit:** A classic scam is where they code the contract to revert/fail your transaction with a custom error message that includes the address of their scam website in it, telling you to go there for "support" on their token. You see your failed transaction with their custom error message when you go on Etherscan to check whether your transaction went through. So you visit their website and get on their support live chat, and they feed you some bullshit about you needing to install a wallet upgrade from a dodgy .exe file, or that your wallet is corrupted and you need to send them your seed phrase to fix it. Then they clean you out.
+
+</details>
+<details>
+<summary>u/JayPeaEm shares an update from Japan</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13njevl/daily_general_discussion_may_21_2023/jl0web5/)
+
+Grüezi EthFinance 😁
+
+Been away in Japan 🇯🇵 the last 4.5-weeks or so for vacation. Didn't use the phone much, went camping, did jiu jitsu, was a cornerman for an MMA fighter, went to a baseball game, sumo; just reconnecting and seeing how the ecosystem is. 
+
+* Japan just hosted the G7 Summit in Niigata 🇯🇵 where the topic of cryptographic commodities was brought up. There seems to be a [$3000 USD](https://cointelegraph.com/news/g7-pushes-accelerating-global-implementation-of-travel-rule-for-crypto-assets) threshold put on commodities so anything above that amount is reported by the exchange/bank/etc. Seems a bit low relative to what... hedge funds do... ⛩️ 💴
+* Fun Fact. I've spent some time with some cryptographic security people here in Tokyo 🇯🇵 and I've been informed something like 33% of all crypto theft occurs to Japanese people. Sure enough, here's an article with [most of those details to back it up](https://asia.nikkei.com/Spotlight/Cryptocurrencies/North-Korean-crypto-thefts-target-Japan-Vietnam-Hong-Kong) 🥷 
+* I'm sure you've all heard about the recent [Tornado.Cash](https://www.coindesk.com/tech/2023/05/21/attacker-takes-over-tornado-cash-dao-with-vote-fraud-token-slumps-40/) protocol take over. Hoping anyone here affected is alright 🌪️
+* Seems we've been hovering at $1825 with a spike to $2000 not too long ago 📈
+* A lot of you are aware of recent Ledger/Hardware Wallet hacking. Here's a [video from Hak5](https://youtu.be/oARxLV_vnh0) over 1.5 years ago cracking these wallets. I tried getting people to flash the alarm but I think these types of attacks will *slowly* become more common; that and juice jacking / wire jacking 🛜
+
+I'm always here in the shadows doing my best to secure the Blockchain, provide liquidity, and help along newbies when I can. 
+
+Love you all, keep being ambassadors, and keep helping any- and everyone who asks for it!
+
+Pröschtli 🍻
+
+</details>
+<details>
+<summary>u/FrenktheTank shares a PSA for Google Authenticator users</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13migau/daily_general_discussion_may_20_2023/jkvh8t5/)
+
+Heads up for everyone using Google Authenticator 2FA app.  While this might be old needs, the update was pushed around the end of April, this was new to me, so maybe some fellow EthFinanciers might find this useful. 
+
+This morning I opened my Google Authenticator app to find out that is needed an update. The update included a back up of the authenticator codes into my google account.   
+When I explored this a bit I found this:   
+
+'With this update we’re rolling out a solution to this problem, making one time codes more durable by storing them safely in users’ Google Account. This change means users are better protected from lockout and that services can rely on users retaining access, increasing both convenience and security.'
+
+Really, how can they think this is save. The whole point is to have a second step besides your standard login option like Gmail. What's the point of storing your 2FA codes in a google account that when it gets compromised, your 2FA codes are compromised as well. 
+
+There is still the option to keep using the authenticator without the backup feature. 
+
+Remember, when it comes to online security, the ultimate responsibility lies with none other than ourselves. Stay vigilant, take proactive measures, and empower yourself to safeguard your digital presence.
+
+</details>
+<details>
+<summary>u/pbrody wrote a book about Ethereum!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13ogyzj/daily_general_discussion_may_22_2023/jl6524d/)
+
+Hi everyone…I just got the final cover for my book back.  I’ve written a little book about Ethereum!!  Specifically about WHY Ethereum is the future of business.  It’s called (no surprise) “Ethereum for Business”.  If you would like to pre-order it, the paper copy should be in your hands in about 2 weeks as we’re nicely ahead of the official schedule and orders for eBooks on Amazon or Apple will follow in another 2-3 weeks.  I’ll do a top-level post on why I wrote the book and what it’s about on the official release day.
+
+[View on Amazon](https://www.amazon.com/Ethereum-Business-Plain-English-Generate-Management/dp/1954892101/ref=sr\_1\_1?crid=1T38IMNN99GC8&keywords=ethereum+for+business+brody&qid=1684770405&sprefix=Ethereum+for+business%2Caps%2C164&sr=8-1)
+
+</details>
+<details>
+<summary>u/juxtanotherposition has an EVMavericks oDAO update</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13pejil/daily_general_discussion_may_23_2023/jl9pfl7/)
+
+# EVMavericks Rocket Pool oDAO update
+
+There was a meeting planned for Monday but too many people could not make it last minute. A few of us had an unstructured discussion mostly about the costs of setting up and running an oDAO node and necessary archive node. u/haurog calculated some of the costs using on-chain activity and is willing to share a doc once complete and here’s [another great resource](https://docs.google.com/spreadsheets/d/1loB9U8wCIJn73a1DsR-mJJ9PQaYWMlF9asNc7BgM_zc/edit#gid=1352142799) (oDAO tab).  
+We’d like to maximize participation for those interested in working on the project, so please enter your availability for the next meeting here:
+
+[https://www.when2meet.com/?20153310-SNPGH](https://www.when2meet.com/?20153310-SNPGH) 
+
+Enter a name (pw optional) and click Sign In, then select your available meeting times so we can schedule it.  
+If Discord meetings do not work for everyone we may consider using Zoom or other tool. Whether active on Discord or Reddit-only user, all are welcome and encouraged to join the effort.
+
+</details>
+<details>
+<summary>u/LogrisTheBard thinks now is a good time to familiarise yourself with Curve</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13pejil/daily_general_discussion_may_23_2023/jlb7a9k/)
+
+With crvUSD finally launching in earnest now would be a good time to at least familiarize yourself with the Curve ecosystem if you haven't. It's still the second highest volume DEX and might have just launched a way to double its income.
+
+There's a lot to unpack here:
+
+* Curve issuance. How much is being emitted? When are the scheduled emission reductions? Who is sucking it up?
+* Bribes. This is basically a way of reallocating liquidity from a trading fee optimal allocation to a CRV holder revenue optimal allocation. This takes a bit to get your head around.
+* Curve v2 pools. These are largely misunderstood. Unlike Uniswap or Balancer Curve v2 pools have a volatility instrument in there that flexes liquidity depth to minimize IL and adjust the target peg over time. This is a seriously undermarketed feature.
+* crvUSD. A new CDP style stablecoin that uses a gradual liquidation system so you get less wrecked. Lower risk for borrowers, no need for keepers to liquidate you, and it enables high LTV ratios. This is my favorite DAI-style replacement so far. LUSD puts your collateral at risk even pre-liquidation. RAI famously isn't stable. crvUSD is just an improved design of the liquidation system and the peg can be backed by the entire DEX revenue for a stronger coupon bond failsafe than DAI could ever offer.
+
+I do suggest you spend a few hours and familiarize with this system if you haven't because it is the baseline so many other projects derive their tokenomics from.
+
+</details>
+<details>
+<summary>u/Bob-Rossi has a delegate update</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13pejil/daily_general_discussion_may_23_2023/jlbarvm/)
+
+Not sure if it's been posted yet, but the delegate week started yesterday. If you own any DAO tokens, it's a great time reconsider who you are delegating too. Or even better, if you are on the fence about being a delegate might be a good time to jump into it! 
+
+Some more info here - [https://delegationweek.com/](https://delegationweek.com/) & if you are looking for a list of r/ethfinance delegates check out the daily doots page here - [https://dailydoots.com/#delegates](https://dailydoots.com/#delegates)
+
+If you own any HOP, now would be a good time to consider delegating - whether that is to someone new or just re-affirming with the person you already delegate too. They are using some of the grant funds to encourage people to re-delegate (or delegate if they aren't at all) See - [https://forum.hop.exchange/t/grant-proposal-delegation-week/878/11](https://forum.hop.exchange/t/grant-proposal-delegation-week/878/11). Not a huge amount, and I'm not sure if those are the final numbers, but at a minimum should cover some gas costs + some beer money.
+
+</details>
+<details>
+<summary>u/Itur_ad_Astra reflects on a famous crypto saying</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13pejil/daily_general_discussion_may_23_2023/jlbbexm/)
+
+> **Crypto wasn't invented to make you rich...**
+
+I've been in Ethfinance for a few years, and every year, I understand this a little bit more. I joined before the big bull, made some profits, but you don't make life-chaging amounts of money by investing spare change as a broke college student. So I obviously didn't sell during the crazy highs. This year is the year in which I'll be calling myself an "Etherean" for more than I was calling myself a "Bitcoiner".
+
+> **...It was invented to set you free.**
+
+I've got to say, I "converted" to Eth at a good time. Not a good time financially, but at a time where I was disillusioned with Bitcoin. I had heard about Ethereum much earlier, but ignored it, as it was obvious to me that Bitcoiners would not leave the biggest and best coin with *zero* improvements over multiple years, riding on the first-mover advantage alone. What a rabbit hole the Ethereum ecosystem was! What an *insane* potential of improving the way we interact with wealth and capital and as a result the human condition!
+
+> **...But it will make you rich anyway.**
+
+If this part ever comes true, I'm ready, but I hope it's not overnight. I don't know if my mental health can take another insane bull, but I suspect that the next one might be even wilder. At least inflation and time have changed my definition of "life-changing money". In any case... DCA on!
+
+</details>
+<details>
+<summary>u/2Nice4AllThis is trying to explain Ethereum for dummies</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13qbpch/daily_general_discussion_may_24_2023/jley82w/)
+
+I’m working on a few crypto beginner’s tutorials, with the main goal being to simplify information and for a better learning experience. Ideally, a lot of users don’t actually need long explanations of how blockchain and dapps work and just want to know how to use them.
+
+Interestingly I wanted to compare simple transacting as copying and pasting an address, and I thought to compare this to being as easy as copying and pasting an IBAN number for digital banking transactions (like in many EU countries). But then it occurred to me that in the US, peer to peer banking transactions are still impossible (which is pathetic), so this reason alone makes explaining this way harder than it should be.
+
+Just a funny observation. What could be a better metaphor for explaining transactions in a “crypto for dummies” kind of way? I was considering using email addresses as a metaphor, but I don’t think it’s the best way.
+
+Also, is lack of p2p banking a problem that fednow is trying to solve? It should be a crime how far behind the US is due to lacking simple digital transactions as a standard feature for all bank accounts. Anyway, people generally understand PayPal and Venmo, but trying to explain crypto transactions automatically sounds way more technical if you’re not already familiar with similar concepts.
+
+</details>
+<details>
+<summary>u/jtnichol is officially GreenPilled</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13qbpch/daily_general_discussion_may_24_2023/jlfr0l7/)
+
+I've taken some work with [Supermodular.xyz](https://supermodular.xyz/) and Greenpilled via Kevin Owocki!
+
+My role currently will be creating video content for a variety of platforms and help spread the work to Regenerative crypto economics and human coordination.  Here's couple channels to follow when you get a moment.
+
+Thanks [/u/owocki](https://reddit.com/u/owocki) for the amazing opportunity.  Onward!
+
+YouTube: <https://youtu.be/UShoIJmSNok>
+
+Twitter: <https://twitter.com/supermodularxyz>
+
+There is so much ethos aligned with Ethfinance and I couldn't be happier to have the chance to help contribute to the vision of this incredible community.
+
+I've been diving in on the Greenpilled podcast and will be making so much shorts content with great quotes from great minds.  Mind blast incoming!
+
+Cheers and Big Hugs from GreenPilled City
+
+</details>
+</details>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <details>
   <summary>Week #19: May 19, 2023</summary>
 
