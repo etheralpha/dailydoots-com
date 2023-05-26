@@ -911,7 +911,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #19: May 19, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/126878)
+[Livestream Recording](https://www.youtube.com/watch?v=yo0Mh4TLDXk) | [POAP]([https://checkout.poap.xyz/126878](https://poap.gallery/event/126878))
 
 Guest appearance by DCinvestor, an early pioneer in the Ethereum community on Reddit and was a huge part of Ethtrader and Ethfinance. You can find him on Twitter, discussing Ethereum, NFTs, AI & more. <https://twitter.com/iamDCinvestor>
 
