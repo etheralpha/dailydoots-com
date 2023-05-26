@@ -7315,6 +7315,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | brambramEth           | Working on a seed phrase recovery tool
 .  | bullmeza              | [Bequest](https://www.bequest.finance/) - A Dead Man's switch to distribute your tokens and NFTs to selected recipients
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
+.  | corn-potage           | Front End Dev as [NiceNode](http://nicenode.xyz/)
 .  | cryptojobsgg          | [CryptoJobs.gg](https://cryptojobs.gg/) - The #1 crypto jobs board for employers and future employees
 .  | cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | danceratopz           | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
@@ -7326,7 +7327,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content <br> Part of the core team at Unstoppable Games
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
 .  | fc-test               | Working on building a web3 game
-.  | fly1n_hawaiian        | Community Manager at ZkSync
+.  | fly1n_hawaiian        | Community Manager at [ZkSync](https://zksync.io/)
 .  | geoffbezos            | Crypto opportunities monthly roundup
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including [DailyDoots.com](https://dailydoots.com/)!)
 .  | haurog                | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
