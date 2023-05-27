@@ -7606,6 +7606,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | haurog                | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | hashtagfuzzmaster     | "ALL HAIL THE ETERNAL CRAB"
 .  | insidethesimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
+.  | itswhatevermannn      | [BetOnchain](https://betonchain.gg/) - A permissionless blockchain-based betting platform
 .  | jey_s_tears           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>Contributor at [Supermodular.xyz](https://supermodular.xyz/) and [Green Pill](https://greenpill.network/)
 .  | juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
@@ -7625,6 +7626,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | seamonkey82           | The client whisperer
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | swagtimusprime        | [Scroll](https://scroll.io) team member
 .  | the-a-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | therocketman_eth      | Offchain Labs (Arbitrum) Integration Engineer
 .  | toethmooonguy         | "To ETH Mooon!!! ┗(°0°)┛"
