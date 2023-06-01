@@ -7620,13 +7620,14 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
 .  | profstrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
+.  | pseudotheos           | Researcher at [Scroll](https://scroll.io)
 .  | readreed              | [POAP Studio](https://www.poap.studio/) team member
 .  | realjohnbmaclemore    | [Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3 technology
 .  | rooftopportapotty     | Doing security analysis of browser extensions and web3 wallets<br>Reincarnation of u/skidseverywhere
 .  | seamonkey82           | The client whisperer
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
-.  | swagtimusprime        | [Scroll](https://scroll.io) team member
+.  | swagtimusprime        | Developer Relations at [Scroll](https://scroll.io)
 .  | the-a-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | therocketman_eth      | Offchain Labs (Arbitrum) Integration Engineer
 .  | toethmooonguy         | "To ETH Mooon!!! ┗(°0°)┛"
