@@ -919,10 +919,7 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/128337)
 
-**Announcements**
-
-
-Guest appearance by Brendan Shakeshaft and Joe Van Loon, founders of Auditware (https://auditware.io/). Auditware specializes in performing smart contract audits and building security tooling. Their flagship product Audit Wizard (currently in alpha) is the ultimate web3 security tool, allowing you to audit your smart contracts with ease.
+Guest appearance by Brendan Shakeshaft and Joe Van Loon, founders of [Auditware](https://www.auditwizard.io/). Auditware specializes in performing smart contract audits and building security tooling. Their flagship product Audit Wizard (currently in alpha) is the ultimate web3 security tool, allowing you to audit your smart contracts with ease.
 
 <details>
 <summary>The morning trinity</summary>
