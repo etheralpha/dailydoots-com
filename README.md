@@ -915,6 +915,276 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #21: June 2, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/128337)
+
+**Announcements**
+
+
+Guest appearance by Brendan Shakeshaft and Joe Van Loon, founders of Auditware (https://auditware.io/). Auditware specializes in performing smart contract audits and building security tooling. Their flagship product Audit Wizard (currently in alpha) is the ultimate web3 security tool, allowing you to audit your smart contracts with ease.
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13y3hr6/comment/jmkrxrg/)
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> Ethereum
+
+[u/TimbukNine](https://reddit.com/u/)
+
+> $1,889.56
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.0696
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13x8njw/comment/jmjbazb/)
+
+*Trustless sequencing,*
+
+*Let data compression sing,*
+
+*Rollups be dancing.*
+
+</details>
+<details>
+<summary>Queue update: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13y3hr6/daily_general_discussion_june_2_2023/jmkrff0/)
+
+Your daily beacon chain dose.
+
+Pending validators: Joining 78.5k, leaving ~10
+
+* Entry queue +1700 from yesterday's number - New entry queue ATH.
+* It will take around 38 days for the entry queue to clear
+* In under 28 days the amount of daily validators that can both enter or exit will be increased from 2025 to 2250.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+<https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/IlIIIlIlII</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13y3hr6/comment/jmkwmch/)
+
+Volatility so dead I don't even have any memes to post.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13y3hr6/comment/jml04j8/)
+
+[u/696_eth](https://reddit.com/u/696_eth):
+
+[no memes?](https://imgur.com/PKpZb2S)
+
+[we waiting](https://imgur.com/F8dvlBH)
+
+[they don't know](https://imgur.com/4JLSM9p)
+
+[no memes to post](https://imgur.com/Ffy4fkc)
+
+[we feel you homie](https://imgur.com/2aJmgyE)
+
+[memes?](https://imgur.com/B4jXBZf)
+
+[what happened](https://imgur.com/gU5bzAW)
+
+[later](https://imgur.com/Re4u9S8)
+
+</details>
+<details>
+<summary>u/o-l-o explains how a Trezor randomly generates a seed phrase</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/daily_general_discussion_may_26_2023/jloyeu4/)
+
+With trezor, you can read through their code and understand how they generate seeds.
+
+Someone has already done this: <https://medium.com/@brandonarvanaghi/analyzing-trezor-firmware-mnemonic-seed-generation-for-bitcoin-and-ethereum-4b03fbaad24d>
+
+You'll notice that that article calls out that the default 'random32' isn't suitable for production (and the code itself wanes you of this), so you'll need to find out where Trezor implements 'random32'. This is my first time looking through their code and it seems that the insecure implementation **is** the default implementation in their firmware, but I assume they replace that somewhere. Perhaps someone more familiar can point us to the newest RNG code because THIS IS A VERY IMPORTANT POINT TO CLEAR UP. 
+
+They do have a legacy firmware that has its own 'random32' implementation: <https://github.com/trezor/trezor-firmware/blob/92045275fb79e532a5b9a86732c1b3206ef3bba4/legacy/rng.c#L27>
+
+You'll notice that that code uses a few "RNG_" variables to produce it's number, so the next step is to find out what those are.
+
+We know that Trezor uses a Cortex-m4 Arm chip, and this is C code, so we can look at the chip datashet to understand what those do, or we can cheat and look at OpenCM docs: <https://libopencm3.org/docs/latest/stm32f2/html/group__rng__file.html>
+
+You'd also want to go to the datasheet for the STM32F205xx to see that it has a "true random generator" hardware module.
+
+That all looks really good, and I've heard that the modern Trezor firmware also includes static ram and host device data into it's RNG, but I'm not familiar enough with their code to hunt that down at the moment.
+
+</details>
+<details>
+<summary>u/Itswhatevermannn shares the cool new project that have been building</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13s3pp7/daily_general_discussion_may_26_2023/jlqodco/)
+
+Hey guys, lurker here who’s been working on a project in his free time: https://betonchain.gg/
+
+To keep it brief, I started out running a Chainlink node, deploying jobs and a consumer to update odds and game results data from an API I wrote to aggregate results and odds across various bookies. Eventually the goal became to offer the most competitive betting experience in terms of odds, privacy and transparency, while decentralizing the bookmaker by sourcing house liquidity from a community which receives house profits back. Soon after launch I aim to add support for futures and integrate player friendly tools such as contracts for auto-hedging parlays. 
+
+The platform is currently on Sepolia, if anyone is interested in testing the DApp please drop an address and I can send over some test USDC/USDT/DAI to place bets with. Hopefully there’s not too many bugs! I am considering launching polygonzkEVM but not sure yet. 
+
+Appreciate any feedback from you fine gents and ladies! 
+ 
+PS: If anyone has insight into raising funds, please let me know, hope to make this my full time job. Thanks again!
+
+</details>
+<details>
+<summary>u/asus_wtf has the China news and it's not a ban?!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13sygtc/daily_general_discussion_may_27_2023/jlt88dg/)
+
+Beijing releases white paper for web3 innovation and development 
+
+<https://www.theblock.co/post/232404/beijing-web3-white-paper>
+
+“…Dubbed the "Web3 Innovation and Development White Paper (2023)," the document states that web3 technology is an "inevitable trend for future Internet industry development,"…”
+
+“The commission aims to construct Beijing as a global innovation hub for the digital economy.”
+
+“ The white paper reportedly states that Beijing aims to strengthen policy support and accelerate technological breakthroughs to promote the web3 industry.”
+
+</details>
+<details>
+<summary>u/superphiz thinks we are hitting a staking inflection point</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13trvpr/daily_general_discussion_may_28_2023/jlxxxt5/)
+
+I think we're hitting an inflection point where staking is the "cool" thing to do with Ether. Lots of folks predicted that this would happen but no one really knew when. I'm basing this on two factors:
+
+1. The deposit queue is growing at an accelerating rate despite long wait times.
+2. The price of Eth is beginning to inch up against the flow of other assets.
+
+The logical interpretation of this is that the supply squeeze delivered by staking & burning is finally upon us.
+
+Does this mean Ethereum is successful? 
+
+Nope. Not even close. We saw something similar happen with Dash in 2018 (dash spiked when their staking program reached critical mass), but Dash couldn't keep the gains. The only way Ether will lock in this success is if we build valuable products on top of a credibly neutral and decentralized network. If you're hearing this, but not acting on it, you're a bad puppy 😜
+
+</details>
+<details>
+<summary>u/busterrulezzz experiences the Bitcoin BRC-20 and Ordinals user experience</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13trvpr/daily_general_discussion_may_28_2023/jlzjpme/)
+
+I took a deep breath and tipped my toes into Ordinals and BRC-20 yesterday. UX is terrible, it took 12 hours (!) to process my bridging transaction from BTC mainnet to Stacks, and depositing into my trading wallet took about 10 minutes. It's a very, very long time when you're used to Ethereum. Xverse wallet is even worse than MetaMask in terms of showing human-readable information, and all swaps are done either via order books or P2P bulk sales.
+
+The experience is not welcoming for a newcomer. I've been doing DeFi daily for the last 2 years, and I had to look around for hours before I was comfortable enough to do a transaction.
+
+However, I think BRC-20s and Ordinals have a decent chance of becoming more popular in the next few months. I am not tech-savvy enough to understand the hurdles facing a better UX - until yesterday I thought an ETH NFT collection could be bridged back-and-forth to BTC... But I could definitely see how people could pile on Bitcoin DeFi projects.
+
+Ethereum isn't threatened by this, in my opinion. It is so far ahead in terms of development... Bitcoin looks like a 28k modem, while Ethereum is 5G. Still, I decided to allocate a small portion of my trading wallet to it. I feel kinda dirty using a PoW chain, but hey, ride the wave, don't fight it, as they say.
+
+</details>
+<details>
+<summary>u/BramBramEth is thinking about take on the next part of their web 3 journey</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13uldb1/daily_general_discussion_may_29_2023/jm1c67u/)
+
+Hey ! Seems like I'm going to be let go at work soonish (Which is a good thing, my job got less and less technical over the years and I miss that part a lot). I'm a cryptographer with quite good skills in programming in a range of languages, so I was considering having a bit of fun for a couple years working in the ETH ecosystem. What I'm looking for is technical challenge.
+  
+What are my options ? My thoughts so far :
+  
+- CL Client teams : Very new codebase (which is nice) - Mainly about implementing EIP specs, seems to be that challenge here is "low" as the heavy lifting is done at the research level.
+- EL Client teams : Older codebase - Mainly about improvements of various existing parts - a bit more challenge because there's design/engineering tasks to improve stability and speed/latency/footprint of the clients.
+- Research teams : Way more focused on design / cryptography / game theory - Something I'm very good at, but I fear I will miss the coding part of it, which is somthing I enjoy.
+- A Layer 2 : I would probably prefer a ZKR since it's more fun to work on, but I kinda think that OR are so ahead in terms of maket share that it's an uphill battle to win as a ZK rollup.
+- Some protocol : Probably some game theory involved, but I don't think I like the risk of being part of a project which has a chance of not taking off.
+- Do my own thing with a high probability it won't be used : I would love to code some kind of ZK prover in GPU assembly for instance - This is probably the most fun for me, but also the most risky.
+- Flavor of the month : Work for a hardware wallet manufacturer with good open source values :)
+  
+Any other options you can think of ? I'm just in the process of evaluating my opions right now as the switch won't be before a couple months.
+
+</details>
+<details>
+<summary>u/nightfallsh4 reminds us of another cool use for your hardware wallets</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13uldb1/daily_general_discussion_may_29_2023/jm1d0wh/)
+
+Just a reminder to everyone if you don't know already. 
+
+Both Ledger and Trezor device support Fido U2F, which means you can use your ledger or trezor as a security key (2FA) to login to your online accounts. 
+
+Of course if you are not comfortable taking your hardware wallet with you everywhere, maybe consider using it for online accounts you'll only login from your home or in a safe place. But according to your specific threat model you can use HWs as 2FA security partially or fully in your online activities. 
+
+You can use them to secure your CEX accounts, email, password manager etc. And if you loose or break your device you can always restore it with the seed phrases in another device and all your 2FA security keys will be recovered as well. 
+
+Using a security key as 2FA for your online accounts greatly increases your general security online. And almost impossible to hack into your accounts remotely.
+
+Before you implement that be sure to go through the ledger and trezor articles about using their respective U2F features. 
+
+Trezor also supports FIDO2 standard for passwordless login but it's not as widely adopted yet like U2F.
+
+Edit:- here is trezor's article on using U2F- <https://trezor.io/learn/a/what-is-u2f>
+
+Here is the ledger's article - <https://www.ledger.com/fido-u2f>
+
+If you're moving away from ledger as your hardware wallet, you can atleast use it as a 2FA security key to secure your online accounts.
+
+</details>
+<details>
+<summary>u/hanniabu is building awesome tools yet again</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13vh1j4/daily_general_discussion_may_30_2023/jm8bo6m/)
+
+[https://twitter.com/hanni\_abu/status/1663605190543523840](https://twitter.com/hanni_abu/status/1663605190543523840)
+
+> I wasn't happy with existing solutions to monitor validator entry/exit queues so I built this [https://validatorqueue.com](https://validatorqueue.com).  
+>  
+> This dashboard shows the entry/exit queue, wait times, total active validators, and historical values.  
+>  
+> Thank you beaconcha\_in for providing the data ❤️
+
+</details>
+<details>
+<summary>u/Bob-Rossi discusses the addition of rETH to HOP Protocol</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13wcu4w/daily_general_discussion_may_31_2023/jmcltat/)
+
+Not sure if posted yesterday, but even if it was it's worth repeating. HOP bridge now supports rETH, with joint liquidity incentivization by HOP & RocketPool DAOs.
+
+[https://twitter.com/HopProtocol/status/1663669978405691392](https://twitter.com/HopProtocol/status/1663669978405691392)
+
+This is the first liquid staking token bridge (of any protocol) and I'm hopeful HOP can add more. Anyone who is in a LST community that has shown interest in getting a bridge set up let me / HOP know. When this was being voted on it seemed there was interest in adding more.
+
+</details>
+<details>
+<summary>u/Ethical-trade discusses the dire Lido situation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13wcu4w/daily_general_discussion_may_31_2023/jmbhv0z/)
+
+The Lido situation:
+
+- A total of [19 million eth is staked on Ethereum](https://beaconcha.in/). A total of [6 million eth is staked on Lido](https://lido.fi/ethereum). **More than 36% of all staked eth is staked with Lido**.
+- [More than 32% of all validators are using Lido](https://www.rated.network/?network=mainnet&view=pool&timeWindow=1d&page=1). 
+- Lido is the #1 protocol on Ethereum with a TVL of more than $13 billion. [That's more than twice the TVL of the second largest project, Maker](https://defillama.com/). That's close to 6% of all ether in existence.
+- The activation of withdrawals by Lido 2 weeks ago [had almost no effect of their TVL](https://app.parsec.finance/layout/wilburforce/dE0XOJyv). Over the past month, [Lido's TVL still grew by 10.8%](https://defillama.com/chain/Ethereum?tvl=true). **There isn't any reason to expect their share to drop significantly in the future.**
+
+When Prysm contributed to centralization by having too high of a share in the consensus client market, the community launched an initiative aiming at reducing that.   
+This worked fantastically and [Prysm went from more than 66% to now being second behind Lighthouse](https://clientdiversity.org/#distribution).
+
+No real initiative has been launched in the case of Lido yet. There is no real equivalent to [clientdiversity.org](https://clientdiversity.org) today, with explanations, educational material, and guides to switch to less centralized options. There is no real pressure by the community.
+
+Are we really passively waiting for the 33% validator share limit to be crossed in order to start doing anything?? Will one more percent *really* make a difference? As a reminder, [Vitalik suggested that no entity should control more than 15% of all validators](https://twitter.com/VitalikButerin/status/1525301234516652032). **Lido already controls twice the stake Vitalik considers to be too much**. 
+
+On May 22 2022, u/superphiz wrote that [community action should start at a 22% share](https://twitter.com/superphiz/status/1525479305077309442). With its 32%, Lido has now 50% more than that and yet no action has been seen.
+
+To our Ethfinance friend u/hanniabu who created [clientdiversity.org](https://clientdiversity.org) (big thanks for that): is there a similar website planned for staking providers? [rated.network](https://rated.network) just doesn't do the education job. Please let me and us know if there is anything we can do to help.
+
+Feel free to share any idea about what we could do to.
+
+This problem won't just solve itself, there needs to be a community initiative.
+
+</details>
+</details>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<details>
   <summary>Week #20: May 26, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=gHKyO3_Y2N4) | [POAP](https://poap.gallery/event/127668)
