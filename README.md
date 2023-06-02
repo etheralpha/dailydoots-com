@@ -915,7 +915,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #20: May 26, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/127668)
+[Livestream Recording](https://www.youtube.com/watch?v=gHKyO3_Y2N4) | [POAP](https://poap.gallery/event/127668)
 
 Guest appearance by Rhett Shipp from [Gravita Protocol](https://www.gravitaprotocol.com/), a decentralized borrowing protocol.
 
