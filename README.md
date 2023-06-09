@@ -917,7 +917,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #21: June 2, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/128337)
+[Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP]([https://checkout.poap.xyz/128337](https://poap.gallery/event/128337))
 
 Guest appearance by Brendan Shakeshaft and Joe Van Loon, founders of [Auditware](https://www.auditwizard.io/). Auditware specializes in performing smart contract audits and building security tooling. Their flagship product Audit Wizard (currently in alpha) is the ultimate web3 security tool, allowing you to audit your smart contracts with ease.
 
