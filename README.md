@@ -918,6 +918,330 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #22: June 9, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/129405)
+
+Guest appearance by Matt Finestone, former lead of Gamestop NFT and currently head of [Taiko.xyz](https://taiko.xyz/), a decentralized and Ethereum-equivalent ZK-Rollup.
+
+**Announcements**
+
+- [r/EthFinance](https://reddit.com/r/ethfinance) is considering participating in the Reddit blackout June 12-14 in protest of their API changes. See [this thread](https://reddit.com/r/ethfinance/comments/143kn9s/proposal_ethfinance_should_join_in_on_the_reddit/) for details and discussion on possible Reddit replacements, such as the [EVM Discord](https://discord.gg/evmavericks) and [Kbin.social](https://kbin.social/m/ethfinance)
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/144vs24/comment/jnhr8b2/)
+
+[u/Hocilef](https://reddit.com/u/Hocilef)
+
+> Ethereum
+
+[u/maninthecryptosuit](https://reddit.com/u/maninthecryptosuit)
+
+> $1838
+
+[u/wolfparking](https://reddit.com/u/wolfparking)
+
+> 0.069
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1412u9x/comment/jn1s9me/)
+
+*Go after Binance,*
+
+*Stomp down when you do your dance,*
+
+*Lead to no advance.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/144vs24/comment/jnhqud2/)
+
+Your daily beacon chain dose.
+
+Pending validators: Joining 96k leaving ~100
+
+-Entry queue +900 from yesterday's number - New entry queue ATH.
+-It will take just over 45 day and a half days for the entry queue to clear
+-In just under 24 days the amount of daily validators that can both enter or exit will be increased from 2025 to 2250.
+
+These figures are based on the entry and exit queue at the time of posting
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: MinimalGravitas</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1412u9x/comment/jn1co32/)
+
+Oh dear gang, with all the drama around Binance and the price crashing we're seeing a big spike in stakers pulling out their validators. The exit queue is up to 8 minutes!
+
+</details>
+<details>
+<summary>u/nixorokish has an important PSA for stakers</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13x8njw/daily_general_discussion_june_1_2023/jmhqlh8/)
+
+EthStaker published a blog post to do a call to action for execution client diversity - Nethermind and Besu are ready for adoption in home operators but also for large scale staking operations as yorickdowne, who's part of EthStaker, notes with his setup testing for Cryptomanufaktur.
+
+Geth controls ~87% of the network right now a bug would be a catastrophic situation - say a bug happened where Geth produced an invalid block - most validators would follow it and we'd have to resort to one of three choices at the social layer:
+
+1. Penalize and slash 87% of validators
+2. Exit 87% of validators
+3. Go with an invalid chain
+
+Any option we chose would shake people's faith in the immutability of Ethereum. The first one would be a massive amount of capital loss. And this is just one of three types of bugs - the most unlikely type of a bug, a double-signing event caused by a bug in Geth, would cause a total slash of 87% of validators. I mean all of it, people running Geth would lose their entire stake.
+
+Super unlikely bugs but we're ready for it and I'm sure that Geth is ready for the people to take the pressure off of them!
+
+<https://paragraph.xyz/@ethstaker/execution-client-diversity>
+
+</details>
+<details>
+<summary>u/alexiskef dissects the fake Orbiter Finance airdrop</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13x8njw/daily_general_discussion_june_1_2023/jmgfq0c/)
+
+🕵🏻 Dissecting the FAKE Orbiter "Airdrop" announcement that u/Dreth [warned](https://reddit.com/r/ethfinance/comments/13x8njw/comment/jmg2reh/) everyone about earlier on:
+
+&#x200B;
+
+🚨 *"Due to major success of our "Orbiter Pilots NFT Series", we have decided to launch our token $ORB"* ☠️
+
+👉 Grammatically wrong: Missing "the".. As in: "due to THE major success"
+
+👉 Logically wrong: Why would a company suddenly "decide" to launch an airdrop based on the success (?) of an NFT Series?
+
+🚨 \*"We will be giving away 5,000,000 $ORB tokens, which will be distributed to anyone who claims from June 1st - June 3rd"\*☠️
+
+👉 when announcing Airdrops, legit projects release extensive information on their token allocation. Usually multiple pages long, filled with all kinds of relevant information. NOT just a plain number..
+
+👉 .. and they don't distribute their token to.. "anyone who claims.."
+
+🚨 *"There is only a limited amount of token so act fast!"* ☠️
+
+👉 here they try to create a sense of urgency, to make you act before you think, before you notice all these red flags.. Also, notice the spelling mistake (token instead of token**s)**
+
+🚨 *"Those who receive the tokens will be whitelisted to use our newest staking feature"* ☠️
+
+👉 here they are baiting ("whitelisted") you again, trying to shift your attention from all the red flags by promising "new products" that can give you with extra yield/rewards..
+
+🚨 *"Any gas spent on claiming the tokens will be refunded via Orbiter Finance's Smart Contract"* ☠️
+
+👉 in other words: "Don't worry about high Gas!! Go one and claim NOW!! We'll refund everything!!". I.e. don't wait, don't look further into the legitimacy of this! Go ahead and hastily ignore any sense of "danger", and sigh these txs NOW!
+
+ 🚨 *Claim $ORB here:* [*https://orbiter*](https://orbiter) *DOT pm/*  ☠️
+
+👉 DOT PM? Using the "orbiter" brand to lure you into a fake sense of security. But dot pm? WTF is that??
+
+🚨 *PILOTS! Our distribution is now 77% claimed 🛸* ☠️
+
+👉 the number keeps "going up".. First 66%, then 77%, and so on.. QUICK, ACT FAST (**AND DON'T STOP TO THINK**) TOKENS ARE RUNNING OUT!!
+
+</details>
+<details>
+<summary>u/Ethical-trade has made a proper document on the dire Lido situation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13x8njw/daily_general_discussion_june_1_2023/jmhrlrq/)
+
+Thanks a bunch for signaling your support to prevent Lido from harming Ethereum's decentralization yesterday. I'm glad to see that this problem is as important to you as it is to me.
+
+I've gathered all the information we've shared so far in a google document that automod prevents me from sharing, so [here's a pdf](https://pdfhost.io/v/AwXg1oH9H_The_Lido_Situation).
+
+Feel free to add comments wherever needed and let's start fighting for this.
+
+Edit: I also tweeted the doc with a new hashtag: #Lidont which has its own logo in the doc.  
+
+The document contains quotes from [u/hanniabu](https://reddit.com/u/hanniabu) [u/etherenum](https://reddit.com/u/etherenum) [u/MinimalGravitas](https://reddit.com/u/MinimalGravitas)
+
+</details>
+<details>
+<summary>u/stablecoin educates us on Gnosis Chain validators</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/13y3hr6/daily_general_discussion_june_2_2023/jmoid77/)
+
+Have to give my public support for Gnosis chain after a few posters recommended I run a node on my spare staking PC. 
+
+You can spin up a validating node with just 1 $GNO token. It’s the base token for the network collateral /staking, but funnily enough you need xDAI to pay fees so make sure to also transfer in $1.0 in dai to your deposit address. 
+
+You can stake like a whale too if you wanted, for about $7500 you can run 64 nodes that’ll probably net you 10-20 block rewards per day. Yield is around 16% which is just high inflation rewards, and so far there’s nothing in block rewards because tx are too cheap and there’s no MEV boost I don’t think. Gnosis Chain also hasn’t had their withdrawal fork yet so your locking up a little bit longer than ETH right now, but there’s no entrance queue either to earning. 
+
+The reason for the recommended is it uses the same software clients as ETH (geth, nethermind, lighthouse, prysm, maybe a few others now but not all are supported just yet). It’s literally a mini-me ETH network with its consensus and execution separated, using the same software clients you just select the Gnosis chain in your startup flags. I used Somer Esat guides to do all this, and just cross referenced the official setup guide from the Gnosis website (below).
+
+If you are curious about staking at home, or looking to enhance your own Etherum node operating skills, running a Gnosis node is like training or studying using real money. For me that always forces me to take it seriously and even enjoy the process more, in addition to leveling up my own skills. You just get a good a feel for how the clients interact with eachother, and also how well your node links up to the network and other nodes. If you really mess up, then you are only out $116 per node rather than $60k. Plus, you are helping to decentralize transactions on a low cost Etherum aligned EVM sidechain. This further broadens the reach of EVM smart contract developers and gives you something constructive to do during 🦀 szn. 
+
+<https://www.gnosis.io>
+
+<https://someresat.medium.com>
+
+</details>
+<details>
+<summary>u/T0Bii covers the Reddit API pricing drama</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1401prr/daily_general_discussion_june_4_2023/jmvuz00/)
+
+Ya'll probably already heard about the [reddit api pricing drama](https://reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/), but for those who didn't: Reddit is getting greedy and is going to charge a ridiculous amount of money for the use of their API, thereby driving third party clients out of business.   
+
+There's not much information about who will have to pay for what etc., but assuming that every API request will have to be paid for, this is the calculation I'm making for the [u/nitter_not_twitter](https://reddit.com/u/nitter_not_twitter) bot:  
+
+I'm currently checking the subreddit 6x per minute. I could reduce this to something like once every 5 minutes and I suppose it would still provide a good UX.   
+
+That'd be 12 requests per hour, 288 per day and 8640 per month.  
+The bot answered 170x in the past month as well so we're at 8810 requests per month, or ~106k requests a year.   
+According to what we know, reddit wants to charge $12k for 50 million requests. That's $0.00024 per request or ~$25 for the 106k/year.   
+
+**25$/year for running a very small bot** at 12 checks per hour instead of the current 360 checks per hour (which would be insanely costly).   
+
+I can afford that without a problem, assuming reddit will offer packages that small and at the same price.    
+
+But this still shows how insane the API pricing is.   
+
+Without 3rd party apps I'll not be here as often as I currently am and this might be true for a lot of people here as well.   
+
+Maybe we should also think about joining the prostest: <https://reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/   >
+Here's a list of already participating subreddits: <https://reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/>
+
+</details>
+<details>
+<summary>u/KBrot sets up an awesome Reddit alternative for us!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1412u9x/daily_general_discussion_june_5_2023/jn25rci/)
+
+Alright, well here ya go. Our own little reddit alternative.
+
+Welcome to [EVM Lemmy](http://evmav.ddns.net/). Our home away from home when we take down reddit on the 12th.
+
+See below, then... Play around. Make some shit. Post some shit. I'll polish it up as we go.
+
+Remember I've never admin'd a site in my life so... Anything and everything is subject to me trying to fix an issue and accidentally deleting all our data so... yeah, screenshot anything important anyone says.
+
+SOME. CAVEATS.
+
+Obviously, you'll notice it's on http only not https. Because I can't get the damn SSL cert to work. So, NO serious info should be entered here beyond your usual junk email and a junk password. It's PROBABLY just me with access to the data but like, idfk, it's http, trust nothing. Please just meme around and try to break the site, and skip entering your banking information and private keys.
+
+Then if anyone can kindly explain why the [http://url](http://url) works in every browser of mine EXCEPT my main Brave browser, I'd appreciate it. Edge is fine. Firefox is fine. In fact, I can access it in a Brave Private window, just not the main. Why? What setting is on blocking http? Hell, I can even do it from Brave on my phone, same wifi network and pihole DNS and everything. Confused, I am.
+
+And it's also not actually federated because it's 99% me not being able to figure it out yet and 1% apparently there's some outbound DNS issue with Lemmy instances the devs are working on. Idk.
+
+tl;dr servers are hard. yall need to be paid more.
+
+Cheers.
+
+---
+
+UPDATE:
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1433ugu/comment/jnasg7y/)
+
+Despite the best efforts of fellow redditors, I have to call it quits for now on the Lemmy instance. I'm just not smart enough. Perhaps I'll return to it.
+
+In the meantime, please find our ethfinance alternative at [https://kbin.social/m/ethfinance](https://kbin.social/m/ethfinance). It's all set up and ready to go, and it's federated. Think of Kbin as the scrappy newcomer ProtonMail to Lemmy's Gmail. 
+
+I'll leave it at that on here, but I'm happy to help people tour the fediverse in the Daily on Kbin. We'll waive the "on topic" rule for a few days so folks can acclimate.
+
+</details>
+<details>
+<summary>u/austonst shares a recent EthResearch post about beaconchain security</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1424agt/daily_general_discussion_june_6_2023/jn4rg6o/)
+
+New ethresear.ch post by mike neuder, francesco d’amato, aditya asgaonkar, and justin drake.
+
+[*Increase the MAX_EFFECTIVE_BALANCE – a modest proposal*](https://ethresear.ch/t/increase-the-max-effective-balance-a-modest-proposal/15801)
+
+Also see their [notes on security](https://notes.ethereum.org/@fradamt/meb-increase-security).
+
+Summarizing briefly, this change would keep the 32 ETH minimum for a validator, but increase the *maximum* by some factor (possibly 64x to a max of 2048 ETH). Probability of selection for various duties e.g. sync committee would be weighted based on balance. Operators running multiple validators would not have them aggregated forcibly, but could opt in to have their validators merged.
+
+The authors argue the following benefits:
+
+* BLS signature aggregation is a big part of the consensus protocol. Producing, verifying, and aggregating signatures for the various committees leads to some significant compute overhead which could be reduced with fewer, larger validators.
+* [Current proposals](https://ethresear.ch/t/horn-collecting-signatures-for-faster-finality/14219) for single-slot finality (SSF) depend on aggregating signatures from *every validator every slot*. Reducing the validator set size, and with it the number of signatures needed, would reduce the computational cost of doing so, speeding up SSF development.
+* SSF is a prerequisite for in-protocol proposer-builder separation (ePBS) and MEV burn, so reducing the validator set size helps speed those along too.
+* Anyone with stake below the maximum will have their consensus-layer rewards *auto-compound*, as the increased validator balance smoothly leads to higher attestation rewards and proposal chances. The current lack of this is a big downside to solo staking compared to staking pools.
+* Partial withdrawals incur a large withdrawal load every epoch. If validators switch to the larger cap with auto-compounding, there will be 1) fewer validators in total to process partial withdrawals for, and 2) many who stay below the upper limit and don't need regular partial withdrawals in the first place. Ultimately reduces withdrawal queue length.
+
+----
+
+As with any protocol design choice, there are some tradeoffs involved. Already a couple of good criticisms in the replies which are worth a read.
+
+</details>
+<details>
+<summary>u/haurog is feeling quite positive on Ethereum</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1424agt/daily_general_discussion_june_6_2023/jn3ay32/)
+
+I am feeling quite positive on ETH and Ethereum:
+
+* The most powerful government in the world goes on a full frontal attack on the largest centralized exchange in the world and the overall crypto market cap drops by less than 5% and is now down only 3.5%. Price fluctuation wise, this is just a normal day in crypto. It looks like most people who are non-believers or are over-invested left or reduced their investment. 
+* Every time the SEC does not call ETH a security it will get harder to claim it being one later on. Kind of like a Lindy effect.
+* Many alt L1 coins have been called a security now. I would prefer if the various approaches to building a modern blockchain would compete on a technical level and not a government restricting new entrants in the space by relative arbitrary and archaic regulations. But all in all this is positive for Ethereum, as I think the number of new "Ethereum killer" VC chains will go down.
+* Making it harder for newer chains to do an ICO could end up being extremely positive for ETH as  projects will think hard on how to secure their chain and probably a rollup settling on Ethereum using ETH as the payment token will be the way to go for many of them. 
+* For other non-rollup type projects they will have to find a way to secure their project without issuing tokens. Here comes Eigenlayer, which again uses Ethereum.
+
+These are uncertain times, I have no idea which branch of the US government lashes out and attacks crypto next, but I am just feeling positive about the non-reaction of the market and the future ahead for Ethereum.
+
+</details>
+<details>
+<summary>u/kainzilla speculates on the SEC's plan</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1433ugu/daily_general_discussion_june_7_2023/jn9tsl1/)
+
+This isn't designed to be FUD, but rather to be realistic about what I expect to happen. Just to be clear, I expect this plan to *fail* at some stage along the way, because I think they let it run too long and it's likely no longer stoppable:
+
+* The SEC is not governing in good faith, they're definitely orchestrating an attack on crypto. It's real easy to see "attacks" where attacks don't exist, but watching the SEC chief do everything possible to not define Ethereum as a commodity **or** a security during the congressional hearings made it extremely obvious that **they're acting with intent.**
+* With the fact that they're acting with intent in mind, consider the recent lawsuits against Binance and Coinbase, specifically the parts regarding securities: **some in here believed that it was a positive sign that Ethereum wasn't named. It is not.**
+* The SEC's problem is that if they try to get Ethereum declared a security right now, they're very likely to lose that lawsuit. Their game plan in this case is to go after other coins - especially ones that *are* in fact much closer to a security, and after securing a win on these, they intend to try to use that to nail Ethereum next. That's the only reason Ethereum wasn't included in the list, is due to prior SEC comments and actions regarding it. **As soon as they lock in any victories on similar assets, they will try to use this as support for attacking Ethereum.**
+* Bitcoin users aren't safe either. I'm pretty sure an additional facet of this plan is that any coins (including Bitcoin) that use Proof-of-Work mechanisms will be targeted by "green / environmental" legislation designed to shut them down / make mining them illegal. **They can't attack those via the SEC, so they're going to try co-opting environmental legislation to shut this side down. With these two prongs, both Proof of Stake and Proof of Work assets will both be covered.** Although I'm pretty sure this will be an aspect of the attack plan, I don't know if it will run concurrently with the SEC attacks above, or if they'll wait until it's known if those will succeed.
+* While these plans are in motion, they will continue to attack exchanges in any way they can - "protecting" consumers by making accessing exchanges harder or more onerous, legislation to make self-custody illegal, etc. **We've seen a few older and smaller US-servicing exchanges get shut down over the last year, and I expect them to start attacking Kraken and Gemini soon as well.**
+
+It's crystal clear they're working towards an agenda to shut down crypto as a whole. Tbh I don't give a shit if it's because "hur dur global banking cabal" or "oh fuck the USD is going to collapse if we don't try to shut this down" or "I'm old and fucking stupid and I hate this cryptkeeper blogchain technology", because the reasons are irrelevant; just know that they're working with a coordinated plan here and **Ethereum is on the hit list.** Be realistic about the struggles that are coming.
+
+</details>
+<details>
+<summary>u/696_eth reflects on a one year old ratio reminder</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1433ugu/daily_general_discussion_june_7_2023/jncqa6f/)
+
+A few weeks ago I received a reminder to my sale of majority of my BTC to ETH.
+
+At that time in 2022, btc - $30k, eth - $2000, ray - 0.067. 
+
+2023 prices, btc - $26k, eth - $1800, ray - 0.067.
+
+So was that decision good for me and my future?
+
+Some quick reflections combined with guesses-predictions on how things might turn out.
+
+* Due to prices and ratios being really similar, the trade has ended up being neutral. However, there's taxes, hence I ended up loosing like 20%ish and it will probably end up being around 30-35% long term. 
+* So one of the cool things for me right now is that I can borrow against my assets on Ethereum, even my ENS digits! I couldn't do that on Bitcoin, I would have needed to wrap it which would've been a tax event, so while it was possible, it was not practical. Borrowing my end up saving me 5-10% long term, we'll see. 
+* On top of my Ethereum assets. I have an option to get yield now. The yield is really crucial because it means I have an option of getting something without sacrificing my stack and cashing out. 
+* This leads me to my next point. My latest variation of the initial crypto plan was to cashout into USD or stocks, just away from the bitcoin, cause I needed to have money somehow to pay for stuff. They were not many bitcoin developments. Yes, it started being accepted here and there, mostly digitally. Anyways, that's not the point. But the most useful use case to me was being able to send money quick and fast and relatively cheaply.
+* Well, now I don't have to live. Quite on the opposite. It has also been cool cause there's so many things going in the Ethereum ecosystem or around it. I'm sure waaaay more people used Ethereum than Bitcoin. 
+* There's actually something here than just pure money and just waiting for the next halving and next bull run in hopes of more money. In the years before, I actually had people IRL ask me 'why would they buy Bitcoin and what utility it had?'. And for the decent amount of recent years, bitcoin community's proposition wasn't for P2P, which initially was soo cool for me, but more just to hodl this to have more money and that's it lol.
+* This bear market has the most fun. Somewhat stressful too compared to other ones where you just zone out cause there was not much going in btc. But yeah, it's pretty cool. I get to learn a lot and try out things I wanted to do in my life before. For example, I wanted to write before but I didn't like college essays cause of word limit bs. I wanted to write but I didnt really know where to put 'writing' into my life, I did write a few things here and there, mostly psychology and mental health related but that's about it. And since becoming involved in the communities here and in the ecosystem, I can do some writing and it works for me. And there's so much room for growth too.
+
+It's getting pretty long and my flow is a bit off so here's a few btc related takes.
+
+* I'm really interested seeing what happens when for the first time after halving when btc doesn't hit new ATH. It would be a heavy downfall to many holders, I don't think it will go to 0 but I think the main narrative of up only being broken would be a hard pill to swallow. 
+* Prob one of the hottest hot takes: I think btc doesn't hit $100k next bull run. But my takes are not know to be correct😅
+
+And if you made it till here, here's my last important point. 
+
+* I've been trying to figure out the differences between my experiences within bitcoin and ethereum communities. To me it was mostly coming down to some social related movements. For example, seeing snippets of btc conferences during 2021 was so criiinge that I didn't wanna be related with that sorta people in any way. On the other hand, there's so many builders, artists, creators, degens and users in Ethereum that I resonate with. It's kinda funny but I met some people who are still not a fan of Ethereum yet they work on some projects that are built on Ethereum and contribute to the ecosystem. I mean they can hold whatever assets they want but if they are spending their energy contributing to this ecosystem rather than contributing to the ecosystem the asset they believe of - maybe it says something. So I was looking for a short simple and best way to describe this whole social thing to start quantifying it someway so I can communicate with people better and pass on my excitement and passion about the space and I have realized that the term already exists - **Layer Zero**. That social layer. It's the actual difference that drives things here, creates collaboration and unity rather than division. 
+
+I'm going to end this here, thanks for coming to my imperfect TED Talk.
+
+All the best,
+
+696.eth
+
+</details>
+</details>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<details>
   <summary>Week #21: June 2, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP]([https://checkout.poap.xyz/128337](https://poap.gallery/event/128337))
