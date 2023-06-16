@@ -926,6 +926,7 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/130577)
 
+Guest appearance by Kevin Owocki from [Green Pill](https://greenpill.network/) and [supermodular](https://supermodular.xyz/).
 
 <details>
 <summary>The morning trinity</summary>
