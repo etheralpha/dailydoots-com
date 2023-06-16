@@ -918,6 +918,252 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #23: June 16, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/130577)
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14anky9/daily_general_discussion_june_16_2023/jobdhka/)
+
+[u/0xBOBA](https://reddit.com/u/0xBOBA)
+
+> Ethereum
+
+[u/Yeopaa](https://reddit.com/u/Yeopaa)
+
+> £1304
+
+[u/nixorokish](https://reddit.com/u/nixorokish)
+
+> 0.065
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/146kydb/comment/jnthhck/)
+
+*Cypher punks in Prague,*
+
+*Defending the crypto flag,*
+
+*Pride is in the bag.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14anky9/comment/jobdhuj/)
+
+Your daily beacon chain dose.
+
+Pending validators: Joining 93.5k, leaving 0
+
+* Entry queue -1200 from yesterday's number
+* It will take around 43 and a half days for the entry queue to clear
+* In just under 20 days the amount of daily validators that can both enter or exit will be increased from 2025 to 2250.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Bob-Rossi</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/149t8gd/comment/jo86eb3/)
+
+*Job sends email about no longer having the option of being full remote.* 
+
+"Ahh, time to retire. Surely all that ETH I bought 7 years ago will cover it."
+
+*Opens Coingecko*
+
+"Ahh, time to call a therapist."
+
+</details>
+<details>
+<summary>u/hanniabu keeps building awesome things for us</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/144vs24/daily_general_discussion_june_9_2023/jnkohwr/)
+
+### **PSA**
+
+[https://ethfinance.org/](https://ethfinance.org/) now redirects to the current daily thread.
+
+For the new reddit design, you can use [https://new.ethfinance.org/](https://new.ethfinance.org/), but it doesn't work on mobile because of [a bug that incompetent reddit hasn't fixed yet](https://reddit.com/r/bugs/comments/tny5vt/linking_to_sticky_posts_is_broken/).
+
+Why?
+
+1. It's convenient because the daily thread is where the action is but the link is different every day (u/superphiz will always be on the right page now)
+1. If the community ends up moving to another platform due to these Reddit changes, you'll be able to find out where we are from this URL
+1. If we eventually end up going with a protocol-based solution, this URL can serve as a directory for the various frontend options
+
+</details>
+<details>
+<summary>u/the_swingman assesses Ethereum's security-ness</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/144vs24/daily_general_discussion_june_9_2023/jnkjawu/)
+
+While I believe most of us here already deduce that Ethereum is not a security. I'll share some of my thoughts and thought process on the matter.. sorry in advance if this is a bit scattered and long.. 
+
+Ethereum is in a constant state of evolution. Sounds obvious to us, but that concept probably isn't so obvious to people not as well versed in the functionality of Ethereum. When I say this, I am thinking of a court room full of jurors, lawyers, a judge, etc. I am thinking about law makers, house of representatives and the senate; congress. Just listening in on recent hearings lets us know that there are a lot of people in powerful positions who are either un/ill informed or just flat out have a different agenda when it comes to cryptocurrency, let alone Ethereum. Etheruems' constant state of evolution is important to note because while I believe Ethereum can get close to a final form, even then, there will be new frontiers and boundaries that I think Ethereum can explore and expand on to. 
+
+Each stage of evolution in Ethereum has attracted different collectives of people. In the beginning, the idea of Ethereum in its simplest form, thought to be a programable Bitcoin-like entity; a decentralized smart contract platform that extended the capabilities of blockchain technology. If you read Vitaliks whitepaper, a lot of eye opening ideas were conceptualized, and the first question on your mind if you wanted to be involved/interreact was, how do I acquire some Ethereum. In the early groups of Ethereum enthusiasts, you had builders/creators, investor/speculators, researchers and general crypto enthusiasts who saw that whitepaper as groundbreaking.   
+
+I don't believe it was as black and white as: 
+
+```
+	A. I am an investor. 
+  
+	B. I invest to make money. 
+  
+	C. If I invest in Ethereum, I expect to make a profit.
+```
+ 
+The intial ICO wasn't a VC pitch, or promoted to a room full of investors with the promise of profit. It was however, a way to start funding projects on this new platform in exchange for giving people a way to interact with the network/platform by holding/using ETH as well as the potential for growth in value.   
+
+Society/Capitalism would argue that a profit expectation was present, especially if you were to compare the scenario to Bitcoin and Bitcoins historical growth in value at the time. While that may be inherent, it would be very difficult to prove that expectation as an absolute.
+
+Eventually, when a court is deciding on how to classify ETH, and the court is reviewing the intital allocations of Ethereum and the intent behind those allocations, although probably more centralized in nature than we'd all prefer it to have been, I believe there will be enough transparancy to make strong arguements against the criteria of the howey test. Especially if the current environment of Ethereum is to be considered. 
+ 
+With all of the latest developments of Ethereum; Defi, NFTs, DApps, DAOs, Tokenization/Crowdfunding, Supply Chain Management, Web3, etc. Todays Ethereum attracts a new collective of people, while fulfilling the initial vision of Ethereum. I personally know people who are indirectly involved with Ethereum and didn't purchase ETH with an expectation of direct profit, but were more interested in acquiring a loan or an NFT. Point is, there is a rather large and expanding ecosystem and community in Ethereum, one that makes the ETH token a utility in order to move about/participate within said ecosystem and community. As Ethereum continues to scale and more dApps and use cases come to surface, it will be increasingly difficult to classify Ethereum as a security. 
+
+Basic principles of that would signal a non security are: Ethereum has always prioritized decentralization and is decentralized. Ethereum has always been developed open-source and has been community driven and the ETH token was primarily designed as a utility token to interact with smart contracts and is still used that way today. 
+
+The regulators can try to apply old tests and laws to Ethereum, but I believe the outcome will be adapted tests and perhaps new laws likely favorable to Ethereum.  I am as much an investor as I am someone who just uses Ethereum for utility at this point. I have open defi loans, I have NFTs, I have contributed to DAOs and use dApps. These law suits were a long time coming (it seems like the markets feel this way too) and my (our) real hope we end up with actual framework and clarity with path forward for innovation in the US and to finally be rid of regulation by enforcement that triggers these nasty FUD headlines.
+
+</details>
+<details>
+<summary>@Kbrot welcomes us to Kbin</summary>
+[View on kbin →](https://kbin.social/m/ethfinance/t/12992/Daily-General-Discussion-June-12-2023#entry-comment-54255)
+
+Hi all and welcome to kbin and m/ethfinance, our temporary-and-maybe-someday-more home while reddit learns its lesson.
+
+I didn't get a chance to reply to everyone in the previous thread, but I did read. Please feel free to ask me any questions about kbin, Lemmy, the fediverse, and I'll try to answer. I've spent quite a few days now exploring it. I also encourage fediverse users to chime in, whether it's from Mastodon experience or somewhere else.
+
+The dev (@ernest@kbin.social) is lovely, responsive, and working hard right now. Feel free to chip in with suggestions at m/kbinmeta or if you have web dev experience, maybe consider reaching out directly to help.
+
+No doubt you're all noticing kbin is slow. It's good to remember that the beauty of federated (decentralized) servers is also in the initial brutality. Servers can be run by anyone (great!) but servers must be run by someone (oof). Ernest is one guy, spinning up a server for refugees of a global conglomerate. It's partly why I tried -- and will keep trying -- to open a server of our own.
+
+I'd encourage everyone to have a little patience, be extra kind and gracious, and at worst, take a little time away from the screen if it's crawling. They're planning a large infrastructure change next week. In the meantime, try to enjoy the brave new world here. We haven't had a truly "new" website to explore in many years. It's kinda exciting!
+
+Now back to the memes, lines, and triangles.
+
+</details>
+<details>
+<summary>@Chromes takes decentralization seriously and is now a solo staker!</summary>
+[View on kbin →](https://kbin.social/m/ethfinance/t/14187/Daily-General-Discussion-June-13-2023#entry-comment-61760)
+
+Checking in after my post about taking the plunge the other day. Spun up my validator and deposited. Took me, in total, about 10 hours (yes, really). I'm "Pending" on beaconcha.in.
+
+I wrote down a lot of what I felt and did while trying to get it all together. I'm still kind of shell-shocked by the whole experience and I'm sure I'll talk a lot more about it later. What I'll say for now is that even the "for dummies" version of setting up a validator is significantly more intimidating and intense than most people think it is.
+
+I'm proud of myself for (hopefully) successfully doing it, but even doing it on easy mode (dappnode) had a lot of issues, things that I didn't fully understand, or things that almost had me giving up (I gave up about 3 times and then went right back to it after 5 minutes of having given up).
+
+To be absolutely clear, that's no one's fault but mine. I'm absolutely tech illiterate, but, sadly, I'm actually probably more tech-y than most people. So I do think we have a long way to go before this sort of thing becomes something non-tech can just pick up and do. Things that I think most here take for granted are very scary or even indecipherable to someone like me.
+
+That actually brings me to something that this whole reddit fiasco has me thinking about. One of the great strengths of crypto and eth in particular is the layer 0 stuff. It leads to great communities like this or Ethstaker. We have Reddits and Discords which are filled with people willing and eager to help. The problem is that it seems like it may have led to less focus on delivering a user-manual that makes sense to a new user who has no idea what they're doing. Communities are great for fixing problems, but it seems like we rely on a nebulous social network to teach the basics. Even the best guides I found seemed to assume a lot of knowledge and I generally had 3-5 "1 stop shop" guides open at once as I did this.
+
+The good thing with how tough it was was that, if everything works out and I start validating in a month and a half (thanks Celsius), I'll really feel like I earned it.
+
+</details>
+<details>
+<summary>@minimalgravitas calls out Ripple exec on misleading through omission</summary>
+[View on kbin →](https://kbin.social/m/ethfinance/t/14187/Daily-General-Discussion-June-13-2023#entry-comment-60732)
+
+An incredibly simple example of how to mislead by omission...
+
+A Tweet by Stuart Alderoty, Chief Legal Officer at Ripple.
+
+> 10/ On June 4, Hinman wrote that he didn’t see a “need to regulate ETH as a security” and would **call Buterin later that week to confirm “our understanding.”**
+
+Emphasis is added by me, because that section is one of the things causing the XRP bagholders to tweet about '#ETHGate'.
+
+<https://twitter.com/s_alderoty/status/1668601236344692737>
+
+It is clearly written to imply a shady agreement between Hinman and Buterin. However, in context the quote from the e-mail reads:
+
+*We also have a call with Buterin later this week to confirm our understanding __of how the Ethereum Foundation operates.__*
+
+So what this bellend is insinuating indicates some dodgy deal, is actually just a reference to a call checking some information.
+
+I really do hate the way spreading disinfo is seen as a perfectly acceptable tactic by assholes to get what they want. If you don't strive for truth then you do not deserve to have people listen to you, but so many people don't really want truth, they just want feel special for knowing about a conspiracy and to believe things that will pump their bags.
+
+</details>
+<details>
+<summary>@kingleo23 is glad the Prometheum nonsense got called out in the US house hearing</summary>
+[View on kbin →](https://kbin.social/m/ethfinance/t/14187/Daily-General-Discussion-June-13-2023#entry-comment-63659)
+
+Glad the Prometheum nonsense got called out in the hearing today.
+
+<https://twitter.com/AlexanderGrieve/status/1668764481252478979>
+
+<https://twitter.com/EugeneProko/status/1668745089164935168>
+
+Quite obviously a live action role play exercise
+
+<https://twitter.com/SGJohnsson/status/1668747275550740482>
+
+</details>
+<details>
+<summary>u/busterrulezzz reminds us of some of the good things Reddit has done for web 3</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/148yyad/daily_general_discussion_june_14_2023/jo5690p/)
+
+I get all the drama around Reddit API, but I want to point out something : so far, Reddit is *by far* the social network that is the most crypto-friendly. They onboarded millions of normies eith their Vault, community tokens and Digital Collectibles.
+
+Just something to keep in mind while our community ponder its options.
+
+</details>
+<details>
+<summary>u/PhiMarHal has your daily hit of hopium</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/148yyad/daily_general_discussion_june_14_2023/jo5orfq/)
+
+I got your hopium, fam.
+
+Tech is more solid than ever. Rollups make great strides, each in their own direction. Transactions get cheaper, design space extends.
+
+AI is complementary with crypto. AI is the content engine. Crypto is the curation engine. An abundance, an infinity of content makes curating this content for relevance that much more important.
+
+Innovation is happening at the app layer. Uniswap v4 was announced yesterday. Autonomous worlds is picking up as a concept.
+
+We are right where we were in 2019. With everyone declaring crypto dead, and usecases "nobody" expected about to mature in a couple of years.
+
+In a vacuum, I would add that however, we can't be sure this will be reflected in the price as the last ATH went quite high. But this is where the real hopium shot comes in: great future multipliers are forged in the despair of many. When perception hits maximum pain while reality speaks of fundamental soundness still, those are the times of asymmetric opportunities.
+
+In the end I'm just another wanker on the Internet, but I bought ETH today. I wasn't a buyer for the past 3 months. This is financial advice.
+
+</details>
+<details>
+<summary>u/Dysus1 keeps us in the US regulatory loop</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/148yyad/daily_general_discussion_june_14_2023/jo4t3pg/)
+
+For those who missed it...regarding Crypto Clarity in the US:
+
+**Hearing Entitled: The Future of Digital Assets: Providing Clarity for the Digital Asset Ecosystem** (https://www.youtube.com/watch?v=dr9GD8hdD_U)
+Opening Statements occur at -Time Stamp: [41:39](https://www.youtube.com/watch?v=dr9GD8hdD_U&t=2500s). 
+
+Some observed discussion points I found of interest:  
+
+* The numerous times that stable coin legislation was mentioned and the importance, for the US Dollar to maintain its dominance as the world’s reserve currency.
+* New consumer protection of imposed Individual Blockchain investment limits of approx. 5% of Net Income.
+* Rules for Categorization of Blockchain projects for the purpose of Jurisdiction for SEC or CFTC, with a grace period for projects to become decentralized 
+* Mr. Foster’s comments regarding ongoing “Classified Briefings” -Time Stamp: [3:15:32](https://www.youtube.com/watch?v=dr9GD8hdD_U&t=3h15m32s)
+* Regarding the testimony of Mr. Kaplan, Co-CEO of Prometheum, an SEC approved exchange.  It became obvious that he represented the Crony System (Supported by GG and a certain political party affiliation).  It was interesting that certain members read perfectly scripted questions...that allowed for perfectly scripted answers.  Which were undone by the following (note the body language):  (5 min. each)
+	1. Mr. Luetkemeyer -Time Stamp: [2:00:43](https://www.youtube.com/watch?v=dr9GD8hdD_U&t=2h32s).  
+	1. Mr. Loudermilk -Time Stamp: [2:42:40](https://www.youtube.com/watch?v=dr9GD8hdD_U&t=2h42m40s).  
+	1. Mr. Norman -Time Stamp: [4:37:21](https://www.youtube.com/watch?v=dr9GD8hdD_U&t=4h37m21s).
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #22: June 9, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=VZRR5gN17Nk) | [POAP](https://poap.gallery/event/129405)
