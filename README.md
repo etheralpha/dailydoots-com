@@ -8601,4 +8601,29 @@ var delay = (function(){
     timer = setTimeout(callback, ms);
   };
 })();
+
+function updateLinkTargets() {
+  // open external links and pdfs in new tab
+  const links = document.getElementsByTagName("a");
+  site_url = "dailydoots.com";
+  for (let link in links) {
+    let href = links[link].href;
+    // set all links to open in new tab
+    if (/^(https?:)?\/\//.test(href)) {
+      links[link].target = "_blank";
+    }
+    // if current domain, use same tab
+    if (href != undefined && href.includes(site_url)) {
+      links[link].target = "_self";
+    }
+    if (href != undefined && !href.includes("https")) {
+      links[link].target = "_self";
+    }
+    // open all .pdf, .png, .jpg, .mp4 in new tab
+    if (/(\.pdf$|\.png$|\.jpe*g$|\.mp4)/.test(href)) {
+      links[link].target = "_blank";
+    }
+  }
+}
+updateLinkTargets();
 </script>
