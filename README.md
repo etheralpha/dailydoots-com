@@ -920,7 +920,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #22: June 9, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/129405)
+[Livestream Recording](https://www.youtube.com/watch?v=VZRR5gN17Nk) | [POAP](https://poap.gallery/event/129405)
 
 Guest appearance by Matt Finestone, former lead of Gamestop NFT and currently head of [Taiko.xyz](https://taiko.xyz/), a decentralized and Ethereum-equivalent ZK-Rollup.
 
