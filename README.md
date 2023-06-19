@@ -8426,7 +8426,7 @@ In an effort to spread awareness of what everyone in the community is working on
 
 |  | Username              | Description
 ---|-----------------------|------------------------------------------
-.  | 0xdefiant             | [Banless Advisor Founder](https://www.banklessadvisor.com/) - A web3 social trading platform
+.  | 0xdefiant             | [Bankless Advisor Founder](https://www.banklessadvisor.com/) - A web3 social trading platform
 .  | 404bachee             | Creating an LSD DEX and lending app
 .  | 696_eth               | [EVMavericks Weekly](https://evmavericks-weekly.netlify.app/) - The top EVMavericks events of the week
 .  | atleft                | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
