@@ -930,6 +930,241 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #25: June 30, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/140922)
+
+Guest appearance by Gravning Amundsen, Co-Founder of [Firn Protocol](https://app.firn.cash/), a zero-knowledge privacy platform.
+
+**Announcements**
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14mqtwd/comment/jq3bmic/)
+
+[u/Hocilef](https://reddit.com/u/Hocilef)
+
+> Ethereum
+
+[u/OurNumber4](https://reddit.com/u/OurNumber4)
+
+> $1888
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.061
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14l05iz/comment/jpx29x4/)
+
+*Data location,*
+
+*The storage destination,*
+
+*Blockchain in motion.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14mqtwd/comment/jq3bs0n/)
+
+Your daily beacon chain dose.
+
+Pending validators: Joining 93.2k, leaving ~0
+
+* Entry queue +800 from yesterday's number
+* It will take just over 41 days for the entry queue to clear
+* In around 7 and a half days the amount of daily validators that can both enter or exit will be increased from 2025 to 2250.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: </summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14gpcpl/daily_general_discussion_june_23_2023/jp6ttai/)
+
+- Solana backwards is Anal OS 
+- Cardano logo is literally an anus 
+- SHIB/DOGE - dogs literally have anuses and take shits 
+
+I'm a free market kind of guy but these are some real shitcoins
+
+</details>
+<details>
+<summary>u/bman0920 built an awesome EVMavericks themed game for the buildathon</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14ftwtr/daily_general_discussion_june_22_2023/jp2zizo/)
+
+[original comment deleted by user 😢, pls stahp et]
+
+---
+
+Gameplay preview:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OyyGdpp6UcY?start=2706" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+From ZombieBP on Discord:
+
+Hey everyone, if anyone is interested. my EVMavericks Origins level is now live and available to play on Unity Play!
+
+Couple things;
+
+- I temporarily removed the Metamask login, I have to fix a couple bugs there on the WebGL build. But I thought I'd launch the game without it so you guys can play now.
+- This is a demo release. I'm sure there might be a couple bugs or some things might not look right on your screen vs others. If you find any bugs or UI issues in the game, let me know and i'll fix them and update the game on the next version.
+- This game isn't Mobile compatible yet. I haven't programmed any Mobile controls so if you try to play using your phone right now you'll probably die in the game and won't get very far. So please use your Desktop or Laptop to play
+- I forgot to put a controls section in the game (this is another thing I have to add), but its A = move left, D = Move right or left, right arrow keys and Space bar to jump
+- Press Enter to skip beginning cutscenes
+
+Have fun, I hope you can beat my level haha. There are exactly 32 Ethereum (in-game) tokens in the game level. See if you can collect them all. 
+
+<https://play.unity.com/mg/other/webgl-builds-354807>
+
+
+</details>
+<details>
+<summary>u/Liberosist is watching the piece falling into place</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14ftwtr/daily_general_discussion_june_22_2023/jp6f3uy/)
+
+We're roughly halfway through the journey I described in [A Vision of Ethereum - 2025](https://reddit.com/r/ethfinance/comments/pgcbar/a_vision_of_ethereum_2025/)
+
+Running behind schedule, but at the same time, I think the pieces are falling into place. We need better integration of smart wallets across L2s and their apps, and there's progress being made there. One area where there's been very little progress in the last couple of years is in the application layer - but that might be OK, even with the existing applications and usecases live or in development there's plenty to grow as UX improves to what's described in that post.
+
+</details>
+<details>
+<summary>u/benido2030 appreciates the hidden talents in this community</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14gpcpl/daily_general_discussion_june_23_2023/jp7clrk/)
+
+You know what's one of the best part about this community, at least for me? There is not only a lot of knowledge, but also so much talent. I don't stalk people (really, I don't... or do I?), but when you follow EVMs on twitter and check their bios... oh my... so many cool projects in the bios, big names etc. 
+
+So some time ago I started following this [account](https://twitter.com/heeey_eth) on twitter, because despite not having an EVM PFP the name sounded familiar. Turns out I was right, it's u/heyheeyheeey 
+
+So they started posting [pics](https://pbs.twimg.com/media/FujIJKsWYAEKljy) and we started DMing, because I love the art. Some posts are about NFTs from another collection, but they started experimenting with generative art themselves and imo they are very very talented. Apparently I am not the only one that loves it and soon (August 7th) heeey will launch their collection "bright" on Art Blocks. Yes, you read that right, [Art Blocks](https://www.artblocks.io/collections/presents/projects/0x99a9b7c1116f9ceeb1652de04d5969cce509b069/448). 
+
+So, save or buy some ETH cause we are going to mint some jpgs in August. And if we don't, then I am even happier cause that means heeey's art was so in demand that they are rich now because of a rather high mint price. In any case just being featured on Art Blocks is a great achievement, so congratz heeey! 
+
+Wanna know more and see why I am so exciting? Follow them on twitter or check their new homepage: [https://heeey.art/](https://heeey.art/)
+
+</details>
+<details>
+<summary>u/LogrisTheBard reminds us of the long term vision</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14hjvmz/daily_general_discussion_june_24_2023/jpbcfjj/)
+
+The most beautiful thing about mankind isn't his ability to understand the world as it is, it is to imagine the world as it isn't and shape it. The denizens of the deepest parts of [The Rabbit Hole](https://tokenomicsexplained.com/the-rabbit-hole/), the areas furthest from common understanding, are dreamers. They can imagine a world where you are in control of your data instead of monopolistic companies, where identity theft is practically impossible, and where your data isn't monetized and weaponized against you. They can imagine a world where you can contribute to common efforts, at whatever cadence you want, and receive fair rather than predatory compensation by doing so. They can imagine a world where honesty is rewarded, where reputation carries more weight than money on deciding things that matter, and where the best amongst us are elevated and empowered to maximize their potential. They can imagine a world where those harming us are held accountable, where violence is only required as a response to violence, and where there is always a pathway to redemption for those willing. They can imagine a world where coordination seems easy, where the actions of humanity are in alignment with our values, and where we are free to act together to shape the world of our dreams without asking permission to do so.
+
+I can cite specific teams, projects, and people who are imagining all these things and shaping the world in small and large ways to bring their imagination to life. There is technology behind all of these things. It is developing right here, right now, even in the bear market when sentiment is at its lowest. They are making it real as much as they are able to in a largely uncaring and cynical world where every incentive is aligned to enshrine the status quo. In the face of active hatred from the willfully ignorant, in the face of oppression, threats, and violence by the government, the best amongst us are doing these things anyway.
+
+To those of you sticking it out right now after seeing a Tornado Cash dev get locked up without charges for over a year, after seeing the SEC work with SBF but sue Coinbase, and seeing scams proliferate and society turn against you, you are heroes too. The institutions all want us to have to ask permission. They want that so they can say no, grant control to their donors, and protect the status quo. I dislike the status quo; that's what makes me a dreamer. So I say no thank you to them. This technology cannot be bottled and stolen by Nestle and the like. It cannot be captured by a court order or an unelected bureaucrat somewhere. In the game we are playing, every country has a chance to defect from a strategy of oppression and reap economic rewards for doing so. The impacts of what we are building today will be realized over many generations, but society grows great when people plant trees they will never live to sit in the shade of. So we are dreaming of forests... and planting trees.
+
+</details>
+<details>
+<summary>u/Papazio is not impressed with a major shortfall of most centralised exchanges</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14j7oa4/daily_general_discussion_june_26_2023/jpmcq74/)
+
+How has no CEX yet enabled a full history statement?! 
+
+Coinbase allows you to generate a report of all transactions in a nice pdf with your account details, but cannot include deposits and withdrawals. 
+
+Kraken allows you to download a full ledger of all kinds of transactions/deposits/withdrawals etc, but only as a spreadsheet without account details. 
+
+Another one I use is similar to Kraken but cannot do a full account history, only up to one year at a time. 
+
+How is it so hard for these companies to put together an account statement function that can include all of the above?!
+
+Edit: WOW! Holy fuck the incompetence. 
+
+Speaking with Coinbase chat support, they send me a link to a document… a gain/loss report of ANOTHER PERSON’S account! Including their full name and email address. Presumably that person has my details now too. WTAF!
+
+Edit 2: As soon as I pointed out what had happened, the initial customer service agent did not respond and passed me to someone else. The second agent tried to ignore the data breach but eventually said that as far as they could see my data was not shared. They provided some further advice to find my deposit/withdrawal history which entailed logging out of my account… that ended the secure chat (which I suspect was a ploy to get rid of me). So I began another chat with a third agent who looked into the issue and asked for the name of the user’s data I was sent, they then escalated it and I’m awaiting next comms from Coinbase. In the meantime I have contacted a law firm to discuss what’s happened, I’m not normally one to pursue mistakes by customer service agents but this is a serious data breach and it was initially handled extremely poorly.
+
+</details>
+<details>
+<summary>u/etheraider shares the EVMaverick buildathon results</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14j7oa4/daily_general_discussion_june_26_2023/jpl20a5/)
+
+Buidlathon results are in!
+
+We actually finished with an unprecedented 3-way tie between rETH Skimmer, Lidont, and EVMavericks Origins (the game)! Each project has received a little over 3 ETH each to help build out their vision!
+
+Of course this is just the beginning for these projects, if you are looking to get involved/give input please reach out to the builders!
+
+The entire goal of the competition was to encourage builders to take the leap and build something new and Im happy to say we accomplished that mission!
+
+Congratulations to the winners!
+
+</details>
+<details>
+<summary>u/Yeopaa explains the difference between EY's "____fall" products</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14idb8o/daily_general_discussion_june_25_2023/jpjntdj/)
+
+*EY’s Starfall responds to privacy concerns on the public blockchain. This transition is enabled by EY’s open-source contributions, Nightfall and Starlight. Nightfall enables confidential transfers of tokens between companies, while Starlight allows enterprises to implement unique business logic on the blockchain; the source code for both is available publicly. In addition, EY announced Starfall, which ties both open-source contributions together. It aligns smart contracts with transactions in Nightfall, enabling a single privacy environment while allowing unique business rules for each relationship. Interestingly, Starfall is proprietary to EY; it’s EY’s secret sauce.*
+
+</details>
+<details>
+<summary></summary>
+[View on Reddit →]()
+
+
+
+</details>
+<details>
+<summary>u/Dray11 shares their upcoming charity NFT project 🎨</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14l05iz/daily_general_discussion_june_28_2023/jpuvrg8/)
+
+Hi everyone, can understand if this post maybe ends up being removed but I've posted a couple updates here on it during the last few months about a charity motivated project I had been working on; a small collection of NFTs where all proceeds recieved from the mint and subsequent royalties will go towards charities voted on entirely by the holders. 
+
+If ok with the Mods and there's any interest from people in this sub then will post some links for further details on the the mint and the project.
+
+EDIT
+
+Seems to be at least a little interest so adding some details here:
+
+Project name is Duck x Pop 
+
+Will be Minting on Polygon via Autominter [here](https://www.autominter.com/mint/649c1151c70555000ed2ad58) on July 10th
+
+You can see more details and a sneak peak of the artwork on twitter [here](https://twitter.com/DuckxPop)
+
+</details>
+<details>
+<summary>u/696_eth has the EVMavericks weekly</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/14j7oa4/daily_general_discussion_june_26_2023/jplxwc5/)
+
+[EVMavericks Weekly #24: June 19-25, 2023](https://i.imgur.com/OuHD9ib.png) | [Homepage - EVMavericks Weekly](https://evmavericks-weekly.netlify.app/)
+                                              
+[Twitter Thread](https://twitter.com/696_eth/status/1673373656993628160)                                             
+                                            
+🦁Everything you need to know about the last week in EVMavericks in less than 69.6 seconds 👇
+
+1. Buidlathon projects were presented, judged on aaaaand... we have ended up with [a 3 way tie!](https://i.imgur.com/nkuA8Q7.png) Each projects gets 3.06E! 
+
+2. roar-y revamps [DAO EVMavreciks Site](https://dao.evmavericks.xyz/) highlighting EVM milestones and current activity
+
+3. mtitus6 shares [this useful site](https://payload.de/data/) for those with validators 
+
+4. [Ethfinance Weekly Doots #23 with our guest  Pablo Villalba from Diva Labs](https://www.youtube.com/watch?v=7a_aZ095wJU&ab_channel=EVMavericks-Ethfinance)
+
+Security reminder: [here's a few guides](https://i.imgur.com/a/DSvQrXs.png)
+
+Additionally, if you are in EVMavericks discord, we have a security channel. You can literally mute everything else but that channel and only get notifications from there.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #23: June 16, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=difDTKT_S5A) | [POAP](https://poap.gallery/event/130577)
