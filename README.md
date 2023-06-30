@@ -986,7 +986,7 @@ This can also be tracked via <https://validatorqueue.com/>
 
 </details>
 <details>
-<summary>Shitpost of the week: </summary>
+<summary>Shitpost of the week: u/NeedlerOP</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/14gpcpl/daily_general_discussion_june_23_2023/jp6ttai/)
 
 - Solana backwards is Anal OS 
