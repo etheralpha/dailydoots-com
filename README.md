@@ -938,6 +938,8 @@ Guest appearance by Gravning Amundsen, Co-Founder of [Firn Protocol](https://app
 
 **Announcements**
 
+- [Octant announces their pre-launch event](https://hackmd.io/@gofo-new/HyBKKtdv3) called Epoch Zero.  Epoch Zero will jump-start the platform by giving the active community members an opportunity to distribute $1M worth of ETH among ten high-impact Ethereum public good projects.
+
 <details>
 <summary>The morning trinity</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/14mqtwd/comment/jq3bmic/)
