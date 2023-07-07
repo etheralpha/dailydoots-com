@@ -1000,7 +1000,7 @@ This can also be tracked via <https://validatorqueue.com/>
 
 On this day, 247 years ago, history began. Nothing of importance ever happened before then. Happy 4th July everyone. 🇺🇸
 
-^^^Obviously ^^^/s ^^^on ^^^the ^^^first ^^^bit
+<small><small>Obviously /s on the first bit</small></small>
 
 </details>
 <details>
