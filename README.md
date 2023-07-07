@@ -932,7 +932,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #25: June 30, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/140922)
+[Livestream Recording](https://www.youtube.com/watch?v=Z0Jyor_MyFk) | [POAP](https://poap.gallery/event/140922)
 
 Guest appearance by Gravning Amundsen, Co-Founder of [Firn Protocol](https://app.firn.cash/), a zero-knowledge privacy platform.
 
