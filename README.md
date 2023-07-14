@@ -937,8 +937,6 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/143298)
 
-**Announcements**
-
 <details>
 <summary>The morning trinity</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/14z6vmh/comment/jrwch9a/)
