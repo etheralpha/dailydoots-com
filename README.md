@@ -935,7 +935,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #26: July 7, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/142004)
+[Livestream Recording](https://www.youtube.com/watch?v=twRs1bpsAc8) | [POAP](https://poap.gallery/event/142004)
 
 Guest appearance by Frisson from [Tally](https://tally.xyz/), an on-chain DAO framework.
 
