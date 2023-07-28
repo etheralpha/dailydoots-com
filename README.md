@@ -942,7 +942,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #27: June 14, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/143298)
+[Livestream Recording](https://www.youtube.com/watch?v=pvPp5ii6wmI) | [POAP](https://poap.gallery/event/143298)
 
 <details>
 <summary>The morning trinity</summary>
