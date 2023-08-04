@@ -1120,7 +1120,7 @@ Alchemix got hit by this reentry bug too today and it doesn't seem to be a white
 
 > Seems that ALCX exploit confirmed NOT a whitehat :(
 
-[](https://pbs.twimg.com/media/F2TDEGzWUAETANb?format=png&name=small)
+![](https://pbs.twimg.com/media/F2TDEGzWUAETANb?format=png&name=small)
 
 ---
 
@@ -1142,7 +1142,7 @@ Metronome 1.6M <https://twitter.com/spreekaway/status/1685669149911990273>
 
 > Another curve pool (this time Metronome Synth ETH) hit by a similar exploit for $1.6m profit
 
-[](https://pbs.twimg.com/media/F2Sy-ABWcAILldU?format=jpg&name=large)
+![](https://pbs.twimg.com/media/F2Sy-ABWcAILldU?format=jpg&name=large)
 
 Curve just tweeted: <https://twitter.com/CurveFinance/status/1685696639325933568>
 
