@@ -943,6 +943,328 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #29: August 4, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/146487)
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15hqkud/comment/juq0tsy/)
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> ✨E✨t✨h✨e✨r✨e✨u✨m✨
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.062
+
+[u/wolfparking](https://reddit.com/u/wolfparking)
+
+> $1833
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15dcqqy/comment/ju4dwec/)
+
+*Vyper labyrinth,*
+
+*Compiler masonry tricks,*
+
+*Curve pools broke a plinth.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15hqkud/comment/juq1g6e/)
+
+Your daily beacon chain dose.
+
+Active validators: 706,796 (+1,631)
+
+Pending validators: Joining 75.5k, leaving ~0
+
+* Entry queue -1600 from yesterday's number
+* It will take around 31 days for the entry queue to clear
+* In around 6 days the amount of daily validators that can both enter or exit will be increased from 2,250 to 2,475.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Glittering-Duty-4069</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15fzcv4/comment/juj089g/)
+
+Consider this: The SEC (Securities and Exchange Consideration) Consideration deliberating on whethere they should once again reconsider their previous considerations considering to consider reconsidering ETH ETF for deliberation and consideration.
+
+</details>
+<details>
+<summary>u/cryptOwOcurrency has your daily dose of hopium</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15ase4i/daily_general_discussion_july_27_2023/jtouzrt/)
+
+I held my tongue back in that thread, but I found that sentiment bizarre too. If ETH development were basically dead like Bitcoin I could maybe understand the logic of the market capping out soon, but ETH is still a rapidly developing and improving technology, and still has a lot of not only adoption but simple low-hanging improvements in market efficiency in front of it. Even if core Ethereum development completely halted today, ETH would still have at least another market cycle worth of juice in it.
+
+There still aren't any ETFs in the US. Big brokerages only just launched crypto custody less than a couple months ago. Roll-ups and zk tech still aren't mature yet. The general public still thinks NFTs are an environmental nightmare. It's been less than a year since the last PoW block was mined on Ethereum, and barely three months since its literal consensus system was completed! The queue isn't even clear yet, for god's sake!
+
+These are probably a lot of the same people who called for $10k last cycle. Now that we've been crabbing for a while, they get all depressed and doom-and-gloom. When the bull market picks up again, they're probably going to start calling for $20k+. Then we'll top out at like $16k and they'll watch their generational paper gains slip through their fingers again.
+
+</details>
+<details>
+<summary>u/Set1Less has an update on the struggling US stablecoin bill</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15ase4i/daily_general_discussion_july_27_2023/jtortmn/)
+
+Anyone following the Congress stablecoin bill?
+
+That seems to have died today too. The law just created a legal structure for stablecoins (with actual legal protection) and allowed businesses to use stablecoins, but the bill has died 
+
+Good threads on it: 
+
+<https://twitter.com/JBSDC/status/1684589699564728320>
+
+
+<https://twitter.com/JBSDC/status/1684570863432257538>
+
+So fucked up.... even a stablecoin bill cant pass. A proper crypto bill is just DOA
+
+</details>
+<details>
+<summary>u/bleeddonor covers the relevant Mullvad VPN situation for stakers who use a VPN</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15bntnh/daily_general_discussion_july_28_2023/jtrwycy/)
+
+It appears that some of you aren't aware of what happened with Mullvad.
+
+Mullvad is a VPN outfit located in Sweden, which has strong privacy laws.
+
+Mullvad gets raided by the police who want user data:
+
+<https://www.hackread.com/mullvad-vpn-office-raided-police-user-data/>
+
+Mullvad frustrates that effort by not having any user data.
+
+A little over a month later Mullvad is forced to withdraw their forwarded-ports service, which I'm sure some of you know is what you want to have if you're trying to run a node over a VPN:
+
+<https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/>
+
+Not privy to the exact details of course, but it isn't rocket science to anyone who has been online for any length of time and relates to controversial political content, you poison the well.  Suddenly somebody starts using a forwarded port for child porn, the complaint is made, and now the police come back to Mullvad asking for proof they weren't they weren't the ones who produced it.  Or something like that.
+
+Result?  Anyone here who was using Mullvad as their VPN for staking now has to a) find another VPN and b) wonder how long it will be before the same proposition is made to that vendor.
+
+</details>
+<details>
+<summary>u/pr0nh0li0 points out the wrong ETH supply values on major websites</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15bntnh/daily_general_discussion_july_28_2023/jttigi4/)
+
+None of Coingecko, Coinmarketcap, Coinmetrics, or Bitinfocharts have the right supply listed for ETH. They seem to be either accounting for new issuance but not burns, and/or they may be double counting ETH that has been withdrawn (as technically the ETH doesn't ever actually leave the staking deposit contract, but is instead re-minted at a 1-1 rate when “withdrawn”). It's almost been a year since the merge and almost 4 months since withdrawals were enabled. How have they not addressed this? Each of these sites has supply listed somewhere between ~120,700,000 and ~120,800,000. 
+
+CryptoQuant seemingly has the opposite problem--accounts for burns but not new issuance under PoS (supply is under 119MM according to them).
+
+Etherscan and Ultrasound.Money seem to get it the most correct (although it could also be noted that Etherscan has a slightly lower total supply than Ultrasound.Money). 
+
+Would be nice if we could get some consistency here. To be fair, the set up for the withdrawal contract and BeaconChain make it a bit of a mess of accounting, but I feel like there should be some more urgency to address this issue at the big metrics sites.
+
+</details>
+<details>
+<summary>u/Syentist complains about the SEC and u/edmundedgar has a fair balancing take</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15bntnh/daily_general_discussion_july_28_2023/jttt3bn/)
+
+[u/Syentist](https://reddit.com/u/Syentist):
+
+The SEC writes a not-so-subtle letter threatening accounting firms against working with the crypto industry, including [dangling the threat of legal liabilities](https://twitter.com/nic__carter/status/1684698495192555520)
+
+Some unelected fuckface sitting in a federal agency with no legislative backing from Congress is able to threaten private service providers to cut out a legitimate American industry, using the full weight of the American government to back his threats. Raw, unelected power. 
+
+Just as with the FDIC shutting down some banks because they are associated with crypto services, and deciding to save others which are not. Just as with Operation Chokehold 1.0 and 2.0. Unelected, authoritarian power from the Administrative State, trampling on American rights.
+
+Watching the Supreme Court castrate these federal agencies ruling by ruling is one of the few bright spots in politics rn.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15bntnh/daily_general_discussion_july_28_2023/jtwkpa6/)
+
+[u/edmundedgar](https://reddit.com/u/edmundedgar):
+
+Always read the actual thing, not the twitter crypto influencer's summary of the thing.
+
+<https://www.sec.gov/news/statement/munter-statement-crypto-072723>
+
+We've had some really shady cases like the Tether attestations where they've engaged auditing companies to do "attestations" that are deliberately designed to make people think their money is safe, while leaving loopholes so they don't have to actually keep the money safe. With Tether they literally wired the money from Bitfinex into a bank account, had the auditor certify that it was all there, then wired it right back out. Tether made a bunch of statements to make people think they'd been audited, and we only found out about it because the New York regulator figured out what was happening and got the information into a public filing. This is the SEC saying, if you do an attestation that isn't an audit, you have to be honest about what it proves, and if the client starts lying about what it proves then you have to speak up about it or you could have legal liability too.
+
+I know it's complicated to have to fight on two fronts because we need to defend ourselves against the regulators as well as the scammers but can we please stop reflexively taking the side of the scammers who keep trying to scam people all the time?
+
+</details>
+<details>
+<summary>u/Kallukoras breaks news of the Curve hack. Then u/skythe4 and u/bagogel12 outlines some of the collateral damage. Finally, u/LogrisTheBard gives us an ELI5 on how it happened.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15dcqqy/daily_general_discussion_july_30_2023/ju3ybh0/)
+
+[u/Kallukoras](https://reddit.com/u/Kallukoras):
+
+32m crv drained:
+
+<https://twitter.com/Blockanalia/status/1685732007400079360>
+
+Sad 8year anniversary for ETH with one of the main (bluechip) DEFI projects getting rekt hard and spreading to projects having pools there.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15dcqqy/daily_general_discussion_july_30_2023/ju383ei/)
+
+[u/skythe4](https://reddit.com/u/skythe4):
+
+Alchemix got hit by this reentry bug too today and it doesn't seem to be a white hat sadly:
+
+<https://twitter.com/spreekaway/status/1685686694811496448>
+
+> Seems that ALCX exploit confirmed NOT a whitehat :(
+
+[](https://pbs.twimg.com/media/F2TDEGzWUAETANb?format=png&name=small)
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15dcqqy/daily_general_discussion_july_30_2023/ju3f8l3/)
+
+[u/bagogel12](https://reddit.com/u/bagogel12):
+
+So many more:
+
+<https://twitter.com/vyperlang/status/1685692973051498497>
+
+> PSA: Vyper versions 0.2.15, 0.2.16 and 0.3.0 are vulnerable to malfunctioning reentrancy locks. The investigation is ongoing but any project relying on these versions should immediately reach out to us.
+
+Jpged 10M (frontrun by MEV bot)  <https://twitter.com/peckshield/status/1685645064364822530>
+
+> Hi @JPEGd_69, you may want to take a look: <https://etherscan.io/tx/0xa84aa065ce61dbb1eb50ab6ae67fc31a9da50dd2c74eefd561661bfce2f1620c>
+
+Metronome 1.6M <https://twitter.com/spreekaway/status/1685669149911990273>
+
+> Another curve pool (this time Metronome Synth ETH) hit by a similar exploit for $1.6m profit
+
+[](https://pbs.twimg.com/media/F2Sy-ABWcAILldU?format=jpg&name=large)
+
+Curve just tweeted: <https://twitter.com/CurveFinance/status/1685696639325933568>
+
+> To be clear - the dangerous combination was the affected vyper version AND using pure ETH
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15dcqqy/daily_general_discussion_july_30_2023/ju3hhmi/)
+
+[u/LogrisTheBard](https://reddit.com/u/LogrisTheBard):
+
+Peckshield Twitter has some info. It's a bug with certain versions of the Vyper compiler. Main victim right now are certain ETH based Curve pools. Newer pools (like most LST pools) are unaffected just because the Vyper compiler was newer at that time. I'm surprised that when Vyper changed this code they didn't see a bug in the old code and notify people.
+
+</details>
+<details>
+<summary>u/asdafari12 discusses the regulatory threat</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15dcqqy/daily_general_discussion_july_30_2023/ju2b6wh/)
+
+<https://reddit.com/r/CryptoCurrency/comments/15da5v5/us_house_committee_passes_keep_your_coins_act_to/>
+
+This is why I check r/cc from time to time, that and sometimes the "story" posts interest me. Their knowledge of crypto is very superficial but they are often on-track with general news.
+
+So apparently "protect self-custody" passed in a committee (every republican voted in favor and every democrat against). I am not from the US so didn't understand how the process works and I see few do on reddit, but it is basically like this. After a committee approval, it then needs to be passed in Congress, by a majority. Then in the Senate by 60% and then Biden needs to actually sign it. He can veto and it would then take a 2/3 vote to overturn, vetoes are rare (Biden has 6).
+
+The regulation side probably interests me more than most here. So far, Ethereum is mostly only used for Defi today, not gaming, betting, insurance, tokenization of real world assets etc. NFTs is maybe the second use case but doesn't interest me. If defi were banned or I thought it would be, I wouldn't hold ETH anymore since I thought other assets would appreciate more. For example, I never bought any Monero, it's a regulatory nightmare imo. The US market is the most important because it has the most capital, being a large country and **a lot** of foreign investments. We buy stock in your companies (mostly tech), I doubt you invest much in foreign companies. 
+
+Very often, the western world also try to follow, or even copy US regulation. I used to be interested in flying drones and in 2021 my country (Sweden), introduced new laws that were an exact copy of the US rules. You have the nice round number 400 feet as height limit, we have 120 meters, which is the equivalent in feet and we adopted the rest too. If you sanction Iran, our companies have to comply, if you close your country due to Corona, we do the same (which I think was the correct decision). There are so many things we would never do first, but if you do it, we do it too. You lose a little bit of faith in your politicians when you become aware of this. We have clear and decent crypto rules, but they could change quickly from outside pressure. We are still a progressive country with few "backwards thinkers", so that compensates a bit though.
+
+I don't think the US will ban defi, I think it is more likely than in 2020, but I think more red tape is coming and some of it can be impossible to live up to for Americans. Like KYC on all defi protocols, making private wallets (sometimes called unhosted/dark wallets) illegal, whitelist/blacklist of dapps. I am not seeing good regulation be passed in the US that will prevent the next FTX, the next stable coin crash, clarify uncertainties or allow companies to use defi. Imo, the Ds are against good regulation that is passed by Rs and in favor of bad regulation that will hurt defi. "You want to vote on a bill to make stablecoins less of a blackbox? Fuck no, every D go out of the room so we don't have quorum and can't vote on it" - it's a clown show. A couple of days ago the Senate (D majority) passed a really bad bill that would make controllers or large investors of protocols responsible for what happens on them and require bank-like AML. If North Korean hackers used Uniswap, there are no controllers but they could go after Uniswap labs, if it passes. The Rocketpool oDAO be responsible over their products. Maybe a dapp gets hacked, they could probably go after the devs working on it and punish them. 
+
+Hopefully this might lead to something good and make Defi more anonymous and less centralized than today. As Voorhees said, if there are controllers, it's not defi. But yea, if Blackrock enters, even with a defi ban in practice, maybe none of this "matters", price wise.
+
+</details>
+<details>
+<summary>u/hanniabu shares the big news from the IRS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15e6kzl/daily_general_discussion_july_31_2023/ju8wv26/)
+
+[https://nitter.net/TheCryptoCPA/status/1686098439979798528](https://nitter.net/TheCryptoCPA/status/1686098439979798528)
+
+> Today, the IRS issued a Rev. Rul. 2023-14 saying that PoS staking rewards are taxed at the time you gain dominion & control (D&C) over the token.  
+>  
+> D&C occurs when you can sell, exchange or sell the reward.  
+>  
+> If the tokens are "locked", you won't have D&C so there's no income to be reported on your taxes.
+
+[https://www.irs.gov/pub/irs-drop/rr-23-14.pdf](https://www.irs.gov/pub/irs-drop/rr-23-14.pdf)
+
+</details>
+<details>
+<summary>u/doctor_schmee breaks down Hex and it's recent charges from regulators</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15fzcv4/daily_general_discussion_august_2_2023/juhmuid/)
+
+Bloomberg Opinion article on whether index funds should be illegal discussed Richard Heart and his alleged fraud if anyone is interested in reading below: 
+
+**Hex**
+
+Here is an economic system, or a system anyway:
+
+1. I make up a crypto token called MattCoin. I can issue an unlimited amount of MattCoins, since I made them up.
+2. I sell them to people for money.
+3. You can use MattCoins to make term deposits, with me: You can give me back your MattCoins and I will keep them for some specified time period (say, a year), and at the end of the period I will hand them back to you with interest.
+4. The interest is paid in MattCoins.
+5. The interest rate is high, say, 38% per year.
+6. This is the only thing you can do with the MattCoins. They’re not useful for payments, they don’t run smart contracts on a blockchain, all you can do is trade them on crypto exchanges and deposit them for a 38% yield paid in kind.
+
+
+So you pay me $100 for 100 MattCoins, you deposit them with me for a year, and at the end of the year I give you back 138 MattCoins.
+
+At the end of the year, how much would you expect your 138 MattCoins to be worth? I think the main options are [1] :
+
+1. $138. You put in $100 for 100 MattCoins, meaning that they are worth $1 each, and in a year you get back 138 MattCoins. If they are still worth $1 each, then 138 MattCoins are worth $138.
+2. $100. You put in $100 for some MattCoins, absolutely no economic activity happened, and in a year you get back 138 MattCoins. This is like a stock split: You had 100 shares of a pot worth $100, now you have 138 shares of a pot worth $100, each share is worth less but the pot hasn’t changed.
+3. $0. You put in $100 for some MattCoins, absolutely no economic activity happened or will ever happen, in a year you get back 138 MattCoins, but I keep the $100 and you don’t get to exchange your 138 MattCoins for real money again. There is not actually a pot with $100 in it; I just took the $100! You put in $100 and got back a pile of magic beans that are not redeemable for anything. The pile grew bigger over the year, but it remains worthless.
+4. More than $138. You put in $100 for 100 MattCoins, those MattCoins offered a 38% yield, other people see that 38% yield and said “I want some of that,” they buy some MattCoins, the price of MattCoin rises, still other people see the rising price and say “ooh I want some of that,” the price rises further, it’s a virtuous cycle, eventually each MattCoin is worth like $10,000 and your 138 MattCoins make you a millionaire.
+
+
+I think that Answer 3 is the standard answer that traditional financial analysis would give you: You bought an electronic token with no cash flows ever, so it’s worth zero. I am drawn to this traditional analysis, but it has not really worked all that well for understanding crypto.
+
+
+I think that Answer 4 is the standard answer that crypto would give you. This is a completely accepted mechanism of crypto finance: You have some token, the main thing that the token does is generate more tokens, you call those additional tokens “yield,” people are attracted to the yield, they buy the token and its price goes up. The “yield” does not come from any economic activity in the real world; it just comes from printing more tokens. “Ponzinomics,” people sometimes say. Loosely speaking, this is the thought process behind crypto “Ponzicoins” like OlympusDAO and Wonderland. Loosely speaking, it is the thought process behind many algorithmic stablecoins like TerraUSD. Loosely speaking, it is the thought process that Sam Bankman-Fried once described to me on Odd Lots: “You start with a company that builds a box and in practice this box, they probably dress it up to look like a life-changing, you know, world-altering protocol that's gonna replace all the big banks in 38 days or whatever. Maybe for now actually ignore what it does or pretend it does literally nothing. It's just a box.”
+
+</details>
+<details>
+<summary>u/hanniabu has a call to action for the EVMavericks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15e6kzl/daily_general_discussion_july_31_2023/ju8rptz/)
+
+I have a call to action for EVMavericks.
+
+Something I'd love to see and I think EVM is aptly positioned for is to fill a gap I'm constantly seeing mentioned: digestible updates on what's happening in the ecosystem.
+
+1. Map out the various different sectors (defi, NFTs, L2s, modular chains, RWAs, social, gaming, infrastructure, staking, development, security, etc)
+2. Assign 2-3 people to each sector (some may need sub-sectors)
+3. Those people will focus on monitoring what's going on in that space....new projects, updates, airdrop potential, etc
+4. Have a separate channel for each sector/sub-sector to drop these updates
+5. Have an additional person per sector/sub-sector to organize and condense those feeds and assign pre-defined metadata to each of the updates (new project, project update, airdrop, etc)
+6. Have another 2-3 people collate that info into weekly summaries
+
+From here you can monetize it to create an revenue stream which can then be used to pay contributors, grow the treasury, and fund more projects. How to monetize?
+
+1. Start out offering this newsletter for free, this will help gain exposure/following as you get the process down and subsequent steps
+2. Move to a freemium service similar to Bankless, where you offer more basic info for free and have the rest behind a paywall. Substack can be used for this.
+
+This platform can then be used to:
+
+* Use as a launchpad for EVM projects
+* Use to push certain initiatives (such as various decentralization/diversity efforts)
+* Help raise funds for public goods
+* Advertise for additional revenue
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #28: July 28, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=nO3cctyZV50) | [POAP](https://poap.gallery/event/145873)
