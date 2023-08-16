@@ -9804,8 +9804,9 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | 0xdefiant             | [Bankless Advisor Founder](https://www.banklessadvisor.com/) - A web3 social trading platform
 .  | 404bachee             | Creating an LSD DEX and lending app
 .  | 696_eth               | [EVMavericks Weekly](https://evmavericks-weekly.netlify.app/) - The top EVMavericks events of the week
+.  | alau1218              | Developer at [MES Protocol](https://www.mesprotocol.com/)
 .  | atleft                | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content
-.  | austonst              | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
+.  | austonst              | [Aestus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | bbroad25              | ".08 today, easy."
 .  | brambramEth           | Working on a seed phrase recovery tool
 .  | bullmeza              | [Bequest](https://www.bequest.finance/) - A Dead Man's switch to distribute your tokens and NFTs to selected recipients
@@ -9833,7 +9834,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>Contributor at [Supermodular.xyz](https://supermodular.xyz/) and [Green Pill](https://greenpill.network/)
 .  | juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
 .  | kirill_stakewise      | Co-Founder at [Stakewise](https://stakewise.io/)
-.  | kudeta                | [Austus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
+.  | kudeta                | [Aestus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | lefterisjp            | [Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | logristhebard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
