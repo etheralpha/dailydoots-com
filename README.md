@@ -945,7 +945,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #29: August 4, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/146487)
+[Livestream Recording](https://www.youtube.com/watch?v=QXLsZG5oGPs) | [POAP](https://poap.gallery/event/146487)
 
 
 <details>
