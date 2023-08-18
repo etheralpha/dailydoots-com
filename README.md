@@ -951,6 +951,8 @@ Rank | Username   | Daily Doots
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/147983)
 
 **Announcements**
+- Today is EthFinance's 4th Anniversary 🎉
+- There's a [new Gitcoin Grants round](https://grants.gitcoin.co/#rounds) open until August 29th
 
 <details>
 <summary>The morning trinity</summary>
