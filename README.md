@@ -946,6 +946,254 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #31: August 18, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/147983)
+
+**Announcements**
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15uartw/comment/jwojaig/)
+
+[u/kraftverk_](https://reddit.com/u/kraftverk_)
+
+> Ethereum
+
+[u/UgotTrisomy21](https://reddit.com/u/UgotTrisomy21)
+
+> $1672
+
+[u/Dray11](https://reddit.com/u/Dray11)
+
+> 0.0634
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15ovax3/daily_general_discussion_august_12_2023/jvxgqqo/)
+
+*One more layer two,*
+
+*DeBank is now coming through,*
+
+*Price surge avenue.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15uartw/comment/jwojdrk/)
+
+Your daily beacon chain dose.
+
+Active validators: 735,915 (+2,069)
+
+Pending validators: Joining 61.3k, leaving ~0
+
+* Entry queue -1500 from yesterday's number
+* It will take around 24 and a half days for the entry queue to clear
+* In around 20 and a half days the amount of daily validators that can both enter or exit will be increased from 2,475 to 2,700.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: nixorokish</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15rirbm/daily_general_discussion_august_15_2023/jwd707y/)
+
+how to move crypto through a CEX when you usually just transact onchain:
+
+1. Do a test transaction to your newly generated CEX address (don't reuse old ones!). Check to see if balance has updated. Forget that CEXs take a while to see the transaction. Refresh. Refresh. Refresh.
+2. Stare at screen for 30 seconds and then move on to something else while you wait
+3. Remember 6 hours later that you were doing something when you come across the window in your tabs
+4. Repeat
+
+</details>
+<details>
+<summary>u/hanniabu shares Coinbase being based AF</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15n2m0t/daily_general_discussion_august_10_2023/jvlcbe7/)
+
+Coinbase will be operating a few hundred Rocket Pool minipools
+
+[https://twitter.com/cbventures/status/1689639117016137734](https://twitter.com/cbventures/status/1689639117016137734)
+
+> We know the Rocket Pool team shares this belief and we’re delighted to support them via active participation in their Oracle DAO and using ETH from our corporate balance sheet to operate several hundred nodes on the Rocket Pool network alongside our friends Unit\_410.
+
+</details>
+<details>
+<summary>u/_WebOfTrust thinks new Safe feature could be the future of wallets</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15n2m0t/daily_general_discussion_august_10_2023/jvldclh/)
+
+Exciting development from wallet space from Safe
+
+*New experimental feature unlocked!*  
+*Social Login: Sign up with Google or Apple ID on Safe {Mobile} iOS.*
+
+[*https://twitter.com/safe/status/1689313162817093633*](https://twitter.com/safe/status/1689313162817093633)
+
+not only we can create new social wallet but we can also migrate existing wallet, no seed phrases hassle and could help onboard folks with limited technical knowledge. 
+
+out of curiosity, i look and found this EIP-7212
+
+[https://ethereum-magicians.org/t/eip-7212-precompiled-for-secp256r1-curve-support/14789](https://ethereum-magicians.org/t/eip-7212-precompiled-for-secp256r1-curve-support/14789)
+
+From proposal "*Many hardware and software solutions use this elliptic curve as signing algorithms, such as TLS, DNSSEC, Apple’s Secure Enclave, Passkeys, Android Keystore, and Yubikey, which can be used in the EVM.*"
+
+Lot of math and havent digested the whole thread but future of wallet management looks bright.
+
+</details>
+<details>
+<summary>u/etheraider has a call to action for the latest EVM project!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15n2m0t/daily_general_discussion_august_10_2023/jvl5o8i/)
+
+For those who didnt see 2 days ago EVMavericks kicked off a novel idea to create a community sourced decentralized art collection around a central theme!
+
+To my knowledge this would be the first of its kind, right now we have close to 40 people/artists that have committed to creating art for the project. Would be awesome to hit 100 and showcase a unique robust collection in Ethereum!
+
+Any and all funds raised from it would go towards whatever initiative the artists decide on.
+
+One of the members just suggested a broad theme, "Decentralization", so that or something like it may be what we go with!
+
+I personally am excited to see all the different takes/art styles/perspectives on something abstract like "decentralization", would make for a pretty compelling artistic experiment!
+
+If youre interested in participating and contributing art join the discord (dont need an EVM)and head over the public untitled art channel and hit the thumbs up on the first message!
+
+</details>
+<details>
+<summary>u/OkDragonfruit1929 just had a bunch of firsts worth sharing!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15nz9zj/daily_general_discussion_august_11_2023/jvsuzvy/)
+
+Just wanted to share my excitement - today's been full of firsts for me! I used the Arch User Repository for the first time to build frame-eth from source, and successfully used the Frame Wallet and managed to bridge to Base. But wait, there's more... I also minted my very first Base NFT! 🎨🔥
+  
+I've been hearing a lot about Frame wallet, and I figured with the official launch of Base, I could use this as an opportunity to test out two new tech innovations at the same time. Finally took to the Arch User Repository and installed the latest Frame wallet from source and it's genuinely a feeling I can't quite put into words. The whole process was much smoother than I expected, and I'm really excited about the potential of decentralized tech.
+
+For anyone still on the fence, just dive in! The waters are fine, and the learning experience is invaluable. 😊
+
+Cheers to firsts! 🥂
+
+</details>
+<details>
+<summary>u/Nomadic8893 critiques the current state of L2s and u/PhiMarHal replies with coming solutions</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15ppv3o/daily_general_discussion_august_13_2023/jw2x1pa/)
+
+[u/Nomadic8893](https://reddit.com/u/Nomadic8893):
+
+From a user experience standpoint and someone who identifies as both a "normie" but also has slightly bit above average knowledge of crypto/blockchains, imma just say it: L2s UX is a mess.
+
+You're expecting the TikTok/plug and play/ iPhone and iPad generation to  know how to setup Metamask, to bridge over ETH to one of 10+ L2s, do DeFi/NFT with fragmented liquidity amongst the layer 2s and 8 versions of AAVE/Uniswap/Sushiswap/Blur/OpenSea, wait 8 days to bridge back to mainnet, and keep up with whats possible to do on different L2s....? Don't even have to get the point about lack of decentralization on the L2s.
+
+It seems to me the current structure of the Ethereum blockchain enforces favorable tokenomics on the layer 1 (capped blockspace and throughput, deflationary issuance, hardening of ETH) while giving users an option to opt into a low gas fee/high throughput environment, which on the face of things, is ideal, best of both worlds. But in reality, I feel that it severely degrades the user experience, creates multiple friction points, and ultimately deters Ethereum from any sort of mass adoption, mainly catering to the crypto-crowd. Hope I'm wrong and Ethereum thrives, but this user complexity is, for me, is one of the largest issues that Ethereum has to contend with for long term expansion and adoption.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15ppv3o/daily_general_discussion_august_13_2023/jw31iwb/)
+
+[u/PhiMarHal](https://reddit.com/u/PhiMarHal):
+
+Personally, I expect most people to experience blockchain through account abstraction, and for the driver to be a dapp rather than a blockchain/rollup. 
+
+i.e. you're on Base mainnet because you're playing words3.xyz, but really you don't even need to know you're on Base mainnet. You hold a Reddit NFT but you don't even know it's a NFT, or where it exists.
+
+Even in the EOA world of today, this is smoothed out on wallets like Rabby handling the network switching quite smoothly.
+
+As for those dapps existing on different places, I think that existence is pretty fungible. It doesn't matter to me if Uniswap liquidity is fragmented when I can technically get the same execution price within 0.1% of general market price. More exotic assets will have to pick and choose, but then I wouldn't expect normal people to invest in esoteric tokens.
+
+To me, getting to subcent fees while maintaining essential decentralization, security and credible neutrality properties is more important. Perceived user complexity is mostly a consequence of the space exploring many venues to this day.
+
+</details>
+<details>
+<summary>u/the_swingman shares their thoughts on a few things</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15qkvqf/daily_general_discussion_august_14_2023/jw5sa0a/)
+
+Hope everyone is hanging in there and keeping your heads up. Bearish/crabish times can sometimes feel like an extended hunger pit in your stomach.  This too shall pass and brighter days will come, rest assured. 
+
+I started up my weekly buys again back when we last touched the 1700s and will continue to do so for better or worse, until we are out of the crab range above 2k with solid seeming resistance.
+
+Fam and friends who hold ETH will periodically check in, fishing for price predictions from me.. I tell them the same thing over and over, that I don't expect any meaningful positive price action (anywhere near ATH) to happen until US inflation is tamed, fed fund rates are cut down to a more normal rate, and not during any sort of recession because of rate cuts. We need to be out of those woods before I feel the sentiment will change with risk assets.  
+
+Tall order but that order will be filled. And as some have speculated here, the soonest I think that's going to happen would be sometime in 2025. Obviously just a best guess and honestly, an optimistic guess in my point of view. Time passing without catastrophic events happening in crypto would be a blessing. We need time to heal the wounds of the great Terra/Luna collapse and all the subsequent fallout that was left in the aftermath. We're already starting to see some closure type things happening.. Mashinsky arrest, SBF back to jail, some blockfi funds are being returned, etc.. while we still have far to go, Gemini still in the lurch with Earn, SEC drama and so forth. Time will sort all of these things out and I believe for the better. 
+
+Meanwhile, growth is ongoing in our space, another time dependent variable.  Mistakes will be learned from, innovation is inevitable all in good time. 
+
+Personally, somewhat recently, I've been working on some lifestyle changes.. which started with getting a check up at the doctors. Blood pressure, cholesterol, diet, exercise.. all very important to keep up on.  I even grabbed an oura ring to help monitor sleeping habits. I feel as though I'm training mentally and physically for the next bull run lol. But in all seriousness, it feels great to trend in a healthy direction. I work for myself, so keeping motivated and energy levels up are a persistent goal. I've also been traveling with more frequency and doing my best to travel with friends. The times I get to vacation a bit with friends, I realize they need it just as much as I do. Anyways.. 
+
+Lastly, I might not chime in here much but I certainly read the daily everyday and have since long before the migration to r/ethfiance . I very much appreciate this community and the effort of those who do take the time to post in here. Thank you all!
+
+</details>
+<details>
+<summary>u/magnushansson looks back on a recent big achievement of theirs</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15rirbm/daily_general_discussion_august_15_2023/jw9vuvt/)
+
+Hello r/ethfinance!
+
+As summer draws to a close, I find myself reflecting on the incredible journey I've taken this season. I'm thrilled to share that I have successfully defended my PhD thesis titled "Decentralized Finance and Central Bank Communication", with a primary focus on the market microstructure of DEXes. This achievement was by no means a solo endeavor, and I owe a significant debt of gratitude to this community.
+
+Throughout the research process, the insights, discussions, and support from r/ethfinance have been invaluable. Many of the comments here have enriched my understanding and shaped my perspectives on the evolving landscape of decentralized finance.
+
+I'm excited to start a new chapter as an Assistant Professor at Stockholm Business School. In this role, I will continue to dive deep into the intersection of market microstructure and DeFi, fueled by the passion and knowledge I've gained from this community.  
+
+In essence, I wanted to take a moment to express my gratitude to every member who posed challenging questions, shared enlightening resources, or simply offered words of encouragement. Thank you! / Magnus
+
+</details>
+<details>
+<summary>u/nixorokish noticed a shift in Ethereum "competitors" and u/LogrisTheBard shares insights into system design</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15rirbm/daily_general_discussion_august_15_2023/jwa12ac/)
+
+[u/nixorokish](https://reddit.com/u/nixorokish):
+
+this is an interesting shift - we've moved on from serious competitors trying to replace Ethereum's L1 and now we're looking at entities trying to become Ethereum on top of Ethereum. the provider that becomes ubiquitous and that people build on top of - Eigenlayer, Lido v2, DVT protocols creating their own spec - they're all trying to become the dominant layer that people must use
+
+Lido v2 believes that all liquid staking will eventually happen with stETH because defi markets want to converge to a single liquid staking token, so any staking protocol will just need to use Lido to open up a pool ("module") and they can optionally issue their own token in addition to stETH. Eigenlayer wants to be the layer that protocols use to bootstrap services. SSV, Obol - they want to build a DVT protocol that every other provider conforms to (multi client architecture, but clients must use their spec).
+
+but all of them are doing it in a way that's antithetical to the reason (imo) for Ethereum's success - its credible neutrality and the fact that no one is the overlord here. In the example with DVT - multi client architecture is good, but not if the parent structure is centralized or not credibly neutral. They're all trying to capture what wasn't captured when Ethereum's model was developed. Humans are corruptible - DAOs are not the answer that makes something decentralized - does a serious competitor to Lido develop something that looks like Lido v2 (and Stakewise V3) but actually decentralized?
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15rirbm/daily_general_discussion_august_15_2023/jwb312h/)
+
+[u/LogrisTheBard](https://reddit.com/u/LogrisTheBard):
+
+In my consulting work I bring up these topics a lot when I encounter any type of hostage collateral in system design. If the service is chain-adjacent I usually bring up Eigen Layer. If it's an L1 I bring up running their L1 as an L2/L3 on Ethereum. I've done this for over a dozen projects. If it's an app on chain I bring up LST collateral. I have never received a sound technical argument against this suggestion. Their argument is predictably about retaining token utility because they own a bag and want it to be worth more. When I bring up vampire attacks, the usual and sole response is that a social moat will protect them. This feels like wishful thinking to me. These approaches are going to devour the crypto space in the next decade. When we see the first vampire attack of something like Chainlink succeed where an attacker just forks their code and changes the collateral it will send off a tidal wave of copycats just like YFI did to liquidity farming with Sushi, Curve, Harvest, Aave, Kyber Rainmaker, etc. Eventually, layers of interest bearing collateral with different risk tradeoffs will be the only hostage collateral and every chain but the top few that can pay for their own security will settle on those few top chains.
+
+I think the LST space is actually fragmenting and isn't likely to consolidate. It will look like the stablecoin space where there are dozens/hundreds of LSTs. Ideally Lido will be subject to repeated and sustained vampire attacks and will just service as a gateway into staking. I do think there will be actually decentralized LSTs but I think it's too late in the game for them to dominate. That ship has sailed, Rocketpool was our best chance and they blew the opportunity by not using the oDAO RPL rewards for liquidity farming to bootstrap themselves to massive adoption.
+
+</details>
+<details>
+<summary>u/OkDragonfruit1929 is shocked by a recent big step towards mainstream adoption</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15sg07d/daily_general_discussion_august_16_2023/jwgvdjv/)
+
+So... I just minted a "Stand with crypto" NFT with my VISA debit card and I finally understand why VISA letting you pay gas fees with your VISA card is such a big deal! 
+
+No need for anyone to create an exchange account and buy ETH, it just works in the background! 
+
+I am absolutely stoked about the convenience of using a VISA debit card to directly mint an NFT without the need for creating an exchange account and purchasing ETH (Ethereum) separately. This approach makes the process more user-friendly and accessible to individuals who might not be familiar with cryptocurrency exchanges or the technical aspects of buying and using Ethereum.
+
+Using a debit or credit card to directly mint NFTs simplifies the process by abstracting away the steps involved in acquiring cryptocurrency like Ethereum and then using it to pay for minting fees or NFT creation.
+
+It's a step towards mainstream adoption by reducing the barrier to entry and allowing more people to participate in the NFT space.
+
+</details>
+<details>
+<summary>u/superphiz stands up for himself in front of a disingenuous accusation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15sg07d/daily_general_discussion_august_16_2023/jwh7ern/)
+
+it really guts me to come here and find myself [getting shit on](https://www.reddit.com/r/ethfinance/comments/15sg07d/daily_general_discussion_august_16_2023/jwexl5d/). You don't have to know me, you don't have to trust me, but I'm proud to say that every action I've ever taken has been in the best interest of promoting greater security and decentralization of the beacon chain. I have never acted in any way contrary to these values and it's offensive that the same people keep dragging my name. YES, I accepted the role of oDAO member for Rocket Pool, a role that I am STILL very proud of, and YES, I got a lot of money for it, just like the other 18 odao members who participated in the protocol the way it was designed. YES, I voted to reduce that and have encourage further development of RP in a way that doesn't require an oDAO at all. You know what else I did? I proudly promoted a platform that has onboarded over 3000 nodes to the Ethereum network. And I'll do it again if I can. I'm not going to get shit on like a little bitch by people who haven't done shit to bring success to our network. I would STILL accept fair money for my time to support and promote other projects that are highly aligned with our goals, and I'll never mince words about projects who risk our future. Sorry. Getting a little heated here.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #29: August 4, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=QXLsZG5oGPs) | [POAP](https://poap.gallery/event/146487)
