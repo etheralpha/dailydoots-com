@@ -948,7 +948,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #31: August 18, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/147983)
+[Livestream Recording](https://www.youtube.com/watch?v=qHpLeezlq80) | [POAP](https://poap.gallery/event/147983)
 
 **Announcements**
 
