@@ -950,7 +950,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #32: August 25, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/148487)
+[Livestream Recording](https://www.youtube.com/watch?v=2fknVVDi1tU) | [POAP](https://poap.gallery/event/148487)
 
 **Announcements**
 
@@ -5268,7 +5268,7 @@ I hope to find a way in the EVM discord to experiment with creating badges for l
 
 [Livestream Recording](https://www.youtube.com/watch?v=n6cLenFLq2I) | [POAP Checkout](https://poap.gallery/event/123583)
 
-Guest appearance by Gloria Kimbwala, Principal Engineer at SuperModular.xyz https://supermodular.xyz/
+Guest appearance by Gloria Kimbwala, Principal Engineer at [SuperModular.xyz](https://supermodular.xyz/).
 
 **Announcements**
 
