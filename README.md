@@ -950,6 +950,354 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #33: September 1, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/149024)
+
+**Announcements**
+
+- Don't believe Lido's lies (stay tuned for details)
+
+**Upcoming Guests**
+
+- September 8th - [Lantern Finance](https://lantern.finance/), a KYC American based staking provider
+- September 15th - Greg Di Prisco from [Ajna Labs](https://www.ajna.finance/), a noncustodial, peer-to-pool, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/166xsuy/comment/jyml0rj/)
+
+[u/SplinterCole](https://reddit.com/u/SplinterCole)
+
+> Ethereum
+
+[u/UgotTrisomy21](https://reddit.com/u/UgotTrisomy21)
+
+> 🦀🦀🦀$1648 🦀🦀🦀
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.063
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/1648z88/comment/jya8t9y/)
+
+*The charts start to bend,*
+
+*Hello candle my old friend,*
+
+*The pullbacks will mend.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/166xsuy/comment/jymrd15/)
+
+Your daily beacon chain dose.
+
+Active validators: 765,591 (+2,071)
+
+Pending validators: Joining 54.4k, leaving ~0
+
+* Entry queue -400 from yesterday's number
+* It will take around 21 days for the entry queue to clear
+* In around 8 and a half days the amount of daily validators that can both enter or exit will be increased from 2,475 to 2,700.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/cryptOwOcurrency</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyeayup/)
+
+Zero Knowledge Proof explanations really be like
+
+**Example 1:** Peggy plays a simple game with two colored balls.
+
+**Example 2:** Peggy plays with a Where's Waldo book.
+
+**Example 3:** Peggy calculates the solution’s hash in the last round; i.e., H(914783256) = 0515. She then rewrites it as a decimal number, i.e., 0515 = 1301, and applies the mapping; i.e., 1301 mod 27 = 5. She proceeds to translate 5 to row i = 6 for the next query and adds the solution of row i = 6, i.e., 256391478, to the proof string. Last, she attaches the hashes of the Merkle tree nodes needed to check whether the result matches the commitment to P.
+
+</details>
+<details>
+<summary>u/haurog doesn't accept the Lido narrative and u/nixorokish reiterates the kind of threat Lido poses</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxo14ll/)
+
+[u/haurog](https://reddit.com/u/haurog):
+
+I find it the most interesting that the Lido narrative: ´there will only be one LST and because of that it is better it is us (Lido) than any even more centralized player´ is so readily accepted by many people. This narrative enables Lido to aggressively grow through dubious means like the [karpatkey partnership](https://twitter.com/AnotherVizsla/status/1665694309046185987). Karpatkey manages many large DAO treasuries and apparently karpatkey bought steth with these treasuries and blocked adding other LSTs. Only after public outcry some DAOs intervened and now hold a more diverse LST portfolio.
+
+In my opinion, accepting this narrative makes people complacent and fall in line behind Lido, because the alternative, e.g. binance dominating the staking market, is obviously a worse outcome. Lido propagates this statement because it helps them to justify their means. It becomes a self fulfilling prophecy which again helps Lido. It is not surprising that Lido now aggressively spreads this narrative again on various platforms like bell curve podcast, bankless and twitter. Lido is well connected and they can place their narrative quite effectively in the space.
+
+Does the narrative actually make sense? At the core the narrative is ´The dominant LST has the most integrations and the largest network effect´ and due to this all ETH will flow to it. In essence it reduces the complexity of staking products to one or two quantities and argues the end state lies at the edge, i.e. one dominating LST. This pushes people into becoming [convex thinkers](https://vitalik.ca/general/2020/11/08/concave.html), which in this case helps Lido to divide up the market 'You either support us or you support big centralized exchanges'. The simplicity of the narrative to me is similar to some very simplified arguments by (hobby) economists which are then surprised that actual market data contradicts them. They then argue that people are not 'rational' actors. But what actually happens is they dumbed down the complexity of a system to a level which makes it easily calculable but the outcome of this simplified system does not match reality anymore because they unknowingly removed some essential mechanics.
+
+Even the market itself does not support the Lido narrative If you look at market data, like the recent [glassnode insights report](https://insights.glassnode.com/the-week-onchain-week-27-2023/). Lido grew by 54% since January 2023, and rocket pools rETH grew by 157%. How is this even possible because I thought according to their narrative they would win automatically because of network effects. rETH is by pretty much all quantifiable means an inferior product: Lower network effect, lower liquidity, fewer integrations, lower yield. People now even pay a premium to own rETH. Is it because people are stupid? I would argue that the simple convex thinking of the Lido narrative removed a lot of the actual complex decision making of market participants and that is why the Lido narrative should at least be questioned or even rejected outright.
+
+But why does Lido dominate. They were the first LST. Making staking accessible for everyone. They are less centralized than Binance, Coinbase and Kraken. They did not really have any competition in the market until about 1 year after the Beacon chain launch when Rocket Pool started. And now there are alternatives, some better, some worse and new entrants will come. Sure, due to historical reasons Lido will be the larges LST for years to come, but I am personally not convinced that they will inevitably reach 90% market share because of network effects alone.
+
+And now to a more personal note. Does it make a difference for me to buy an LST from an established player compared to a new entrant? Yes definitely. Storing my ETH in a tested smart contract has its value. Having access to degen plays is great. Being able to borrow money against my LSTs is necessary. But does it make a difference if the established player has over 30% dominance or 3%. Not really. rETH has enough liquidity and integrations for me with just about having 4% of the staking market share. The marginal utility of network effects of a larger LST protocol is already pretty close to zero and other parameters, like systemic risks, become more important.
+
+TL;DR: The Lido narrative of 'There will only be one LST' has been spread quite efficiently by Lido. This simple narrative leaves out nuance and makes the community complacent. Even the market itself does not seem to support the narrative. Be careful accepting or spreading it further.
+
+---
+
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxooqnv/)
+
+[u/nixorokish](https://reddit.com/u/nixorokish):
+
+to reiterate something that seems confusing to casual users:
+
+Lido's threat is not a threat *on top of* Ethereum. It's not about centralizing the economy running on top of it, it's not about a widespread smart contract risk (though it does add that, too).
+
+This is what the strategy leader at Lido (Hasu) laid out on his [recent Bankless episode](https://www.youtube.com/watch?v=IfuUdIblfrY):    
+
+> 1. Solo staking will trend down to <1% of the network
+> 2. Liquid staking is the superior form of staking and all staking will migrate there
+> 3. LSTs will converge to a single LST
+
+The result of this is that 99% of Ethereum's validators are controlled by Lido. That means that Ethereum is governed by the Lido DAO. The Lido DAO can choose to censor, blacklist, or finalize whatever they want on the chain. They become vulnerable to government pressure or human corruptibility to do these things. They can pressure their very small operator set to do these things in the shadows (especially once forced exits are implemented). 
+
+This fundamentally changes what Ethereum is. It becomes the Lido DAO chain. Might as well use BNB chain at that point. Ethereum's validator set is absolutely core to its decentralization, permissionlessness, and credible neutrality.
+
+</details>
+<details>
+<summary>u/alexiskef educates us on EIP-4844 with u/domotheus's latest blog post on blob space</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/161lowk/daily_general_discussion_august_26_2023/jxsxwag/)
+
+🔥 [Blobspace 101](https://domothy.com/blobspace/), by Domothy 🔥
+
+Copy/pasting the authors own intro: "this article aims to approach the concept of blobspace, from the ground up. We will go through a quick overview of the problem of scaling a blockchain and how the concept of blobspace is the answer that Ethereum is betting on. Then we will delve into the more technical aspects of blobspace, first from the perspective of EIP-4844, since it’s about to roll out, and then we’ll quickly look into what “full danksharding” will entail in the future."
+
+</details>
+<details>
+<summary>u/SikhSoldiers comments on comparisons made between Lido and Bitcoin mining pools</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/162h6a2/daily_general_discussion_august_27_2023/jxzli1d/)
+
+This was a response lower but I think it merits a full text. Lido situation often gets compared to the bleak bitcoin mining pool situation where 3 pools account for >75% of all hashpower. 
+
+I think the lido situation is actually *worse* than bitcoin mining pools.
+
+Switching hashpower between pools is easy, switching stake from one LST to another requires the entry and exit queues which are multiple months long and thus entrench one lst. Eg. If lido went corrupt and starting doing reorgs to steal MEV then the rate at which they lose stake is limited by Ethereum consensus. Further, there’s actual economic irrationality to switch away since lido earns more in this paradigm (assuming no user activated slash).
+
+The point being is that there are no economics that inhibit mining pools and this has been proved through voluntary self limitations.
+
+Ethereum is struggling with this.
+
+</details>
+<details>
+<summary>u/bagogel12 created a dystopian Ethereum/Lido theatre script</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/163cqkk/daily_general_discussion_august_28_2023/jy55o00/)
+
+**Act 1: Uncertainty Unveiled**
+
+*(Scene: A bustling virtual realm resembling Ethereum's landscape. Characters Lido, Operator A, Operator B, and DSA Representative are present.)*
+
+Lido: (Addressing the audience) The enigma of the future looms over Ethereum like a shadow. The path ahead is hazy, as we navigate uncharted waters.
+
+Operator A: (Whispering to Operator B) Have you heard the rumors about DSA's interference?
+
+Operator B: (Nodding) Yes, word is they want to certify operators with their software. It's like handing control to a new sheriff.
+
+*(Enter DSA Representative)*
+
+DSA Representative: (Authoritatively) Ladies and gentlemen, allow me to introduce the new era of certified staking. The Divided State of America demands compliance with our guidelines. Only those who bear the badge of "certified operator" shall stake and govern the network.
+
+**Act 2: Compliance and Consequences**
+
+*(Scene: Lido's assembly hall. Lido and a group of Operators are in discussion.)*
+
+Lido: (Addressing the Operators) We stand at a crossroads. DSA's decree is clear, and we must decide how to respond.
+
+Operator A: (Raising a hand) What about those of us who don't wish to comply with DSA's terms?
+
+Lido: (Serious) Dissent is a luxury we can't afford. Compliance is the path we've chosen, for now.
+
+Operator B: (Angrily) So, we relinquish our autonomy to become mere pawns?
+
+Lido: (Solemnly) Our choice is stark, yet we must weigh the consequences.
+
+*(Operators mumble among themselves.)*
+
+**Act 3: The Shadows of Cartelization(Scene: Ethereum's digital realm, depicting bustling stakers and traders.)**
+
+Operator A: (Defiantly) I can't ignore my principles. I'm unstaking.
+
+Operator B: (Worried) But the queue to restake is overwhelming, not to mention the enticing profits we'd be leaving behind.
+
+Lido: (Observing with a sinister grin) As DSA's grip tightens, chaos unfolds.(Operators reluctantly withdraw, some out of principle, others due to sheer inconvenience.)
+
+Narrator: (Voiceover) The Ethereum ecosystem stands at a precipice, as Lido's influence swells, furthering the consolidation of power.
+
+*(Lido's dominance continues to grow, its ominous shadow looming larger over Ethereum.)*
+
+Operator A: (Resolute) We can't let this tyranny persist. A fork is our last resort.
+
+Operator B: (Doubtful) But Lido's stranglehold is formidable, and with DSA's support...
+
+*(Lido faces a pivotal decision: Embrace cartelization or confront dissent.)*
+
+Lido: (Calculating) The road ahead is murky, but our grip on power is undeniable. Ethereum shall bend to our will.
+
+*(Curtain falls, shrouding Ethereum's future in an unsettling darkness of cartelization and control.)*
+
+</details>
+<details>
+<summary>u/Tricky_Troll defends of Gitcoin while u/STRTRD brings in the context behind the post along with some of their own thoughts</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1648z88/daily_general_discussion_august_29_2023/jy70dpl/)
+
+[u/Tricky_Troll](https://reddit.com/u/Tricky_Troll):
+
+This comment was a reply made on a comment with little attention at the end of yesterday's daily so I am sharing it now. Basically, in light of people complaining that "Gitcoin lost its way", often pointing to the use of money from Shell in one funding round and another controversy around funding for minority groups in the ecosystem, here is my counter argument.
+
+> One could argue that Gitcoin is doing what it was designed to as a protocol. It's supposed to be modular for many different types of funding rounds with many different organisations. Funding from Shell, funding for minority demographics etc. This is all controversial due to your subjective opinion on what you want Gitcoin to be. Well the Gitcoin vision was for it to grow up and become a protocol for all, not to remain a niche technical Ethereum native app. Much like how there are many Linux distros for whatever niche you want, this is a feature and not a bug.
+> 
+> Just because I don't like the fact that Ubuntu exists and adds telemetry to an ecosystem which is generally much more private than other operating systems, doesn't mean I see Ubuntu or Linux as a failure. Of course not, Ubuntu invites newbies into the ecosystem and if they want to progress from there they can. Meanwhile, there are privacy focused distros and ones which stick to core OG Linux community values. Same goes for Gitcoin.
+
+---
+
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1648z88/daily_general_discussion_august_29_2023/jy7y65m/)
+
+[u/STRTRD](https://reddit.com/u/STRTRD):
+
+Here is the whole comment thread for the context: [https://www.reddit.com/r/ethfinance/comments/163cqkk/comment/jy5cw5i/](https://www.reddit.com/r/ethfinance/comments/163cqkk/comment/jy5cw5i/)
+
+[u/keynya](https://reddit.com/u/keynya) counter argument:
+
+> I do not know what OP thinks but if you want to focus on the negative I have a few points:  
+>  
+> Took them a year to revamp their website which only now is usable again.  
+>  
+> They spent a lot of effort to have gitcoin rounds on Fantom which barely had anything useful to support instead of integrating L2s. The last rounds were therefore super expensive to contribute. Only now they support optimism.  
+>  
+> The last few rounds were invite only, which probably hurt new devs and teams because they were excluded from gitcoin.  
+>  
+> At the start of this round all DAI contributions failed. People lost quite a bit of money with failed transactions and the website said ˋdonation successfullˋ. I you looked at the earliest failed transactions they were probably from the gitcoin team. They knew about the problem and still enabled DAI contributions. No idea why.  
+>  
+> Why waste developers time on running your own L2, the PGN networks? It does not make sense to me, We have enough very good L2s by now why make your own.  
+>  
+> The whole Shell collaboration was a PR disaster.  
+>  
+> There was also a diversity round in spring where one of the judges also had a project in the round. This round was special and the judges had extra power over who gets the money. This judge was a very controversial figure in the space already and they nevertheless took her on. The whole situation was as also a pr disaster.  
+>  
+> All these points above tell me there is a lack of control, oversight and quality standards in the gitcoin organisational structure.  
+>  
+> With all the list of negative points I have to say I personally still love gitcoin rounds. The website now is so much better than last year. They are in my view a pillar of our space and I love donating to projects I use.
+
+I'd like to touch on Gitcoin and their passport with which they are trying to become decentralised proof of human/anti-sybil standard while constantly changing stamps to accomodate whatever new KYC-grab your ETH shady project they partner with like Proof of humanity, Civic etc.
+
+Other stamps are connect your social networks, like sybils have problems with that.
+
+One of the stamps is GTC staking, stake our coin to prove you are human?
+
+Complete antithesis to web3 and it is getting a lot of praise.
+
+</details>
+<details>
+<summary>u/lanternfinance shares their project for thosewho find solo staking a bit too daunting</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyedagu/)
+
+SHOUT OUT TO  EV Maverick  /u/lanternfinance because his team is building something  I think many would and should be interested in if solo staking scares the shit out of you. 
+
+If you live in any of these states, would you be open to chatting with a team called Lantern Finance? Staking as a Service. Pure play staking service provider.  
+
+They are launching October and looking for early people in these states to talk to about participating in a feedback session. 
+
+Right now, though, they want to talk to some folks about their journey and history and get feedback on their current experiences/struggles with staking.
+
+They are doing SAAS using KYC through Persona, custody through BitGo for custody with insurance, and are building a simple and effective U.S. based service complete with tech support/phone support etc.  They have onboarded a team of around 8 iirc.
+
+Super easy to talk to and I hope some of you can line up a  quick meeting. Highly recommend even if you aren't from these states.  I'm planning on joining the early feedback cohort in October and I hope some of you can too.  (this meeting isn't about investing! Just about experience with staking in general they want to know what features to focus on)
+
+If you want to reach out:   prince@lantern.finance and jung@lantern.finance
+
+- California
+- Pennsylvania
+- Illinois
+- Virginia
+- Massachusetts
+- Tennessee
+- Missouri
+- Wisconsin
+- Colorado
+- South Carolina
+- Utah
+- Kansas
+- New Hampshire
+- Montana
+- Wyoming
+
+Prince was at Hodlercon Super nice fella!
+
+From the team:  "Lantern Finance is a US-based, pure-play ETH staking solution. We're focusing on security, peace of mind and ease of use for staking. We're looking to do ~30 minute user research interviews where we get insights on what an ideal staking solution looks like for them. We also want to understand their crypto journey, what they like/dislike about their existing platforms, and feedback on what we're building."
+
+</details>
+<details>
+<summary>u/coinanon breaks the good news and u/Papazio adds some detail</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf2jzr/)
+
+[u/coinanon](https://reddit.com/u/coinanon):
+
+Uniswap wins lawsuit accusing them of being liable for scam tokens:
+<https://decrypt.co/154312/uniswap-lawsuit-dismissed-defi-crypto-exchange-not-liable-for-scam-tokens>
+
+---
+
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf88tm/)
+
+[u/Papazio](https://reddit.com/u/Papazio):
+
+This is dope!
+
+An important distinction between the smart contracts deployed by Uniswap and the actual token contracts and pools launched by the scammers. The judge concluded that Uniswap’s contracts cannot be inherently illegal, the issue is with whomever made a scam token and then scammed people with it. Watch out SEC, this is coming your way. 
+
+Here’s some choice bits:
+
+> Judge Falia’s decision said that smart contracts underlying the exchange’s core functions should be viewed separately from code underpinning liquidity pools, which are drafted by token issuers and enable newly created tokens to trade.
+
+> “These foundational contracts are distinctive from the token contracts unique to each pool and drafted by issuers,” Judge Falia wrote. “The contracts relevant to Plaintiffs’ claims are not these overarching codes provided by Defendants, but rather the pair or token contracts drafted by the issuers themselves.”
+
+</details>
+<details>
+<summary>u/cryptOwOcurrency becomes a full on FUD-fighter, rebutting some claims made in a podcast</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf957x/)
+
+Here are the claims made about Ethereum between those time stamps, and my rating for each one.
+
+**JP Morgan owns a lot of crucial Ethereum infrastructure - MOSTLY FALSE**
+
+While JP Morgan does have some financial ties to Ethereum infrastructure, they don't "own a lot". JP Morgan [owns less than 10% of Consensys](https://support.metamask.io/hc/en-us/articles/4783940855323-Is-MetaMask-owned-by-JP-Morgan-) (Consensys is the parent company for Metamask, Infura, Besu and Teku). Of course while Metamask and Infura are both influential and widely used, they are not the only games in town and they are not "crucial" to Ethereum's survival. And while 10% may be enough to demand a board seat and sway some close votes, it's a far cry from "owning infrastructure" in the sense that it's under their thumb.
+
+**JP Morgan dollarized the Ethereum network - FALSE**
+
+Circle (USDC) and Tether (USDT) did the most to dollarize Ethereum, imo. Circle is owned in part by the venture capital arms of several big banks, but I could not find JP Morgan Chase listed as one of them in any VC announcement. Tether is [privately owned by 4 rich dudes](https://www.coindesk.com/business/2023/02/02/86-of-tether-was-controlled-by-4-people-wsj/).
+
+**Stablecoins represent more value on the Ethereum blockchain than ETH itself - FALSE**
+
+By roughly adding up the top dozen stablecoins on [CoinGecko](https://www.coingecko.com/en/categories/stablecoins), Ethereum's stablecoin market cap is less than $150B. Compare this to ETH's market cap of $204B.
+
+**JP Morgan and Citigroup basically own the NY Fed - MOSTLY FALSE**
+
+[There is no ownership in a corporate sense.](https://www.federalreserve.gov/faqs/about_14986.htm) While banks are required to "own" shares of the Federal Reserve, the Federal Reserve answers to their Board which is directly accountable to Congress, and profits are never distributed to shareholders. It's a strange corporate structure, but that's government agencies for you. Many consider Congress to be bought and paid for by private interests though in the end, so that's why this only earns a rating of "mostly" false.
+
+**Elon Musk bad - TRUE**
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #32: August 25, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=2fknVVDi1tU) | [POAP](https://poap.gallery/event/148487)
