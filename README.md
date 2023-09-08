@@ -952,16 +952,16 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #33: September 1, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/149024)
+[Livestream Recording](https://www.youtube.com/watch?v=bWWFr7rMwiU) | [POAP](https://poap.gallery/event/149024)
 
 **Announcements**
 
-- Don't believe Lido's lies (stay tuned for details)
+- Don't believe Lido's lies (see doots for details)
 
 **Upcoming Guests**
 
 - September 8th - [Lantern Finance](https://lantern.finance/), a KYC American based staking provider
-- September 15th - Greg Di Prisco from [Ajna Labs](https://www.ajna.finance/), a noncustodial, peer-to-pool, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function
+- October 20th - Greg Di Prisco from [Ajna Labs](https://www.ajna.finance/), a noncustodial, peer-to-pool, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function
 
 <details>
 <summary>The morning trinity</summary>
