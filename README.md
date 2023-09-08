@@ -965,7 +965,7 @@ Rank | Username   | Daily Doots
 
 <details>
 <summary>The morning trinity</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/166xsuy/comment/jyml0rj/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/166xsuy/comment/jyml0rj/)
 
 [u/SplinterCole](https://reddit.com/u/SplinterCole)
 
@@ -982,7 +982,7 @@ Rank | Username   | Daily Doots
 </details>
 <details>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/1648z88/comment/jya8t9y/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1648z88/comment/jya8t9y/)
 
 *The charts start to bend,*
 
@@ -993,7 +993,7 @@ Rank | Username   | Daily Doots
 </details>
 <details>
 <summary>The Queue: u/Spacesider</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/166xsuy/comment/jymrd15/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/166xsuy/comment/jymrd15/)
 
 Your daily beacon chain dose.
 
@@ -1012,7 +1012,7 @@ This can also be tracked via <https://validatorqueue.com/>
 </details>
 <details>
 <summary>Shitpost of the week: u/cryptOwOcurrency</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyeayup/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyeayup/)
 
 Zero Knowledge Proof explanations really be like
 
@@ -1025,7 +1025,7 @@ Zero Knowledge Proof explanations really be like
 </details>
 <details>
 <summary>u/haurog doesn't accept the Lido narrative and u/nixorokish reiterates the kind of threat Lido poses</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxo14ll/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxo14ll/)
 
 [u/haurog](https://reddit.com/u/haurog):
 
@@ -1045,7 +1045,7 @@ TL;DR: The Lido narrative of 'There will only be one LST' has been spread quite 
 
 ---
 
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxooqnv/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxooqnv/)
 
 [u/nixorokish](https://reddit.com/u/nixorokish):
 
@@ -1066,7 +1066,7 @@ This fundamentally changes what Ethereum is. It becomes the Lido DAO chain. Migh
 </details>
 <details>
 <summary>u/alexiskef educates us on EIP-4844 with u/domotheus's latest blog post on blob space</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/161lowk/daily_general_discussion_august_26_2023/jxsxwag/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/161lowk/daily_general_discussion_august_26_2023/jxsxwag/)
 
 🔥 [Blobspace 101](https://domothy.com/blobspace/), by Domothy 🔥
 
@@ -1075,7 +1075,7 @@ Copy/pasting the authors own intro: "this article aims to approach the concept o
 </details>
 <details>
 <summary>u/SikhSoldiers comments on comparisons made between Lido and Bitcoin mining pools</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/162h6a2/daily_general_discussion_august_27_2023/jxzli1d/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/162h6a2/daily_general_discussion_august_27_2023/jxzli1d/)
 
 This was a response lower but I think it merits a full text. Lido situation often gets compared to the bleak bitcoin mining pool situation where 3 pools account for >75% of all hashpower. 
 
@@ -1090,7 +1090,7 @@ Ethereum is struggling with this.
 </details>
 <details>
 <summary>u/bagogel12 created a dystopian Ethereum/Lido theatre script</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/163cqkk/daily_general_discussion_august_28_2023/jy55o00/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/163cqkk/daily_general_discussion_august_28_2023/jy55o00/)
 
 **Act 1: Uncertainty Unveiled**
 
@@ -1147,7 +1147,7 @@ Lido: (Calculating) The road ahead is murky, but our grip on power is undeniable
 </details>
 <details>
 <summary>u/Tricky_Troll defends of Gitcoin while u/STRTRD brings in the context behind the post along with some of their own thoughts</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1648z88/daily_general_discussion_august_29_2023/jy70dpl/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1648z88/daily_general_discussion_august_29_2023/jy70dpl/)
 
 [u/Tricky_Troll](https://reddit.com/u/Tricky_Troll):
 
@@ -1159,11 +1159,11 @@ This comment was a reply made on a comment with little attention at the end of y
 
 ---
 
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1648z88/daily_general_discussion_august_29_2023/jy7y65m/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1648z88/daily_general_discussion_august_29_2023/jy7y65m/)
 
 [u/STRTRD](https://reddit.com/u/STRTRD):
 
-Here is the whole comment thread for the context: [https://www.reddit.com/r/ethfinance/comments/163cqkk/comment/jy5cw5i/](https://www.reddit.com/r/ethfinance/comments/163cqkk/comment/jy5cw5i/)
+Here is the whole comment thread for the context: [https://reddit.com/r/ethfinance/comments/163cqkk/comment/jy5cw5i/](https://reddit.com/r/ethfinance/comments/163cqkk/comment/jy5cw5i/)
 
 [u/keynya](https://reddit.com/u/keynya) counter argument:
 
@@ -1198,7 +1198,7 @@ Complete antithesis to web3 and it is getting a lot of praise.
 </details>
 <details>
 <summary>u/lanternfinance shares their project for thosewho find solo staking a bit too daunting</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyedagu/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyedagu/)
 
 SHOUT OUT TO  EV Maverick  /u/lanternfinance because his team is building something  I think many would and should be interested in if solo staking scares the shit out of you. 
 
@@ -1237,7 +1237,7 @@ From the team:  "Lantern Finance is a US-based, pure-play ETH staking solution. 
 </details>
 <details>
 <summary>u/coinanon breaks the good news and u/Papazio adds some detail</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf2jzr/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf2jzr/)
 
 [u/coinanon](https://reddit.com/u/coinanon):
 
@@ -1246,7 +1246,7 @@ Uniswap wins lawsuit accusing them of being liable for scam tokens:
 
 ---
 
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf88tm/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf88tm/)
 
 [u/Papazio](https://reddit.com/u/Papazio):
 
@@ -1263,7 +1263,7 @@ Here’s some choice bits:
 </details>
 <details>
 <summary>u/cryptOwOcurrency becomes a full on FUD-fighter, rebutting some claims made in a podcast</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf957x/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1655c71/daily_general_discussion_august_30_2023/jyf957x/)
 
 Here are the claims made about Ethereum between those time stamps, and my rating for each one.
 
@@ -1308,7 +1308,7 @@ By roughly adding up the top dozen stablecoins on [CoinGecko](https://www.coinge
 
 <details>
 <summary>The morning trinity</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/160phdq/comment/jxnmbjd/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/160phdq/comment/jxnmbjd/)
 
 [u/Kitchen-Pudding8750](https://reddit.com/u/Kitchen-Pudding8750)
 
@@ -1325,7 +1325,7 @@ By roughly adding up the top dozen stablecoins on [CoinGecko](https://www.coinge
 </details>
 <details>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15yts52/comment/jxhd3wp/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15yts52/comment/jxhd3wp/)
 
 *Ask your reporter,*
 
@@ -1336,7 +1336,7 @@ By roughly adding up the top dozen stablecoins on [CoinGecko](https://www.coinge
 </details>
 <details>
 <summary>The Queue: u/Spacesider</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxoryf3/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/160phdq/daily_general_discussion_august_25_2023/jxoryf3/)
 
 Your daily beacon chain dose.
 
@@ -1355,7 +1355,7 @@ This can also be tracked via <https://validatorqueue.com/>
 </details>
 <details>
 <summary>Shitpost of the week: u/savage-dragon</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15zrzr8/comment/jxioryo/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15zrzr8/comment/jxioryo/)
 
 Ben Cowen is calling for eth coming home again.
 
@@ -1369,7 +1369,7 @@ Ben Cowen is calling for eth coming home again.
 </details>
 <details>
 <summary>u/SikhSoldiers compares the pros and cons of on-chain vs off-chain swaps</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15uartw/daily_general_discussion_august_18_2023/jwsdij5/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15uartw/daily_general_discussion_august_18_2023/jwsdij5/)
 
 Cowswap is awesome. You generally get the best price for execution and you have gas abstracted away. It’s so good that uniswap is more or less copying them for univ4 
 
@@ -1388,7 +1388,7 @@ Not to mention SUAVE makes this whole problem worse by abstracting liquidity at 
 </details>
 <details>
 <summary>u/ethacct celebrates their cake day by reflecting on the last 7 years...</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15v6qz8/daily_general_discussion_august_19_2023/jwtmar3/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15v6qz8/daily_general_discussion_august_19_2023/jwtmar3/)
 
 it's my cake day 🥳
 
@@ -1399,7 +1399,7 @@ bear market things + life changes mean i haven't been around as much, but still 
 </details>
 <details>
 <summary>u/pa7x1 shares a mental model of scaling via L2s vs scaling the L1</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15uartw/daily_general_discussion_august_18_2023/jwptp73/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15uartw/daily_general_discussion_august_18_2023/jwptp73/)
 
 A few days ago someone asked on /r/ethereum what's the advantage of scaling via L2 vs L1. I started drafting my response but life got in the way and couldn't give a timely answer. I will instead post it here, most of you will understand well this topic. But it might benefit someone that didn't think about the problem in these terms or give you another way to explain it to newcomers.
 
@@ -1420,7 +1420,7 @@ A few days ago someone asked on /r/ethereum what's the advantage of scaling via 
 </details>
 <details>
 <summary>u/PhiMarHal, u/superphiz, and u/Tricky_Troll share their different takes on friend.tech</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15w1z93/daily_general_discussion_august_20_2023/jwz7chk/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15w1z93/daily_general_discussion_august_20_2023/jwz7chk/)
 
 [u/PhiMarHal](https://reddit.com/u/PhiMarHal):
 
@@ -1446,7 +1446,7 @@ Any money you put in friend.tech is a greater's fool theory bet where the odds a
 
 ---
 
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15w1z93/daily_general_discussion_august_20_2023/jx268js/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15w1z93/daily_general_discussion_august_20_2023/jx268js/)
 
 [u/superphiz](https://reddit.com/u/superphiz):
 
@@ -1460,7 +1460,7 @@ Give yourself time to grow if you need it. Skip this one, no harm, but commit to
 
 ---
 
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15wxpta/daily_general_discussion_august_21_2023/jx3duab/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15wxpta/daily_general_discussion_august_21_2023/jx3duab/)
 
 [u/Tricky_Troll](https://reddit.com/u/Tricky_Troll):
 
@@ -1479,7 +1479,7 @@ Edit: I agree with a lot of your takes in the replies, my point isn't that any o
 </details>
 <details>
 <summary>u/Fheredin is interested in a hypothetical decentralized Wikipedia and u/OkDragonfruit1929 has some great thoughts</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15wxpta/daily_general_discussion_august_21_2023/jx5ooyy/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15wxpta/daily_general_discussion_august_21_2023/jx5ooyy/)
 
 [u/Fheredin](https://reddit.com/u/Fheredin):
 
@@ -1495,7 +1495,7 @@ Things get even worse when you consider Lunduke's previous financial investigati
 
 ---
 
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15wxpta/daily_general_discussion_august_21_2023/jx5q3za/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15wxpta/daily_general_discussion_august_21_2023/jx5q3za/)
 
 [u/OkDragonfruit1929](https://reddit.com/u/OkDragonfruit1929):
 
@@ -1514,9 +1514,9 @@ Without proper incentives and protections, all platforms, even L2 Ethereum dApps
 </details>
 <details>
 <summary>u/benido2030 is structuring the community made EthFinance Bull Case for Ethereum.</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15xvfqk/daily_general_discussion_august_22_2023/jx8xjmw/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15xvfqk/daily_general_discussion_august_22_2023/jx8xjmw/)
 
-[As stated last Friday](https://www.reddit.com/r/ethfinance/comments/15uartw/comment/jwoy85h/?utm_source=reddit&utm_medium=web2x&context=3), this week I have started to structure all of your feedback for a potential "EthFinance Bull Case for Ethereum" post, which could also be used for a short video. 
+[As stated last Friday](https://reddit.com/r/ethfinance/comments/15uartw/comment/jwoy85h/), this week I have started to structure all of your feedback for a potential "EthFinance Bull Case for Ethereum" post, which could also be used for a short video. 
 
 
 **Ethereum the network**
@@ -1547,7 +1547,7 @@ Without proper incentives and protections, all platforms, even L2 Ethereum dApps
 Some comments: 
 
 1. These are obviously just bullets, so I'll add detailed thoughts once we all agree on the structure and I am not sure this is the best structure yet. For example you could add a third a third category with "Narratives" which could include the "ETH is green" or "Risk free yield" bullets. Also something like "Use Cases" probably could be its own category as well. Looking forward to your thoughts and potential changes you would like to see!
-2. I have tried to write about Ethereum and ETH, so in a way that's not comparing it to any other network/ asset. I really liked [these](https://www.reddit.com/r/ethfinance/comments/15uartw/comment/jwpqf93/) statements made on Friday, but have rephrased them. 
+2. I have tried to write about Ethereum and ETH, so in a way that's not comparing it to any other network/ asset. I really liked [these](https://reddit.com/r/ethfinance/comments/15uartw/comment/jwpqf93/) statements made on Friday, but have rephrased them. 
 3. I have added my own points, so some bullets are "new.
 4. If you feel your points are not fully covered or inadequately worded in these bullets, feel free to drop a comment and suggest a change
 
@@ -1556,7 +1556,7 @@ Next steps (from my point of view, but also happy to receive feedback when it co
 </details>
 <details>
 <summary>u/Set1Less shares some sad news for another Tornado Cash dev</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15yts52/daily_general_discussion_august_23_2023/jxfn9po/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15yts52/daily_general_discussion_august_23_2023/jxfn9po/)
 
 Tornado Cash founder arrested by FBI....
 
@@ -1575,7 +1575,7 @@ Lol. When does the Treasury think they will see "a positive change in behavior" 
 </details>
 <details>
 <summary>u/stevieraykatz shares a quiet win for the ecosystem</summary>
-[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/15yts52/daily_general_discussion_august_23_2023/jxh4ziy/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15yts52/daily_general_discussion_august_23_2023/jxh4ziy/)
 
 Three of the top 15 eth burning/gas consuming contracts on mainnet are L2s. That's such a quiet win for the scaling space and it's JUST beginning. 
 
@@ -1605,7 +1605,7 @@ Three of the top 15 eth burning/gas consuming contracts on mainnet are L2s. That
 
 <details>
 <summary>The morning trinity</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15uartw/comment/jwojaig/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15uartw/comment/jwojaig/)
 
 [u/kraftverk_](https://reddit.com/u/kraftverk_)
 
@@ -1633,7 +1633,7 @@ Three of the top 15 eth burning/gas consuming contracts on mainnet are L2s. That
 </details>
 <details>
 <summary>The Queue: u/Spacesider</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15uartw/comment/jwojdrk/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15uartw/comment/jwojdrk/)
 
 Your daily beacon chain dose.
 
@@ -1830,7 +1830,7 @@ It's a step towards mainstream adoption by reducing the barrier to entry and all
 <summary>u/superphiz stands up for himself in front of a disingenuous accusation</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/15sg07d/daily_general_discussion_august_16_2023/jwh7ern/)
 
-it really guts me to come here and find myself [getting shit on](https://www.reddit.com/r/ethfinance/comments/15sg07d/daily_general_discussion_august_16_2023/jwexl5d/). You don't have to know me, you don't have to trust me, but I'm proud to say that every action I've ever taken has been in the best interest of promoting greater security and decentralization of the beacon chain. I have never acted in any way contrary to these values and it's offensive that the same people keep dragging my name. YES, I accepted the role of oDAO member for Rocket Pool, a role that I am STILL very proud of, and YES, I got a lot of money for it, just like the other 18 odao members who participated in the protocol the way it was designed. YES, I voted to reduce that and have encourage further development of RP in a way that doesn't require an oDAO at all. You know what else I did? I proudly promoted a platform that has onboarded over 3000 nodes to the Ethereum network. And I'll do it again if I can. I'm not going to get shit on like a little bitch by people who haven't done shit to bring success to our network. I would STILL accept fair money for my time to support and promote other projects that are highly aligned with our goals, and I'll never mince words about projects who risk our future. Sorry. Getting a little heated here.
+it really guts me to come here and find myself [getting shit on](https://reddit.com/r/ethfinance/comments/15sg07d/daily_general_discussion_august_16_2023/jwexl5d/). You don't have to know me, you don't have to trust me, but I'm proud to say that every action I've ever taken has been in the best interest of promoting greater security and decentralization of the beacon chain. I have never acted in any way contrary to these values and it's offensive that the same people keep dragging my name. YES, I accepted the role of oDAO member for Rocket Pool, a role that I am STILL very proud of, and YES, I got a lot of money for it, just like the other 18 odao members who participated in the protocol the way it was designed. YES, I voted to reduce that and have encourage further development of RP in a way that doesn't require an oDAO at all. You know what else I did? I proudly promoted a platform that has onboarded over 3000 nodes to the Ethereum network. And I'll do it again if I can. I'm not going to get shit on like a little bitch by people who haven't done shit to bring success to our network. I would STILL accept fair money for my time to support and promote other projects that are highly aligned with our goals, and I'll never mince words about projects who risk our future. Sorry. Getting a little heated here.
 
 </details>
 </details>
@@ -1852,7 +1852,7 @@ it really guts me to come here and find myself [getting shit on](https://www.red
 
 <details>
 <summary>The morning trinity</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15hqkud/comment/juq0tsy/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15hqkud/comment/juq0tsy/)
 
 [u/alexiskef](https://reddit.com/u/alexiskef)
 
@@ -1869,7 +1869,7 @@ it really guts me to come here and find myself [getting shit on](https://www.red
 </details>
 <details>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15dcqqy/comment/ju4dwec/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15dcqqy/comment/ju4dwec/)
 
 *Vyper labyrinth,*
 
@@ -1880,7 +1880,7 @@ it really guts me to come here and find myself [getting shit on](https://www.red
 </details>
 <details>
 <summary>The Queue: u/Spacesider</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15hqkud/comment/juq1g6e/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15hqkud/comment/juq1g6e/)
 
 Your daily beacon chain dose.
 
@@ -1899,7 +1899,7 @@ This can also be tracked via <https://validatorqueue.com/>
 </details>
 <details>
 <summary>Shitpost of the week: u/Glittering-Duty-4069</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15fzcv4/comment/juj089g/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15fzcv4/comment/juj089g/)
 
 Consider this: The SEC (Securities and Exchange Consideration) Consideration deliberating on whethere they should once again reconsider their previous considerations considering to consider reconsidering ETH ETF for deliberation and consideration.
 
@@ -2173,7 +2173,7 @@ This platform can then be used to:
 
 <details>
 <summary>The morning trinity</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15bntnh/comment/jtrk2yb/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15bntnh/comment/jtrk2yb/)
 
 [u/wolfparking](https://reddit.com/u/wolfparking)
 
@@ -2190,7 +2190,7 @@ This platform can then be used to:
 </details>
 <details>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/1580pwg/comment/jtawj3h/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1580pwg/comment/jtawj3h/)
 
 *zk washing spy,*
 
@@ -2201,7 +2201,7 @@ This platform can then be used to:
 </details>
 <details>
 <summary>The Queue: u/Spacesider</summary>
-[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/15bntnh/comment/jtrk1yp/)
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/15bntnh/comment/jtrk1yp/)
 
 Your daily beacon chain dose.
 
@@ -2328,7 +2328,7 @@ This guest doesn't need an introduction. I picked this episode, cause it's from 
 
 It's a good interview, nothing too crazy (though there was one comment that I didn't understand, but can't recall what the topic was and hence also can't ask you to explain to me, FML), but still a very good interview. 
 
-I also picked it, cause I made a comment in the daily some time ago asking [if there shouldn't be a protocol that allows you to borrow against your validator](https://www.reddit.com/r/ethfinance/comments/13ogyzj/comment/jl4q6h4/). I even stated that "It's probably way trickier than I make it seem?"... and yes, that's the case. And the issue is not tech, it's an attack vector with regards to security. Since you could basically borrow against your validator, setup more validators (repeat) and/ or basically attack the network "for free" (you'll be slashed, but you have like 80% of the ETH value back in USD or so). Vitalik mentions this in a slightly different context, but this was a crazy moment (and I have to say I should have thought about this back when I made the comment 2 months ago). 
+I also picked it, cause I made a comment in the daily some time ago asking [if there shouldn't be a protocol that allows you to borrow against your validator](https://reddit.com/r/ethfinance/comments/13ogyzj/comment/jl4q6h4/). I even stated that "It's probably way trickier than I make it seem?"... and yes, that's the case. And the issue is not tech, it's an attack vector with regards to security. Since you could basically borrow against your validator, setup more validators (repeat) and/ or basically attack the network "for free" (you'll be slashed, but you have like 80% of the ETH value back in USD or so). Vitalik mentions this in a slightly different context, but this was a crazy moment (and I have to say I should have thought about this back when I made the comment 2 months ago). 
 
 &#x200B;
 
@@ -2360,7 +2360,7 @@ Currently 130 countries, representing 98 percent of global GDP, are exploring a 
 
 I created an open source tool that allows anyone running Geth to instantly swap to a minority client with 0 configuration or effort. Just 1 click, new client.
 
-Switch to/from any execution client (Geth, Besu, Nethermind) to any other, as well as remove and reinstall a broken client. Instructions on [Github](https://github.com/accidental-green/client-switcher) and more info in the [ethstaker post](https://www.reddit.com/r/ethstaker/comments/1598vq4/minority_client_switcher/).
+Switch to/from any execution client (Geth, Besu, Nethermind) to any other, as well as remove and reinstall a broken client. Instructions on [Github](https://github.com/accidental-green/client-switcher) and more info in the [ethstaker post](https://reddit.com/r/ethstaker/comments/1598vq4/minority_client_switcher/).
 
 Feel free to check out my other open source Ethereum projects:
 
@@ -4560,9 +4560,9 @@ So, in summary, the Prysm nodes were overwhelmed with outdated information, whic
 Some analysis threads are starting to come in from the loss of finality event on 5/11/2023, I'll try to link them here as I become aware of them. (Feel free to share as well)
 
 - [potuz analysis](https://twitter.com/potuz1/status/1657031082749861891)
-- [rplust analysis](https://twitter.com/robplust/status/1657044364382846978?s=20)
+- [rplust analysis](https://twitter.com/robplust/status/1657044364382846978)
 - [preston vanloon](https://twitter.com/preston_vanloon/status/1657028959442202628)
-- [terence](https://twitter.com/terencechain/status/1657021044643774474?s=20)
+- [terence](https://twitter.com/terencechain/status/1657021044643774474)
 
 </details>
 <details>
@@ -7097,7 +7097,7 @@ In 2019:
 
 In 2018:
 
-- Basic Attention Token is the first ERC-20 token [to become](https://www.reddit.com/r/ethtrader/comments/86ls1f/bat_is_now_an_apple_verified_virtual_currency/) an Apple verified virtual currency.
+- Basic Attention Token is the first ERC-20 token [to become](https://reddit.com/r/ethtrader/comments/86ls1f/bat_is_now_an_apple_verified_virtual_currency/) an Apple verified virtual currency.
 - Ethereum Improvement Proposal site [eips.ethereum.org](http://eips.ethereum.org) goes live; automatically generated from all merged EIPs.
 - ETH flails at $538, or ₿0.06156.
 
@@ -7319,9 +7319,9 @@ Self-serving [link](https://tokenomicsexplained.com/monetizing-honesty)
 <summary>u/alexiskef shares news of DeFi Llama forking their own platform</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/11vd15b/daily_general_discussion_march_19_2023/jctfvna/)
 
-The DefiLlama team is [forking](https://twitter.com/0xngmi/status/1637425043482222599?t=hwk8m-r1H-oPPfJkFAxzLg&s=19) Defillama
+The DefiLlama team is [forking](https://twitter.com/0xngmi/status/1637425043482222599) Defillama
 
-[According](https://twitter.com/0xngmi/status/1637425049106784256?t=ZIVOP-3nsVggGEO9Jwio5Q&s=19) to Oxngmi: "The person who controls both defillama’s twitter and domain has decided to launch a token despite everybody in the team not wanting it. That is why we (the DefiLlama team who have built the site you all know and love for the past three years) have decided to fork Defillama and start fresh on llama.fi and @llamadotfi"
+[According](https://twitter.com/0xngmi/status/1637425049106784256) to Oxngmi: "The person who controls both defillama’s twitter and domain has decided to launch a token despite everybody in the team not wanting it. That is why we (the DefiLlama team who have built the site you all know and love for the past three years) have decided to fork Defillama and start fresh on llama.fi and @llamadotfi"
 
 DO NOT TRUST ANY COMMUNICATION OR TOKEN FROM @Defillama or Defillama .com"
 
@@ -9180,7 +9180,7 @@ In 2018:
 In 2017:
 
 - ShapeShift's Erik Voorhees [finds himself holding some extra ETH](https://twitter.com/ErikVoorhees/status/830197808573587457) "to use as payments, since Bitcoin is becoming too expensive/delayed".
-- Aragon, a platform for creating companies on top of the Ethereum blockchain, [is launched](https://www.reddit.com/r/ethereum/comments/5t6wop/introducing_the_aragon_project_bringing_the_dao/) in alpha stage.
+- Aragon, a platform for creating companies on top of the Ethereum blockchain, [is launched](https://reddit.com/r/ethereum/comments/5t6wop/introducing_the_aragon_project_bringing_the_dao/) in alpha stage.
 - ETH short squeezes $11.3, from ₿0.0111 to ₿0.01139.
 
 
@@ -9441,7 +9441,7 @@ In 2017:
 - Vitalik [looks under the hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) of Zk-SNARKs.
 - Decentralized Capital's exchange IDEX goes live on the Ethereum mainnet.
 - Piper Merriam [is dogfooding](https://medium.com/@pipermerriam/dogfooding-the-ethpm-com-package-registry-db60a60e13ce) the EthPM package registry.
-- MyEtherWallet [v3.4.7](https://www.reddit.com/r/ethereum/comments/5rsfu9/myetherwalletcom_v347_you_can_use_your_trezor_on/) allows using a Trezor on the site.
+- MyEtherWallet [v3.4.7](https://reddit.com/r/ethereum/comments/5rsfu9/myetherwalletcom_v347_you_can_use_your_trezor_on/) allows using a Trezor on the site.
 - ETH roams from $10.8 to $11.1, at ₿0.01078.
 
 ---
@@ -10256,7 +10256,7 @@ Edit:
 
 Thanks for the comments and suggestions to listen to Justin Drake on this, will take a look!
 
-I also found this quite intense twitter discussion on the subject: <https://twitter.com/alexoimas/status/1525505965029830656?s=20&t=X2P3CnyeNNKtinMsJCP9Ww>
+I also found this quite intense twitter discussion on the subject: <https://twitter.com/alexoimas/status/1525505965029830656>
 
 And this blog post: <https://hugonguyen.medium.com/a-review-of-budishs-51-attack-theories-what-is-the-fair-price-of-an-old-asic-59a7dcf9ff94> which argues that the scenarios in Budish article are unrealistic. The author also argues PoW > PoS.
 
