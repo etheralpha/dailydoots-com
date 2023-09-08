@@ -950,6 +950,318 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #34: September 8, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/149502)
+
+Guest appearance by [Lantern Finance](https://lantern.finance/), a KYC American-based staking provider.
+
+**Upcoming Guests**
+
+- October 20th - Greg Di Prisco from [Ajna Labs](https://www.ajna.finance/), a noncustodial, peer-to-pool, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16d18dh/comment/jzmtdhi/)
+
+[u/hehechibby](https://reddit.com/u/hehechibby)
+
+> Ethereum
+
+[u/UgotTrisomy21](https://reddit.com/u/UgotTrisomy21)
+
+> $1649
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> 0.0627
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/169imcm/daily_general_discussion_september_4_2023/jz5monq/)
+
+*Ever since the merge,*
+
+*Block production converge,*
+
+*Distrust too may surge.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16d18dh/daily_general_discussion_september_8_2023/jzn5h4u/)
+
+Your daily beacon chain dose.
+
+Active validators: 780,933 (+2,004)
+
+Pending validators: Joining 44.4k, leaving ~0
+
+* Entry queue -1300 from yesterday's number
+* It will take around 16 and a half days for the entry queue to clear
+* In around 2 days the amount of daily validators that can both enter or exit will be increased from 2,475 to 2,700.
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/-FilterFeeder-</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16c6vpw/comment/jzj9r3t/)
+
+There once was a burly crustacean
+
+who would not brook a price aberration.
+
+It made the charts boring,
+
+so instead of just snoring
+
+I packed up and went on vacation.
+
+</details>
+<details>
+<summary>u/barthib shares some big news which was almost missed by this sub!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1661ki5/daily_general_discussion_august_31_2023/jyivt90/)
+
+This forum must be very dead to totally ignore this nice news:
+
+[U.S. Court **calls ETH a commodity** while tossing investor suit against Uniswap](https://reddit.com/r/CryptoCurrency/comments/166b070/us_court_calls_eth_a_commodity_while_tossing)
+
+</details>
+<details>
+<summary>u/MinimalGravitas posts their idea for reducing Lido risk on Ethresear.ch and u/nomad-nuance replied with their thoughts</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1661ki5/daily_general_discussion_august_31_2023/jyl765g/)
+
+[u/MinimalGravitas](https://reddit.com/u/MinimalGravitas):
+
+I've finally turned my [idea](https://reddit.com/r/ethfinance/comments/14d4z2j/daily_general_discussion_june_19_2023/joow4vk/)  for reducing the risk of Lido's dominance into a post on Eth Research: 
+
+https://ethresear.ch/t/reducing-lst-dominance-risk-by-decoupling-attestation-weight-from-attestation-rewards/16523
+
+Have never posted anything in the 'proper' Ethereum forums before, and so feeling very intimidated. Thank you to those who gave me confidence that it's possibly not a completely moronic concept!
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1661ki5/daily_general_discussion_august_31_2023/jylp4jd/)
+
+[u/nomad-nuance](https://reddit.com/u/nomad-nuance):
+
+My biggest issue with this is they could get rich quicker, then flip to control ethereum quicker and or after something goes wrong for them 
+
+You need to add something that stops that possibility imo
+
+Something like locking in some or all of these mega validators stake for that extra reward, so that they are basically in service to eth in order to continue earning rewards to make back their locked stake.
+
+And even with that, that semi only puts the problem back 20-50 years imo 
+
+Mostly thinking about 3% apr (y?) and also they would likely have to pay back their customers? 
+
+u/tricky_troll my man has it been 10 days?
+
+</details>
+<details>
+<summary>u/Set1Less shares MakerDAO's latest questionable move and u/hanniabu adds on by criticising the move</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/166xsuy/daily_general_discussion_september_1_2023/jyoircg/)
+
+[u/Set1Less](https://reddit.com/u/Set1Less):
+
+MakeDAO wants to launch their own chain....and its a fork of SoLaNo. Lol
+
+Honestly thought it was parody at first. 
+
+<https://forum.makerdao.com/t/explore-a-fork-of-the-solana-codebase-for-newchain/21822>
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/166xsuy/daily_general_discussion_september_1_2023/jyopitj/)
+
+[u/hanniabu](https://reddit.com/u/hanniabu):
+
+Maker is a husk of its former self. Rune can't help but introduce more and more centralization. The endgame is value capture.
+
+> The most important reason for why NewChain is needed, is that it will allow the ecosystem to use hard forks to gracefully recover from the most severe form of governance attacks or technical failures.
+
+Ah yes, lets  move to a LESS SECURE chain to protect against governance attack 🤡
+
+> The second reason is that the Solana ecosystem has proven its resilience
+
+This keeps getting better, all that downtime really prove ReSiLiEnCe
+
+> The third reason is that there already exists examples of the Solana codebase being forked and adapted to act as appchains
+
+There already exists examples of rollup codebases being forked and adapted to act as appchains
+
+</details>
+<details>
+<summary>u/Syentist explains why he is surprised that there hasn't been more eyebrow raising in response to Maker's recent move which effectively made them an unregistered money market fund</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/167tggf/daily_general_discussion_september_2_2023/jyu5hft/)
+
+Maker has deposited north of $1.2 billion of the $ backing DAI into US treasuries. The yield on the US treasuries is paid back to DAI holders who have deposited to the DSR contract. That is a near text book definition of a [money market fund](https://www.investopedia.com/terms/m/money-marketfund.asp), except an unregistered version. 
+
+"But KYC is inherently evil. We should fight it when we can". Ethereum already allows for two people to send and receive ETH with each other (=to transact) without intermediaries and without KYC. But if you are literally investing in a financial instrument offered by the US government, it's hard to understand why we can or should bypass clear cut laws which exist for the rest of the members of society.
+
+And the absence of KYC is only a small part of the problem to me. The bigger part is the pure unregulated nature of this enterprise. Rune is one acid trip in the Himalayas away from suddenly deciding the solution to world inequality is to arbitrarily donate half the USG bonds to some charity. I'm not joking - the Maker core team is, at best, chaotic neutral, with emphasis on chaotic. It's insane for a $4.5bil stablecoin to rely on a group of centralized chaotic actors. And this is where registration of money market funds comes into play. You have designated legal responsibilities to core organisational members who's details are known to the feds, you have clear auditing rules and what can and can't be done with customer funds, and customers have clear legal recourse if or when the custodians behave outside of these narrow rules. Right now, DAI holders get ZERO of those clear cut protections. 
+
+And lastly, NONE of this fits within the original ethos nor objective of Maker, as an Ethereum centric decentralised stablecoin. Nothing in today's Maker is decentralised nor fitting the core ethos of Ethereum, despite the team and the project having leached off credibility from the Ethereum ecosystem to bootstrap themselves to the current position as a major defi protocol. For example if Jump or Binance came up with a protocol with similar shenanigans to that exhibited by Rune and Maker today, it would at best, be a short term pump and dump excercise, not a protocol which attracts and retains billions in TVL over a long term. The only reason Maker manages to do that is because it managed to successfully leach credibility from the Ethereum ecosystem, before pivoting into the present circus. /end rant
+
+</details>
+<details>
+<summary>u/coinanon updates us on account abstraction standards</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/169imcm/daily_general_discussion_september_4_2023/jz2atmo/)
+
+I’m trying to understand the current state and the near future of account abstraction. From what I understand, there are two competing standards: the Safe (formerly Gnosis Safe) architecture and the newer ERC-6900 architecture. Having one standard seems important because it will enable dapps and developers to create plugins/modules for AA wallets (automatic DCA, freeze certain assets, spending limits per “session key”, etc). 
+
+It’s very cool and I believe that it has a future (especially on L2s with cheaper fees soon), but which architecture will win? The Safe team is well-respected, but it sounds like ERC-6900 has some advantages. 
+
+Does anyone know the latest? Is the developer mindshare leaning one way right now?
+
+This was a good primer on the different architectures: <https://mirror.xyz/konradkopp.eth/7Q3TrMFgx2VbZRKa7UEaisIMjimpMABiqGYo00T9egA>
+
+</details>
+<details>
+<summary>u/nixorokish rebuts a pro-Lido argument</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/169imcm/daily_general_discussion_september_4_2023/jz4t7vk/)
+
+nonsense.
+
+> The counter-argument here is of course that threatening to throttle and/or fork out Lido, if it doesn't adhere to the will of a handful of core devs/researchers/influencers, is the surest way to kill any notion of better and safer property rights
+
+Psyops to convince people that the "will of the people" is to hand over governance to Lido DAO when not even a supermajority of LDO token holders really want this (https://twitter.com/DrNickA/status/1697610036841726414) - the delegates who vote with the most LDO just overshadow everybody else
+
+Sacha is trying to paint "a handful of core devs/researchers/influencers" as an elite group trying to maintain power. In reality, these are the hundreds of people who are building the Ethereum protocol layer and are trying to make it impossible for *anyone* to capture the Ethereum consensus layer. Like I said, psyops.
+
+> My personal perspective here is that it would be extremely irresponsible for Lido to gain a dominant market share without first significantly improving its resilience to long-term tail-risks -- and reducing the impact of those tail-risks on the Ethereum protocol
+
+"Yeah for sure Lido in its current form shouldn't control Ethereum. But I think it eventually should and will, it just needs some tweaking before it's ready"
+
+> I think it bears repeating here that Lido is not a single entity. It is a co-ordination layer between a multitude of stakers and node operators.
+
+It is 31 operators who can be removed at any point by one entity: the Lido DAO. Which is swung by a few majority delegates. Many operators receive a significant portion of their income from being Lido operators - the threat of losing this income is a source of influence you can't ignore.
+
+---------
+
+Sacha's whole deal is coming up with long-winded posts that masquerade as research to justify Lido DAO governance expansion. Start with a conclusion and build arguments to meet up with it. He writes in a way that often impresses people into thinking it might be a good argument but he never actually gives us new information - he's not looking for an answer or doing research, he's just finding new ways to say "It's okay for Lido to eventually become the middleman between you and Ethereum."
+
+</details>
+<details>
+<summary>u/696_eth made a big step in their solo staking journey - they made a beacon chain deposit!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16aesof/daily_general_discussion_september_5_2023/jz758uw/)
+
+**Staking: Finale**
+
+I'm proud to say that I'm officially a Beacon chain depositor!
+
+I started my journey in late November, early December last year. After researching and getting all the parts and setting up NUC I took quite a long pause. It was still on my mind even though I wasn't following through with that. As I finished addressing more critical priorities in my life earlier this year I knew it was the time to do it. It looked honestly impossible but I trusted that with the help of this community, EVMavericks and my friends that I would be able to achieve the feat! Staking aligns with my long-term financial goals as well as with with the future of Ethereum that I want to see and I wanted to do my part. Running minority clients too to promote the health of Ethereum.
+
+Big thanks to Haurog for basically handholding me, thanks to everyone here and EVMavericks discord for answering my many newbie questions, shoutout to Ethstaker for helping me out too, also to a few of my friends from the Dopest private chats and to so many other people who were willing to lend a hand but I already had enough support. I took my time to understand, learn, experiment and to feel relatively comfortable. I'm sure it's not fully done yet as I might be sweating when I pass the entry queue but so far everything has been looking good. There's still a few things to set up bandwith wise for me and in terms of how to monitor (so far I have grafana and just look at beaconchain site).
+
+Not sure what else to add but if I remember something I'll add later. if you also have questions, lmk!
+
+Can't wait for my money printer to go brrrr and print me blocks w 69E rewards!!!
+
+</details>
+<details>
+<summary>u/PhiMarHal outlines a big opportunity for web 3</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16aesof/daily_general_discussion_september_5_2023/jz7itxv/)
+
+Google lets scammers buy adspace and makes no effort to moderate this.
+
+Twitter is letting spambots run free as long as they pay $8 for a blue checkmark or $1000 for a gold one.
+
+Discord is adding a feature to let you hide links so they redirect to a different place.
+
+There is a fundamental incentive problem with the law ruling big service providers should have no accountability whatsoever for the content they host. Let criminals use your platform AND get paid for it? Why shouldn't they take that deal.
+
+This is especially inane when said platforms do take moderation actions for various ideological or political motives. You're either a neutral service provider, or you have administrative rights and exercise editorial content. Can't have both. In the latter case, you should be help responsible for your content, and sorry but not sorry if this doesn't play well with big-tech business model of harvesting value generated by user content while running only minimum human intervention.
+
+There is an obvious answer here. If these platforms were run as credibly neutral infrastructure, as part of distributed ledgers nobody can unilaterally censor... Those laws regarding lack of accountability would make sense.
+
+The mainstream Internet as it exists today makes no sense as web2 whereas it would be sensible as web3.
+
+</details>
+<details>
+<summary>u/ThatGuyThatGuyThagay brainstorms some solutions to the Lido problem and u/cryptOwOcurrency adds to it with a great reply</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16bb42v/daily_general_discussion_september_6_2023/jzcbu1v/)
+
+[u/ThatGuyThatGuyThagay](https://reddit.com/u/ThatGuyThatGuyThagay):
+
+I see the solution to Lido problem as follows:
+
+1) Reduce the advantage of pooling by burning MEV - all validators, get equal beacon chain rewards. Solo validators have advantage over pool, because of LST fee.
+
+2) Protocol level smoothing of block proposals or similar, same way in PoW, people use pools not because it gets the bigger rewards, but because they get them more consistent.  
+
+3) Make solo staking more accessible. (how comes there is still no double-click executable on windows that get you staking in no time? Even shitcoins have them).
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16bb42v/daily_general_discussion_september_6_2023/jzci68y/)
+
+[u/cryptOwOcurrency](https://reddit.com/u/cryptOwOcurrency):
+
+> Protocol level smoothing of block proposals or similar, same way in PoW, people use pools not because it gets the bigger rewards, but because they get them more consistent.
+
+Block proposals themselves really don't earn a lot of consensus income - only about two weeks worth of attestations.
+
+Once the impact of MEV is removed from proposal income (due to MEV smoothing pools and/or MEV burn), I don't think block proposals will need smoothing. That's a good thing!
+
+> Make solo staking more accessible. (how comes there is still no double-click executable on windows that get you staking in no time? Even shitcoins have them).
+
+I agree on this. Back in the early days of Bitcoin, I used to keep my Bitcoin client running in the background to help provide bandwidth to the network (and keep my wallet in sync!). You would just double-click the Windows executable and then forget it in the system tray. GPU mining was like that, too.
+
+It should be just as easy to stake on Ethereum. The process should go like this:
+
+1. Double click installer exe. Install.
+
+2. Run. Wizard prompts you to choose consensus and execution clients, with a short blurb about each one and a note about client diversity.
+
+3. You get kicked out into the main UI. Your clients are now syncing. There's a little progress bar that shows how long till they're synced enough to be staking-ready.
+
+4. When sync is done, you click the little "plus" button at the corner of the main UI, to add new validators.
+
+5. (For first time adding validators only) - Wizard generates staking seed phrase, prompts you to write it down, forces you to retype it.
+
+6. Wizard prompts you to enter the amount of validators you wish to add, previews how much ETH you need.
+
+7. Wizard prompts you for the withdrawal address you want to use for these validators.
+
+8. Wizard generates deposit data json file, prompts you to upload it and deposit ETH using the Staking Launchpad.
+
+9. Wizard reads the blockchain directly and recognizes your Staking Launchpad deposits. Kicks you back out into the main UI where you can see the pending status of your validators, along with an estimate of when they will be through the queue.
+
+10. Once they're through the entry queue, the app basically acts like a native version of beaconcha.in, showing your attestations and effectiveness, proposals, income graph, stuff like that.
+
+</details>
+<details>
+<summary>u/cryptOwOcurrency explains a cool little defensive measure in the Ethereum protocol which protects against 51% attacks</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16bb42v/daily_general_discussion_september_6_2023/jzfl07v/)
+
+Hey it just occurred to me - a 51% attack is not actually profitable to Lido in terms of ETH, at least in the short term. I forgot about this little quirk (smart design decision) in the [Ethereum protocol](https://eth2book.info/capella/part2/incentives/inactivity/):
+
+> The reason why no validators receive attestation rewards during an inactivity leak is once again due to the possibility of discouragement attacks. An attacker might deliberately drive the beacon chain into an inactivity leak, perhaps by a combination of censorship and denial of service attack on other validators. This would cause the non-participants to suffer the leak, while the attacker continues to attest normally. We need to increase the cost to the attacker in this scenario, which we do by not rewarding attestations at all during an inactivity leak.
+
+So by 51% attacking Ethereum, LST pool providers would be hurting the LST's own holders (and their reputation for making profit) by forgoing staking rewards for the duration of the attack. People would obviously rush to try to pull their money out, or at least they should.
+
+An attacker could avoid this mechanism by attacking with 66% of the stake. 66% is the point at which an attacker can attack the chain without forgoing short-term staking rewards.
+
+I just wanted to share this, because it's a factor I had forgotten about, and it throws a curveball at any 51-66% attacker.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #33: September 1, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=bWWFr7rMwiU) | [POAP](https://poap.gallery/event/149024)
