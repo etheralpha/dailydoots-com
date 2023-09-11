@@ -11097,6 +11097,8 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 .  | thenextbestguess      | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/fishfearme.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | waqwaqattack          | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/0x2600846f4401ae10ca760604036a891bb896649e?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
 .  | ytocin                | Arbitrum             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9)
+.  | lefterisjp            | Diva                 | [view details and delegate](https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70)
+.  | sikhsoldiers          | Diva                 | [view details and delegate](https://www.tally.xyz/profile/jasperthefriendlyghost.eth?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70)
 .  | superphiz             | Diva                 | [view details and delegate](https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70)
 .  | waqwaqattack          | Diva                 | [view details and delegate](https://www.tally.xyz/profile/0x2600846f4401ae10ca760604036a891bb896649e?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70)
 .  | dmihal                | ENS                  | [view details and delegate](https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3)
