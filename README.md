@@ -955,6 +955,352 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #35: September 15, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/150114)
+
+**Announcements**
+- Tickets for [Staking Gathering at Devconnect Istanbul](https://ethstaker.cc/staking-gathering-2023) are [now available](https://ticketh.xyz/ethstaker/devconnect/) featuring speakers such as Danny Ryan, Justin Drake, Sreeram Kannan, Michael Sproul, Jim McDonald, and [many more](https://ethstaker.cc/staking-gathering-2023#featured-speakers).
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16j45ua/comment/k0nouvo/)
+
+[u/hehechibby](https://reddit.com/u/hehechibby)
+
+> Ethereum
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> 1629
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.061
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16dwu2k/daily_general_discussion_september_9_2023/jzvc6l0/)
+
+*There's nothing to hide,*
+
+*Privacy can't be applied,*
+
+*As you've never lied.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16j45ua/comment/k0o4e44/)
+
+Your daily beacon chain dose.
+
+Active validators: 796,700 (+2,353)
+
+Pending validators: Joining 36.2k, leaving ~0
+
+* Entry queue -200 from yesterday's number
+* It will take around 13 and a half days for the entry queue to clear
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/cryptOwOcurrency</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16eramm/daily_general_discussion_september_10_2023/jzxbgek/)
+
+Vitalik's twitter account was hacked. It's all over. Everyone please start panicking.
+
+This is lesser-known, but Ethereum's consensus mechanism depends on a Twitter integration with Vitalik's account, so it's likely the Ethereum chain will halt within a few hours. I don't know if the client teams will be able to implement a workaround for the Twitter dependency in time - Ethereum's Twitter integration was supposed to be removed as a vestigial feature in the Merge fork but I guess the devs didn't get around to it.
+
+I really hope Charles Hoskinson still has access to the manual override key and is willing to use it to recover the chain. The only other person I know of with the Ethereum admin key is Sam Bankman-Fried, and he won't be able to save us this time for obvious reasons.
+
+If we can't get either of those admin keys, we'll have to ask Elon Musk to go into Vitalik's account to turn Ethereum off and back on again for us. Please send thoughts and prayers everyone. ❤️
+
+</details>
+<details>
+<summary>u/SikhSoldiers points out that Lido is going against one of its core principles set forth by Paradigm</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16d18dh/daily_general_discussion_september_8_2023/jzoblvs/)
+
+It boils my blood that @LidoFinance thinks fit to go against one of the founding lido principles set forward by @paradigm. 
+
+Governance is and always has been the existential risk that Lido presents. Dual governance is a bandaid solution, not any kind of permanent one and is very fallible. 
+
+As long as LDO governance can control the validator registry, LDO should not exceed roughly 33% of the network. There is no hard line here because the threat isn’t based on any hard line. 
+
+The threat is that LDO slowly gains a subversive power over Ethereum due to its ability to threaten node operators with the boot, a very powerful threat that @gakonst rightfully points out all those years ago. 
+
+The staking router and the coming forced exits upgrades will further exacerbate the issue. Both will increase the power of LDO token holders over the node operators. Forced exits especially worries me as it has been touted as their solution for keeping their permissioned node operators in line. 
+
+Governance is a weakness, the existence of a threat is the problem itself. We cannot rely on LDO holders to be good stewards, not even with stETH veto power. 
+
+The apathy and bureaucracy of DAO governance is too powerful a deterrent for vetos to reliably work. The only solution is to remove the threat completely. 
+
+Georgios goes on to write “If said pool is sufficiently governance-minimized, it could possibly win the entire market without causing any systemic risk for Ethereum.”
+
+Where’s the minimization frens???
+
+ln April of 2022 I published a now deleted thread called “A Case against stETH” where I explained why neither DVT nor social scores for permisionless node operators would work to scale their node operators set fast enough for the rate that they were growing their stake. 
+
+The entire thread stands true today. The recent @NethermindEth report suggests using a Kleros court to judge Sybil cases. That’s a joke when nation states are out here human trafficking and dedicating billions to hacking/exploits/evading Sybil detection. If Lido messes up their Sybil implementation, we could find ourselves with 10-15% of all Eth staked sitting in North Korea in a Sybil farm of node operators with 0 capital bond. 
+
+Lido should self limit not because of any consensus attacks, they should self limit because $stETH is growing faster than they can decentralize and research ways to safely introduce permisionless nodes without jeopardizing the network. 
+
+Don’t let their campaign fool you, @LidoFinance has not shed any of its governance functionality—in fact it plans on growing it. 
+
+This is the danger of $stETH dominance.
+
+https://www.paradigm.xyz/2021/04/on-staking-pools-and-staking-derivatives
+
+https://web.archive.org/web/20220414205449/https://twitter.com/Jasper_ETH/status/1514708562244784131
+
+</details>
+<details>
+<summary>u/benido2030 shares their favourite recent podcast episodes</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16c6vpw/daily_general_discussion_september_7_2023/jzi3eez/)
+
+**+++ Benido's favorite podcasts episodes +++**  
+Some weeks ago I started publishing some podcast recommendations featuring interesting episodes. Since I enjoy podcasts I thought it might be a service to the community to highlight those I really liked (or maybe disliked? Let's see what the future brings). It's not a real summary, so if my thoughts make you curious, you might want to jump in to listen to the full episode. They are always linked in the headline.  
+Here is a list of all the past posts:
+
+[Benidos favorite podcasts no.1](https://reddit.com/r/ethfinance/comments/14r0ocb/comment/jqql97w/)
+
+[Benidos favorite podcasts no.2](https://reddit.com/r/ethfinance/comments/1580pwg/comment/jt9qh1v/)
+
+[Benidos favorite podcasts no.3](https://reddit.com/r/ethfinance/comments/15rirbm/comment/jw9ltqc/)
+
+&#x200B;
+
+Now here are the new ones I really liked from the past couple of weeks. Interestingly they are all very technical and let me be honest... I sometimes couldn't really follow the guests/ hosts. I think they are all great, but in these cases I would really recommend taking some dedicated podcast time with 100% focus. 
+
+[Bankless: Scaling Ethereum To The Next Level with zkEVM feat. Justin Drake and Brian Retford](https://bankless.com/scaling-ethereum-to-the-next-level-with-zkevm)
+
+Maybe you remember a post from u/liberosist talking about the different types of zkEVMs there are (I tried to find it but couldn't). This podcast basically talks (partially) about this. Since this is fairly technical topic, it's moderated by Justin Drake and RSA is more or less downgraded to listener. 
+
+This includes how L1 might become a zkEVM in the future based on some of the developments in the L2 landscape and the positive side effects this might have (e.g. lower hardware reqs for validators). 
+
+I think this episode is pretty good and a great addition to the sci-fi roadmap episode from ethcc since it's very forward looking, but in the end this is why we are here, right? 
+  
+[Epicenter: Frontier Research - Solving Ethereum's MEV Problem feat. Stephane Gosselin](https://epicenter.tv/episodes/511)
+
+This episode is a pretty good one if you are into MEV. Stephane Gosselin was one of the flashbots founders and has left the project some months ago. In this episode he talks a little about the MEV landscape, his impact and how he would rate it (interesting answer here!). On top he gives some insights into his new venture "Frontier Research".
+
+One major topic is RFQ = request for quotes and intents, but they also tackle PBS, MEV burn etc. 
+
+I think you need a pretty decent understanding of MEV to be able to follow this episode. If you do, this is 60 minutes+ of very good content, especially since Stephane knows flashbots, but is not 100% aligned, but going down a new (and much needed?) experimental road. 
+
+[Uncommon Core 2.0 - An Incomplete Guide to PBS feat. Mike Neuder and Chris Hager](https://www.ucc2.xyz/podcast/episode/1bb543a8/an-incomplete-guide-to-pbs-with-mike-neuder-and-chris-hager)
+
+PBS or proposer builder separation has been around since a year or so. This episode features Mike Neuder (from the EF) and Chris Hager (from Flashbots), which is a pretty good panel since it the main parties involved came together. 
+
+The first hour or so is a discussion, the second part is a followup discussion with only Hasu and Jon. My take away: PBS is a design philosophy/ space. What does this mean? When I first learned about it I basically thought PBS was designed, the scope was clear and we only needed implementation. I think the conclusion after this episode is that this is not the case. There are a lot of different implementations possible and it's not even clear if ePBS (enshrined PBS) is the way to go. 
+
+u/eth10kisfud since we talked about MEV burn [yesterday](https://reddit.com/r/ethfinance/comments/16bb42v/comment/jzd9by5/). This is the episode that led to my answer.
+
+---
+
+Benido, this sucks, this is all so technical, why didn't you include a podcast I can just listen to on my way to work or in the gym and if I blink I can just continue listening? Well I am glad you asked, because I got you covered! 
+
+&#x200B;
+
+[Bonus: The Chopping Block - Coinbase’s Paul Grewal on Why the SEC Is Going After Crypto So Aggressively](https://unchainedcrypto.com/the-chopping-block-coinbases-paul-grewal-on-why-the-sec-is-going-after-crypto-so-aggressively/)
+
+This Chopping Block episode is a pretty good summary about "The SEC vs Crypto and Coinbase". I liked it a lot because I think Paul Grewal is a pretty cool guest (Paul is Coinbase' Chief Legal Officer) and he pretty transparently explains why Coinbase acts in the way it does. 
+
+I am not sure the speculation about Gary Gensler's motivation is the best approach, but the rest of it is a very good summary and includes some industry insights that I think are a very interesting and if you didn't follow as closely this episode is the one you wanna listen to. 
+
+&#x200B;
+
+This is it for today, but I already have picked one podcast episode for the fifth edition! Let's go!
+
+</details>
+<details>
+<summary>u/Newman513 talks about methods to mitigate issues from the ever growing validator set</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16d18dh/daily_general_discussion_september_8_2023/jzocbcm/)
+
+See some chatter in here today about the late-stage proposal to limit the validator churn limit for inclusion in Deneb. I've been following this relatively closely since I think that this has the potential to brew into a CAT5 storm for the 250 of us that are terminally online and plugged into Ethereum development drama.
+
+I first became aware of "the issue" during ACD 113 (bad news always comes on the 13th) - tl;dr on the issue (parroting Christine Kim, because she can summarize better than I can):
+
+> A large validator set size is undesirable because this increases the computational burden on validator nodes and creates complications for implementing future code changes such as single slot finality.
+
+> Without a countermeasure in the next 9-10 months to address validator set size growth, @mkalinin2 said that the computational load on nodes could increase 3x with the increased volume of messaging on the networking layer.
+
+What are some possible solutions? 
+
+* Reduce rewards - incentives will reduce the number of validators joining / motivate some to exit
+* Cap the # of validators
+* Cap the churn limit
+* Implement longer-term solutions that actually solve the problem, but require more R&D to design and vet
+
+Looks like option 3 is being pursued in the short-term, if only to buy more time. I think that this is a phenomenal example of just how fragile Ethereum is, and why even 7+ years in it's critical to be mindful of introducing systems on top of the protocol that bring with him considerable unknown unknowns! Think Eigenlayer - love the potential innovation, but a stage-gated slow rollout to understand the intricacies of the interdependencies that new primitives introduce is preferable to me, and I'd argue responsible, particularly when building on top of something so unsteady that's managed to command as much economic importance as Ethereum has since it's inception.
+
+Will get off my soap box - y'all are on the same page. Hopefully the summary & sources are helpful! 
+
+<https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-113/>
+<https://twitter.com/christine_dkim/status/1679873847665868800>
+<https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-117/>
+<https://twitter.com/philngo_/status/1699805844748030383>
+
+</details>
+<details>
+<summary>u/LogrisTheBard has another great discussion on DAO governance</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16fmfto/daily_general_discussion_september_11_2023/k02q0ue/)
+
+I wrote [recently](https://reddit.com/r/ethfinance/comments/16c6vpw/daily_general_discussion_september_7_2023/jzk2o58/) about multicameral governance designs. The responses that have come up in response to this post have taken 2 forms:
+
+1. Voter participation sucks and we need to concentrate power to make anything work around here. I'll address that a bit in a different post.
+2. Isn't this going to devalue the governance token? What is the point of a governance token that only has a minority power over governance?
+
+I'd like to take a few paragraphs to discuss what I think the rights and responsibilities of permissionlessly tradable governance tokens should be in a multicameral governance structure.
+
+Among most modern DAO designs there is usually a singular governance token. This token usually serves two purposes. The first, as the name implies, is it acts as a force in governance. The second is it serves as a fundraising tool potentially by multiple mechanisms such as ICO, bond, inflation schedules, or call options. There are a few other minor uses as well that I go into [here](https://reddit.com/r/ethfinance/comments/wliv6s/daily_general_discussion_august_11_2022/ijtvcz1/). When people buy this token they do so with the expectation that they have a claim upon the future profit of the system the DAO governs. Ultimately, greed fueled speculation is what gives governance tokens most of their tradable value.
+
+The abysmal governance participation we see for most DAOs today is a strong indication that the governance power of governance tokens is not the primary source of their demand. Therefore, adopting a multicameral governance structure and diluting this governance power should not overly affect the usefulness of a governance token as a fundraising mechanism.
+
+That said, care must be taken to protect the contractual rights of the governance token for its primary purpose. If clarity on this is not provided, investor confidence will wane, and the DAO will quickly find itself unable to raise funds by issuing tokens. At that point the DAO either must have a self-sufficient product, rely on charity from necessary participants, or watch as necessary participants stop doing their necessary work and the system fails.
+
+One guarantee the DAO can provide to the governance token holders is to escrow the treasury funds directly within the governance token governing body (the capital module). System profit should be automatically sent to the treasury. At minimum, since each governing body controls its own state, this gives the token holders the ability to revoke token approval to these funds to the parent DAO. This guarantees those token holders a contractual right to the treasury should the DAO dissolve or they want to revolt. All they have to do is pass a policy to pay out the treasury to themselves.
+
+Another guarantee the DAO can provide the governance token holders is to make it very difficult for the parent DAO to change any fund flow related policies without their approval. The capital module needs to have confidence that their power over the purse can’t be whimsically revoked. Different types of proposals in the parent DAO can potentially have different rules required to ratify them. This is also consistent with granting governance power over topics to those it affects the most. The governance token holders are those most affected by changes to monetary flows and should have a greater say on changing certain parameters related to that than other governing bodies. This satisfies a design goal of *fairness*.
+
+The last guarantees all come from the ability of each governing body to maintain its own internal state. The parent DAO can only invoke functions on the governing body contract that it allows. Any control over these matters the capital module grants to the parent DAO are inherently revocable. This gives the capital module ultimate control over the issuance of the governance token and all matters dependent on that such as how to incentivize liquidity depth for the token, how to structure bonds, its inflation schedule, etc.
+
+In summary, it is my belief that so long as the governance token holders have faith in the future revenue of the system and their claim right to it the token should retain value. So long as it has value it can serve its primary purpose as a fundraising mechanism. I don't believe diluting the governance power of these tokens will destroy their value, but I do think it can lead to a DAO that is more resilient and likely to succeed in the long term for reasons stated in my previous post. The main ingredient we're missing to try this somewhere is a guinea pig and a fairly small software package. I think it's a *much* better direction than what Rune is doing to Maker with "neural tokenomics" for example.
+
+</details>
+<details>
+<summary>u/somedaysitsdark starts a discussion after a recent block proposal</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16gi7gg/daily_general_discussion_september_12_2023/k0b54e8/)
+
+I posted this to the EVM discord, but figured it would be healthy to blast here too:
+
+I proposed my fourth block recently 🥳. But because my mev-boost min-bid is set to .05, if I don't receive any bids higher than .05 my client builds the block itself. That is working fine, so far 3/4 of my blocks have been homemade. But, my most recent block had my first tornado cash transaction in it.
+
+I'm just annoyed by regulatory lack of clarity on whether or not I should care as a US operator.
+
+I could run mev-boost with no min-bid and point it at only ofac compliant relays is what the government might say in the future?
+
+What happens eventually once we have proposer builder separation? That's the plan right? I'm not super familiar with how that works.
+
+If US validators 'currently' aren't held to KYC regulations- which I believe is accurate, then we shouldn't care at all even if someone wants to transact with an OFAC-list address? Maybe that is a bad assumption.
+
+If I need to be OFAC compliant, then I need to know for sure. That way I can either just do it, or move my server out of the country? Would that even be sufficient? Even Coinbase still validates non-compliant transactions, or so I've heard, I haven't actually confirmed this. I'm gonna go look.
+
+According to this blurb, they run some validators without mev-boost deliberately to prevent censorship: <https://www.coinbase.com/cloud/discover/news/earn-pbs-enabled-mev-rewards-with-coinbase-cloud>
+
+Prime and retail Coinbase users are opted in to mev-boost automatically btw.
+
+Just starting to peep etherscan to see what the big exchanges are doing:
+
+[Recent Kraken block (18122994) with tornado cash transaction](https://etherscan.io/block/18122994)
+
+[Recent Binance block (18121064) with tornado cash transaction](https://etherscan.io/block/18121064)
+
+[Recent Coinbase block (18120973) with tornado cash transaction](https://etherscan.io/block/18120973)
+
+Most I'm finding are Lido blocks, but that is hardly surprising.
+
+</details>
+<details>
+<summary>u/TheHansGruber and u/FutureofEverythingz checking in from Permissionless 2023</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16gi7gg/daily_general_discussion_september_12_2023/k09iv08/)
+
+[u/TheHansGruber](https://reddit.com/u/TheHansGruber):
+
+I'm here. Venue is awesome, probably a little bigger than necessary but it's better to have the space then not. The main talks haven't had any real alpha so far, lots of wagmi and "down bad, haha" talk. The regulatory panel was fun to watch, but again, no pertinent info was learned. It was inferred that for any reasonable change in the regulatory situation, Gary would litteraly have to just wake up on the "right side of the bed" one day. And no one on the panel suggested they thought it was likely. Legislation (in the US) needs to be passed. Rep. Emmer was hopeful on this. 
+
+Swag game has not been as good as ethdenver or devcon. But we are in the depths of the bear, so.....
+
+Rainey street crawl was last night. I'm not a bankless citizen so I didn't go to their closed event. Had a Hella good waygu smash burger at a place across the street though. 
+
+Overall, it's still fun to be spending a few days with so many like minded people in a fun town. Bear market conferences are the best for this reason. Only the *real* degens are here. If any actual news or info is discovered I'll be sure to drop it in here.
+
+Next year's permissionless is on the books for  October 9th-11th 2024 in salt lake city.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16hdwk1/daily_general_discussion_september_13_2023/k0fgg2p/)
+
+[u/FutureofEverythingz](https://reddit.com/u/FutureofEverythingz):
+
+Hanging out with [u/the-A-word](https://reddit.com/u/the-A-word) and [u/jtnichols](https://reddit.com/u/jtnichols) at Permissionless II. Taste testing some early offerings from JT’s smoker and talking DAOs, solo staking, and the history of r/ethfinance. No reason to go to the main event like I planned, too much fun. 
+
+👋 I’m a 🇨🇦 and longtime ETH community member currently building [sobol.io](https://sobol.io) Also am early contributor to BanklessDAO plus tons of other DAO communities (total DAO need). 
+
+Nice to find the daily because my Twitter feed is pure noise. Thanks for the gift of gud BBQ and good vibes today 🙏
+
+</details>
+<details>
+<summary>u/asdafari12 comments on the pros and cons of possible government actions</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16gi7gg/daily_general_discussion_september_12_2023/k08h4u4/)
+
+I would rather the US not allow spot ETFs than red-tape defi, which is basically what is happening with the proposed rules that are perhaps impossible to follow. ETFs are probably great for price action but they aren't crypto. 
+
+I remember how excited I was in 2020 about synthetic stocks, defi, insurance, gambling and other use cases happening on Ethereum. Now we know that synthetic stocks are a massive regulatory no-no. I am overall happy about what is possible in defi but it looks like all frontends will require KYC in the future (for US users at least). We are lucky that an exception was made for validators. They wanted KYC of all TXs, which is obviously not possible. That's one of my issues, it has become obvious that regulation doesn't come from a fair, logical and neutral point. It's a bit of a circus and impossible to guess what will come.
+
+</details>
+<details>
+<summary>u/alexiskef introduces MetaMask snaps</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16hdwk1/daily_general_discussion_september_13_2023/k0dtvjw/)
+
+🦊 I just got a Metamask email, informing me that Metamask Snaps Open Beta is live!
+
+🔥 [Here is the announcement on the MM Blog](https://metamask.io/news/latest/decentralizing-the-wallet-experience-with-metamask-snaps/) 🔥
+
+MetaMask Snaps allows users to customize their MetaMask wallet. But what is a Snap? *Individual Snaps are features and functionalities created by third-party developers that you can install directly into your wallet.*
+
+Metamask says that: *All Snaps available in the directory today have been audited by the Metamask team and third parties. Our decision to have an allowlist was made both out of an abundance of caution, and because we have ideas for how to add additional safety for a permissionless model that will take longer to implement. Over time, we plan to open up the auditing process to create a fully permissionless platform."*
+
+More info can be found [on the Snaps FAQ](https://support.metamask.io/hc/en-us/articles/18245938714395)
+
+Users [can now install](https://snaps.metamask.io/) 30+ Snaps across three main categories:
+
+**1)Transaction Insights**
+
+Saferoot, Assets Risk Detection, Forta, Kleros Scout, Threat Intel, Blockfence, Wallet Guard,Tenderly TX Preview
+
+**2) Interoperability**
+
+Solana Wallet, Algorand Wallet, Sui Wallet, UniPass, StarkNet, EthSign Keychain, Tezos Wallet, Leap Cosmos Wallet, Connect by Drift, Vega Protocol, CubeSigner, MinaPortal, Aptos Wallet, Rarime, Cosmos Extension, Identify, Masca, Arweave Wallet, Zion, Partisia Blockchain, ShapeShift Multichain, Sign in with XMTP, Casper Manager
+
+**3) Notifications**
+
+Walletchat.fun, Push V1
+
+&#x200B;
+
+edit: tried to install Forta, failed. Tried to install Arweave wallet, worked flawlessly!
+
+</details>
+<details>
+<summary>u/haurog looks into the future of Gnosis chain</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/16hdwk1/daily_general_discussion_september_13_2023/k0f1jg6/)
+
+Some time ago we had a discussion here about gnosis chain and its future. Today I watched two talks from DAPPCON23 by two gnosis developers/researchers. They seem to look into possibilities of becoming a validium L2 to Ethereum. This is all very exploratory and nothing has been set in stone. As far as I understand they could write checkpoints to Ethereum and keep the validators as is for data availability. This seems to need a lot of more work and especially making it trustless seems to be a bit tricky. The approach they are looking into now seems to be more taxing to the validators as they would need also need to be able to verify the Ethereum chain at the same time. There seems to be some ways around it though. Ethereums future looks quite good to me, everyone thinks about becoming a rollup/L2.
+
+The first talk is by Philippe Schommers and talks generally about [the future of gnosis chain](https://www.youtube.com/watch?v=jtYCkV1LjiU&t=6150s) towards the end he talks about [possibilities of turning gnosis chain into an L2](https://www.youtube.com/watch?v=jtYCkV1LjiU&t=6955s). 
+
+The second talk is by dapplion which describes in [detail the approach they are looking into at the moment](https://www.youtube.com/watch?v=jtYCkV1LjiU&t=14130s). 
+
+I hope the youtube links work as the videos are still streaming youtube seems not to like to link to a timestamp directly. It worked for me.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #34: September 8, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Yepkb7mzaAA) | [POAP Checkout](https://poap.gallery/event/149502)
