@@ -4435,7 +4435,7 @@ All the best,
 <details>
   <summary>Week #21: June 2, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP]([https://checkout.poap.xyz/128337](https://poap.gallery/event/128337))
+[Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP](https://poap.gallery/event/128337)
 
 Guest appearance by Brendan Shakeshaft and Joe Van Loon, founders of [Auditware](https://www.auditwizard.io/). Auditware specializes in performing smart contract audits and building security tooling. Their flagship product Audit Wizard (currently in alpha) is the ultimate web3 security tool, allowing you to audit your smart contracts with ease.
 
@@ -4971,7 +4971,7 @@ Cheers and Big Hugs from GreenPilled City
 <details>
   <summary>Week #19: May 19, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=yo0Mh4TLDXk) | [POAP]([https://checkout.poap.xyz/126878](https://poap.gallery/event/126878))
+[Livestream Recording](https://www.youtube.com/watch?v=yo0Mh4TLDXk) | [POAP](https://poap.gallery/event/126878)
 
 Guest appearance by DCinvestor, an early pioneer in the Ethereum community on Reddit and was a huge part of Ethtrader and Ethfinance. You can find him on Twitter, discussing Ethereum, NFTs, AI & more. <https://twitter.com/iamDCinvestor>
 
@@ -5497,7 +5497,7 @@ That all said, whatever governance token you own please consider usings this wee
 <details>
   <summary>Week #18: May 5, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=6bw1j2qVXoU) | [POAP]([https://checkout.poap.xyz/125267](https://poap.gallery/event/125267))
+[Livestream Recording](https://www.youtube.com/watch?v=6bw1j2qVXoU) | [POAP](https://poap.gallery/event/125267)
 
 **Announcements**
 
@@ -9422,7 +9422,7 @@ edit: formatting; summarizing a little bc the kicker comes at the end of a wall 
   <details>
   <summary>Week #7: February 17, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=bHHAsudu418) | [POAP]([https://checkout.poap.xyz/#/sale/7be0e9ea-d682-4ec3-9f84-bcaa66a8e4a6](https://poap.gallery/event/101860))
+[Livestream Recording](https://www.youtube.com/watch?v=bHHAsudu418) | [POAP](https://poap.gallery/event/101860)
 
 *Special guest VP joins us from [Hexagon](https://twitter.com/HexagonApp), a group born out of Golem project. A new app funding Ethereum infrastructure & public goods projects. Rewards from 100,000 staked ETH are powering a sandbox for governance and community funding experiments. [Read more...](https://docs.hexagonapp.xyz/)*
 
