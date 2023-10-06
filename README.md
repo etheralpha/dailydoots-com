@@ -965,7 +965,7 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/155891)
 
-Guest appearance by James Carnley from [EVM File System (EFS)](https://about.evmfs.eth.limo/), an onchain database allowing trustless access to collaboratively built data and applications.
+Guest appearance by James Carnley from [EVM File System (EFS)](https://about.evmfs.eth.limo/), an onchain database allowing trustless access to collaboratively built data and applications. [View presentation →](https://docs.google.com/presentation/d/1mmwjK5yQcTzIR04e_OfkPBeMoC4MTNlJvp-iiUVgCJo/edit#slide=id.p)
 
 
 <details>
