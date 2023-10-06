@@ -1270,6 +1270,8 @@ Thine ally in the digital voyage.
   <summary>Week #37: September 29, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=29fq4Er075k) | No POAP
+
+[Weekly Doots →](https://reddit.com/r/ethfinance/s/vx6sgCuyR2)
 </details>
 
 
