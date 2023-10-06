@@ -4471,6 +4471,22 @@ Additionally, if you are in EVMavericks discord, we have a security channel. You
 
 
 <details>
+  <summary>Week #24: June 23, 2023</summary>
+
+[Livestream Recording](https://www.youtube.com/watch?v=7a_aZ095wJU) | No POAP
+
+[Weekly Doots →](https://reddit.com/r/ethfinance/comments/14gpcpl/daily_general_discussion_june_23_2023/jp7htcc/)
+</details>
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #23: June 16, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=difDTKT_S5A) | [POAP](https://poap.gallery/event/130577)
