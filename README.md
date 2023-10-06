@@ -3117,6 +3117,23 @@ it really guts me to come here and find myself [getting shit on](https://reddit.
 
 
 <details>
+  <summary>Week #30: August 11, 2023</summary>
+
+[Livestream Recording](https://www.youtube.com/watch?v=JIc7fZw9a44) | No POAP
+
+[Weekly Doots →](https://reddit.com/r/ethfinance/comments/15nz9zj/daily_general_discussion_august_11_2023/jvpmjsr)
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #29: August 4, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=QXLsZG5oGPs) | [POAP](https://poap.gallery/event/146487)
