@@ -963,6 +963,249 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #39: October 13, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/156314)
+
+Guest appearance by Billy Luedtke from [Intuition](https://intuition.systems/), a project that aims to have identity for everything on the blockchain
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/176qwfi/comment/k4o11bm/)
+
+[u/hehechibby](https://reddit.com/u/hehechibby)
+
+> Ethereum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> 0.0576
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> $1539
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/173jl7e/daily_general_discussion_october_9_2023/k46mv1j/)
+
+*Who wants a T-Bill?*
+
+*Why not a savings account?*
+
+*Staking is the thrill.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/176qwfi/comment/k4oi0zx/)
+
+Your daily beacon chain dose.
+
+Active validators: 857,496 (+2,070)
+
+Pending validators: Joining ~500, leaving ~0
+
+* Entry queue -1k from yesterday's number
+* It will take roughly 5 hours for the entry queue to clear
+
+*These figures are based on the entry and exit queue at the time of posting*
+
+This can also be tracked via <https://validatorqueue.com/>
+
+</details>
+<details>
+<summary>Shitpost of the week: u/MinimalGravitas</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1756266/comment/k4ejz5u/)
+
+You need a story before bed Phiz.
+
+
+*To punish Ethereum, Moloch created a woman named TheCommunity, molded to look like the beautiful goddess Aphrodite.*
+
+*Zeus brought her to Earth to be Ethereum's’ wife. He was taken with her beauty and wanted to marry her, despite his developer's warnings of the god's trickery.*
+
+*As a wedding present, Zeus gave TheCommunity a box, telling her never to open it. But as Zeus knew, TheCommunity was degen, she couldn’t stay away from the box and the urge to open it overcame her. Terrible things flew out of the box: centralization, MEV, scams, Bitcoin maxis, disinformation, LSTs, charlatans, and exploits. All of life’s miseries let out into the world.* 
+
+*As quick as she could, TheCommunity slammed the lid of the box back down. The last thing remaining inside of the box was Hope.*
+
+*Ever since, Ethereans have been able to hold onto this hope in order to survive the wickedness that TheCommunity had let out.*
+
+</details>
+<details>
+<summary>u/TheHansGruber shares their last week of validating on the Holesky testnet</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/17098wb/daily_general_discussion_october_5_2023/k3kqc57/)
+
+1 week of holesky testnet operations. 50 thousand genesis validators split across 15 or so giga nerds from the rocketpool discord. I have several thousand running on a Ryzen 5 5560U, 32GB @ 3200, 2TB NVME. CPU is tuned to 25W in the bios. I've got the wattmeter hooked up now and will be monitoring total system usage and see what it averages out to. Goal is to tune as low as possible without borking something. Current usage is about 37w, but it just booted back up and is syncing. Mainnet NUCs are around 15w. Still, kinda crazy to think one could secure $150,000,000 worth of the ethereum network...for 37 watts. It's like...a medium sized solar panel and battery/inverter setup could do this for years. Greenpeace eat your heart out.
+
+Something I didn't consider before operating this node was the time it takes to load keys. It's basically instantaneous with a couple validators. With several thousand it takes 30+ mins. Gotta reboot? It's 30+ mins before everything is kosher again. Ethstats not reporting? A quick eth docker down/up cycle takes 10 seconds. But then 30+ minutes to load the keys. Actually, this makes me think I should try just restarting the execution container instead of the whole shebang and see if that works for ethstats. I am still learning the ins and outs of ethdocker...but it is definitely one of the easiest ways to run a node at home.
+
+Sync aggregation is climbing and nearing 90%. It was hanging out in the 70's last week.
+
+I have started tracking the data usage now as well. With 1.4 million + total validators on the network, rx and tx is way, *way* up. Initial estimates are several TB per month, even with not a lot of activity on the network yet.
+
+Mainnet nodes are around or under 1TB/month, depending on max peers and whatnot. 
+
+Random side note: about an hour ago one of /u/superphiz's validators proposed a 3 eth block....straight to the smoothie pool. Thanks phiz! My non proposing, freeloading minipools appreciate the help.
+
+</details>
+<details>
+<summary>u/Bob-Rossi urges ARB token holders to vote on a slef-interested Lido proposal</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1713or9/daily_general_discussion_october_6_2023/k3s1fgz/)
+
+If you own any ARB, I'd urge you to vote in the LIDO grant proposal - [https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6b89b74c259d2cc5979c46be6cfe2ae20f9485eee728a628f56930db644da985](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6b89b74c259d2cc5979c46be6cfe2ae20f9485eee728a628f56930db644da985)
+
+I know DAO governance isn't very sexy, but it's really just going to take 2 minutes of your time for something I know the majority of this sub feels strongly about. The TL;DR is that Lido is looking to get ARB from one of the grant programs running. They are requesting 4 Million ARB - which is about $3.6 million dollars worth today. Essentially to use it to increase liquidity of the their liquid staking token on the Arbitrum chain. I am voting no (I listed why on the forum, I'd link but it's blocked on Reddit), for reasons I'm sure you can all guess. But I'll also add their request is for 8% of the entire grant program (was 10%, they lowered it after a ton of negative feedback). 
+
+Also, reposting a request from earlier in the week - [here](https://reddit.com/r/ethfinance/comments/16xno81/comment/k34vggy/). Simply wanted to get it at a different time of the day / before the weekend in case it was missed before due to timing.
+
+</details>
+<details>
+<summary>u/mikkeller shares their ETH thesis in a standalone post</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/171xu2i/daily_general_discussion_october_7_2023/k3teyl0/)
+
+Made a long ETH thesis stand alone post, like a once every couple of years post, check it out:  <https://reddit.com/r/ethfinance/comments/171xvd3/how_eth_will_hit_100k_then_1m_why_it_will_and_the/>
+
+</details>
+<details>
+<summary>u/TheCryptosAndBloods asks for comments on a crypto critic's latest release and u/TurboJetMegaChrist makes a fair judgement</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/171xu2i/daily_general_discussion_october_7_2023/k3unrxb/)
+
+[u/TheCryptosAndBloods](https://reddit.com/u/TheCryptosAndBloods):
+
+Has anyone read the new Zeke Faux (Bloomberg reporter) crypto book? Number Go Up?
+
+Judging by the blurb (calling crypto a $3 trillion delusion) and the kind of people praising it on Twitter (lot of mainstream media reporters and anti crypto activists), my tentative feeling is that it’s just a masturbatory fantasy for the “I always knew crypto is scam and I’m glad it’s finally dead” crowd. 
+
+Can anyone tell me if it is actually worth reading, and if it is just a polemic anti crypto rant (fair enough the guy is entitled to his opinions) or if there are actually factual inaccuracies and misleading content?
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/171xu2i/daily_general_discussion_october_7_2023/k3uyrmk/)
+
+[u/TurboJetMegaChrist](https://reddit.com/u/TurboJetMegaChrist):
+
+I listened to Laura Shin interview him.
+
+For what it's worth, he did not sound anything like the mindless critics that point to FTX, Celsius, and 3AC as representative of crypto values.  I think he raises the very real issues that anyone in this daily thread would gladly acknowledge.  The difference is that he thinks they're intractable issues, and we think solving them is inevitable.
+
+</details>
+<details>
+<summary>u/LogrisTheBard describes economic coercive systems</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/172qnoh/daily_general_discussion_october_8_2023/k40w03z/)
+
+I've written several times about [economic coercive systems](https://tokenomicsexplained.com/human-coordination) before. I'm trying to polish a more simple way to introduce this concept and how blockchains help form these systems.
+
+To start with, let's create an evil smart contract whose only goal is to grow the set of participants in it. The only thing we need for this to work is a way of turning money into something universally unpleasant to a target actor. In the simplest case I'll just suggest an assassination contract. Next, we create an evil conspiracy of initial participants to fund this contract. All the contract has to do is target some unlucky sap who isn't in the contract yet, inform them of a pending assassination contract, and tell them to join us or die. Joining us includes streaming money to the contract so that the contract can grow faster. If the target dies, then the ratio of participants to non-participants still marginally increases. Now we run this until everyone remaining is in compliance with the contract rules.
+
+This describes a minimum viable memetic rule system. The penalty obviously doesn't have to be assassination. It just has to be enough that for whomever the current target is, they are incentivized to join according to their objective function. The penalty I describe in my human coordination post is economic isolation rather than assassination.
+
+The initial participants expose themselves to economic pain from the fees they pay to the contract. This is the cost of expanding the size of the network and punishing defection. The value-add of this cost depends on the value of each new participant of the network. Due to [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law) we expect a super-linear value-add for each new participant as the network grows. Therefore, there is critical mass of initial participants required to bootstrap such a solution, but once that is reached the stable equilibrium of the system is to dominate.
+
+Contrast this to networks that tend to fall apart or fail to achieve their goals because there is no leverage against defectors. For example, boycotts fail to work because all the negative consequences are directed at the seller, not at anyone defecting from the boycott. Strikes fail when scabs are brought in whom the strikers have no leverage against. A blockchain solution can have universal leverage because it acts on the unified monetary rail, which is quite unique.
+
+Now, in this simple evil smart contract, there is no inherent value to the network (Metcalf value f(n) = 0). But in economic systems, there is. We can layer other rules into this base memetic rule system that can result in a net positive situation for the initial actors on a long enough horizon. The rules can include things like environmental protection, nuclear disarmament, or UBI.
+
+Once widely adopted, the result is a class of fail-deadly system that punishes both those that disregard the coercive rules and those who don't participate in punishing said defectors. There will always be some players like North Korea who choose to try to go it alone. The goal of an economic coercive system is to try to make them as poor and disconnected as possible to either minimize the harm they can do or compel them to join the coercive network and play by its rules.
+
+Btw, if my evil contract sounds insane, it's basically just taxation + the police that enforce taxation by throwing you in jail instead of killing you. If you say you'd never join such as system, you already *have* joined such a system.
+
+</details>
+<details>
+<summary>u/MinimalGravitas has an important Arbitrum delegate update relating to Lido</summary>
+[View on Reddit →]()
+
+The big Lido incentive funding request on Arbitrum is currently about 2/3 against.
+
+<https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6b89b74c259d2cc5979c46be6cfe2ae20f9485eee728a628f56930db644da985>
+
+Thanks to my delegate [u/bobrossi](https://reddit.com/u/bobrossi) for voting already. Ethereum ecosystem OG Griff Green has voted 'no' as well.
+
+If your delegate hasn't yet voted then get in touch with them. Some of the [biggest delegates](https://www.tally.xyz/gov/arbitrum/delegates) (like L2Beat and Olympio) haven't voted yet, so there is still a chance this gets passed - which would mean 4 million ARB tokens being used to incentivize Lido's LSTs.
+
+Also shout out to [u/hanniabu](https://reddit.com/u/hanniabu) who has probably put the most work into pushing back on this one.
+
+</details>
+<details>
+<summary>u/superphiz outlines his staking values</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/173jl7e/daily_general_discussion_october_9_2023/k47jutf/)
+
+A few days ago I shared [Diva's vampire attack against Lido](https://reddit.com/r/ethfinance/comments/172qnoh/daily_general_discussion_october_8_2023/k3zzk1m/) and someone asked what my incentives were. It got me thinking why people are skeptical of my motives when the things I share seem so obvious to me. It causes me to realize that the criteria I evaluate projects with may not be as clear to everyone as they are to me, and I wanted to de-mystify that by sharing the ways I look at staking projects. I've been developing these ideas since around 2018, so they're old hat to me, but I want you to have the same framework I have.
+
+**Alignment** - Is the product aligned with the success of Ethereum, or is it a "business proposition"? This can be REALLY hard to figure out, but I pretty much listen to the first words out of a project lead's mouth: Are they talking about improving Ethereum or maximizing TVL & profit? The answer to these questions tell whether a project is a public good or a windfall opportunity for investors. I **DO** support investor rewards, but they ought to be within reason, and the ultimate benefactor should be the network and its users.
+
+**Longevity** - I look for projects that have been around long enough to know what they're getting into. This is why I'm a terrible angel investor. Young projects don't have this acumen, and I'm not smart enough to determine whether they'll develop it in time. Longevity is one of the reasons I continue to support Stakewise - they've continued to grow and develop their product over many years.
+
+**Permissionless Node Operation** - This is a HUGE requirement for me. Growth of the Ethereum network requires that as many as people as possible run validators and nodes, and I only support projects who allow any person who is willing to put up a bond, or split a Decentralized Validator Technology (DVT) validator to participate. I believe that successful staking platforms should encourage home node operation and provide multi-client support so that the operator can choose from any consensus or execution client pair.
+
+**Operators must have a stake** - Operators need to have skin in the game, this means that if they're staking for an Liquid Staking Derivative (LSD) they ALSO need to have their own Ether on the line. This is because staking is actually a voting process on the network. If an operator doesn't have any stake, they're getting paid regardless of whether the network thrives or fails, but if they have Ether locked in that validator they're far more likely to make decisions that benefit the network. 
+
+**Self-Limiting** - Any project I get excited about must support a self-limit to 22%. I don't care if they'll never get there, this is basically a commitment to say, "We're going to put the success of Ethereum above all else." 
+
+**Minimal Complexity** - I'm deterred by extreme complexity, and adding complexity increases smart contract risk and lowers the odds that people will figure out how it works. Now, to be honest, some projects APPEAR to be complex because they're doing something new, but they may be doing this in the most simple way possible. I have to confess that if I hear inclusion of an NFT in a staking pool scheme I'm generally turned off due to complexity.
+
+**Fully Trustless** - Staking funds need to be controlled end-to-end by a smart contract, not any form of multisig. This means that when you enter as a permissionless validator, your funds are received and managed by smart contract logic that delegates other people's Ether to you, and when you exit, those Ether need to be returned to a smart contract that distributes them fairly. This process ought to be as transparent as possible. This DOES add REAL smart contract risk, but it's superior to human controlled wallets.
+
+**Open Source** - Staking platforms should release code for public audit and as a public good. Our core values include open source software and we must adhere to this as we grow.
+
+So, yeah. These are my values and the ways I evaluate a staking platform. It's why my list is so short, currently I support Rocket Pool, Diva, and Stakewise v3. You may be right to point out that my high standards have enabled shady operators to expand more quickly than quality operators can proliferate, but if we're going to build a healthy network the community and stakeholders must choose the best providers.
+
+</details>
+<details>
+<summary>u/nixorokish is watching the contentious Arbitrum grants proposal by Lido</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/174d0di/daily_general_discussion_october_10_2023/k4c6tyl/)
+
+dang this dao governance vote is the most contentious i've seen in a while. 
+
+<https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6b89b74c259d2cc5979c46be6cfe2ae20f9485eee728a628f56930db644da985>
+
+Thanks [u/hanniabu](https://reddit.com/u/hanniabu) for making noise about it. i had to go remember if i even have tokens and then had to go check who my delegate was. [u/bob-rossi](https://reddit.com/u/bob-rossi) so, uh, which way you votin? you're my delegate :D
+
+</details>
+<details>
+<summary>u/benido2030 reflects on the last 2 years</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1756266/daily_general_discussion_october_11_2023/k4e0y3l/)
+
+Last cycle peaked in November 21. it’s October 23. almost 2 years. Obviously we didn’t know immediately at that time the top was in, but in the end it’s been 2 years of pain, crab and more pain and more crab. A lot of people have left and I can understand them. 
+
+I don’t know when things will change. I don’t even know what needs to change. If we knew it would be too easy, but we all know it’s not. But I am sure that something will change at some point in the future and those days will be rewarding. 
+
+I guess those who are left here have survived at least one cycle and learned a lot. I was thinking about a „my learnings from last bull run“ post. Are people interested? I would be grateful if some experienced people shared their thoughts and learnings cause we probably all make different mistakes and I think that would help me a lot!
+
+</details>
+<details>
+<summary>u/cheeky-gorilla shares a cool new thing for genesis stakers</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1756266/daily_general_discussion_october_11_2023/k4eh8qd/)
+
+Did you know you can easily prove you're a genesis staker without revealing your associated addresses?
+
+You can see my proofs here, and also generate your own: <https://www.creddd.xyz/user/cheekygorilla0x>
+
+This was developed by Personae Labs as a way to "bring more verified pseudonymity into the world", and to help "onchain actors make use of their clout". 
+
+I.e. demonstrate your qualifications before wading head-first into the spicy LSD debate :P
+
+Check out Personae's Twitter (Nitter) threads on their proof system here:
+
+<https://nitter.net/personae\_labs/status/1705237623093264851>
+
+<https://nitter.net/personae\_labs/status/1711773693289054368>
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #38: October 6, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=-iqGkzdhGgQ) | [POAP Checkout](https://poap.gallery/event/155891)
