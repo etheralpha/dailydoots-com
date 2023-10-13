@@ -963,7 +963,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #38: October 6, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/155891)
+[Livestream Recording](https://www.youtube.com/watch?v=-iqGkzdhGgQ) | [POAP Checkout](https://poap.gallery/event/155891)
 
 Guest appearance by James Carnley from [EVM File System (EFS)](https://about.evmfs.eth.limo/), an onchain database allowing trustless access to collaboratively built data and applications. [View presentation →](https://docs.google.com/presentation/d/1mmwjK5yQcTzIR04e_OfkPBeMoC4MTNlJvp-iiUVgCJo/edit#slide=id.p)
 
