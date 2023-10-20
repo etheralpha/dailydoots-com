@@ -11,47 +11,46 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>934 Dooters - Last Updated October 13, 2023</small>
+<small>935 Dooters - Last Updated October 20, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 127
 . | [logristhebard](https://reddit.com/u/logristhebard) | 84
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 81
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 69
-. | [benido2030](https://reddit.com/u/benido2030) | 67
-. | [696_eth](https://reddit.com/u/696_eth) | 66
-. | [set1less](https://reddit.com/u/set1less) | 62
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 82
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 70
+. | [696_eth](https://reddit.com/u/696_eth) | 67
+. | [set1less](https://reddit.com/u/set1less) | 63
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [syentist](https://reddit.com/u/syentist) | 59
-. | [hanniabu](https://reddit.com/u/hanniabu) | 56
+. | [hanniabu](https://reddit.com/u/hanniabu) | 57
 . | [nixorokish](https://reddit.com/u/nixorokish) | 52
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 51
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 45
 . | [etheraider](https://reddit.com/u/etheraider) | 44
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
-. | [stablecoin](https://reddit.com/u/stablecoin) | 39
+. | [stablecoin](https://reddit.com/u/stablecoin) | 40
+. | [the-a-word](https://reddit.com/u/the-a-word) | 38
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 37
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 37
 . | [alexiskef](https://reddit.com/u/alexiskef) | 36
-. | [the-a-word](https://reddit.com/u/the-a-word) | 36
+. | [spacesider](https://reddit.com/u/spacesider) | 35
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
-. | [spacesider](https://reddit.com/u/spacesider) | 34
+. | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 31
 . | [austonst](https://reddit.com/u/austonst) | 31
+. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 30
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 30
 . | [interweaver](https://reddit.com/u/interweaver) | 30
-. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 29
-. | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 29
+. | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 29
 . | [liberosist](https://reddit.com/u/liberosist) | 29
-. | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 28
-. | [haurog](https://reddit.com/u/haurog) | 28
+. | [haurog](https://reddit.com/u/haurog) | 29
+. | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 27
 . | [bagogel12](https://reddit.com/u/bagogel12) | 27
-. | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 26
 . | [ender985](https://reddit.com/u/ender985) | 26
+. | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
 . | [pa7x1](https://reddit.com/u/pa7x1) | 25
+. | [domotheus](https://reddit.com/u/domotheus) | 25
 . | [phimarhal](https://reddit.com/u/phimarhal) | 24
-. | [domotheus](https://reddit.com/u/domotheus) | 24
-. | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 24
 . | [maswasnos](https://reddit.com/u/maswasnos) | 23
 . | [15kisfud](https://reddit.com/u/15kisfud) | 23
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
@@ -73,7 +72,7 @@ Rank | Username   | Daily Doots
 . | [revanchist1](https://reddit.com/u/revanchist1) | 18
 . | [ethacct](https://reddit.com/u/ethacct) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
-. | [_weboftrust](https://reddit.com/u/_weboftrust) | 17
+. | [_weboftrust](https://reddit.com/u/_weboftrust) | 18
 . | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 17
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
 . | [kingleo23](https://reddit.com/u/kingleo23) | 16
@@ -85,6 +84,7 @@ Rank | Username   | Daily Doots
 . | [barthib](https://reddit.com/u/barthib) | 15
 . | [dreth](https://reddit.com/u/dreth) | 14
 . | [hblask](https://reddit.com/u/hblask) | 14
+. | [vedran_](https://reddit.com/u/vedran_) | 14
 . | [thehighflyer](https://reddit.com/u/thehighflyer) | 14
 . | [teedeepee](https://reddit.com/u/teedeepee) | 14
 . | [sonotyou](https://reddit.com/u/sonotyou) | 14
@@ -96,18 +96,17 @@ Rank | Username   | Daily Doots
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 13
 . | [vvpan](https://reddit.com/u/vvpan) | 13
-. | [vedran_](https://reddit.com/u/vedran_) | 13
 . | [thehansgruber](https://reddit.com/u/thehansgruber) | 13
 . | [skythe4](https://reddit.com/u/skythe4) | 13
 . | [kudeta](https://reddit.com/u/kudeta) | 13
 . | [dashby1](https://reddit.com/u/dashby1) | 13
+. | [abcoathup](https://reddit.com/u/abcoathup) | 12
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 12
 . | [unitedterror](https://reddit.com/u/unitedterror) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
 . | [etherbie](https://reddit.com/u/etherbie) | 12
 . | [2peg2city](https://reddit.com/u/2peg2city) | 12
-. | [abcoathup](https://reddit.com/u/abcoathup) | 11
 . | [mrs_willy](https://reddit.com/u/mrs_willy) | 11
 . | [odds-bodkins](https://reddit.com/u/odds-bodkins) | 11
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
@@ -161,6 +160,7 @@ Rank | Username   | Daily Doots
 . | [steven_a_mma_goat](https://reddit.com/u/steven_a_mma_goat) | 7
 . | [stalslagga](https://reddit.com/u/stalslagga) | 7
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 7
+. | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 7
 . | [shiftli](https://reddit.com/u/shiftli) | 7
 . | [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
 . | [proof-of-lake](https://reddit.com/u/proof-of-lake) | 7
@@ -178,7 +178,6 @@ Rank | Username   | Daily Doots
 . | [childsp](https://reddit.com/u/childsp) | 7
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
 . | [thenextbestguess](https://reddit.com/u/thenextbestguess) | 6
-. | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 6
 . | [sal_t_nuts](https://reddit.com/u/sal_t_nuts) | 6
 . | [pudgypeng](https://reddit.com/u/pudgypeng) | 6
 . | [nefariousnaz](https://reddit.com/u/nefariousnaz) | 6
@@ -260,6 +259,7 @@ Rank | Username   | Daily Doots
 . | [hocilef](https://reddit.com/u/hocilef) | 4
 . | [gethwethreth](https://reddit.com/u/gethwethreth) | 4
 . | [friedchickentrailer](https://reddit.com/u/friedchickentrailer) | 4
+. | [frenkthetank](https://reddit.com/u/frenkthetank) | 4
 . | [fiberpunk2077](https://reddit.com/u/fiberpunk2077) | 4
 . | [epiphany153](https://reddit.com/u/epiphany153) | 4
 . | [epic_trader](https://reddit.com/u/epic_trader) | 4
@@ -317,7 +317,6 @@ Rank | Username   | Daily Doots
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 3
 . | [gumbeat007](https://reddit.com/u/gumbeat007) | 3
 . | [general_illus](https://reddit.com/u/general_illus) | 3
-. | [frenkthetank](https://reddit.com/u/frenkthetank) | 3
 . | [fiah84](https://reddit.com/u/fiah84) | 3
 . | [fheredin](https://reddit.com/u/fheredin) | 3
 . | [ethnocent](https://reddit.com/u/ethnocent) | 3
@@ -343,9 +342,10 @@ Rank | Username   | Daily Doots
 . | [anderspatriksvensson](https://reddit.com/u/anderspatriksvensson) | 3
 . | [16withscars](https://reddit.com/u/16withscars) | 3
 . | [brambrameth](https://reddit.com/u/brambrameth) | 2
+. | [evanvanness](https://reddit.com/u/evanvanness) | 2
 . | [moderatelytortoise](https://reddit.com/u/moderatelytortoise) | 2
 . | [zestykite](https://reddit.com/u/zestykite) | 2
-. | [zerotrickS](https://reddit.com/u/zerotrickS) | 2
+. | [zerotricks](https://reddit.com/u/zerotricks) | 2
 . | [yourburningpizza](https://reddit.com/u/yourburningpizza) | 2
 . | [yareane](https://reddit.com/u/yareane) | 2
 . | [yadude11](https://reddit.com/u/yadude11) | 2
@@ -400,6 +400,7 @@ Rank | Username   | Daily Doots
 . | [old_world9768](https://reddit.com/u/old_world9768) | 2
 . | [o-_l_-o](https://reddit.com/u/o-_l_-o) | 2
 . | [nothingnotnever](https://reddit.com/u/nothingnotnever) | 2
+. | [nomadic8893](https://reddit.com/u/nomadic8893) | 2
 . | [nomad-nuance](https://reddit.com/u/nomad-nuance) | 2
 . | [newtosh](https://reddit.com/u/newtosh) | 2
 . | [namtaru_x](https://reddit.com/u/namtaru_x) | 2
@@ -422,6 +423,7 @@ Rank | Username   | Daily Doots
 . | [kscoleman](https://reddit.com/u/kscoleman) | 2
 . | [koratickle](https://reddit.com/u/koratickle) | 2
 . | [kenzi28](https://reddit.com/u/kenzi28) | 2
+. | [juankestein](https://reddit.com/u/juankestein) | 2
 . | [jjohncs1v](https://reddit.com/u/jjohncs1v) | 2
 . | [jimyxx](https://reddit.com/u/jimyxx) | 2
 . | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 2
@@ -661,7 +663,6 @@ Rank | Username   | Daily Doots
 . | [nomorealcohol2017](https://reddit.com/u/nomorealcohol2017) | 1
 . | [nomakoa](https://reddit.com/u/nomakoa) | 1
 . | [nomadic8893-](https://reddit.com/u/nomadic8893-) | 1
-. | [nomadic8893](https://reddit.com/u/nomadic8893) | 1
 . | [nodesinformatziya](https://reddit.com/u/nodesinformatziya) | 1
 . | [no_speaker8945](https://reddit.com/u/no_speaker8945) | 1
 . | [no_operation1906](https://reddit.com/u/no_operation1906) | 1
@@ -722,7 +723,6 @@ Rank | Username   | Daily Doots
 . | [kaisermerkle](https://reddit.com/u/kaisermerkle) | 1
 . | [juxtaposezen](https://reddit.com/u/juxtaposezen) | 1
 . | [juustosuikero](https://reddit.com/u/juustosuikero) | 1
-. | [juankestein](https://reddit.com/u/juankestein) | 1
 . | [jrmrx](https://reddit.com/u/jrmrx) | 1
 . | [joskye](https://reddit.com/u/joskye) | 1
 . | [joshuawakefield](https://reddit.com/u/joshuawakefield) | 1
@@ -949,6 +949,7 @@ Rank | Username   | Daily Doots
 . | [0661](https://reddit.com/u/0661) | 1
 . | [-darkknight](https://reddit.com/u/-darkknight) | 1
 . | [---truthseeker---](https://reddit.com/u/---truthseeker---) | 1
+. | [benido2030](https://reddit.com/u/benido2030) | 71
 
 
 
@@ -959,6 +960,567 @@ Rank | Username   | Daily Doots
 
 
 # Weekly Doots
+
+
+
+<details>
+  <summary>Week #40: October 20, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/156799)
+
+Guest appearance by Greg Di Prisco, Co-Founder of [Ajna](https://ajna.finance/), a noncustodialand permissionless lending protocol that requires no governance or external price feeds.
+
+**Announcements**
+
+- If you have participated in the KZG ceremony you can get your POAP here: <https://checkout.poap.xyz/151249>
+- 
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/17c390i/comment/k5nfeqp/)
+
+[u/hehechibby](https://reddit.com/u/hehechibby)
+
+> Ethereum
+
+[u/5quat](https://reddit.com/u/5quat)
+
+> $1584
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.054
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1788062/comment/k50h35w/)
+
+*Warping not bridging,*
+
+*EVM is not judging,*
+
+*Just network switching.*
+
+</details>
+<details>
+<summary>The Queue: u/Spacesider</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/177hut9/comment/k4tj19y/)
+
+Your daily beacon chain dose.
+
+Active validators: 860,027 (+2,531)
+
+Pending validators: **Joining 0, leaving 0**
+
+* Entry queue -500 from yesterday's number
+
+--------
+
+[Since I have started tracking this](https://reddit.com/r/ethfinance/comments/13ivi8v/daily_general_discussion_may_16_2023/jkcpnrw/)
+
+151 days have passed
+
+The amount of active validators has increased from 572,820 to 860,027 (+287,207)
+
+The amount of staked ether has increased from 18,330,053 to 27,520,638 (+9,190,585)
+
+Which is around 14,228,587,979$ in USD value using today's Ethereum price.
+
+</details>
+<details>
+<summary>Shitpost of the week: u/superphiz</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/17bb5od/comment/k5japww/)
+
+Making a pilgrimage to see the burial site of our beloved, Gary the Cow today.
+
+Edit: [I arrived!](https://ibb.co/ChC7t3z)
+
+![](https://ibb.co/ChC7t3z)
+
+</details>
+<details>
+<summary>u/MinimalGravitas has some thoughts after the community pushback against Lido's Arbitrum DAO proposal</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/176qwfi/daily_general_discussion_october_13_2023/k4pcsll/)
+
+Thoughts on the victory over Lido in Arbitrum's STIP round (apologies for a bit of a brain dump):
+
+**1) Today** - We should celebrate, be grateful and allow ourselves the happy vibes of the 'good' side winning. We've won a battle, but as I said [a couple of weeks ago](https://reddit.com/r/ethfinance/comments/16v2i2p/daily_general_discussion_september_29_2023/k2p3xc3/) this is going to be a long war. One of the best ways to build resilience to keep grinding is to pay attention to the rewards your brain gives you when you win. 
+
+**2) Tomorrow** - If you harassed a delegate to get them to vote, or to change their vote or whatever then reach back out to them over the next few days. Everyone likes it when you say thanks, and everyone prefers it when they don't feel like you forget about them after you've got what you wanted.
+
+If delegates voted no after you messaged them, or even if no one contacted them then why not message them to suggest they take a look in EthFinance of Reddit? Sales teams and political lobbying groups take people out to dinner to keep them on side, maybe our equivalent to that would be inviting delegates here... I honestly think that The Daily is a more valuable Ethereum community than any Discord or Telegram group, so why not leverage some of that value to buy goodwill from DAO delegates who have shown themselves to be at least somewhat aligned to the cause of protecting Ethereum L1.
+
+**3) Next Week** - With Lido losing here, being vampire attacked, and the threat they pose being discussed in multiple Ethereum podcasts recently it's a good time to press the advantage. Up the 'social pressure' (which it turns out can be quite useful after all) by calling out their attempts at spin and damage control. u/hanniabu has set a great example of doing this. Their representative who proposed the Arbitrum request was on Twitter claiming the results were 'razor tight', so don't let them control the narrative.
+
+In a dogfight one of the ways you beat an opponent is by overwhelming their Cognitive Load, give them too many things to think about to be able to effectively counter all of them. Lido have a lot to think about at the moment so we'd be throwing away an advantage if we let the pressure up too much.
+
+**4) The Future** - We need to get more coordinated. We've got delegates in lots of DAOs but can we find more? Can we start compiling resources of delegates that might not be part of EthFinance but can be relied upon to recognize the threat Lido represents if they come knocking for funds and integrations? Can we start predicting where they might go next and reach out to delegates in other DAOs before any decisions even get put to them?
+
+u/_WebOfTrust has discussed the possibility of changes to constitutions that would prevent these kinds of funding requests for Lido even coming to the proposal stage, what would that look like and what DAO's might take it up?
+
+How can we keep respected Ethereum media discussing this? Obviously some members (like u/EvanVanNess) are already working on that, I'm sure we can try to keep the focus on for some others too. The Bankless guys used to frequent here sometimes and have had a recent episode with Danny Ryan as well as promoted Diva's Vampire attack, lets praise and promote those positive actions to encourage them to do more.
+
+We need to get to grips with how important votes in the ecosystem work, before the final day of their decisions - it was pretty funny the number of different interpretations as to how Arbitrum's pass/fail was decided, I certainly didn't understand it until yesterday evening. It worked out fine this time, but we can learn from that and do better next time.
+
+Because there will be a next time. Ultimately I believe that competition from other staking protocols is going to be the solution to getting Lido below 22%, but that won't happen quickly, and Lido will fight hard to grow as much as they can before other options can catch up. The social layer is not the long term way to get this fixed, but is is a tool we have now and may be the best we have to defend our network for the near future - so lets learn from this victory and hone the abilities we have so that we can hold the line and push back for as long as we need to. I've never felt more optimistic that it's possible for us to do so.
+
+</details>
+<details>
+<summary>u/Tricky_Troll adjusts the personal reputations of delegators</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/176qwfi/daily_general_discussion_october_13_2023/k4o925a/)
+
+Governance token holders everywhere, particularly ARB holders or even OP and other governance token holders who delegate — now is a good time to ask yourself if you are happy with who you have delegated your tokens to. After [the recent Lido ARB proposal,](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x6b89b74c259d2cc5979c46be6cfe2ae20f9485eee728a628f56930db644da985) some names I once knew have either gone up or down in my personal reputation. It may be worth checking all protocols which you delegate your tokens on and check your delegate's track record and change or speak up if necessary.
+
+Changes of who I see as reputable.
+
+**Reputation gain: +++**
+
+- L2Beat
+
+-  Griff Green
+
+- David Mihal
+
+- u/Bob-Rossi (like he isn't already top tier)
+
+- Basically all of the University blockchain clubs (Princeton, Cornell, Michigan)
+
+**Reputation Loss: ---**
+
+- ChainLinkGod
+
+-  Galxe
+
+Name and shame/praise baby. Who'd I miss?
+
+</details>
+<details>
+<summary>u/RooftopPortaPotty updates us on their project PreservationDAO</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/176qwfi/daily_general_discussion_october_13_2023/k4ptloq/)
+
+Piggybacking on all the recent discussions regarding DAOs here, I aim to provide another perspective.
+
+Two years ago I resolved to, along with the invaluable work of other ethfinanciers, launch PreservationDAO. Our aim is to preserve habitat by purchasing land of significant ecological value using funds generated by on-chain donations.
+
+The landscape of Ethereum has obviously changed drastically since then, but our ideas and general plans were compiled by the great /u/haurog, and can be found at https://github.com/preservationdao/preservationdao.
+
+We were quickly met with a wide array of challenges and obstacles. Some of these issues have likely been solved to some extent by this point.
+
+I will assume that any interested members have read the linked github page. The following will be an attempt to address some of these challenges, and to detail solutions where available.
+
+1. I personally lacked the funds necessary to get this project off the ground. Unfortunately, this has not changed.
+
+2. We felt it wrong to launch an environmentally-oriented project on a proof of work chain. Post-merge, this is a non-issue. However, we may still want to choose a L2 to avoid high gas fees.
+
+3. I spent quite a long time trying to find an appropriate law firm to help create a land-owning, on-chain, 501 (c) (3) organization, to no avail.
+
+4. Ensuring that the meatspace treasury has no ability to embezzle funds is paramount, and I dont see a clear solution.
+
+5. With a non-transferable ERC-20(or NFT?) that is distributed to donators, who may then vote for lands to purchase, how do we mitigate sybil attacks?
+
+6. Ensuring that qualified contributors are able to make their donations tax-exempt is a priority. This project must not be limited to properties within the US.
+
+7. What assets should we accept as donations? There are many downsides to market selling ETH in order to purchase property.
+
+I implore any interested ethfinanciers to contribute in any way possible.
+
+I would love to see this comment receive significant traction. Otherwise, PreservationDAO can be re-shelved until we have a clear path to success laid out.
+
+</details>
+<details>
+<summary>u/696_eth shares the potential that JP Morgan sees in this space</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/177hut9/daily_general_discussion_october_14_2023/k4tbe6i/)
+
+[Original source](https://www.jpmorgan.com/onyx/content-hub/digital-identity-in-web3.htm)
+
+---
+
+**JP Morgan Onyx on Digital Identity in Web3**
+
+They have a video and are doing a 4-article series.
+
+The first one - **The Big Shift** - was released back in 2022.
+
+Let's see what they understand.
+
+*New web - new rules.*
+
+New verification methods that are more secure, trustworthy and easier to use.
+
+Prior to the blockchain and even so far, the digital online world has been copying the physical world leading to many issues around identity pieces:
+
+• unsecured communication
+
+• inefficient and dangerous practices
+
+• stolen identities
+
+• much more
+
+Web3 - introduces new possibilities.
+
+They clearly understand how web1 changed the world through e-commerce and how web2 sparked innovation through the rise of social networks and user-generated content.
+
+What about web3? It brings the pieces of:
+
+**Decentralized system:**
+
+• Digital ownership of your data
+
+• Ownership of your assets
+
+• Flips the relationship between companies and users 
+
+& many more possibilities
+
+• Adds more cross-platform utility 
+
+• Adds provenance
+
+• Adds immutability
+
+That means **web3** can bring another magnitude of **innovation**:
+
+• Streamlining online business models (less friction for users)
+
+• Saving time (reduce verification times)
+
+• Making proving easier, more secure and private
+
+• Reducing costs and unlocking more liquidity (faster and transparent public services)
+
+For all of that to work we need to Update our Digital Identity.
+
+That's where **Decentralized Digital Identity** comes with a range of benefits:
+
+• Sovereignty (you have control and choice of your data)
+
+• Security (no points of failure)
+
+• Immutable and irrefutable (highly trustworthy information)
+
+While all of that sounds good, it's a very complex challenge to bring all the pieces together.
+
+This leads us to their second article - **Assessing Web3's Identity Building Blocks** - was published sometime in 2023.
+
+First of all, they are reiterating their points from the first article.
+
+But now they are getting a bit more specific and tangible.
+
+Starting with an overview of the digital identity landscape and highlighting 4 essential building blocks.
+
+1. **Identifiers** aka everyday tags:
+
+• Names
+
+• Email addresses
+
+• Accounts numbers
+
+• Social handles
+
+& many more
+
+Web3 ones are:
+
+--- *Ethereum Naming Service (ENS)*
+
+• Turns 42-character Ethereum public address into a human-readable name
+
+• Represents multifaceted identity
+
+• Includes a variety of blockchains
+
+• Utilizes offchain information
+
+• Includes website URLs (domains)
+
+• All other identifiers
+
+All of that is in one name!
+
+--- &Lens handle*
+
+• A user profile on the social graph of Lenster, Lenstube, etc
+
+--- *Other naming services as identifiers (Unstoppable Domains and others)*
+
+DIDs (Decentralized identifiers) are fundamental blocks of the self-sovereign identity (SSI):
+
+• uniqueness (no confusion) 
+
+• provability (proof of ownership)
+
+• portability (owned by an owner and cannot be deleted, cross-platform usage)
+
+It's just a sneak peek and more is coming in the next article!
+
+
+2. **Identity attributes** (attestations of facts or data points):
+
+Examples:
+
+*Proof of Humanity (PoH)* - Ethereum-based social identity verification system
+
+*Soulbound tokens (SBT)* - public, permanent, non-transferable NFTs that can represent a person's digital identity attributes onchain. 
+
+*Verifiable Credentials (VCs)* - A W3C data model for sharing and verifying identity credentials that can be stored offchain allowing for privacy and scalability.
+
+3. **Reputation**
+
+It is a key part of one's identity and makes us who we are.
+
+*POAP (Proof of Attendance Protocol)* is a notable example of this.
+
+4. **Digital collectibles and assets**
+
+NFTs contributing to one's identity:
+
+• profile pictures (PFPs)
+
+• digital art
+
+• in-game items
+
+• membership NFTs
+
+& more
+
+Digital Identity can bring all the pieces together.
+
+To gain scale and mass adoption, it's crucial for wallets to enable a seamless building of one's digital identity.
+
+Account Abstraction (AA) solves some of those challenges. 
+
+Combining 4 of the essential blocks (Identifiers, Identity attributes, Reputation, and Digital collectibles & assets) with one another, can form a holistic identity.
+
+Onyx's experience with Decentralized Digital Identity:
+
+• observing the DID space from 2017
+
+• identified use cases
+
+• built concept solutions
+
+• explored digital identity for institutions on public blockchains and experimented with VC and DID technology through a collaboration with *the Monetary Authority of Singapore and SBI Digital Asset Holdings*
+
+• remain open-minded and continue exploring other methodologies for a variety of use cases
+
+The conclusion of this article leads back to their digital identity part of the site.
+
+They have a range of documents on other web3 and crypto-related topics.
+
+It is obvious, that they are not thinking about Digital Identity in isolation as they are aware of nuance niches within web3 such as metaverse, DeFi, and even real-world assets.
+
+They clearly articulate how it can be helpful for:
+
+• online interactions (ownership, portability, security)
+
+• creators (by moving platforms) 
+
+• gamers (asset-interoperability)
+
+• real-world applications
+
+In navigating the rich space of Web3, JP Morgan Onyx lays a strong emphasis on the transformative **power of Decentralized Digital Identity**. Their explorations highlight the potential that comes with blending digital identity with emerging tech realms like metaverse, DeFi, GameFi, SocialFi and the tangible world itself.
+
+**What else do you already see that JP Morgan Onyx still doesn't?**
+
+</details>
+<details>
+<summary>u/benido2030 and u/Juankestein share their biggest learnings about investing and their resulting strategy</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1788062/daily_general_discussion_october_15_2023/k4zfsz7/)
+
+[u/benido2030](https://reddit.com/u/benido2030):
+
+This is one of my biggest learnings: it’s so easy to spend ETH in a bull market. So many cool narratives. So many people making a quick buck. 
+
+And to be fair: you should be experimenting because that’s how you learn. But you should also keep in mind that every buy diminishes your ETH stack. Your long term bet. The asset that will not go to zero next bear. 
+
+So I think a budget for experiments works well. Don’t spend more than the budget and you’re good.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1788062/daily_general_discussion_october_15_2023/k507q64/)
+
+[u/Juankestein](https://reddit.com/u/Juankestein):
+
+Around 3 years ago I realized this. EVERYONE wants your BTC and ETH.
+
+* ICOs wanted your ETH
+* Scammers want your ETH
+* Exchanges have BTC and ETH reserves
+* Lending platforms stake your ETH
+* DEXs want your ETH liquidity
+
+Just hold BTC and ETH and forget about it, that's probably the most boring strategy but also the most rewarding and less stressful...
+
+My Plan for 2025 is to convert all the 2017 and 2021 shitcoins into BTC, ETH, USDC and maybe another token I want to bet on.
+
+</details>
+<details>
+<summary>u/benido2030 wants to make EthFinance a governance powerhouse</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/178y9gp/daily_general_discussion_october_16_2023/k53tnhe/)
+
+**Let’s make ETH Finance a governance powerhouse**
+
+In the light of the lido threat and their ARB request this community has shown a brilliant reaction. The topic was heavily discussed, delegates coordinated and a lot of great posts have been made. u/minimalgravitas made this post last week and I would like to add some thoughts with regards to “The Future” since I completely agree that we need to coordinate even more than ever before.
+
+**Some assumptions before I start outlining my thoughts**
+
+* This community has a lot of smart and thoughtful people
+* This community cares about ETH’s values and has developed a strong sense of community and belonging over years
+* We have existing infrastructure to coordinate, which is a strong foundation (happens to be reddit right now, but could be something off reddit as well)
+* This community owns sizeable stacks of governance token (mostly airdropped, some bought on the open market)\*
+* We shouldn’t focus on lido, but be agnostic to be able to respond to all threats Ethereum is and will be facing in the future
+
+So how can we coordinate more/ better to become a governance powerhouse? I think we need to be structured and prepared beforehand. I also think that for now (let’s call it “phase one”) we should also limit ourselves to the current community. Still this will be a huge change and will probably need people dedicating a good amount of time to make things happen.
+
+**Step 1: Analysis/ Identification:**
+
+This step needs to be done both internally and externally. These steps should happen regularly to be prepared for e.g. an airdrop, possibly every 3 to 6 months (tbd), but potentially also ad-hoc.Internally: We need to understand our members strengths, interests and availability. Some questions I would ask to identify potential delegates: Who is capable of representing ETH Finance as a delegate? Is the member focussed on a certain topic/ category? Is the member a delegate already? Is the member free and willing to work as a delegate? I think people should both be able to suggest other members, but also apply as a delegate.Externally: We need to understand which protocols / categories of protocols are critical to ETHs health, both direct and indirect. Direct in this case means e.g. relevant for ETH’s security and / or decentralization. Indirect could mean because of a large treasury and its economic power.So let me give you an example:I think the EigenLayer airdrop will happen at one point in time in the future. Let’s assume the token is a governance token. A lot of smart people see Restaking as a potential threat to Ethereum's security. Hence I think we should try to make sure there is (at least!) one community delegate for EigenLayer.We should identify capable and willing members now to make sure once the airdrop happens we can act fast. Personal opinion to make it even more concrete: I would suggest u/hanniabu for EigenLayer delegate because I believe restaking is critical and believe that they have proven themself in the past couple of weeks both on reddit, but also on twitter.Best case we can identify up to 3 delegates per critical protocol so that we can act fast. Down the road we would basically have a table that serves as an overview of potential delegates per category.
+
+Example:
+
+* L2s: Member X, Member Y
+* Defi: Member Z
+* (Re)Staking: Member A, Member B
+* NFTs: Member C
+* Infrastructure: Member D, Member E
+
+**Step 2: Coordination and delegation**
+
+This step will usually be helpful after a token launch/ airdrop. It basically formalizes step 1.After a token launch announcement we try to understand our “power”, so try to get a feeling for our power by estimating our token allocation (this will be fun, cause it will be so hard to estimate lurkers and their allocations). Based on this we agree on a number of delegates.After that we ask the potential candidates if they are still interested and confirm 1-x “official” delegates. The process? To be defined! Most likely via reddit, maybe an extra post? The daily?Important: obviously everyone is still free to run as a delegate even if they are not the “official” community delegate. Also everyone is still free to delegate to a completely different delegate. We can’t tell people to not run as a delegate and we can’t force people to delegate to the community’s candidate.From my point of view the goal of this step is to delegate as many tokens as possible to the “official” candidate to make sure our representatives have power. I think it’s better to have 3 candidates with 1M tokens each than to have 30 candidates with 100k tokens (or even less because people choose external candidates).But why would you do that? This is where step 3 comes in:
+
+**Step 3: Collecting feedback**
+
+I think we have a big advantage over other delegates: We can crowdsource feedback. Or in other words your delegates will usually understand your position (because you post it or upvote those comments that summarize your position in the best way possible) and will best case act based on the feedback.So what should the process look like? I think there are two possible ways.Delegate driven: The delegate will usually be aware of important topics, discussions and votes. They could either publish their position on a certain topic in the daily or they could ask for feedback if they have no idea/ position yet. I think this is the best scenario, but this might not work all the time. Delegates might not see a certain vote as critical as the community, might not have enough time to check all discussions proactively etc.Community driven: So the community members could tag the delegate to express their view on a certain issue. I think this has already worked pretty well the past couple of weeks and is already part of the community DNA.Based on the feedback the delegate forms their opinion and votes. Important: The delegate is of course (?) free to make the decision they think is best. The community feedback is a suggestion on how to vote, but not binding. If people are unhappy with the delegate they are free to redelegate (see step 5).
+
+**Step 4: Reporting**
+
+I think it would be beautiful if there was some kind of “reporting” back to the community. This could be a summary of the votes of the past, feedback the delegate got in the process (cause the delegate will likely be in touch with other delegates), information about other delegates that have a similar stance as we are and generally things the delegate thinks are important.The goal would be to learn what delegates have learned and allow for some “behind the scenes” for interested members. This reporting could be a written report, but maybe some delegates would also be open to join the weekly EVM meeting in Discord.
+
+**Step 5: Evaluation and (re)delegation**
+
+The last step is evaluating the delegate’s actions and potentially redelegation. In a best case scenario the evaluation just results in… nothing. People are happy, feel that the delegate did a great job and represented this community well. But we obviously have to accept that this won’t be true all the time. Redelegation could happen if a member goes inactive, votes/acts against the community's values/ interest, etc.To be honest I don’t know how often this should be done, maybe once a year and whenever there are big decisions? In the end this is what some members have been documenting the past couple of days with external delegates and changes in reputation.
+
+</details>
+<details>
+<summary>u/_WebOfTrust shares Vitalik's message to those watching his every action</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/179qkqi/daily_general_discussion_october_17_2023/k5atwgw/)
+
+"Regular reminder:  
+If you see an article saying "Vitalik sends XXX ETH to \[exchange\]", it's not actually me selling, it's almost always me donating to some charity or nonprofit or other project, and the recipient selling because, well, they have to cover expenses.  
+I haven't "sold" ETH for personal gain since 2018."
+
+[https://warpcast.com/vitalik.eth/0xb8ccf84d](https://warpcast.com/vitalik.eth/0xb8ccf84d)
+
+&#x200B;
+
+Mad respect for Vitalik,  all the onchain alert on twitter of him selling and causing panic while its all just donation to charity.
+
+</details>
+<details>
+<summary>u/hanniabu has a call to action</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/179qkqi/daily_general_discussion_october_17_2023/k5ajj26/)
+
+Time to promote decentralized LSTs to be added to Eigen Layer next[https://twitter.com/eigenlayer/status/1714331518775279990](https://twitter.com/eigenlayer/status/1714331518775279990)
+
+>Here is how you can get involved:
+
+1. A snapshot of all LST holders listed above, any that get added, and current Restakers will be taken on Oct 20th.
+2. Each wallet gets 1 vote for every $USD worth of tokens staked.
+3. LST teams will showcase their merits, declare pre-commitments, and campaign over the next week.
+4. LSTs that accumulate more than 15k ETH in votes will be added to EigenLayer for restaking in the subsequent months, added by the number of votes from highest to lowest.Key Dates:🫰Snapshot: Oct 20th📝 Submissions by LSTs: Oct 20th-25th🗳️ Voting by LST holders: Oct 25th - Nov 1
+
+LSTs currently included and whether they are decentralized or not:
+
+* wBETH (no)
+* sfrxETH (no)
+* **SETH2 (yes wen v3)**
+* swETH (no)
+* AnkrETH (mixed)
+* LsETH (no)
+* mevETH (no)
+* EthX (mixed)
+* vETH (unsure)
+* oETH (mixed, index)
+
+It seems the one we should support the most is Stakewise's SETH2, so if anyone has that you should set a reminder to vote starting October 25th. Unfortunately there's only a supply of 85k ETH since their old v2 implementation has been paused, so there's limited voting power.
+
+But the good thing is that you can also vote if you have any ETH restaked. I've reached out to Diva to petition for their inclusion.
+
+\---
+
+Edit:
+
+[https://twitter.com/eigenlayer/status/1714331527025476017](https://twitter.com/eigenlayer/status/1714331527025476017)
+
+> As for voting - you decide the stage! Decide on which L2 the competition should take place. Cast your vote now!🗳️ Deadline: October 20th before the contest launches.
+
+Current poll results:
+
+Base - 34.2% | Arbitrum  - 54.9% | Polygon - 7.5% | Mantle - 3.4%
+
+</details>
+<details>
+<summary>u/TheCryptosAndBloods calls out Uniswap for their recent bold move</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/179qkqi/daily_general_discussion_october_17_2023/k59qb89/)
+
+Have we done the new UNI fee stuff?
+
+How Uniswap Labs (the VC funded company) is adding a 0.15% fee to the (primary) frontend it controls, as well as their wallet app? It's 3x the long awaited fee switch for UNI token holders, going entirely to benefit the company. 
+
+And they have announced it the day after they pushed through a vote approving $50 million in funding (by dumping the UNI token) for the Labs company by the Uniswap Foundation/DAO - with zero explanation of what it is for or what it'll be used for - just an opaque ($46 million for 2 years please - we'll use it well, pretty please). 
+
+It's just incredibly brazen. Uniswap is a fantastic product but my god the incentive misalignment between the team and VCs (who want to drive value to the company equity which they own more of and which has fewer regulatory hassles) and token holders is crazy (team and VCs also own a ton of UNI of course but they own more of the company and would prefer to monetize the company, especially since it doesn't have regulatory hassles for them like the token - BUT, they will use their voting power to block any attempts to turn the fee switch on for UNI holders, to avoid aforesaid regulatory hassles for them - all while disingenuously talking about how UNI holders can vote to turn on the fee switch if they want). 
+
+Why do people hold UNI anymore after the relentless screwing of token holders by the team/VCs/company?
+
+Like I said - Uniswap is a great product but the team/VC/founders leave awful taste in the mouth with their greed and screwing of token holders. Also there were some very unpleasant allegations about Hayden screwing over early investors and people who helped him bootstrap and not giving them the equity they were promised etc last year - think there was a long Twitter thread by Ric Burton? I think I need to emphasize that we only heard Ric Burton's side of the story and every story has two sides, but it all sounded quite plausible and in line with the kind of ethos that Uniswap Labs has now..
+
+</details>
+<details>
+<summary>u/superphiz self-examines Ethereum's current situation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/17aimuj/daily_general_discussion_october_18_2023/k5drhi1/)
+
+Self-examination is critical for long term success. Everyone has been in the dumps about the ratio, but instead of lamenting it we ought to be asking what we can do to improve Ethereum. 
+
+Maybe it's not our fault. Doesn't matter. 
+
+Maybe bitcoin just had the first mover advantage. Doesn't matter. 
+
+Maybe the value is flowing into bitcoin because they'll have the first spot etf. Doesn't matter.
+
+What DOES matter is what the Ethereum community and developers are doing in the face of that. Ethereum is 10x more technically sound than bitcoin, so what can we do to stop suffering through the leak?
+
+We can celebrate our victories and focus on the path forward. 
+
+* The social layer has shown [incredible resilience](https://twitter.com/lidodominance) in the face of a centralizing LSD. 
+
+* Our L2 capacity strategy is [really paying off](https://milkroad.com/layer-2/) with a rich garden of successful L2 chains like arbitrum, optimism, polygon, zksync, base.. all of which are developing their own ecosystems that feed growth back to Ethereum.
+
+* We have quickly moved on from the success of the merge, but let me remind you that we hotswapped our consensus mechanism to improve the operation of the network AND we [reduced energy consumption by 99.99%](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/ethereum-s-99-cut-in-energy-use-will-curb-crypto-s-climate-footprint-72145342). We ought to be writing this with sharpie markers in every bathroom stall in the world.
+
+* The [EIP 1559 fee burn mechanism](https://ultrasound.money/) is a complete success. Sure, we're not ultrasound _right now_ but that burned Ether is gone forever and the exercise in implementing EIP 1559 solidified our ability to develop and improve sound monetary policy.
+
+* WE are the chain of innovation and new growth. Practically everything new that's happening is happening on Ethereum. The [Eth killers have all passed away](https://cryptofees.info/) and bitcoin doesn't have the technical ability to do the things that a smart contract platform can do.
+
+* We're [slowly moving closer to a US legal framework](https://www.thomsonreuters.com/en-us/posts/investigation-fraud-and-risk/crypto-regulation/) that supports the foundations of cryptocurrency. I acknowledge that it's slow af, but it's definitely moving in a favorable direction.
+
+Now. What are you celebrating? What have I missed? What can we do better? THESE are the questions we need to ask as we accept agency over our current situation.
+
+</details>
+</details>
+
+
+
+
+
+
+
 
 
 
