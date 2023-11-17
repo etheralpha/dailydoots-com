@@ -970,6 +970,277 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #43: November 17, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/159203)
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/17x8g4p/comment/k9lxj9s/)
+
+[u/the-A-word](https://reddit.com/u/the-A-word)
+
+> Ethereum
+
+[u/696_eth](https://reddit.com/u/696_eth)
+
+> 0.054
+
+[u/Zeebrasurfer](https://reddit.com/u/Zeebrasurfer)
+
+> 1968
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17tdxnc/daily_general_discussion_november_12_2023/k8z66qi/)
+
+*Shorting looked so wise,*
+
+*Yet it turned out otherwise,*
+
+*Ether still on the rise.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/ToEthMooonGuy</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17r6fn6/daily_general_discussion_november_9_2023/k8lnnp3/)
+
+#To ETH Mooon!!! ┗(°0°)┛
+
+</details>
+<details>
+<summary>u/superphiz reminds us of some critical bull market preparation</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17r6fn6/daily_general_discussion_november_9_2023/k8kupbo/)
+
+You need to have a written plan about when you will take profits.
+
+Print it out, sign it, and hang it on your wall as a reminder.
+
+This is fun, but no one can predict what tomorrow might look like.
+
+Most of all, don't fall into the trap of people who would convince you to have diamond hands. They want you to be exit liquidity.
+
+</details>
+<details>
+<summary>u/PhiMarHal laments on the frustrations of centralised services</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17r6fn6/daily_general_discussion_november_9_2023/k8j84r6/)
+
+Every now and then, I forget how stressful centralization is. Mostly thanks to avoidance. With forgetfulness comes confidence, so I try again, and I'm quickly reminded of the cons.
+
+I wanted to use Coinbase to hop from a rollup to another without paying bridge fees. Now they're holding my outbound transaction hostage, with an enigmatic Pending. Contacting support nets me people escalating my problem to a "specialist team", which is meant to email me but apparently not in a rush to do so.
+
+What's going on? Who knows. Complete black box. I suppose so are thirdparty bridges, in a sense... Yet I find the experience distinctively different. The dynamic changes when you use a protocol with a Discord channel where developers and knowledgeable users will interact with you. There's more visibility into their processes than with a corporate company presenting you with an interface where nothing suggests the exact nature of the problem, and support is outsourced to a call center where employees might do their best but simply aren't equipped to deal with the matter or deviate from a script.
+
+I suppose that will be my booster shot against sending meaningful sums to a CEX, even as transit.
+
+EDIT: followup, the transfer went through a few hours later. Whew!
+
+</details>
+<details>
+<summary>u/the_statustician is grateful for this gift</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17rxlo5/daily_general_discussion_november_10_2023/k8mhisi/)
+
+We are here, we are few but confident. This is crypto and it's epic. This is generational craziness that is a unique opportunity.
+
+We should be grateful for this gift. 
+
+It marches on even as Powell attempts to tighten and restrain.
+
+It's astonishing to watch, I am happy to be here. I missed buying many lows, I missed selling many highs. But my god the thesis is the same as before and don't forget it...it is written in stone and it will not change for many many eras. It is beautiful and simple.
+
+*Insofar as the disintermediation of a middleman will return value to a party and counterparty, then the market* ***demands*** *that such innovation take place to improve efficiency.*
+
+That is why we are here. There will be many scams along the way, there will be lots of trial and error, there will be SBFs and Hoskinson's. But we are here to rush gold in a gold rush for digital gold that will upend the traditional social and economic order.
+
+Enjoy the ride, the big boys are coming.
+
+</details>
+<details>
+<summary>u/austonst provides daily updates on DevConnect</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17rxlo5/daily_general_discussion_november_10_2023/k8ow1tz/)
+
+**Devconnect Day 1**
+
+Greetings from Istanbul! I'm at Staking Summit to start off my week (and change) of Devconnect fun times. I'm not going to give as detailed a daily summary as I've done for ETHDenver, but hope to give a little insight into what's happening.
+
+Devconnect is a collection of independent events organized in the same week and in the same city. There's going to be a general coworking space opening up on Monday and available through the week, but most actual events are only 1-2 days long. Staking Summit is getting started a little "early", but seems to have gotten decent attendance.
+
+Staking Summit has one stage with a series of talks and panels, a breakout area for occasional workshops, a lot of room for projects to set up booths, and a pretty nice spread of snacks. The event is advertised as being about PoS and staking in general, not just about ETH. I get the impression that some attendees are interested in staking as a financial vehicle, just as a place you can put capital to earn yield without caring too much about what it means. But not too much of that. Saw a lot of familiar faces already, met new folks too.
+
+Most talks were kinda simple. A few things of note:
+
+* A panel of investors talked about what they're looking for when investing in a staking company; a few of their comments: Any good idea can be copied, looking for ability to attract liquidity. Value of staking is ultimately supported by the crypto ecosystem behind the asset, looking for companies aligned with that. DVT and restaking provide additional investor optionality, but for restaking have to consider how much additional leverage they're building into the system. Institutions are still talking about Bitcoin, hopefully there's a growing awareness of ETH as an asset, and later the full range of staking offerings.
+* Michael Hua, researcher at 1kx, thinks that the LST market will continue to get more competitive, and Lido's dominance may naturally dwindle. 1) Novel infrastructure offerings: Kiln, Stakewise v3, NodeSet, and better DeFi composability. 2) General market forces: Lido is not the best fit for institutions (e.g. KYL/AML) and we could see verticalization from frontends (e.g. wallets and exchanges making their own LSTs). 3) Unique token designs: protocol value accrual, vampire attacks, etc.
+* Fisher Yu, Founder and CTO of BabylonChain talked about their system for "staking BTC". They imply that their system allows for trustless deposits, "restaking", and slashing. I don't know much else about it: if it works, if there are major caveats, how you can define slashing conditions on the Bitcoin blockchain, etc.
+* Eugene Pshenichny, Protocol Dev at Lido, discussed their plans for the future of Lido. Staking router (for permissionless NOs) and dual governance (to give stETH holders some power) were things I was already pretty familiar with. They're looking to make use of EIPs 4788, 7002, and 7521 as they become available. Actually *not* particularly bullish on restaking. Considering a form of semi-ossification in which Lido contracts could only be modified at the same time as ETH hard forks. Thinking about a way to let validators move their stake between LSTs without having to exit and re-enter (would require an EIP).
+
+(Posted this an hour ago, looks like it got deleted somehow? Taking out the links in hope it gets through the filters this time... EDIT: Yep, this one worked. Reddit hates links to conference webpages apparently.)
+
+---
+
+[Devconnect Day 2](https://old.reddit.com/r/ethfinance/comments/17so8sk/daily_general_discussion_november_11_2023/k8tu747/)
+[Devconnect Day 3](https://old.reddit.com/r/ethfinance/comments/17tdxnc/daily_general_discussion_november_12_2023/k8yoz5c/)
+[Devconnect Day 4](https://old.reddit.com/r/ethfinance/comments/17u49k4/daily_general_discussion_november_13_2023/k93kfiz/)
+[Devconnect Day 5](https://old.reddit.com/r/ethfinance/comments/17vn3bx/daily_general_discussion_november_15_2023/k9cxvzi/)
+[Devconnect Day 6](https://old.reddit.com/r/ethfinance/comments/17vn3bx/daily_general_discussion_november_15_2023/k9elsp7/)
+[Devconnect Day 7](https://old.reddit.com/r/ethfinance/comments/17wfnq9/daily_general_discussion_november_16_2023/k9k5a79/)
+
+</details>
+<details>
+<summary>u/Revanchist1 has some really simple pro-tips for DEx users to avoid MEV!</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17so8sk/daily_general_discussion_november_11_2023/k8sisri/)
+
+Here's some cool tips for people who may not know. 
+
+I mainly use the metadex swap by the DeFi llama folks. 
+
+[https://swap.defillama.com/](https://swap.defillama.com/?chain=ethereum&from=0x0000000000000000000000000000000000000000)
+
+Obviously don't click my link and just start using it. It's the right link but practice some safety and look for an official source.
+
+It works by querying multiple DEX aggregators, comparing their quotes and gas costs and allows you to choose the best one.
+
+They charge no fee, so when you make a swap you are getting the exact same result that you'd get from swapping through an aggregator's UI directly.
+
+
+As for MEVs and sandwich attacks, everyone making trades on chain should be using an MEV blocking rpc.
+
+Find one here:
+
+<https://chainlist.org/?search=Eth>
+
+Not all are MEV blockers. The ones I know at a glance are - Llama, Flashbots, MEVblocker. whichever has the lowest latency for you.
+
+It's easy to quickly change rpcs on desktop and there's no need to get sandwiched by Jared every time you want to trade shitcoins.
+
+</details>
+<details>
+<summary>u/vvpan shares them and u/hanniabu fighting the good fight in another forum, explaining the usefulness of blockchain's innovations</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17so8sk/daily_general_discussion_november_11_2023/k8tb4oq/)
+
+In a thread about blockchain on Hacker News, a place with high level of blockchain skepticism (/u/hanniabu is there too fighting the good fight), somebody asked me:
+
+>Can you describe to me what the main point of "blockchain technology" is? What is there to innovate in terms of its core function?
+
+I took the challenge to heart and wrote out this little post. I am worried that one cannot be exhaustive enough, but there it is.
+
+\* Transaction throughput
+
+\* Efficiency - allowing small scale players to participate in verification and block production.\* Inter-chain communication - some networks are explicitly designed as connected swarms of chains (Cosmos and polkadot for example) and some are evolving in that direction outside of the protocol level (Ethereum). How one executes transactions that span the networks is an ongoing research topic.
+
+\* Privacy - how to execute transactions in private. How to attest that something is true, say that you have a certain credential, without exposing your account information. Blockchain has been why zero knowledge (and now homo-morphic encryption) cryptography are becoming an active field of research.
+
+\* Identity, authentication, account recovery. - these tie into cryptography but generally research on applied cryptography with good UX. For example the first time I've seen social-recovery accounts with any amount of usage (now a feature in Apple accounts) was in a blockchain application.
+
+\* Monetary research - far from everybody involved in crypto believes that a fixed-supply rare item makes for good money. "Fiat" money is basically a "token" with governance attached to it. This has lead to a wave of experimentation with other forms of tokens - ones that are algorithmically tied to other assets, ones that are backed by an organization, local currencies, etc.
+
+\* Organizational research - since smart contracts can effectively be transparent community banks there's has been a plethora of experiments with building organizations that manage their own treasuries. Horizontalism, organizational transparency and cooperation is something that's been at the core of many crypto projects, the idea being that something cannot be both a reliable public good and controlled by a single party. It's not an easy task, but some cool organizations have come out of this. For an example look at pocket: [https://forum.pokt.network/t/messari-pocket-dao-exploring-proof-of-participation-governance/3857](https://forum.pokt.network/t/messari-pocket-dao-exploring-proof-of-participation-governance/3857)
+
+In general, even if the blockchain experiment will fail it has given the world an ideological and technical boost.
+
+</details>
+<details>
+<summary>u/SeaMonkey82 is still the unsung hero tinkering on the testnets</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17u49k4/daily_general_discussion_november_13_2023/k93agp3/)
+
+Daily Holesky:  
+Reported a logging bug with Lighthouse and sproul had already created [a PR to fix it](https://github.com/sigp/lighthouse/pull/4922).    
+  
+I've been playing with the [stakelocal grafana dashboard](https://docs.stakelocal.io) more, and continuing to provide feedback to metanull.  One key configuration change I had to do to tone down the spamming of errors in the syslog was to omit the `txpool` module from ethereum-metrics-exporter for Nethermind and Besu.  This is because Besu doesn't support `txpool_status` and ethereum-metrics-exporter doesn't know how to handle the integer values that Nethermind returns for `txpool_status`.  I've created [a GitHub issue for this](https://github.com/ethpandaops/ethereum-metrics-exporter/issues/94).    Another conundrum I ran into was that the external validator and address links were working fine on my mainnet machine, but on my testnet machine, every `/` in links was being changed to `%2F` rendering them broken.  It took me a while to realize that I had used the .deb install method for grafana on the testnet machine instead of adding the repo where it stays up-to-date, so grafana-server was still on v9.5.1 instead of v10.2.0. Upgrading to the current version fixed the issue.
+  
+Something that was brought to my attention once I had the dashboard set up for all supported client pairs is that erigon is failing to honor the `--maxpeers` flag, so I reported that to their team.
+
+</details>
+<details>
+<summary>u/Fiberpunk2077 is trying to understand the implications of EIP-4844. and u/djlywtf has a great reply</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17uvruy/daily_general_discussion_november_14_2023/k96og6c/)
+
+[u/Fiberpunk2077](https://reddit.com/u/Fiberpunk2077):
+
+I hope they don't mind, but I must summon the great minds to help me understand the implications of 4844:
+u/domotheus
+u/swagtimusprime
+u/Liberosist
+
+I asked some questions a few days ago around this, but I still don't understand what 4844 will do to L2 smart contracts and the data they hold with the ~18 day pruning.
+
+To my very basic understanding, once 4844 goes live, rollups will use a new transaction type (blob) to commit the rollup data to L1 (instead of calldata). However, by using the blob transaction, the rollup data may be pruned/purged after ~18 days (whether it actually will or not is another thing). I've read that this blob data is meant for data availability, not data storage, but I don't understand what that means practically.
+
+So this leaves me with many questions of what this means for smart contracts on L2's, and I can't get my mind around it. I think perhaps I'm getting confused between historical blob data for any given moment in time and storage of the current blockchain state (e.g., does the L2 store the current state?). Hopefully these dumb questions will help clear it up for me:
+
+1. Post 4844, if I deploy a contract on an L2, will that be committed via a blob transaction? Or will L2's know it's a contract and use calldata instead? If it uses the blob transaction, does that mean the entire contract could be purged and not exist anymore?
+2. If the contract does survive pruning, does it mean the data itself may be purged? For example, if I store an address for payment in a contract, could it suddenly be purged after 18 days and then the address is 0x0, effectively sending payment to the burn address?!
+3. If data in contracts do get purged, does that mean the contract could be in some half available/half purged state if data is written to the contract over periods of time?
+4. Somewhat unrelated, but can an L2 call an L1 smart contract?
+
+I know I must be thinking about this incorrectly, because if any of this is true, I feel it's going to massively hamper L2 adoption and usability; that, or I'm missing some other big piece of the puzzle to mitigate this.
+
+I also assume with full danksharding, the data pruning will be greatly lengthened, so perhaps this is a temporary issue?
+
+Any clarity you can provide would be very much appreciated!
+
+---
+
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17uvruy/daily_general_discussion_november_14_2023/k96um5k/)
+
+[u/djlywtf](https://reddit.com/u/djlywtf):
+
+dom’s honorary nephew here
+
+nothing in rollups state is ever pruned. currently, all transactions (or state diffs) are posted on calldata and thus are stored forever. when you run a rollup node, you can reconstruct the state yourself from this data on L1.
+
+after 4844, you won’t be able to reconstruct the state from L1 data (unless someone stores all blobs). instead, you follow latest merkle root or anything that belongs only to the latest state (even hash of sqlite database), stored in the contract on L1 and updated each proven batch (ZK proved or challenge time ended). you can be sure that this data about current state is accurate, because it was proven in the past when you weren’t around from the data which WAS available then. then, you download the state from anyone with a rollup node. you’ll get it if at least 1/N rollup node is honest, because its data will match merkle root or db hash or anything
+
+temporary blobs purpose is to be used by sequencers that prove rollup batch and then update current state “signature” (it can be whatever works, most simple example is merkle root). nodes don’t need to store all transactions to reconstruct the state, because they can prove if the latest state that they receive from rollups nodes is actually valid on L1
+
+for example, someone on zk rollup proposes the batch with transactions, sending it in the blob storage. now, everyone has all these txs for the next 18 days. sequencer/s start to generate the ZK proof to this batch, and when they’re done, they send it on L1 contract, it executes this ZK proof using commitment to the blob (fixed size thing that belongs to the blob and that they can access on EVM; don’t ask me how it works this is cryptography magic), and updates merkle root based on what state these txs changed. now this data can be safely pruned and nothing will break, but we also have optimistic rollups that have to wait for the challenge time, so we hold it for 18 days instead of say 2 hours
+
+</details>
+<details>
+<summary>u/Bob-Rossi provides us an Arbitrum delegate update</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17uvruy/daily_general_discussion_november_14_2023/k9828i3/)
+
+Recent ARB vote updates:
+
+Using [100M of ARB funds for "Staking"](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xf22530295daee96dffd7f70854475c06216a4d3594929672f71c12bf638bb0c8) passed the temperature check on Snapshot. The proposal would take 100m of DAO treasury and pay it out over holders who lock their ARB for 1 year. I voted no for this, as I don't think it adds much value to Arbitrum's chain and essentially is just paying people not to sell. Any economic value added is temporary, and likely would be out-performed by other projects. We shall see where this goes, as while it passed, there were a decent amount of no votes.
+
+The DAO voted [to start an RFP process for security proposals](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x1ac6079871dc4af55b7d67eae130e4c1bbcbabd9bb35405bc1733ef2efe45875). I voted for this, as I prefer to see these types of things be standardized when people apply to allow for an even playing field.
+
+The [“Arbitrum Coalition" vote failed. ](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x42f68a26ff5a5be692a80468a1d1885cf07d590836536f5169cc4b69f64f3f37) This looked to have a group of delegates to be hands on with DAO proposals. Basically coordination and reviewing of proposals at certain stages. I voted no on this, as some of the council also had a large share of voting power. My fear being it would create a centralizing effect. I'm not opposed to the broad idea, but there needed to be stronger separate of powers here --- ideally those on the council had no voting power. I think this failed as a lot of other delegates felt similar to me.
+
+The [STIP grants that pass the yes/no voting, but did not meet the 50 million threshold were voted to be backfunded. ](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xc040de9c6a85dee5ca15de10691165bf5595245ffac922cbef61e45199522345) Honestly, this was a tough one for me. I wasn't a huge fan of back funding projects, especially because of the precedent it will set. However, IMO the DAO really dropped the ball on the first grant round with how it was set up. I'm not sure punishing the ones that passed, but failed to be as popular, is really great when it's more the DAOs fault for a poor setup. So in the spirit of the original proposal, I voted to pass but wouldn't be doing this again if a future round finds this issue. I'll add, the spend was going from 50 million to 71 million. Which didn't seem overly outrageous, and was actually in line with original ARB amounts proposed until it was reduced from 75 Million to 50 Million.
+
+To those possibly concerned, LIDO did fail their yes/no vote so it wouldn't get funded with this round either.
+
+</details>
+<details>
+<summary>u/MinimalGravitas warns us of the latest scammer tactic</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17vn3bx/daily_general_discussion_november_15_2023/k9cxci8/)
+
+New scammer tactic on an /ethereum staking thread.
+
+Posted a link to a fake staking service (Block Scape) which they immediately upvoted with ~30 bots. I called it out in a reply. So far so normal.
+
+They then deleted their original comment, blocked me so that I can't report them or reply again and then upvoted the new one. Very annoying strategy. 
+
+Stay safe out there, and if anyone wants to do a favour and report the scammer then please do!
+
+[Edit, and of course they are now using their bots to downvote my top level comment calling them out.]
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #42: Novmber 10, 2023</summary>
 
 No Livestream | No POAP
