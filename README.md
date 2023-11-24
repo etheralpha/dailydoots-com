@@ -976,6 +976,225 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #44: November 24, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/159601)
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/182l6a4/comment/kaja7ll/)
+
+[u/LeagueGreedy](https://reddit.com/u/LeagueGreedy)
+
+> Ethereum
+
+[u/wordlemcgee](https://reddit.com/u/wordlemcgee)
+
+> $2070.65
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 88,530 hodlers subscribed (+5)
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> 0.0554
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/181udkk/comment/kai12z7/)
+
+*Flash loan imbiber,*
+
+*Liquidity in Kyber,*
+
+*Oracle briber.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Vandelay101</summary>
+[View on Reddit →](https://www.reddit.com/r/ethfinance/comments/1812a9r/comment/kacw7rk/)
+
+Just finished a nice run through the woods. It just occurred to me that I am front-running the pounds I am about to put on tomorrow, the next day, and the day after that. I'm also mulling over my turkey fulfillment thesis and adjusting my risk appetite accordingly.
+
+</details>
+<details>
+<summary>u/eetherway asks a great question about how we feel about different UXs</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17wfnq9/daily_general_discussion_november_16_2023/k9jsui5/)
+
+To all the experienced blockchain users: As we witness improvements in user experience, particularly in wallet interfaces, do you feel apprehensive when using wallets or dapps that offer a more streamlined, Web2-like account creation and management process?
+
+I've noticed that some users, especially in the Influence community, are apprehensive about creating new accounts or using accounts that are set up with an email.
+
+Both Argent and Braavos, the current wallets on StarkNet, that are users interact with, utilize account abstraction, enabling and introducing features that I believe are crucial for bringing the next billion users to blockchain. Yet, this ease of use can sometimes be met with skepticism from existing users. I'm keen to hear your perspectives on this.
+
+</details>
+<details>
+<summary>u/Samueth_Peapks is ready to see some non-speculative adoption</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17x8g4p/daily_general_discussion_november_17_2023/k9miyma/)
+
+Should we be surprised at the speed with which the ecosystem has encountered a new wave of toxic tribal bickering? No, because compared to the end of the last cycle nothing has materially changed. There has been scaling progress but it is not finished by any means, and e.g. UX is as trash as ever etc.
+
+ETFs are said to be around the corner, but the type of demand they represent is the same kind we are familiar with. Speculative, cyclical demand. Only now it's in a tax free wrapper! Don't get me wrong, the level of incremental increase in demand could be substantial, but i contend it will not change the dynamics of the crypto ecosystem. So if nothing has changed, we should not expect the nature of the next cycle to have changed. One slight difference is that at this time, the remaining market participants are certainly feeling less flush than they were in the heady days of 2021. Hence the rabid zero sum thinking we see amongst us (well, mainly twitter). At this point we all know the drill, some new and useless protocol or project will make 1000x returns for the few people who rolled the dice early, and many more will volunteer themselves as exit liquidity. 
+
+Crypto has absolutely *nailed* the speculative use case; we do not need, and personally I am not interested in, any more. Games, quests, ponzis, whatever it is, it is all ultimately a waste of time, representing only a desperate grab for each others capital. What I think we crave, and what I am sitting here quietly waiting for, is utility. Yes, this is a 2017 era discussion, but nothing has changed since then. Large, non-speculative, non cyclical, fucking boring. Something that you would do anyway, even in a bear market, or if fees have increased a bit. Something that does not require a funny name for people to use. Something that companies or people will use due to economic gravity rather than hoping number goes up. 
+
+Are these use cases possible? I believe so, so I guess I was incorrect to say that I am done with speculation. I'm still hopeful that blockchains can be used for e.g. supply chains, or something else like that. Why? because with something like this, crypto potentially has the ability to translate economies of scale away from large corporations, and to empower small businesses. Fewer bosses - ace! Not zero sum - ace!
+
+Not all problems need to be solved to open up utility. E.g. a business use case will rely less on UX than a consumer use case. The type of demand I am talking about probably only cares about a few things (assuming the chain being used has the requisite functionality), and secure block space is premier amongst them. Ethereum represents the best potential holistic solution to all of these problems, probably via some L2 solution, primarily because of the strength of its network. Network effects are powerful, if they were not then twitter would be 6 feet under by now.  These reasons are why I have read the daily most days since early 2021. I am interested in client diversity, network health etc. Things of that nature are the means by which we create fertile soil for the future. And when the time comes we'll be glad that infrastructure has outpaced the current level of demand in the system.
+
+</details>
+<details>
+<summary>u/superphiz shares the "Stake from Home" Gitcoin collection for those looking to donate to public goods which keep the beacon chain decentralised</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17x8g4p/daily_general_discussion_november_17_2023/k9n220t/)
+
+Gitcoin invited me to develop a bundle for Grants Round 19, and I developed the [Stake from Home](https://explorer.gitcoin.co/#/projects?collectionId=stake-from-home) bundle. These 14 projects make contributions that empower individuals to run nodes and stake from home, and I strongly urge you to make a donation on gitcoin to the bundle. I'm familiar with all of the projects enough to vouch for them (on varying levels), and I'm excited for each of them to succeed.
+
+If you don't know how gitcoin funding works: It's based on a concept called "quadratic funding", the simple premise is that the number of individual donors guides matched funds more than the amount anyone gives. So 100 people who give $1 each gets matched A LOT more than 1 person who gives $100. The moral of the story is that many hands make light work, so please go donate.
+
+</details>
+<details>
+<summary>u/haurog shares how his opinion on Lido has changed over time</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17x8g4p/daily_general_discussion_november_17_2023/k9m9y95/)
+
+Yes, economic incentives generally favours centralisation and monopols. That is the way things go. Societies try (or not) to find rules and regulations to fight against this general flaw in most modern economic systems. There are a lot of examples where societies failed to do so and have now very few monopolistic suppliers they cannot really break up anymore. There are also examples were societies managed to stop monopolistic set-ups in their track and these then are generally better off compared to societies which did not manage to do that in these specific industrial sectors.
+
+The case with Lido, I did not really have an issue with them for a long time. My simple approach was "If they can break Ethereum it was meant to be broken". I did not judge them to be a bad actor in the space.
+
+Nowadays I see them as a pretty ruthless actor in the space strategically gobbling up key figures and projects that make them dependent on Lido and do their bidding. At the same time they are spreading false narratives about why they are destined to win. Like "liquidity begets liquity" which automatically leads to them winning. What actually happens is that in the background they have actors (Karpatkey anyone?) making sure that steth dominance is not really threatened. They preach open and free markets, but actually do backroom deals to achieve their goal.
+
+They also spread the narrative of being the wall against CEX staking and funnily mention a time where CEX staking had more inflow than them as the reason for it. Actually, this was as far as I remember a just a 2 weeks period in spring of 2022 where this was actually true. Again they are gaslighting the community.
+
+They made so much money in the last 3 years, which is understandable because it is a good product. But now they can simply direct their faucet at anyone they want and more or less buy them, or a project. This is especially dangerous during the bear market where everyone is looking for funding. 
+
+Same with the current proposal, in the first sentence the state decentralisation is the goal, but the rest of the proposal is a direct attack on the current relatively okayishly decentralised staker landscape. They love decentralisation as long as it is under their control...
+
+Do I think Lido should be slashed rather today than tomorrow? No, definitely not, but I see them as a threat for the Ethereum ecosystem as they do not even try to hide behind a nice facade anymore.
+
+</details>
+<details>
+<summary>u/austonst sums up the last day of DevConnect</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17xzw1y/daily_general_discussion_november_18_2023/k9tchdn/)
+
+**Devconnect Day 9** ([Yesterday](https://www.reddit.com/r/ethfinance/comments/17x8g4p/daily_general_discussion_november_17_2023/k9nmpmg/))
+
+The last day of Devconnect! The schedule does technically extend through Sunday, but that's just the final day of the coworking space and the ETHGlobal hackathon. I had considered doing a little bit of sightseeing in the morning, but it was raining decently hard and I would have been pretty pressured for time, so I decided against it. Instead I just went straight to the day's main event: censorship.wtf .
+
+As you might expect, censorship.wtf was all about censorship: what are the problems and potential solutions, particularly as it pertains to Ethereum of course. The day was literally packed: between 11:00 and ~18:00 there were non-stop 20-minute talks scheduled. Not a single break, you just had to pick which talk excited you the least so you could cut out some time for a bathroom break and snacks. Using acronym "censorship resistance"=CR The content was mostly pretty good:
+
+* Juan Benet started the day with a high-level overview of factors that help or hinder in the struggle against modern digital totalitarianism. For example, we have surveillance everywhere, propaganda via modern computing, and social credit systems. These could be co-opted to empower a totalitarian society. To stave off totalitarianism we need education, string institutions, tech for secure communications and coordination, and a strong economy. Democracies are aware of the long-term danger, but are facing some actual short-term risks that they need to balance out. IP stack, CA system, app stores, and DNS are risky. ENS, IPFS, libp2p gud.
+* Vitalik Buterin talked about hardening the Ethereum ecosystem across the stack. Fun fact: one of Vitalik's addresses is banned from the main Uniswap frontend because it used Tornado Cash once long ago. Alternative frontends gud. Centralized node providers are scary, we need light clients and muliple providers for a nice 1-of-n security model. Attacks against the social layer are possible but instead of being optimizing for an objecting ("convince everyone that ETH is bad") it'll be about amplifying the worst voices on both sides to create a toxic culture. A 51% attack is not the cheapest way to break Ethereum; much easier to mess with IP, DNS, etc.
+* Sreeram Kannan introduced an observability gadget for CR. The question of "how bad is censorship on Ethereum" is hard to quantify but one metric is the time to censorship resistance (TCR), e.g. on ETH you usually don't have to wait too long to get a non-censoring proposer and builder, a few slots, so maybe a TCR of 0-40 seconds? But can we make it better? Proposed tx inclusion rule: when a block is proposed it must include tx's from recent uncles which have not already been included. With that as a rule, it follows that if a transaction is censored beyond a certain time, then >1/3 of stake can be slashed.
+* u/nixorokish of EthStaker explained that solo stakers are valuable for CR. A critical line of defense, even. Solo stakers make up somewhere between 35-75% of *nodes* on the network (if I heard that right), providing diversity across geography, ISP, hardware, and software. Solo stakers are engaged and fundamentally care about the network, seen in evidence that they run a more diverse set of clients than most. EthStaker working on getting the knowledge DB in more languages too. Kind of preaching to the choir here.
+* Sebastian Bürgel of hopr covered the topic of IP-level privacy. We all trust Infura from time to time to: deliver correct data, not censor, not track. The first two have been okay, tracking is a problem. Uniswap is bad: even on their IPFS deployment they track your device, addresses, and all your clicks, sending them back to their servers. Even if you're running on a decentralized frontend, if you connect to someone else's EL client for data, they can see what you're doing, link your on- and off-chain identities, and potentially abuse their position to frontrun whatever you're doing.
+* Toni Wahrstätter of the EF examined censorship across the PBS stack. Proposers can censor in their own proposals, or take it further and not attest to certain blocks or even try to reorg them. Figment, Kraken, and Celcius are big censoring validators. Relay censorship has gotten quite a bit better since the Merge. Builder censorship on the other hand has gotten *very* concerning, like 80% censorship. Also examined feather forking on Bitcoin (link below), which lets even a minority miner compel other miners to censor the chain. On Ethereum this attack requires 51% of validators.
+* In the middle of the day, Mike Neuder of the EF led a breakout workshop where we mostly reviewed forward inclusion lists, discussed the implications, and briefly considered out-of-protocol solutions (e.g. enforced by relays). It was mostly review and getting a deeper understanding of the potential attacks, mitigations, and remaining limitations. I threw a link in the linkydoo. There are some interesting out-of-protocol options too. I covered MEV-Boost+ earlier this week, also possible for relays to enforce proposer-provided IL's or to just include transactions themselves.
+* Ed Felten discussed dealine protocols: any protocols that require on-chain transactions to occur before some deadline. These transactions can be censored though a combination of malicious (or bribed via mev-boost) proposers, and reorgs of honest validators' blocks. Censor it until the deadline has passed and you can do some damage. Ed designed a test that looks at the number of missed slots recently and computes with high probability if there has been no censorship.
+* Mallesh Pai of SMG presented their work on CR in on-chain auctions. They measure CR through the lens of how expensive it would be to censor a transaction. They mathematically model the cost of censorship on a blockchain and analyze the impact on on-chain auctions. In general they think it's pretty cheap to carry out attacks on them. They suggest that in each slot there should be *multiple* block proposals, which places the proposers in a sort of n-party prisoner's dilemma that should discourage censorship.
+* Justin Drake gave yet another talk, this time on weak censorship. He described his "append test" for censorship: if a transaction has been floating around a while and *could have* been appended onto the previous block, it's probably censored. Also, the bigger problems than censorship-induced inclusion latency and rollup throughput is the memetic cost. CR gives credible neutrality which gives social legitimacy which gives monetary premium which gives economic security and bandwidth. The idea that Ethereum is easily censored undermines that chain. He's optimistic about the combination of encrypted mempools, ILs, MEV burn, and ePBS. Also suggested some application of MEV burn rules to ILs, suggesting that a block would only be valid if it maximizes base fees?
+* In the final talk, Venkatesh Rao is thinking beyond exit and voice. "CR is completing a transaction someone does not want completed, everything else is yield farming." When conflict arises, you have the choice to simply exit, or use your voice to participate in debate and discussion. Crypto has had a strong exit bias but CR is primarily a voice problem (not sure I agree?). Exit, taken to the extreme, gives you sovereignty but leaves you alone where you're no use to anyone. Bitcoin may accept that, but Ethereum probably shouldn't. There is also a tradeoff between efficiency and thoroughness. The Ethereum community can navigate the 2d space there: the exit-voice axis and the efficiency-thoroughness axis. Where do we want to be?
+
+I guess I'll do a final recap tomorrow. Flying out first thing in the morning back to the other side of the planet. Going to be a long trip.
+
+</details>
+<details>
+<summary>u/Fast_Contract explains why they're running RocketPool nodes</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/17zhsdo/daily_general_discussion_november_20_2023/ka261d0/)
+
+I think block/mev rewards will be crazy when the next bull starts. If these etfs really are approved, and tradfi money starts flowing in, I want to maximize my chances of winning that lottery. Solo staking I had a 96% chance of getting a proposal every 2 months. Now I have that same chance every 2 weeks. Sure joining the smoothing pool is probably safer, but holding eth as is, is already a lottery ticket to me so why not really play it.
+
+I also re-evaluated the reason I'm in eth, and that's decentralization. 
+I think rocketpool is an essential key to that. By dividing my stake up into as many 8eth pools as I can, I'm allowing a few hundred eth from other people to also be staked. Looking at reth mints, the demand is definitely there for reth, and with the houston upgrade, I think the demand for node operators will grow. I kinda hate Lido. I think they're everything that's bad about crypto and capitalism. Un-restrained growth perhaps at the expense of the entire ecosystem. Rocketpool is the opposite of that and I think more people should support it.
+
+The "stake eth on behalf" thing in Houston is particularly interesting. I can see DAOs finally putting their eth treasuries to work. Also the rpl rewards rework is interesting, because it will hopefully reward/keep those at lower collateral rates above that 10% line. 
+
+51% of rpl is staked. The only real sell pressure is from node operators getting out. I thought that cascade would happen weeks ago, but everyone seems content to keep their stake. Even on rewards day it seems like most rpl just gets restaked right back into the system... 
+
+If I'm interpreting things correctly, most of the remaining un-staked RPL is rpl v1. RPL v1 has basically no liquidity, no movement. These people are just sitting on their rpl, they haven't even converted to v2? That kinda removes a lot more supply from the market in my mind...
+
+</details>
+<details>
+<summary>u/Itur_ad_Astra thinks we're stepping into the next era of crypto.</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/180a3d0/daily_general_discussion_november_21_2023/ka7tdd7/)
+
+Fellow Ethfinanciers...
+
+It's weird that the market did not move today. I'd expect one last dump as a farewell. Oh well, there's plenty of time for that later. It's strange, because I feel what we witnessed today, was the end of the Wild West of cryptocurrency. The Napster Era is over, and soon, with the approval of the ETFs, the banking products, and the inflow of crypto "users", the iPod era will dawn. Nicely packaged, user friendly crypto products, ranging from tokenized stocks (registered and KYC'd strictly, of course) to JPMorgan limited edition Apple^^TM NFTs, barely holding any of the values that make crypto what it is.
+
+The markets will soon start going up, much higher and faster than most anticipate, and I truly believe that Ethereum will be one of the winners. Droves of tourists will soon follow. Most of these people won't have the slightest idea what "keys" are, how you swap on DExes, or even what a smart contract does (It's probably something with AI in it).
+
+Those of you that believe in something more than making money, remember why crypto exists. There are some values that are a net good for the world and need to live. The more of those carry over to TradFi, the better we'll all be.
+
+I might be neither a crypto OG or an Ethereum veteran, but it has been an honor going through this bear with you.
+
+Onwards!
+
+</details>
+<details>
+<summary>u/RickandMowgli shares a collection of thoughts on regulation.</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/180a3d0/daily_general_discussion_november_21_2023/ka8l9rp/)
+
+Just a rambling vibes take here. 1) CZ has always been a bad actor in crypto.  He proposed rolling back the Bitcoin blockchain (doesn’t matter your thoughts on btc, this is a huge red flag of not being decentralization aligned).  BNB chain is a centralized scam vessel.  He’s clearly been commingling funds and pumping bnb, been calling it forever and you don’t need a lawsuit discovery to see it.  
+
+So overall this is a good day for crypto.  SBF and CZ characters are hugely damaging to the space.  Frankly the CEX world is the 1 place where SEC SHOULD be active and cracking down to make sure FTX like theft of user funds never happens again.  
+
+They are also attacking kraken and coinbase for “unregistered securities” which is complete nonsense.  
+
+Let’s remember what these securities laws are meant to do. They’re meant to provide transparency to protect investors.  Instead we’ve gotten onerous requirements not at all designed for the modern characteristics of crypto entities that has massively stifled innovation and investment especially in the US.  
+
+Everyone remembers ICOs negatively because they were so boom bust but actually tons of innovation came out of them and it democratized access to super early stage investing to the crypto community.  Now after the harsh and chaotic securities enforcements pretty much only VCs are getting super early stage tokens.  It’s already a reproduction of the private company market where VC has locked out the huge gains from early stage companies from retail investors.  
+
+The best world would be where the SEC protects us from SBF CEX and only comes down on true fraud (bitconnect, luna, etc) in the decentralized space. while allowing more experimental types of daos, etc to exist (especially when they are inherently transparent like many already are).
+
+</details>
+<details>
+<summary>u/djlywtf shares their experience at DevConnect</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/180a3d0/daily_general_discussion_november_21_2023/ka4tue1/)
+
+devconnect istanbul is my first crypto related summit, and due to my location it’s also my first experience meeting with people in crypto community irl
+
+devconnect was huge, filled with people of different backgrounds and interests, startups and independent developers that share their knowledge and vision to different problems. i met many interesting people, such as nice people from zksync (hello jack hamer, albiona, alex gluchowski, sasha vlasov, and many others whose name i didn’t ask), cool independent infrastructure builders that i’d rather keep anonymous,  ilia polosukhin from near, guys from EF (by the way u/domotheus we didn’t even shake hands wtf) and rollups teams. i listened speech of many popular founders and devs - vitalik, kartik talwar, sandy peng, jordi baylina, etc etc
+
+it was so interesting to listen to all these speeches despite the fact that i already knew a lot of what they were about :P it’s all about people that have fire in their eyes and are ready to share all their knowledge to everyone at any cost
+
+i also participated in my first hackathon. unfortunately i got sick in the first day and had to code in the hotel, so i missed many opportunities such as finding help from sponsors (yo zksync your compiler is terrible fix it pls) and generally being inside of this unique work atmosphere, but i still made [something](https://github.com/alexhooketh/xtra-protocol). in fact i spent 20 hours straight on coding at my first hackathon ever solo without any sleep while being sick af so i think the fact that i at least impressed judges is already somewhat achievement :)
+
+and all this is in the huge beautiful city of istanbul that charges you with emotions every day and hour. i walked like 25k+ steps there every day before devconnect started and i wasn’t even tired. people there are always ready to help you even when you don’t ask and don’t ask anything in exchange. prices in locals’ shops are always “negotiable” if you know your own worth xD public transport is really great with almost perfect coverage, istanbulkart is a great system that helps you to avoid so much brainfuck while travelling 
+
+all this showed me how boiling and energetic 24/7 the life in the ethereum community and made me even more confident in that we do everything right. that’s why i’m bullish!
+
+</details>
+<details>
+<summary>u/CaptainOfTheGate describes more casual ways of getting privacy on Ethereum</summary>
+[View on Reddit →](https://old.reddit.com/r/ethfinance/comments/1812a9r/daily_general_discussion_november_22_2023/kaawdeo/)
+
+**"Casual" privacy apps**
+
+Did you know that there are Ethereum apps that can give you a basic level of anonymity, without having to use a dedicated privacy app? Say you just want to keep people from knowing all your holdings by knowing your ENS name, these would work good. Not so good if you were doing something illegal, as a simple court order could reveal the connection between accounts. 
+
+The major apps in this category, I believe, are the StarkEx single-app rollups. You can deposit from one address and withdraw from another. Only the StarkEx operator can see that it's the same person. For example, see [Privacy on rhino.fi](https://support.rhino.fi/en/article/privacy-on-rhinofi-a0ugb2/) for their explanation of how it works. 
+
+There may well be other apps in this category as well (let us know if you're aware of others). For example, I've read that ParaSwap allows different deposit and withdrawal addresses, though I don't know if it's equivalent to the StarkEx rollups in this regard. 
+
+You can see all the StarkEx rullups on [L2Beat](https://l2beat.com/scaling/summary). Use *Select stack* to filter for just the StarkEx rollups. You can then click through to the individual projects to see how much TVL they have for the token you're planning to anonymize, e.g. USDC or ETH (I believe dYdX has the most stablecoins and Sorare has the most ether). 
+
+Of course, you could use a regular privacy protocol instead. Tornado is sanctioned for US users, however, and others could be in the future, or maybe you just don't want to appear suspicious by using a privacy protocol. I haven't checked, but I assume Tornado still has the most volume. Some other projects I've heard about are: Railgun (a lot of mentions here recently), Aztec (highly regarded, but will be deprecated next year as they work on their programmable privacy rollup), Nocturne (new), Firn (sounds terrific but new), and Houdini Swap (seen mentioned here a few times).
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #43: November 17, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=XYGMDMUfsjs) | [POAP Checkout](https://poap.gallery/event/159203)
