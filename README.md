@@ -1252,7 +1252,7 @@ So all this cultural relevance, this community ethos and these people that have 
 
 </details>
 <details>
-<summaryu/DegenKoloToure updates on the Kyber exploit and u/_WebOfTrust shares the latest message></summary>
+<summary>u/DegenKoloToure updates on the Kyber exploit and u/_WebOfTrust shares the latest message></summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kba3owl/)
 
 [u/DegenKoloToure](https://reddit.com/u/DegenKoloToure):
