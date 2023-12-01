@@ -980,6 +980,366 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #45: December 1, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/160012)
+
+**Upcoming Guests**
+
+- Dec. 8th - Colony.io
+- Dec. 15th - Diva Staking
+- Jan. 5th - Lantern Finance
+
+**Announcements**
+
+- Stakewise v3 is [live on mainnet](https://twitter.com/stakewise_io/status/1729530659566149762)
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1884mjc/comment/kbijruk/)
+
+[u/5quat](https://reddit.com/u/5quat)
+
+> Ethereum
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 88,557 hodlers subscribed (+5)
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $2092.06
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> 0.05432
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/187bfcu/comment/kbgxq5v/)
+
+*A tale incomplete,*
+
+*Where banks can not compete,*
+
+*No one hits delete.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/seat-is-occupied</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kb8v2p3/)
+
+altcoin nostalgia series, part 01: **Oyster Pearl (PRL)**
+
+In this series, I want to take you on a trip through some of the most interesting shitcoins from the past. 
+
+Oyster Pearl wanted to revolutionize online advertising and give website owners an alternative and private way to monetize their content. The idea was that website owners could insert one line of code, and visitors would contribute their spare computing power and storage space to support the protocol. In return, they would earn PRL tokens. The data would be stored on the iota tangle. There was also a second coin called Shell (SHL).
+
+PRL was extremely hyped in 2017. Right before the binance listing, one of the team members did some insider trading. The anonymous founder bruno block wasn't cool with that and rug pulled the whole project, minting and dumping more PRL coins. 
+
+After that, some team members founded Opacity (OPQ) and airdropped tokens to PRL holders, the project also died. Bruno founded a new scammy project called Akoya (AKYE) and airdropped tokens as well. Of course it died. There were some mental health issues involved ($5,000 banana). Apparently, he was caught on a yacht with safes full of gold bars. Amir Bruno Elmaani got 4 years in prison for tax evasion.
+
+</details>
+<details>
+<summary>u/PhiMarHal shares a deep dive on the Kyber exploit</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/181udkk/daily_general_discussion_november_23_2023/kaf4z7b/)
+
+Deep dive by Doug Colkitt on the Kyber exploit: <https://twitter.com/0xdoug/status/1727613541115429314>
+
+Careful manipulation to make the pool believe it has more liquidity than it does, then extract real funds through this phantom liquidity.
+
+I don't want to kick anyone while they're down, the Kyber guys are good devs working hard and let's hope for a good resolution. FWIW the hacker has signaled through blockchain messages he would be willing to talk today. <https://etherscan.io/tx/0x7a8912583520304ce2364fa165dafe94461a91ab2dcf45dab942e296594dc40a>
+
+But, musing about security in the abstract... I have to say, I felt for a long while the engineering in Kyber seemed overcomplicated. I once got stuck in one of their farms, and without the team solving it for me, I would have been screwed. This is different from Uniswap or Aave where you can figure out the contracts on your own as an intermediate user.
+
+Complex protocols have greater attack surface.
+
+Sanity checks like 1-block delays on TVL sensitive actions seem like low hanging fruits to avoid catastrophic exploits. Kills flashloan abuse, for starters. 
+
+I get that those are tough calls, how do you implement such edge case checks without hurting genuine composability? But surely there must be some threshold of liquidity past which we have reasonable confidence no legitimate use would occur, because of slippage.
+
+*but* then again, the concentrated liquidity design implies all of the liquidity in one tick can very well be a legitimate swap...
+
+Basic x * y = k as per Uniswap v2 may have been capital inefficient, yet the simplicity was elegant in more ways than one.
+
+I'm glad I don't work on AMMs!
+
+</details>
+<details>
+<summary>u/eth2353 shares Stakewise's upcoming upgrade</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/182l6a4/daily_general_discussion_november_24_2023/kajw9fh/)
+
+Just wanted to let the good folks in here know StakeWise's V3 launch is just around the corner. The V2-V3 contract migration proposal is live on their governance forum and the snapshot vote has reached quorum with 100% approval for now.
+
+Their V3 architecture brings some big advantages, e.g. solo stakers can create their own (private if they like) vault and mint an LST against it. If you want to get a feel for what it will look like, I suggest you browse through the testnet vaults at [https://testnet.stakewise.io/](https://testnet.stakewise.io/) . 
+
+It took more than a year since their V3 announcement to get to this stage and I'm proud to have contributed in a small way myself as well by adding remote signer support to their operator service.
+
+Even though this post may feel like it, I am not in any way affiliated with StakeWise, I just appreciate all of the work that went into this and I haven't seen this be discussed in recent days. This gives stakers who can't stake at home a lot more choice and will hopefully help keep Lido's power in check.
+
+</details>
+<details>
+<summary>u/stablecoin answers some questions about Chainlink's CCIP</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/183d0jg/daily_general_discussion_november_25_2023/kaq2czp/)
+
+> 1. Does this potentially solve liquidity fragmentation?
+
+Basically it should unlock all possible liquidity on all chains if it integrates CCIP into the protocol functions, Synthetix (SNX) is doing just that for helping to launch sUSD liquidity products on top of Base and Arbitrum I believe. Like many things, protocols need to be built from the ground up or upgraded to support it.
+
+> 2. Does this effectively move the security from ethereum to chainlink? or would it be better to say it moves security from a lot of shitty bridges to chainlink which is arguably an improvement.
+
+It more or less just replaces bridges and the biggest security improvement is you can remove honeypots that are the bridge contracts. No longer do you need to store all the assets into one place, with one potential vulnerability always looming. If you attack the Chainlink feeds/CCIP features it is going to be more like to having to attack all the ETH nodes to get your unsanctioned blockchain instruction in. Chainlink node distribution will help secure bridging as long as the feeds are also proven to be secure.
+
+</details>
+<details>
+<summary>u/waqwaqattack shares the latest Lido fuckery</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18441na/daily_general_discussion_november_26_2023/kaukpet/)
+
+Lido are up to fuckery again.
+
+In this twitter post <https://x.com/nero_eth/status/1728680630773575956>, Nero shows how a lido node operator, p2p.org (run by a lido cofounder), has announced it will start waiting to produce blocks. There’s a function called ‘getheader’ that the block proposer is supposed to call at time = 0, but node operators have until time = 4 seconds to help home operators who might have latency issues. 
+
+By waiting to call that function, they will get up to 4 seconds more of mev into their blocks. 
+
+The impact this will have is they’ll further centralise the ethereum network to orgs who have the ability to still produce blocks while waiting the longest amount of time - home operators or decentralised services would not be able to wait so long because they’re more likely to fail in block production. People will go to services that give them the best yield in LSTs without thinking about the potential impact on the ethereum network. 
+
+Lido literally have a golden goose in their possession, but they’re killing it. It’s extremely shortsighted, and it might have horrendous impacts for the rest of us stakers. 
+
+Please speak out against this!
+
+</details>
+<details>
+<summary>u/bagogel12 has an update from the KyberSwap hack</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18441na/daily_general_discussion_november_26_2023/kavgvun/)
+
+KyberSwap fell victim to a sophisticated exploit amounting to approximately $50 million on November 23, as reported by rekt.news ([https://rekt.news/kyberswap-rekt/](https://rekt.news/kyberswap-rekt/)) .
+
+This incident involved an in-depth comprehension of the underlying code to exploit it ([u/PhiMarHal](https://reddit.com/r/ethfinance/comments/181udkk/daily_general_discussion_november_23_2023/kaf4z7b/) reported already the technical details). The exploiter displayed a peculiar level of psychopathic behavior, leaving on-chain messages throughout the exploit to explain their actions. The final message they left was:
+
+"Dear Kyberswap Developers, Employees, DAO members and LPs,  
+Negotiations will start in a few hours when I am fully rested.  
+Thank you."
+
+KyberSwap chose to extend a 10% bounty to the hacker, with 90% intended for restitution.
+
+What makes this incident even more disturbing is the fact that during the hack, a MEV bot operator was able to capture $5.7 M from Kyber by frontrunning the exploiter.
+
+The deal has now been struck for the return of 90%, with the remaining 10% awarded to the frontrun bot operator ([tweet](https://twitter.com/KyberNetwork/status/1728800315955437743)). Morale does not seem to exist in the crypto landscape.
+
+The situation draws parallels to the Euler hack, evoking a sense of déjà vu for those who have experienced similar events. Notably, the exploiter received a message from the origninal Euler Finance Exploiter wallet, shilling some meme coin (I don't link it).
+
+In the midst of difficult circumstances, it is important not to lose hope and to expect the best possible outcome. Christmas is soon. Speaking from the experiance as a victim of the Euler hack myself, navigating the aftermath won't be easy.
+
+I hope those among our community who have been impacted by the Ethfinancier incident can navigate through their losses with resilience ([comments in the daily](https://reddit.com/r/ethfinance/comments/181udkk/daily_general_discussion_november_23_2023/kaesjlg/)). Resilience and risk management remains a key virtue in the crypto realm. Remember, don't put all your eggs or ETH in one defi protocol.
+
+</details>
+<details>
+<summary>u/stablecoin shares news of EthereumGPT and u/johnnydappeth suggests one for ethfinance</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/184w10b/daily_general_discussion_november_27_2023/kaz8na5/)
+
+[u/stablecoin](https://reddit.com/u/stablecoin):
+
+Someone built an Ethereum trained ChatGPT for developers and stakers. Looks like you have to have an OpenAI subscription account to use it though, and they are currently paused from new signups. 
+
+> I built Ethereum GPT, which was trained with the Consensus layer API specifications. 
+> If you're a builder looking to access specific data or just have a question about staking, try my fren:
+
+<https://chat.openai.com/g/g-T3pQLJpwi-ethereum-gpt>
+
+X link: <https://x.com/Butta_eth/status/1729088377700671798>
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/184w10b/daily_general_discussion_november_27_2023/kb1dn26/)
+
+[u/johnnydappeth](https://reddit.com/u/johnnydappeth):
+
+[u/stablecoin](https://reddit.com/u/stablecoin)'s post today got me thinking about developing an EthFinanceGPT that can answer newcomers' questions, respond to FAQs, dispel FUDs, and overall encapsulate the spirit of EthFinance to provide unbiased guidance. For those of you who don't know, GPTs are specialized tools capable of retrieving facts from an external knowledge base. This allows LLMs to utilize that information to generate answers. They can also follow instructions provided by the creator and have API access, as well as internet access, including an image generation tool.
+
+We have a plethora of content that can serve as the knowledge base, such as the Daily Doots, the EVMavericks Discord, ETF forums, blog posts by prominent users, educational content, discussions on decentralization, tokenomics, technical analysis, Twitter posts, and even memes. A curated knowledge base can be provided to a community-funded GPT, and perhaps even a Reddit bot could be created to interact with this GPT through posts.
+
+Unfortunately, I only have time to read through the dailies, so I won't be able to spearhead this effort. However, if someone else is interested in pursuing this, please feel free to do so.
+
+</details>
+<details>
+<summary>u/ajmonkfish brings very sad news from a long time contributor and later explains how it happened</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kb8srdk/)
+
+Welp guys, it's been fun, looks like my private key was compromised and my wallet was drained. No idea how my key got compromised.
+
+About 7 hours ago (fast asleep at this time) some crook opened up my wallet, drained my aave position and absconded with about 15 eth and 600 dollars worth of shitcoins.
+
+That's all I had left.
+
+<https://etherscan.io/address/0x0d06340e5424EA2DE37E5A1d2f410f6A0b40D58a>
+
+RIP me.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kba524j/)
+
+Thank you all very much for your kind words and advice.
+
+In case you missed my earlier post, my wallet got drained by a nasty man and unfortunately I had 15 eth in an aave position and about 800 dollars of shitcoins I had recently fomoed into.
+
+Gone, never to be seen again.
+
+I have a separate PC for crypto stuff and I thought this was enough to keep me safe.
+
+Wrong. So very wrong.
+
+I clicked on a dodgy "update chrome" link on my work laptop yesterday, not realizing that I had sync turned on in chrome, meaning metamask (and my seed phrase vault) were on there.
+
+That's the only way I can think this has happened.
+
+Please, use me as a cautionary tale and be more careful with your crypto.
+
+Here's the address that got drained in the wee hours of this morning and when I was getting my kids ready for school/nursery.
+
+<https://etherscan.io/address/0x0d06340e5424ea2de37e5a1d2f410f6a0b40d58a>
+
+Feel free to do some sleuthing, it's beyond me I'm afraid.
+
+Peace.
+
+</details>
+<details>
+<summary>u/timmerwb reminds us how tried and tested cold wallet seed phrases are for security and u/theethmeister shares their own diversification strategy for secure storage</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kbc5o9i/)
+
+[u/timmerwb](https://reddit.com/u/timmerwb):
+
+At risk of tediously adding to the security discussion, risk is always an interesting subject. YMMV but in the several years I've been involved in crypto, IIRC, among all the countless losses, hacks, exploits, compromises and thefts that have occurred, of between 4 and 9 $figures in value, (and some of which have sadly involved members of our community), I don't believe a single one has involved the loss, discovery or theft of a physical passphrase, including a physical hardware wallet. It's worth adding that during the Ledger leak, which included numerous *active names and address* (lol - it's still hard to believe), there was mucho concern about wrench attacks. Again, AFAIK, not a single compromise occurred directly because of that leak, and not a single physical theft was attempted (although clearly email addresses got phished to death after that).
+
+As such, the risk of loss is *overwhelmingly* associated with getting phished, or (usually mistakenly) storing credentials, including CEX accounts, on hot computers. For most people, best practice and good basic digital hygiene will ensure your crypto is safe.
+
+Remember that security is an on-going process. If you create a new wallet, generating the seed or passwords *is not the first step*. You should already know what the wallet will be used for, the associated risks, how you are going to secure it and how you will maintain that security. Don't be tempted to "jot down" the seed temporarily etc. Give yourself time to learn and understand the process before committing funds. Stay safe out there.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kbbgko1/)
+
+[u/theethmeister](https://reddit.com/u/theethmeister):
+
+To add to the discussion below about crypto security, my personal approach is to have about 20% in CEX and the rest split up among several (hardware) wallets, so if any single wallet gets compromised I can somewhat triangulate the cause of the hack. If you use Trezor you can create multiple wallets on one device using the passphrase function which in concept should protect you if your main seed phrase gets leaked or discovered.
+
+If you do need to use Metamask you can create a separate wallet solely for your Trezor and don't have to store your seeds in an online vault. This should maintain the security of the hardware wallet while also allowing interoperability with dapps. Unfortunately Metamask seems to be the most compatible with dapps but because it's the most popular is a highly visible target for hackers/viruses.
+
+Lastly, as to my CEX allocation I know "not your keys, not your coins" but having a sizeable amount gives me a higher transaction and withdrawal limit. Also if I need to liquidate assets quickly I can do so on my phone without having to tinker with my Trezor. *Knocks on wood* I haven't had to re-verify my account and perform KYC for the past 4 years. Always make sure to whitelist your withdrawal addresses.
+
+</details>
+<details>
+<summary>u/ro-_-b is bullish on Ethereum's soul</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/185p2wo/daily_general_discussion_november_28_2023/kb5q944/)
+
+A cryptocurrency is more than just an economic platform. Even though it has properties as some commodities it's not just a commodity. Ideally there is a purpose, values and culture. 
+
+Beside the protocol we need the social consensus. People that keep up the values such as decentralization. In that sense it's like a religion. People need to believe in it.  And in order for people to believe certain properties need to be satisfied. And when you believe in something you naturally start to evangelize. 
+
+Whatever Vitalik has said in public was genuine and well thought through. There are so many people that speak for Ethereum and hold up its values. Whenever somebody of these does something harmful the community holds them accountable. 
+
+In my view the same standards are not met by other cryptocurrencies, definitely not by Soylano. 
+
+Ethereum has a soul. It's more than just an ultrasound decentralized smart contract platform. 
+
+And for these reasons it has cultural relevance. A tokenized meme very often derives its value from being on Ethereum. And everyone who creates digital art wants to have it issued on the most pristine platform. 
+
+I'm certainly among the worst people to keep up these values. But I do rest assured because I know that there are many other people better than me precisely doing that and they're doing it very well.
+
+So all this cultural relevance, this community ethos and these people that have conviction and believe in Ethereum make me bullish long term. Because in the end precisely these values is all we need to succeed. Roar 🦁!
+
+</details>
+<details>
+<summaryu/DegenKoloToure updates on the Kyber exploit and u/_WebOfTrust shares the latest message></summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/186ihjr/daily_general_discussion_november_29_2023/kba3owl/)
+
+[u/DegenKoloToure](https://reddit.com/u/DegenKoloToure):
+
+Kyber exploiter:
+
+"Dear Kyberswap Executives, Employees, Token Holders and LPs,
+
+I said I was willing to negotiate. In return, I have received (mostly) threats, deadlines, and general unfriendliness from the executive team. That's ok, I don't mind.
+
+I have prepared a statement concerning our (potential) treaty. I plan to release it on Nov. 30 at Noon UTC, sharp.
+
+Under the assumption that I am treated with further hostility, we can reschedule for a later date, when we all feel more civil. You need only say the word.
+
+If not, we proceed as planned on Nov. 30.
+
+Thank you."
+
+<https://etherscan.io/tx/0x5c27d8e9248608f36b028a945f3d6ff31244ab45eb89e1d1a631f608a36454a1>
+
+---
+
+View on Reddit →](https://reddit.com/r/ethfinance/comments/187bfcu/comment/kbe94lv/)
+
+[u/_WebOfTrust](https://reddit.com/u/_WebOfTrust):
+
+Okey...this is a must read. New message from Kyber exploiter, their demands are not like others we have seen and interested to see how the story developed.
+
+Between Hacker and Kyber, users funds are at stake. 
+
+<https://twitter.com/TheDEFIac/status/1730196414154608785>
+
+Edit - c +v below
+
+To ALL relevant and/or interested parties,
+
+I thank you for your attention and patience during this uncertain time for Kyber (the protocol/DAO) as well as Kyber (the company). Below I have delineated a treaty for us to agree to.
+
+
+My demands are as follows:
+
+* Complete executive control over Kyber (the company) 
+
+* Temporary full authority and ownership over the governance mechanism (KyberDAO) in order to enact legislative changes. My current wallet address is fine for this.
+
+* All documents and information related to company / protocol formation, structure, operation, revenues, profits, expenses, assets, liabilities, investors, salaries, etc. 
+
+* Surrender of all Kyber (the company) assets. This is both On-chain and Off-chain assets. It includes but is not limited to: shares, equity, tokens (KNC and non-KNC), partnerships, blogs, websites, servers, passwords, code, social channels, any and all creative and intellectual property of Kyber.
+
+
+Once my demands have been met, I will provide the following:
+
+* Executives, you will be bought out of the company at a fair valuation. You will be wished well in your future endeavors. You haven't done anything wrong. A small error was made, rounding in the wrong direction, it could have been made by anyone. Simply bad luck. 
+
+* Employees, under the new regime your salary will be doubled. It is understandable that many current employees will want to leave regardless. The employees who don't want to stay will be given a 12-month severance with full benefits and assistance in finding a new career, no questions asked.
+
+* Token Holders and Investors, under this treaty, your tokens will no longer be worthless. Is this not sweet enough? I'll go further still. Under my management, Kyber will undergo a complete makeover. It will no longer be the 7th most popular DEX, but rather, an entirely new cryptographic project.
+
+* LPs, you will be gifted a rebate on your recent market-making activity. The rebate will be for 50% of the losses you have incurred. I know this is probably less than what you wanted. However, it is also more than you deserve.
+
+
+This is my best offer. This is my only offer.
+I require my demands to be met by December 10, otherwise, the treaty falls through.
+
+Additionally, should I be contacted by agents from any of the 206 sovereignties, concerning the trades I placed on Kyber, the treaty falls through. In this case, rebates will total to exactly 0.
+
+Kyber is one of the original and longest-running DeFi protocols. No one wants to see it go under.
+
+To assist with this transition of leadership, I may be contacted on telegram: @Kyber_Director
+
+Thank you.
+
+- Kyber Director
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #44: November 24, 2023</summary>
 
 [Listen Live](https://www.youtube.com/watch?v=A0Uk6WWNsUo) | [POAP](https://poap.gallery/event/159601)
