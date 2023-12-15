@@ -987,7 +987,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #47: December 15, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/165838)
+[Livestream Recording](https://www.youtube.com/watch?v=Z2Be5ur-asw) | [POAP Checkout](https://checkout.poap.xyz/165838)
 
 **Upcoming Guests**
 
