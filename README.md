@@ -14658,6 +14658,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | hanniabu              | [Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including [DailyDoots.com](https://dailydoots.com/)!)
 .  | haurog                | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | hashtagfuzzmaster     | "ALL HAIL THE ETERNAL CRAB"
+.  | import-antigravity    | [Alphaday Founder](https://alphaday.com/) - A customizable dashboard to easily stay up to date and interact with crypto
 .  | insidethesimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
 .  | itswhatevermannn      | [BetOnchain](https://betonchain.gg/) - A permissionless blockchain-based betting platform
 .  | jey_s_tears           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
@@ -14670,6 +14671,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | logristhebard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
 .  | midnightonmars        | [GridPlus](https://gridplus.io/) CEO
 .  | mister_eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
+.  | motionick             | [Wanderers Founder](https://www.wanderers.ai/game] - A free-to-play sci-fi based rogue-lite game with card collecting and deck building elements
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
 .  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
