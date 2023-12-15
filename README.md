@@ -983,7 +983,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #46: December 8, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | No POAP
+[Livestream Recording](https://www.youtube.com/watch?v=ARHtGV-XrLA) | No POAP
 
 **Upcoming Guests**
 
