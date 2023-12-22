@@ -992,6 +992,306 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #48: December 22, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/166184)
+
+**Upcoming Guests**
+
+- Jan. 5th - Lantern Finance
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18o7zxl/comment/kefkaui/)
+
+[u/Fiberpunk2077](https://reddit.com/u/Fiberpunk2077)
+
+> Ethereum
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> $2260
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 88,715 hodlers subscribed (+6)
+
+[u/bagogel12](https://reddit.com/u/bagogel12)
+
+> Day 463 since The Merge
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18l1qbj/comment/kdxz76f/)
+
+*Yes we tokenize,*
+
+*No you won't believe your eyes,*
+
+*New money arise.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/doomfuzzslayer</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18mnig7/daily_general_discussion_december_20_2023/ke8v57v/)
+
+Sold my ETH for a 2020 Honda yesterday. I’m out of crypto entirely now (gladly). I know the used car market has been hot the past year but I’m betting it has some room to run. IF I buy into crypto again (with my used car profits)  it’ll be a basket of sub 1000 MC coins with 100x potential and some SOL/AVAX for stability (they’re the new BTC). I’ll be fine with a 10x tho. Regardless Eth is done imo and everyone here is wasting their time. Advice (not financial) get out before the inevitable epic crash and buy something with more upside. Aside from used cats, garbage pail kids (first edition only with stickers intact) are looking strong. 
+
+EDIT: meant to say used cars in that last sentence, but used cats also have more potential than ETH so not gonna correct.
+
+EDIT2: meant this whole post is a joke. Bad timing I know but hoping to lighten the mood a bit
+
+</details>
+<details>
+<summary>u/benido2030 has found 2023 to be their favourite year in crypto</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18i1xpa/daily_general_discussion_december_14_2023/kdcy6uu/)
+
+I am tired. Hyped, cause I believe 2024 will be a good year, but more tired now that it’s still 2023. I think that’s partly the bear market which is exhausting, because I promised myself to learn a lot and pay attention to benefit during the bull market. But probably also just psychology cause the year is coming to an end and humans are strange. It’s an arbitrary date, but still it feels significant, I guess also because of the holidays. In any case this year was my favourite year in crypto. I have learned a lot, developed new interests (eg for the importance and details of governance) and the past 12 months made me feel like home in ETHfinance. I love this community since I joined (2019 or beginning of 2020, don’t remember) but somehow 2023 was special and I would like to thank all of you! 
+
+That being said I’ll post less for the next 2 weeks I guess, but I’ll stick around, will read and will be back in 2024. love you all!
+
+</details>
+<details>
+<summary>u/hanniabu defines some terms which some people seem to be confusing</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18i1xpa/daily_general_discussion_december_14_2023/kdetb5y/)
+
+There seems to be some confusion around terminology. Maybe the terms have been diluted from when I learned them, but this is how I'd define these terms:
+
+* **Hardware wallet** \- This does not mean cold wallet. It means it's not a software wallet and uses hardware to contain your key and do signing.
+* **Hot wallet** \- This is a wallet you're actively using. It should not be where your primary funds are stored since there's a higher risk of losing funds. It can be a hardware wallet, it does not (and I'd recommend should not) be a software wallet.
+* **Cold wallet** \- This is where you'd store a larger portion of your funds. You don't use this with apps. The goal is as minimal exposure as possible. This should definitely be a hardware wallet.
+* **Cold storage** \- This used to be the same as a cold wallet but I see the meanings have diverged. This would be a hardware wallet that is completely airgapped and only has incoming transactions. This is meant for maximum security for long term funds that you don't plan on touching for years.
+
+</details>
+<details>
+<summary>u/haurog explains parallel execution on Solana and some criticisms of its consensus mechanism</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18i1xpa/daily_general_discussion_december_14_2023/kdc3n2k/)
+
+In my understanding the solana parallelism relies on the transaction submitter to tell them what contracts/states they touch. It is assumed that they are honest. The attack vector on the paralellisation then goes like this. Just tell the SVM you are touching all AMM contracts, even if you do pretty much nothing in your transaction. The SVM then cannot process the other AMM swaps in parallel, but has to wait until it has processed yours before it can do the other swaps. You force it in doing at least one step serial. Transactions are cheap, so nothing stoping you spamming the network reserving resources left and right. I do not think one can bring Solana down with such an attack, but it would slow down the SVM quite a bit. 
+
+If you want to learn about some real issues with solana in the consensus mechanism they use, there is a recent conference paper by the distributed computing group at the ETH, a university, in Switzerland: <https://tik-db.ee.ethz.ch/file/9d40dad802dd12d9ba1f1b7c1759920c/>
+
+I only skimmed over it, but here are some juicy bits: 
+
+- These tests seem to confirm our basic understanding that Solana does not fully achieve consensus. In this paper we show how a single malicious validator, once elected as leader, might be able to halt the Solana blockchain.
+- We also observe some inconsistent behavior, which is not readily explained by any of the consensus rules we are aware of.
+- In many places it was hard for us to bring differences between the whitepaper, documentation, and code together into a coherent picture. 
+- Solana takes a non-standard approach to achieving state replication in view of possible (adversarial) failures, making strong assumptions about the failure cases that can arise in practice, that seem to go far beyond the normal theoretical bounds for these problems.
+
+App devs might want to develop on SVM for its speed, but to be honest, there are not that many dApps on Solana, so it seems to be difficult to find dApp devs. They had quite some incentives in 2021 I think to onboard people, but it was a limited success as far as I remember. Maybe now with the renewed speculation they might attract more settlers, but we will see what happens. I guess generally Ethereum people are interested in Solanas tech, because they implemented things which need to be solved on the Ethereum side as well. In my opinion, parallelization is not the bottleneck on Ethereums side just yet, it is probably more important for L2s. The Bottleneck is rather the state size and how it is stored/accessed which needs to be solved before one can reap benefits from a fully parallelized EVM. And I am not aware that Solana has solved that issue, but as always I could be very wrong there.
+
+</details>
+<details>
+<summary>u/SpontaneousDream has a Coinbase vs the SEC update</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18itav8/daily_general_discussion_december_15_2023/kdjv9cx/)
+
+Surprised there isn't more talk about the SEC decision today against Coinbase's petition. This is over a year in the making. Essentially, they are going against Coinbase's view that:
+
+> "the Petition’s assertion that application of existing securities statutes and regulations to crypto asset securities, issuers of those securities, and intermediaries in the trading, settlement, and custody of those securities is unworkable
+
+[Official SEC release.](https://www.sec.gov/files/rules/petitions/2023/4-789-letter-secretary-grewal-121523.pdf)
+
+[Gensler comments.](https://www.sec.gov/news/statement/gensler-coinbase-petition-121523)
+
+Coinbase has [appealed](https://twitter.com/iampaulgrewal/status/1735716481541996640) and will be taking them to court. This will probably be the most important court case in crypto's history.
+
+In my mind, when Ethereum held its ICO, it was probably security. IANAL but a brief look at the three prongs of the Howey test makes ETH sound like a security offering back then. BUT, Gensler I believe has said before that something can start out as a security and "become decentralized enough" to become a commodity. Don't quote me on that.
+
+</details>
+<details>
+<summary>u/TheHansGruber has a staking node update</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18jkos4/daily_general_discussion_december_16_2023/kdm8ppg/)
+
+It's been about two and a half months since the holesky testnet re-launch, and all is quiet on the western front. My several thousand holesky validators are choochin' away with no significant hiccups. Running geth/lighthouse at the moment. Still haven't gotten around to setting a withdrawal address for them. For some reason I started having  a difficult time picking up peers on this machine. Since launch I have been stable at 1round 15 peers, but over the last week that has dropped to 1-2 and sometimes 0 peers. Surprisingly, and this is more of a testament to the design of the network, my average effectiveness hardly dropped at all during this. I remained in the mid to high 80's. 
+
+I did do some changing of my network setup and for a few hours I had the holesky machine connected to both wifi and ethernet...I believe the machine had two IP addresses assigned to it and that may have caused some wires (or em waves?) to cross.
+
+I decided to go ahead and forward the ports associated with the EL/CL applications, something I have not had to do with the rocketpool or solo machines. Both of those machines have 50+ peers running out of the box setups and nothing besides a static IP assigned to them. Anyway, running this setup overnight has brought the machine up to the max specified 50 peers and I foresee no other changes needing to be made as far as networking goes.
+
+The other fun part about all this is that I have finally pulled the trigger on a nice little rackmount setup. Not necessary (by a *longshot*), but a lot of fun for a self-proclaimed computer enthusiast. Over the last couple years I have collected some rackmount equipment that I have come across for free/cheap. UPS' that are being tossed just needed a couple new batteries. Gigabit switches that just need a new SFP adapter, etc. Color coding the patch cables and swapping out USB/HDMI/ethernet keystones to make it all look neat and professional. I made a custom mount for a gas spring arm for a monitor on the back of it. There are these cool 1U flip up monitors you can buy that are like 700 quatloos ....yeah....nah....I'll use my free, collecting dust in a corner monitor instead. I have discovered that any normal computer component becomes 10x more expensive if it has "enterprise" or "rackmount" in the name. 
+
+ I am trying to convince another local ISP that I am a business so they will install a fiber line directly to me. My understanding is that the install would be free, and the monthly cost would be more than what I am paying now, but not wholly unreasonable considering how much time and bandwidth I use. I have been close to picking up a dream machine pro because of the sale ubiquiti has had on it...apparently they never do discounts...but after perusing through the rest of their hardware if I fall down that rabbit hole it'll take eth breaking 100K before I can pay off the credit card bill. They've got some good lookin' hardware. That said...if I am a *business*, then that can all be written off...so less taxes...and there I go talking myself into it again. I'll stop now.
+
+The nodeset machine is up and running as well, just waiting to be assigned. I am looking forward to that launch next year. There's a lot to look forward to, and a lot of good work being done combat the biggest threat to ethereum's credible neutrality. It should remain on everyone's mind that the priority needs to be the health of the network. *Any* entity that approaches 33% is a threat to credible neutrality. Doubly so for an entity that *says out loud* that they do not care and will continue to grow in an attempt to harm the network in pursuit of greater profit. 
+
+Just so everyone is clear: **there is no debate about this**. Let us keep fighting the good fight, less we lose the greatest value prop of ethereum. 
+
+I'll keep the staking machines running. Sip some coffee. Get my steps in. Enjoy the beginnings of the bull and patiently await new ATH's. Post here, and occasionally degen 100x some coins *no one* should touch with a ten foot pole. You know...for fun. Because if we don't remember to *have fun* doing all these frontier-of-the-internet shenanigans...what's the point?
+
+</details>
+<details>
+<summary>u/stablecoin discusses the difference between high and low conviction investors</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18kamvf/daily_general_discussion_december_17_2023/kdr5esz/)
+
+weak conviction endlessly follows price pumps, strong conviction requires years of building on ideas and integrating within the ecosystem to deliver on the promise of decentralized uncensorable monetary system that any entity can build on.
+
+there's a difference and some of you don't seem to understand. for example is retail going to deposit directly into CRV pools or is retail going to use an app that pays their transaction and draws liquidity from the CRV pools in the background? stop worshiping retail pumps like they mean anything other than CT rotations and drummed up VC exit liquidity. 
+
+FTX estate recently announced they are giving people cash equivalent of crypto when Bitcoin was at 16K prices, and keeping the rest (ie spread between 16K and 42K). guess who also happens to have a lot of SOL to pay back their estate in such a generous way? strange how it all works out huh?
+
+</details>
+<details>
+<summary>u/Nyruds shares the EthFinance farcaster channel</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18jkos4/daily_general_discussion_december_16_2023/kdkxcpq/)
+
+Someone created an ethFinance channel at Farcaster. Certainly not to replace reddit, but to try to gather like-minded people in a group on Farcaster.
+
+If you're a user of Farcaster, be sure to join up!
+
+</details>
+<details>
+<summary>u/austonst has an unfortunate piece of block relay news</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18l1qbj/daily_general_discussion_december_18_2023/kdygq35/)
+
+BloXroute [have announced](https://x.com/bloXrouteLabs/status/1736819783520092357?s=20) that they are no longer accepting block submissions from builders that contain any transactions that interact with OFAC-sanctioned addresses. For now they've enabled their OFAC checks on their max profit relay, but obviously this makes it kind of the same as their regulated relay and at some point we'll see them merge into one.
+
+BloXroute's max profit relay currently has an inclusion rate (market share? it's complicated) of ~20%. Turning it into a censoring relay doesn't mean 20% more overall Ethereum blocks are going to be censoring. It's more likely that the remaining non-censoring relays will still deliver those blocks, and the impact on Ethereum will be minimal. But clearly this is a trend in the *wrong* direction for network health.
+
+P.S. reminder that censorship at the *builder* level is [a much bigger concern](https://censorship.pics/) than censorship at the relay level right now.
+
+</details>
+<details>
+<summary>u/nixorokish sings the ultrasound team's praises</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18luu66/daily_general_discussion_december_19_2023/ke187wy/)
+
+man, this makes me so mad. dude misses a few blocks and sees ultrasound relay being transparent about looking into user issues and engaging with the community and makes a fud post about them on ethstaker... and mixes it in with a good message about bloxroute censorship, so it's getting upvoted
+
+<https://reddit.com/r/ethstaker/comments/18lpd53/update_your_relays_bloxroute_is_now_censoring/>
+
+ultrasound is seriously such an amazing team for this space. both justin and alex do a huge amount of work to try to keep projects censorship resistant, including reaching out to staking orgs to ask them to run non-censoring relays, doing censorship resistance research, liaising with businesses on keeping ethereum credibly neutral, communicating with the public, helping users troubleshoot, etc. and the relay works great for most users around the world. the fact that there's an issue in hong kong and australia is newly discovered, thanks to user feedback. and this brand new user who has never even interacted in the subreddit misses a few blocks and immediately makes a post to shit on them. this is why we can't have nice things
+
+</details>
+<details>
+<summary>u/LogrisTheBard discusses the concept of useful proof of work</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18luu66/daily_general_discussion_december_19_2023/ke2fw3x/)
+
+Have any of you heard of "useful" proof of work? Now I know most of us here are thoroughly in the proof of stake camp for consensus but at the end of the day all our stake is doing is serving as a basis for Sybil resistance so a bunch of nodes can vote on what the truth is. At the end of the day it's just majority rules. Ethereum solves Sybil resistance by making participants proof they have something. Bitcoin solves Sybil resistance by making participants prove they spent something. That's obviously quite wasteful if you spent that something while getting nothing but Sybil resistance in return but what if the work produced something of inherent value?
+
+The most famous form of proof of work is hashing. However, the nature of the work can take many forms so long as the task meets a few basic requirements.
+
+* There needs to be an unlimited supply of whatever task. You can't be halting your consensus mechanism while waiting for work to arrive.
+
+* The work needs to be verifiable in much less time than it can be done. This is O(c) for hashing but it could be some reasonably small O(n) while still being viable.
+
+So, are there any other "infinite" demand tasks exist with a statistically verifiable outcome? At least one important one is AI training. At least for certain types of AI you're basically just tuning an extraordinarily large array of numbers. That tuning works like a search that takes place over *many* iterations. Each iteration outputs a vector in that space which is basically your proof of work. In a large enough search space, guessing the right direction is basically impossible. So, to get a coherent direction consistently you need to actually do the training work. This is basically the insight of [GenSyn](https://www.gensyn.ai/).
+
+So, now you spend electricity and rather than getting BTC which is just a proof of spend, you get ownership over the model you helped train. Once you have Sybil resistance through this means you can pile on an EVM, SVM, or whatever you like on top of it. Think of it as swapping out *just* the consensus client. People do work and prove they are real, real people just vote on the truth of the state machine. Majority still rules.
+
+There are some potential advantages here to decentralization. PoS at least has a cost of the time cost of the capital that is parked there. Useful PoW might have actually no cost if the economic value of what is produced by the work is greater than the spend required to produce it. Also, anyone with a graphics card powerful enough to iterate on the model can participate without having to hold $64k in ETH. The waste of the system is reduced to the verification time on all participants. That can be offset by the transaction costs of the network being secured.
+
+I just thought it was an interesting line of thought worth sharing. There are forms of work outside of AI but this is one that I came across in my consulting work. Also BitTensor had a [pretty good primer](https://github.com/opentensor/subtensor/blob/feature/consensus-readme/docs/consensus.md) on the ecosystem of PoW systems if you want to get your head out of the Ethereum ecosystem for a minute.
+
+</details>
+<details>
+<summary>u/696_eth compares all of the major chains</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18mnig7/daily_general_discussion_december_20_2023/ke9a5sw/)
+
+What's good bearfinance. Since I stopped being a decentralization maxi I got to be more free and open minded and explore many other chains, here's my quick summary.
+
+> SOL.
+
+Pros: good fees. Phantom wallet is way better than Metamask and any wallet for any other chain that I've experienced. You can still enjoy the defi, NFTs, etc but for low prices so it's more appealing to masses. All of that is good until you hit their main concern, so let's get into cons.
+
+Cons: when needed aka when demand comes in the shit doesnt work but even w/o that half of the time my TXs on dexes don't go thru. I'm assuming when there would be even more demand in the bull run the chain would stop or half of the shit wouldnt work. So yes, the fees are low but the chain doesn't work. It doesn't make me feel secure to hold more than a few $k on the chain and I'm sure real world whales wouldn't want the chain to stop at any time either. 
+
+> AVAX.
+
+I might've gotten to degen there in the wrong time but the fees WERE INSANE. I paid more than Ethereum fees for prices. I don't know what their adv is and I don't care, the experience sucks. Oh, and I also have gotten my TX's failing for unknown reasons while still losing like $10-20 on trying to swap..
+
+> Cardano.
+
+Cardano is a poor man's Solana. Basically all the same shit except it's even worse. Fees are not as low neither. Sometimes the chain just stops, oh well. People say you wait 1-2 days and try again lmao. 
+
+> Osmosis (or whatever its called)
+
+I didn't have a bad experience but I haven't done much there. I've already ran into a few hiccups and I'm assuming there would be more if I explore. Also, it's also probably working ok cause not much demand and again I think that will change when there's lots of demand.
+
+> BSC
+
+I guess it works but the emphasis on the 'guess'. Cheap fees but yeah idk. 
+
+> Bitcoin
+
+30-40min blocks, insane gas fees ($40-50) per tx, no good fucking wallet cause they have their lightning and other ones and there's taproot and some other shit and it's all over the place and I need 3 wallets but then I can't send from different parameters aka lightning, taproot, to each other. Doing NFTs there is a fucking joke, let me tell ya, but free money is free money.
+
+---
+
+Out of all of these, honestly, SOL is probably the best experience for a normie user. You don't have to have much money and it generally works relatively well until it doesn't. Bitcoin has the opposite issue, works poorly awful but it ain't gonna stop. 
+
+---
+
+> ETH L2s
+
+Linea: fees are like mainnet at 30 gwei, wtf is that?
+
+Scroll: fees not too bad but could be better. 
+
+Arb1: somewhat better than scroll.
+
+OP, Base: almost 0 fees and quick confirmations. love it!
+
+Zksync: pretty good fees tbh compared to zkrollups and arb1 but high compared to OP stack. 
+
+Polygon ZkEVM: similar to zksync I'd say.
+
+Arbitrum nova: similar to OP w almost negligible fees but idk who uses it.
+
+Gnosis scan: similar to Arb nova.
+
+Starknet: fragmented out of Ethereum's ecosystem, getting there felt worse than to an alt L1, fees are higher and Linea doesnt look that awful with the Starknets presence.
+
+Polygon PoS (sidechain): actually has an ecosystem, fees more similar to Arb1 & zksync when there's more demand and activity, but usually it's a few times cheaper. You gotta have matic to use it tho so that's a downside. 
+
+> ETH. 
+
+Secure. The fees are kinda high, they are ok but def not for the normies. When the demand spikes up and when more demand comes back it is def going to be only for whales or for degens. The chain never stops tho. Gas wars exist but chain works perfectly. Idk, not really much to say, things seem obvious to me. There's hella liquidity too, there are options like defi that let me do things that I wouldn't do on the other closest chain by security - Bitcoin, and then compared to that the block times are magnitudes of order faster. ETH definitely wins for me as a settlement layer and makes me feel comfy holding assets there. 
+
+---
+
+Will I still use other chains? Probably. 
+
+If I can make free money - sign me up! 
+
+Will I still airdrop farm them? Hell yeah, duh?! 
+
+Will I store there a significant amount of money? Hell naw, sometimes I'm withdrawing from them faster to my CEX and holding it there cause I trust Kraken more.
+
+That said, I'm looking excited for zkrollups after 4844 upgrade and just looking forward to a more mature ecosystem of Ethereum where scalability is solved thru L2s without compromising the security and decentralization of the settlement layer. Also, we badly new a way better wallet and for front ends to be a nicer experience and at least handle the capacity of the users that Ethereum is gong to attract.
+
+---
+
+Lastly, I'll leave you with this.
+
+Decentralization is undervalued until it doesn't.
+
+</details>
+<details>
+<summary>u/haurog looks into Solana's decentralisation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18mnig7/daily_general_discussion_december_20_2023/ke5k1w2/)
+
+The discussion in here has gotten a bit out of hand while I was asleep. The ETH sentiment seems to have reached a breaking point, at least for some people. Looks to me like the concentrated marketing and FUD campaigns seems to bear fruit on some. Not surprising, but still sad to see. Someone mentioned Solana nodes, so I share something I realized in a discussion I had on farcaster DMs this week:
+
+Solana has close to 3000 nodes. We do not know how independent they are, but someone asked an interesting question a few days ago: ['Why does solana have over 10% of its validators in Ogden (Utah)'](https://reddit.com/r/solana/comments/18f6sdd/why_does_solana_have_over_10_of_its_validators_in/). It was also mention here in ethfinance, but I cannot find the comment anymore.
+
+When you check the [solana decentralization statistics](https://solanacompass.com/statistics/decentralization) today. Ogden 'only' has 133 nodes (5%), but Wichita (Kansas) has 375 (13%). By the way, the Bar chart on the right side still shows Ogden as having ~~293~~  231 servers, yesterday it was 304 (or so). So it seems slightly delayed. 
+
+If you click on 'staked nodes', which are nodes that are also validating, solana has close to 2000. Do not ask me why there are more staking nodes than actual nodes in some locations. Maybe these numbers are filtered in a certain way. Maybe the numbers are just delayed and fast relocations of the nodes gives these weird results. I do not know. 123 of the staking nodes are in Ogden (6%). The bar chart to the right still has Ogden listed with 314 (16%). But now, Wichita seems to have 492 of them, which is a staggering 25% of all solana staking nodes. This in itself is not a healthy number being in one location. What I think is even worse is that it looks like hundreds of nodes have been moved from one location to another within days. 
+
+I would interpret that as a single entity has control over a large part of these nodes/validators and moves them around at a whim. It definitely is very fishy. Much decentralization...
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #47: December 15, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Z2Be5ur-asw) | [POAP](https://poap.gallery/event/165838)
