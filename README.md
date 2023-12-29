@@ -11,28 +11,28 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>963 Dooters - Last Updated December 22, 2023</small>
+<small>967 Dooters - Last Updated December 29, 2023</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
-. | [superphiz](https://reddit.com/u/superphiz) | 150
+. | [superphiz](https://reddit.com/u/superphiz) | 152
 . | [logristhebard](https://reddit.com/u/logristhebard) | 94
-. | [benido2030](https://reddit.com/u/benido2030) | 87
+. | [benido2030](https://reddit.com/u/benido2030) | 89
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 86
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 76
 . | [696_eth](https://reddit.com/u/696_eth) | 76
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 75
-. | [set1less](https://reddit.com/u/set1less) | 67
+. | [set1less](https://reddit.com/u/set1less) | 68
 . | [hanniabu](https://reddit.com/u/hanniabu) | 63
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [syentist](https://reddit.com/u/syentist) | 59
 . | [stablecoin](https://reddit.com/u/stablecoin) | 57
+. | [ethical-trade](https://reddit.com/u/ethical-trade) | 56
 . | [nixorokish](https://reddit.com/u/nixorokish) | 56
-. | [ethical-trade](https://reddit.com/u/ethical-trade) | 55
 . | [etheraider](https://reddit.com/u/etheraider) | 48
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 47
-. | [haurog](https://reddit.com/u/haurog) | 44
+. | [haurog](https://reddit.com/u/haurog) | 47
+. | [bob-rossi](https://reddit.com/u/bob-rossi) | 44
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
-. | [bob-rossi](https://reddit.com/u/bob-rossi) | 42
 . | [austonst](https://reddit.com/u/austonst) | 41
 . | [the-a-word](https://reddit.com/u/the-a-word) | 39
 . | [alexiskef](https://reddit.com/u/alexiskef) | 38
@@ -41,32 +41,32 @@ Rank | Username   | Daily Doots
 . | [spacesider](https://reddit.com/u/spacesider) | 36
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 34
+. | [pa7x1](https://reddit.com/u/pa7x1) | 33
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 32
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 32
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 31
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 31
-. | [pa7x1](https://reddit.com/u/pa7x1) | 31
+. | [bagogel12](https://reddit.com/u/bagogel12) | 31
 . | [interweaver](https://reddit.com/u/interweaver) | 30
-. | [bagogel12](https://reddit.com/u/bagogel12) | 30
 . | [liberosist](https://reddit.com/u/liberosist) | 29
 . | [15kisfud](https://reddit.com/u/15kisfud) | 29
 . | [eggill7227](https://reddit.com/u/eggill7227) | 28
-. | [revanchist1](https://reddit.com/u/revanchist1) | 27
+. | [revanchist1](https://reddit.com/u/revanchist1) | 28
+. | [mrvodnik](https://reddit.com/u/mrvodnik) | 27
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
 . | [ender985](https://reddit.com/u/ender985) | 26
 . | [domotheus](https://reddit.com/u/domotheus) | 26
-. | [mrvodnik](https://reddit.com/u/mrvodnik) | 25
+. | [papazio](https://reddit.com/u/papazio) | 24
 . | [maswasnos](https://reddit.com/u/maswasnos) | 23
+. | [_weboftrust](https://reddit.com/u/_weboftrust) | 23
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
-. | [papazio](https://reddit.com/u/papazio) | 22
+. | [seamonkey82](https://reddit.com/u/seamonkey82) | 22
+. | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 22
 . | [needlerop](https://reddit.com/u/needlerop) | 22
 . | [hipaces](https://reddit.com/u/hipaces) | 22
-. | [_weboftrust](https://reddit.com/u/_weboftrust) | 22
-. | [seamonkey82](https://reddit.com/u/seamonkey82) | 21
-. | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 21
+. | [decibels42](https://reddit.com/u/decibels42) | 22
 . | [wolfparking](https://reddit.com/u/wolfparking) | 21
 . | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
-. | [decibels42](https://reddit.com/u/decibels42) | 21
 . | [silentjxhn](https://reddit.com/u/silentjxhn) | 20
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 20
 . | [moschus11](https://reddit.com/u/moschus11) | 20
@@ -80,16 +80,17 @@ Rank | Username   | Daily Doots
 . | [ethacct](https://reddit.com/u/ethacct) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
 . | [ber10](https://reddit.com/u/ber10) | 18
+. | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 18
 . | [kingleo23](https://reddit.com/u/kingleo23) | 17
 . | [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 17
-. | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 17
 . | [abcoathup](https://reddit.com/u/abcoathup) | 16
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
+. | [barthib](https://reddit.com/u/barthib) | 16
 . | [hblask](https://reddit.com/u/hblask) | 15
 . | [nikola_j](https://reddit.com/u/nikola_j) | 15
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 15
 . | [vvpan](https://reddit.com/u/vvpan) | 15
-. | [barthib](https://reddit.com/u/barthib) | 15
+. | [masterroshi9](https://reddit.com/u/masterroshi9) | 15
 . | [dreth](https://reddit.com/u/dreth) | 14
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 14
 . | [thehighflyer](https://reddit.com/u/thehighflyer) | 14
@@ -97,21 +98,22 @@ Rank | Username   | Daily Doots
 . | [teedeepee](https://reddit.com/u/teedeepee) | 14
 . | [sonotyou](https://reddit.com/u/sonotyou) | 14
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 14
-. | [masterroshi9](https://reddit.com/u/masterroshi9) | 14
 . | [asdafari12](https://reddit.com/u/asdafari12) | 14
 . | [offmyporch](https://reddit.com/u/offmyporch) | 13
+. | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
 . | [skythe4](https://reddit.com/u/skythe4) | 13
 . | [kudeta](https://reddit.com/u/kudeta) | 13
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 13
+. | [etherbie](https://reddit.com/u/etherbie) | 13
+. | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 13
 . | [dashby1](https://reddit.com/u/dashby1) | 13
 . | [mrs_willy](https://reddit.com/u/mrs_willy) | 12
-. | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 12
 . | [unitedterror](https://reddit.com/u/unitedterror) | 12
+. | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
 . | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 12
-. | [etherbie](https://reddit.com/u/etherbie) | 12
 . | [barleythecat](https://reddit.com/u/barleythecat) | 12
 . | [2peg2city](https://reddit.com/u/2peg2city) | 12
 . | [cutsnek](https://reddit.com/u/cutsnek) | 11
@@ -119,10 +121,8 @@ Rank | Username   | Daily Doots
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
 . | [timmerwb](https://reddit.com/u/timmerwb) | 11
 . | [t0bii](https://reddit.com/u/t0bii) | 11
-. | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 11
 . | [pegcity](https://reddit.com/u/pegcity) | 11
 . | [keynya](https://reddit.com/u/keynya) | 11
-. | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 11
 . | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 11
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
 . | [bigglybillbrasky](https://reddit.com/u/bigglybillbrasky) | 11
@@ -139,12 +139,14 @@ Rank | Username   | Daily Doots
 . | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 9
 . | [ev1501](https://reddit.com/u/ev1501) | 9
 . | [pbrody](https://reddit.com/u/pbrody) | 9
+. | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 9
 . | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [magnushansson](https://reddit.com/u/magnushansson) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
 . | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 9
 . | [ch3white10](https://reddit.com/u/ch3white10) | 9
+. | [canadiens1993](https://reddit.com/u/canadiens1993) | 9
 . | [buyethordai](https://reddit.com/u/buyethordai) | 9
 . | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 9
 . | [atyzze](https://reddit.com/u/atyzze) | 9
@@ -153,7 +155,6 @@ Rank | Username   | Daily Doots
 . | [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 8
 . | [weedstocks](https://reddit.com/u/weedstocks) | 8
 . | [theethmeister](https://reddit.com/u/theethmeister) | 8
-. | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 8
 . | [showbizza](https://reddit.com/u/showbizza) | 8
 . | [roargrrrr](https://reddit.com/u/roargrrrr) | 8
 . | [pembull](https://reddit.com/u/pembull) | 8
@@ -167,7 +168,6 @@ Rank | Username   | Daily Doots
 . | [dray11](https://reddit.com/u/dray11) | 8
 . | [defacticool](https://reddit.com/u/defacticool) | 8
 . | [confucius_said](https://reddit.com/u/confucius_said) | 8
-. | [canadiens1993](https://reddit.com/u/canadiens1993) | 8
 . | [accountaccumulator](https://reddit.com/u/accountaccumulator) | 8
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [vandelay101](https://reddit.com/u/vandelay101) | 7
@@ -222,6 +222,8 @@ Rank | Username   | Daily Doots
 . | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 5
 . | [themoondancekid](https://reddit.com/u/themoondancekid) | 5
 . | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
+. | [the_swingman](https://reddit.com/u/the_swingman) | 5
+. | [strawdar](https://reddit.com/u/strawdar) | 5
 . | [skidseverywhere](https://reddit.com/u/skidseverywhere) | 5
 . | [sinnu2s](https://reddit.com/u/sinnu2s) | 5
 . | [shadowking94](https://reddit.com/u/shadowking94) | 5
@@ -257,7 +259,6 @@ Rank | Username   | Daily Doots
 . | [toethmooonguy](https://reddit.com/u/toethmooonguy) | 4
 . | [thoughts4food](https://reddit.com/u/thoughts4food) | 4
 . | [theunderdogrutten](https://reddit.com/u/theunderdogrutten) | 4
-. | [the_swingman](https://reddit.com/u/the_swingman) | 4
 . | [the_statustician](https://reddit.com/u/the_statustician) | 4
 . | [suddenmind](https://reddit.com/u/suddenmind) | 4
 . | [stobie](https://reddit.com/u/stobie) | 4
@@ -308,7 +309,6 @@ Rank | Username   | Daily Doots
 . | [syzygy00778](https://reddit.com/u/syzygy00778) | 3
 . | [survivaleast](https://reddit.com/u/survivaleast) | 3
 . | [strtrd](https://reddit.com/u/strtrd) | 3
-. | [strawdar](https://reddit.com/u/strawdar) | 3
 . | [stevieraykatz](https://reddit.com/u/stevieraykatz) | 3
 . | [splinunz](https://reddit.com/u/splinunz) | 3
 . | [splintercole](https://reddit.com/u/splintercole) | 3
@@ -425,6 +425,7 @@ Rank | Username   | Daily Doots
 . | [mgr37](https://reddit.com/u/mgr37) | 2
 . | [meyamu](https://reddit.com/u/meyamu) | 2
 . | [mediumrarestake](https://reddit.com/u/mediumrarestake) | 2
+. | [mcmatt05](https://reddit.com/u/mcmatt05) | 2
 . | [mattau05](https://reddit.com/u/mattau05) | 2
 . | [maeby_a_bluth](https://reddit.com/u/maeby_a_bluth) | 2
 . | [maconbacon01](https://reddit.com/u/maconbacon01) | 2
@@ -452,6 +453,7 @@ Rank | Username   | Daily Doots
 . | [inter_mirifica](https://reddit.com/u/inter_mirifica) | 2
 . | [imnotthomas](https://reddit.com/u/imnotthomas) | 2
 . | [ican20](https://reddit.com/u/ican20) | 2
+. | [hipattern](https://reddit.com/u/hipattern) | 2
 . | [hauntedjockstrap88](https://reddit.com/u/hauntedjockstrap88) | 2
 . | [hashtagfuzzmaster](https://reddit.com/u/hashtagfuzzmaster) | 2
 . | [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
@@ -490,11 +492,13 @@ Rank | Username   | Daily Doots
 . | [crypt0curios](https://reddit.com/u/crypt0curios) | 2
 . | [crispykfc](https://reddit.com/u/crispykfc) | 2
 . | [cory_eth](https://reddit.com/u/cory_eth) | 2
+. | [consideritwon](https://reddit.com/u/consideritwon) | 2
 . | [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 2
 . | [caturday_yet](https://reddit.com/u/caturday_yet) | 2
 . | [caterpillarkitchen67](https://reddit.com/u/caterpillarkitchen67) | 2
 . | [cash](https://reddit.com/u/cash) | 2
 . | [carpathianinsomnia](https://reddit.com/u/carpathianinsomnia) | 2
+. | [captainofthegate](https://reddit.com/u/captainofthegate) | 2
 . | [calvinhedge](https://reddit.com/u/calvinhedge) | 2
 . | [calaber24p](https://reddit.com/u/calaber24p) | 2
 . | [bushmage](https://reddit.com/u/bushmage) | 2
@@ -659,6 +663,7 @@ Rank | Username   | Daily Doots
 . | [realarthurok](https://reddit.com/u/realarthurok) | 1
 . | [rayzhueth](https://reddit.com/u/rayzhueth) | 1
 . | [randomzileanmain](https://reddit.com/u/randomzileanmain) | 1
+. | [qwertybop1](https://reddit.com/u/qwertybop1) | 1
 . | [pyroxyze](https://reddit.com/u/pyroxyze) | 1
 . | [puzzled_badger](https://reddit.com/u/puzzled_badger) | 1
 . | [projectequal](https://reddit.com/u/projectequal) | 1
@@ -715,7 +720,6 @@ Rank | Username   | Daily Doots
 . | [metanull-operator](https://reddit.com/u/metanull-operator) | 1
 . | [metalsun6](https://reddit.com/u/metalsun6) | 1
 . | [merklechainsaw](https://reddit.com/u/merklechainsaw) | 1
-. | [mcmatt05](https://reddit.com/u/mcmatt05) | 1
 . | [maxstandard](https://reddit.com/u/maxstandard) | 1
 . | [maxahoy](https://reddit.com/u/maxahoy) | 1
 . | [matt0x_eth](https://reddit.com/u/matt0x_eth) | 1
@@ -730,8 +734,10 @@ Rank | Username   | Daily Doots
 . | [lpsupercell25](https://reddit.com/u/lpsupercell25) | 1
 . | [loyalmedavid](https://reddit.com/u/loyalmedavid) | 1
 . | [lowievr](https://reddit.com/u/lowievr) | 1
+. | [lotec](https://reddit.com/u/lotec) | 1
 . | [lostick](https://reddit.com/u/lostick) | 1
 . | [looselaugh](https://reddit.com/u/looselaugh) | 1
+. | [loksfox](https://reddit.com/u/loksfox) | 1
 . | [littlebigdondon](https://reddit.com/u/littlebigdondon) | 1
 . | [lifelonghodl](https://reddit.com/u/lifelonghodl) | 1
 . | [leperen](https://reddit.com/u/leperen) | 1
@@ -784,7 +790,6 @@ Rank | Username   | Daily Doots
 . | [hodlingsteady](https://reddit.com/u/hodlingsteady) | 1
 . | [hodleth](https://reddit.com/u/hodleth) | 1
 . | [hiredgoon](https://reddit.com/u/hiredgoon) | 1
-. | [hipattern](https://reddit.com/u/hipattern) | 1
 . | [highqi](https://reddit.com/u/highqi) | 1
 . | [hgfyuhbb](https://reddit.com/u/hgfyuhbb) | 1
 . | [henrycharles007](https://reddit.com/u/henrycharles007) | 1
@@ -883,6 +888,7 @@ Rank | Username   | Daily Doots
 . | [daliroth](https://reddit.com/u/daliroth) | 1
 . | [d0hey](https://reddit.com/u/d0hey) | 1
 . | [d0ck3r](https://reddit.com/u/d0ck3r) | 1
+. | [d-banana-eth](https://reddit.com/u/d-banana-eth) | 1
 . | [cryptowarjournalist](https://reddit.com/u/cryptowarjournalist) | 1
 . | [cryptotaxbro](https://reddit.com/u/cryptotaxbro) | 1
 . | [cryptopuzzlers](https://reddit.com/u/cryptopuzzlers) | 1
@@ -898,7 +904,6 @@ Rank | Username   | Daily Doots
 . | [cozypinetree](https://reddit.com/u/cozypinetree) | 1
 . | [cowsclaw](https://reddit.com/u/cowsclaw) | 1
 . | [cow_tipping_olympian](https://reddit.com/u/cow_tipping_olympian) | 1
-. | [consideritwon](https://reddit.com/u/consideritwon) | 1
 . | [competitive-regret21](https://reddit.com/u/competitive-regret21) | 1
 . | [colangelodid911](https://reddit.com/u/colangelodid911) | 1
 . | [clearlyjustsomeguy](https://reddit.com/u/clearlyjustsomeguy) | 1
@@ -913,7 +918,6 @@ Rank | Username   | Daily Doots
 . | [ccgirl21](https://reddit.com/u/ccgirl21) | 1
 . | [caymannan](https://reddit.com/u/caymannan) | 1
 . | [catfoodlover](https://reddit.com/u/catfoodlover) | 1
-. | [captainofthegate](https://reddit.com/u/captainofthegate) | 1
 . | [canwetalketh](https://reddit.com/u/canwetalketh) | 1
 . | [canadian_stv](https://reddit.com/u/canadian_stv) | 1
 . | [calistadodd](https://reddit.com/u/calistadodd) | 1
@@ -992,9 +996,304 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #49: December 29, 2023</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/166385)
+
+**Upcoming Guests**
+
+- Jan. 5th - Lantern Finance
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18tfykq/comment/kfdow1q/)
+
+[u/Defacticool](https://reddit.com/u/Defacticool)
+
+> Ethereum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $2355
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> 0.055
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18oz4wq/daily_general_discussion_december_23_2023/kenzoq5/)
+
+*Turning up the crowd,*
+
+*Blackrock goes blockchain aloud,*
+
+*Excitement allowed.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/superphiz</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18nfxvo/daily_general_discussion_december_21_2023/keen5d7/)
+
+**Grifting 101**
+
+1. Find the grift. Contrary to popular belief, you never need to start your own grift, just find one that's in progress and join in.
+2. Fill your bags. It's EXTREMELY important that you fill BEFORE you shill. If you're joining the grift too late, you're only going to be exit liquidity, so it's important that you join a grift as early as possible. Bonus points here if you're an accredited investor and you can buy into the grift early before the retail investors (you're going to need them later!).
+3. Buy the narrative. It doesn't really matter what the narrative is: "faster than bitcoin", "cheaper smart contracts", "tons of partnerships", "a new banking system", "Visa-level capacity". Whatever. It doesn't matter what the grift is as long as you know it. The BEST grifts include promises of future activity and "unlocks".
+4. Shill like your life depends on it. This is where you REALLY earn your money. Just like any ponzi, you'll need to convince EVERYONE to buy into the grift because you need the price to go up and you need tons of exit liquidity so you don't get dumped on. You'll need to tap into all the socials you can, and even better if you can get podcast/youtube hits. Use whatever tactics work for you: education, insight, sarcasm, humor.. it doesn't matter. The goal is just to saturate the ecosystem with discussion about the grift. It doesn't matter whether the traffic is flattering or not, you're just looking for saturation. If you do a good job, you'll get free rent in everyone's mind AND you'll amplify the power of the shill.
+5. Wait for the flywheel to kick in. With enough social activity, the flywheel will eventually kick in. This means that the price will go parabolic because the social work has made everyone aware of the grift, and when they see price movement they'll have fomo and buy in. The MOMENT the flywheel effect kicks in you've GOT to be on your toes to prepare your exit. THIS is where retail investors are critical. You're looking for dudes who want to make a quick buck and put all of their faith in charts. These are the guys who will put their "fun money" into the grift in hopes of maybe buying a car or something with the money they make.
+6. The parabolic spike/game of chicken. Timing here is critical. Venture Capitalists and Angel Investors are primed to dump hard, so since you're lower on the food chain you'll need to dump first. This is the game of chicken: you need to dump BEFORE everyone else does. This is pretty easy, take 10x and get the hell out of there - no one wants to be left holding this worthless shit. (If you're a dumbass, you'll hold too long and be the exit liquidity. If this happens once, you'll survive, but if this happens more than once you need to quit grifting - you're not a grifter, you're just dumb exit liquidity. )
+7. The crash will come, but you'll have made a fuckton of money and you're sitting pretty, but you CAN'T stop now! if you only survive one grift you'll die poor. The crash requires a lot of continued social activity to SIMULTANEOUSLY convince all of your followers that you were duped just like them, but ALSO that you made a ton of money. You've GOT to maintain your credibility if you're going to grift again. Don't blow this step! Your followers need to build faith in your ability during this stage.
+8. Okay, so you completed a successful grift! Congratulations!! You might get 5-6 grift cycles out of the same coin if the climate is right. This is harder if the grift had promises of future activity, but those are really sweet because you'll make a LOT more money on it. Most grifters will take a month off before spending another six month cycle pumping the next grift. In that month off, they'll re-establish their credibility by promoting solid assets like Ether. So, I mean, grifters really are good folks after all, right?
+
+</details>
+<details>
+<summary>u/LogrisTheBard explains Gearbox V3</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18nfxvo/daily_general_discussion_december_21_2023/kedembr/)
+
+As ever, I wish we had more discussion around here about app developments on Ethereum rather than... whatever the depressive topics have been the past few days.
+
+In the spirit of being the change I want to see in the world let me plug Gearbox V3. Basically Gearbox is a leverage application that removes the leverage component from the underlying application and allows you to apply leverage using Defi legos on their own. Think of it like 'modular Defi'. The key insight that enabled leverage is that when you borrow funds, the funds aren't given to you, they are held in escrow by the protocol so you can't just run off with them. Now, there's no sense having the protocol just hold onto borrowed funds. The reason you're borrowing is to do *something*. So, since you aren't being given the funds the protocol has to do that something on your behalf.
+
+For older leverage applications, the something they would do on your behalf *was* the application. You could use dydx and get leveraged price exposure to an asset but the leverage was tightly coupled to a dex. This leads to liquidity fragmentation. While the nature of the price exposure mechanism changed with apps like GMX, perps still tightly couple the liquidity source for leverage with their application. By contrast, Gearbox allows you to execute leveraged strategies that actually execute against Curve or Uniswap.
+
+To execute a strategy with Gearbox you put up your collateral, borrow the funds required to execute your strategy, and then execute it using a plugin to any Defi application they support. For example if you wanted to go 3x long, you could put up 1x collateral, borrow 3x whatever you're shorting, swap to 3x of your long asset using any supported Dex, and hold that position while paying interest on the borrow. When plugged into something like Aave this also let's you do fancy stuff like profit from [interest rate spreads](https://tokenomicsexplained.com/harvesting-interest-rate-spreads) or leverage your way into a Curve LP Yearn pool which auto compounds rewards back to you. The potential here is open ended and incredible.
+
+Gearbox v3 does a few cool things. First it allows borrowers to have better granularity on which position is secured by which collateral. The basic idea is they create a smart contract with your name on it that is executed according to a strategy you configure. Second it enables lenders to underwrite their own risk and choose what types of risk their funds are exposed to. This is a common trend I've seen lately in Defi. We are steadily moving away from pooling everyone into the same risk bracket and moving towards programmable money where everyone can adjust their own risk.
+
+If you have time I'd suggest you [dig in](https://blog.gearbox.fi/building-and-expanding-the-onchain-credit-layer/) or you know, [try it yourself](https://app.gearbox.fi/). It's far more fun to focus on exciting things happening at home than to focus on narrative noise from CT and bring it here.
+
+</details>
+<details>
+<summary>u/Defacticool shares their experience getting phished so you don't have to</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18nfxvo/daily_general_discussion_december_21_2023/keemcbk/)
+
+Alright so got hacked for the first time
+
+Well "hacked", I accidentally approved something in metamask that allowed them to take all my eth and one NFT. 
+
+Like 24k USD worth in total, which isnt the end of the world luckily enough. Luckily my main stack isnt on this adress. 
+
+I got fooled because I was trying to do the Frame airdrop and when looking at their twitter (the correct twitter) a fake frame account with a check mark (thanks for that Elon) were in their replies and I wasnt observant enough. 
+
+idiotic of me, but anyway
+
+I still want to utilise this adress to claim airdrops and the like but I obviously cant do so when I have this hanging over it. I'm looking at the approvals checker on etherscan but cant find any approvals I did today or any access given today, so this fraudulent acces/approval isnt there. 
+
+Does anyone else know how I do/how I should do to remove their access to my address?
+
+Thanks for any help
+
+Edit: Also I suppose it doesnt matter now so for any interested sleuths heres my address for your perusal: [0x139373F9FFeDCf909518096fC165f3b87fD7046C](https://etherscan.io/address/0x139373F9FFeDCf909518096fC165f3b87fD7046C)
+
+After looking over it it doesnt seem like I have any offending approvals. Is it possible for a phisher to have some other kind of access still? 
+
+
+Edit 2: The offending transactions seem to have been these ones, in this chronological order: 
+
+<https://etherscan.io/tx/0x07344545d7b3e3ce7032dc5319ee9e3dbce291bcdbe3b798982055bb7b6a6567>
+
+<https://etherscan.io/tx/0x4b7a6c41aed26af4280b24c7da787b0b5732a43e34bf81d6cea79c02857c2bed>
+
+<https://etherscan.io/tx/0x8c374ec10e5254289a4c224e6dfae6c0a76a0466f0ab4bf7d803844f05c421f3>
+
+What I'm worried about now is that the scammer can repeat some function in order to drain my adress again in the future, if I fill it with some ETH for gas for example 
+
+If anyone with that are above my hobbyist level of ability could help tell me if anything in these transactions point to this being repeatable I would greatly appreciate it! (or just point me in a helpful direction would be really nice too)
+
+</details>
+<details>
+<summary>u/haurog has a post about wallet security and phishing protection which you simply can't miss</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18o7zxl/daily_general_discussion_december_22_2023/keg0art/)
+
+There have been too many people being scammed out of some of their crypto holdings with the recent frame airdrop. The frame airdrop is legit, there are just too many fake claim websites wanting your money. If you use the network please consider installing/enabling transaction previews. These help you understanding what you are actually signing before it gets broadcasted:
+
+Either use:
+
+- Rabby Wallet which has this included in their wallet already. It is on the very paranoid side, so maybe you start clicking the warnings away automatically after some time.
+
+- Use Metamask snaps which provide this. I shortly tested Wallet Guard which does the job. I am sure there are other good options in their security section: <https://snaps.metamask.io/explore/>
+
+- Install an additional extension like pocket universe or fire. I use both of them in parallel for many months now. Every time I receive a signing request they pop up and inform me about what I am going to sign.
+
+All of these solutions put another actor in your signing process which could get attacked. Be aware of that. I am also not sure how much information is shared with whom in all these solutions. The additional extensions have served me well in the last months in combination with the frame wallet. I think the Rabby wallet is the most user friendly one, but a bit too paranoid for my taste, especially if you are using very new protocols. 
+
+I tested all of these solutions on my go-to scam website I found some time ago, a tornado cash fork, which wants to steal all my funds. All of the above solution told me exactly what I sign and Metamask even wanted to prevent me from visiting the scam site.
+
+</details>
+<details>
+<summary>u/Qwertybop1 shares a big moment they're celebrating on-chain!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18o7zxl/daily_general_discussion_december_22_2023/kegucek/)
+
+[https://etherscan.io/tx/0xde92b790ebd82fa73b69b3f1d32d1f5b3d11649971da43e20593c7e7099a0fba](https://etherscan.io/tx/0xde92b790ebd82fa73b69b3f1d32d1f5b3d11649971da43e20593c7e7099a0fba)
+
+We got married onchain yesterday!
+
+</details>
+<details>
+<summary>u/strawdar summarises the new ETH research proposal</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18oz4wq/daily_general_discussion_december_23_2023/kemdljh/)
+
+So if I'm reading this proposal correctly:
+
+1. Beacon stakers would no longer receive MEV rewards
+
+2. MEV relays would sort of be replaced by execution ticket markets. This opens up the possibility to introduce burn on what today is MEV rewards.
+
+3. Block builders would buy execution tickets and run execution proposers
+
+EDIT: I think I'm making some assumptions on number 3, because the proposal says this is orthogonal to PBS. So number 3 could involve multiple parties or it could not.
+
+EDIT2: Before stakers get up in arms about MEV rewards going away, this proposal would open up a new avenue for speculation on execution tickets: "Explicitly defining an execution proposer lottery allows validators to participate only by choice. If they like the idea of flipping a coin and getting a high-value slot, they are free to buy execution tickets."
+
+EDIT3: More stuff is sinking in now. You could in theory choose to run your validators in a mode similar to today by configuring them to purchase an execution ticket for each upcoming slot, but the cost of that ticket will be market driven while today they are essentially distributed uniformly and randomly.
+
+</details>
+<details>
+<summary>u/krokodilmannchen has the latest on the ETF front</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18oz4wq/daily_general_discussion_december_23_2023/kektmdn/)
+
+Latest on the ETF front: issuers have until next Friday to amend their filings. The SEC wants cash create only, and AP agreements. Whoever gets these done, will get a "go".   
+
+Also, Blackrock will seed with $10m on January 3rd (subject to change).  
+Also, they have an Ether ETF filing. ;-)
+
+</details>
+<details>
+<summary>u/masterRoshi9 shares a grounded investment thesis</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18poy1s/daily_general_discussion_december_24_2023/kepw80a/)
+
+If you frequent crypto Twitter and are feeling doubt about ETH, and FOMO or anger over Solana, it’s worth checking yourself and asking why you’re invested the way you are, and why you feel like that way. Personally speaking the vast majority of my stack is, has been, and will remain ETH because I can hold it and sleep well at night expecting it to go up over time with minimal downside risk relative to other crypto assets. It has arguably the best fundamentals of any asset, not only in crypto, but in any market. On short time horizons it won’t always or even often perform the best, especially in a bull market where narratives rule the day, but it *will* provide the best risk adjusted returns imo, and wealth preservation can be just as difficult if not more, than capital appreciation. I’m still buying.
+
+&nbsp;
+
+Having said that, The recent performance of Solana, and other tokens that are purely speculative bets, is a great example of why it pays to be open minded and why it can be helpful to diversify. I maintain a percentage of my portfolio for speculative bets, trading, gambling, etc. Doesn’t work for everyone, you have to be honest and cut yourself off if you’re just burning capital, but it’s fun, curbs FOMO, and ideally lets me capture some additional upside from narratives or short term plays. I missed Solana, but made some gains on WIF, and had some fun shit posting with friends about it in our own internal group chats. Also have some medium-term holds and narratives I plan to dabble in this bull market.
+
+&nbsp;
+
+It’s easy in crypto, especially if you’re on CT, to feel like you’re in a rat race against everyone else, look at gains someone else has made off of something you consider vaporware, and let it upset you. Even easier to let narratives that ETH is dead and that X-coin with no fundamentals is the future of France upset you. Don’t. If you’ve been here for the bear and have been buying ETH then you’re up too. Normies aren’t even here yet. Enjoy the ride. Be happy for newer or smaller participants coming into money for the first time. This is how crypto grows. Most importantly do not feed into tribal hate. Talking down about the ecosystem that just made users money doesn’t attract participants to our ecosystem or encourage learning, it just pits you against them and feeds into negative sentiment. Be welcoming and focus that energy towards more productive endeavors. Learn from Vitalik. It’s impossible to hate a guy that is perpetually positive towards others. And he does an excellent job framing all of crypto as an “us” vs the them, if I do say so myself. <https://x.com/matthuang/status/1738810362022232210>
+
+&nbsp;
+
+In the end I think the Ethereum ecosystem will capture Solana’s moat, but that time is not now. If you too think that time will come, good news, you can position for it. These are my biggest catalysts for ETH this year:
+
+
+* **4844** will drastically reduce gas fees for L2s. A world where Arbitrum/Optimism/ZKsync/etc is as cheap as Solana is a level playing field at attracting normies, memes, whatever. New L2s will create new opportunities for airdrops and new apps that take off. 
+* **A potential ETH ETF** will create a speculative demand for ETH like nothing else. Even if it doesn’t go through people will buy in anticipation 
+* **Restaking** is the most under-discussed catalyst for ETH the asset. Not only will you have a deflationary asset with native yields, but potentially with ponzy-like yields. If ETH approaches even close to 20% yield from restaking at any point the demand will be massive. Especially if the ETF brings in more traditional investors.
+
+&nbsp;
+
+**Basically what I’m saying is this:** we should all be happy that the bull market seems to be back, and that we all have the opportunity to make money again in the coming year. If you disagree and are still bearish than maybe this post isn’t for you. Either way, enjoy the holidays, and may golden showers rain upon /r/ethfinance dailies every week for the next year!
+
+</details>
+<details>
+<summary>u/Bob-Rossi reflects on a year of delegate representation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18r1c9q/daily_general_discussion_december_26_2023/kezzi27/)
+
+In the spirit of year-end reflection and New Year's resolutions, I am looking for feedback / suggestions regarding my delegating duties of ARB and HOP I've taken on this year. Asking as I'm still relatively new to this and want to improve when I can - don't be shy or holdback anything in feedback. For some context, my goal has largely been to take on these roles to help get some of the great minds on r/ethfinance a way to feel represented in governance. I'm not sure that has happened to the extent I've envisioned, but hopefully I'm making *some* impact and will grow into that in the future. 
+
+Obviously, I have no way to tell who actually delegates to me, but I'm assuming a bulk of the people are those who post here. So figured this was the best place to ask. So in short, do let me know if there are things you think I can improve on or ways you felt I've let you down. As well as things I've done that you would like to see me keep doing. Even if you aren't specifically a delegate to me.
+
+Some thoughts / questions of my own:
+
+Voting Transparency --- I do try to post DAO updates here both for informational purposes and to keep myself transparent. I know following actually Tally / Snapshot votes is a pain, so I hope this helps. Unfortunately, ARB is a little difficult since the forum links are shadow-banned. I do try to comment in the Arbitrum / HOP forums on my votes where it feels warranted (or on the actual Snapshot votes themselves). No good way around the ARB problem, but I do link the votes and do a summary of decision here to help with that. I also try to wait until a few votes have passed to 'batch' my updates and avoid clogging up the daily toooo much, however if people would prefer immediate updates (say, within a few days of the vote ending) I can switch to that. 
+
+Voting Participation --- I do try to vote on everything that comes up, since that is ultimately the fundamental role here. Regrettably, I did miss a few votes over my time doing this. I think about 5 or 6 overall earlier in the summer across both DAOs. No excuses, and I've made sure not to miss stuff going forward. I'll add, the Arbitrum STIP voting I did probably vote in maybe 1/4th of the total pool of candidates. The structure was a major issue IMO, which I brought up in the DAO forums. Expecting delegates to vet and vote on 100+ projects in that timeframe was impossible, and it does sound like future STIP / LTIPs are making note of that. And I'm not sure many delegates did vote in 100% of those (hats off to those who did). Sort of a one-off, but wanted to clarify that situation, and I do wish in hindsight I took a little more time for that.
+
+Calls --- I do try to attend the ARB and HOP calls when I can. I work full time, so it's as schedule permits (although ARB does record the call and HOP has notes). ARB I've been admittedly lacking, but I've been better having joined the last 2. This is one of my top goals, to have better attendance here. My Q here is this - do people want updates on this type of thing? Is that too much? It sort of goes along the lines of r/ethfinance input as I'll discuss below. 
+
+r/Ethfinance Input --- I know sort of the point of being a delegate is so that people don't have to worry about day to day minutia. However, I do want to feel out people's opinion on this. For notable / larger / more controversial topics should I try to reach out for input more? Do people rather just me 'read the room' and vote that way. I try to vote in a way that is best for the particular DAOs & the Ethereum chain, but again I want to leverage the mindshare that is here to do that as I am still only human. Also, I want to re-iterate that I welcome people to reach out. that doesn't happen much, so if there are ways people think I can be more inviting, for a lack of a better word, let me know. I'd love to be able to be a bridge between ideas here and ultimately discussion in front of said DAOS. 
+
+Updates --- Basically, a mis-mash of the above. I want to walk the line as best I can between over and under updating on issues. So thoughts on this would be appreciated!
+
+Twitter --- I don't really like Twitter, but I made one as I can't stick my head in the sand. I don't really use it that much... I'd be curious to those who think if I should use it more? I'm thinking maybe just doing updates there as well for those who follow. I don't want to dive into CT degeneracy, but I probably should use it as a space to get updates out?
+
+And finally, a thank you! There isn't a day that goes by where I'm not aware of the number of people that trust me with this. I know governance isn't that sexy of a thing, but it's really cool that people feel they can trust their vote with me and that isn't lost.
+
+</details>
+<details>
+<summary>u/lotec needs your help to push Coinbase into diversifying their stake</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18rth8u/daily_general_discussion_december_27_2023/kf3cws3/)
+
+It would be great if we could give Arbora.eth a bit more publicity for his campaign to have Coinbase switch away from Geth.
+
+<https://twitter.com/arboraeth/status/1739856214727557241>
+
+</details>
+<details>
+<summary>u/the_swingman points out the struggle newcomers would have in finding good crypto information</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18rth8u/daily_general_discussion_december_27_2023/kf4l80v/)
+
+Interesting you're saying this today, I was just thinking about how lost a newcomer is in this space. Even if they found this subreddit, (could you imagine the lost faith in crypto if they visited r/cc or even r/Ethereum first?) I'm not so sure it would be obvious this is the place to trust or realize this sub is putting out the most critical/thoughtful info/discussion.
+
+Imagine someone out there today (which I'm sure happens everyday) says, today is the day I'm going to get into crypto. Ugh, I'm getting a migraine just thinking about being that person. 
+
+Legitimately, im wondering where that person goes. The options are wild. Crypto Twitter, YouTube, reddit, discord, overall asking Google? Ooof. All of those can be very hit or miss with more misses than hits. Even finding coinbase and reading through their learning center can lead you down the wrong path. 
+
+There is just so much to comprehend on a fundamental level, then deciphering what is a quality crypto and why? The space is so polarized. For someone brand new, how quick would they learn the differences between ETH and BTC or XRP for that matter, or literally any other crypto. What's the chances of them learning about LSDs or even the basics of Defi? Where is the drop off on the learning curve for most people? 
+
+Thinking about if I was brand new, jumping into "crypto" today, what would be the most helpful thing for me to learn and understand.. and how would I find it? 
+
+Off the top of my head, personally, I would like a flow chart. Something that could help me visualize the crypto space. Maybe a few versions of the flowchart, basic, intermediate, advanced .. clickable keywords that give a popup of basic definitions. 
+
+How would I find it? Idk, maybe this is where the Maverick funds do some SEO and try to find it's way on the first page of Google.
+
+</details>
+<details>
+<summary>u/benido2030 shares some thoughts on winning and not comparing to others</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18rth8u/daily_general_discussion_december_27_2023/kf6c22k/)
+
+Some thoughts on winning 
+
+When I was a student, online poker became popular. By chance (I don't even remember how) I found an online poker school that handed out 50$ for free after passing a quiz. I started playing Fixed Limit on the low low stakes (well, because 50$ isn't a lot) but learned a lot, became better, moved up. When I reached 5/10$ (still in FL), I couldn't handle the daily swings anymore. After all I was still a student, had like 750$ a month for everything from rent to food to cloths to drinks. So being in a position of losing 1000$+ on any given day, basically within 30 mins was too much for me. I played 3/6$ for a long time, switched to NL at some point and made it to NL200 games, but felt uncomfy again. I think I was a decent player (but nowhere near the best players on the high stakes) and could have moved higher with my bankroll and skill, but never did. I met a lot of high stakes players that made a lot of money (e.g. I am pretty sure I talked to Hasu a few times). A lot of friends made a lot of money just playing mid stakes, not even grinding nose bleeds. Later I lost interest, because I started working and didn't want to grind at day and night. 
+
+As my second job, I joined a startup rather early, just after they had secured the first significant funding. The startup had created a new product, which turned out to be very successful, used the funding to do performance marketing and within 3 years, the company grew from basically 100 to 1000 FTE. A lot of "high profile" people were hired, earning a lot more than I did, despite being assholes, not being a cultural fit and also not delivering any meaningful results. But they were great politically, knew what to say, when to say it and how to impress the (also rather young) founders. I was living the culture, delivering, but earned like 50% and hated everything about the bullshit bingo guys. 
+
+When a very good friend of mine quit his job, he still had some free time before his new gig started and he asked me what to do with it. That was at the end of 2017/ beginning of 2018. I said "there's this crypto thingy, seems to be interesting, maybe dive it?". We decided to invest 1000$ together. I was still very risk averse and didn't feel comfortable putting money into something that went up and down so fast, so I was happy we did it together. We bought the literal top in January 2018. Got like 0.7X ETH on a Friday, which made +100$ until Saturday. I still remember the euphoria, that day marked the literal pico top of the cycle. I learned a lot, eventually started living on-chain, but never really participated in farming, cause I still dislike spending ETH for tx I don't really need to do for a potential airdrop I might or might not receive. I did receive a lot of airdrops, but I am also pretty sure that compared to others here, my airdrops are tiny. 
+
+Also I had a neteller credit card connected to my Amazon account and basically ordered stuff for free as a student and bought a new (small) car just after finishing university, because I had made 50k in online poker. 
+
+While I was "only" earning 50% of the supposedly high flyers, my salary 2,5xed within 3 years and I had way more money than I needed (and you are probably aware by now, that spending / investing money is not a strength). I also started as a senior role, but at one point managed 150 people and three departments. 
+
+While I probably should have invested more, invested earlier, farmed more and should have way more ETH than I have now, I have received a decent amount or airdrops that are a huge boost to my portfolio. More importantly, I have learned a lot, about investing, finance, how poorly I invested before, how many basic concepts I didn't fully understand and how important it is to make conscious financial decisions. 
+
+Don't compare yourself to the guys that make more money in poker, at work or in crypto. Compare yourself to the guy in the mirror that wouldn't have played poker, wasn't lucky to join a growing startup that allowed you to grow a lot in a short amount of time (both financially, but also when it comes to responsibilities and hence your CV), or wouldn't have invested in crypto because that friend you needed would have said "no". 
+
+If there is one thing that I have learned it's that comparing usually won't help you. It usually doesn't motivate. It actually kills motivation. It gives you a hard time emotionally. Don't compare yourself to the guy on twitter that brags with that 7digit PnL. Don't blame yourself for not receiving the next airdrop on 5 wallets instead of one. 
+
+Comparing doesn't make sense, because your risk appetite is unique. If you accept that you are defined by who/ how you are, you will be able to accept outcomes way better. We can't expect to make millions if we don't invest a lot (of time, money, ETH). And that's okay! 
+
+Celebrate that one airdrop like it was the lottery. Be happy about your first ETH like it was worth a million. Don't try to be/ act different then you truly are. And you'll be winning!
+
+</details>
+<details>
+<summary>2024 Predictions</summary>
+
+- [LogrisTheBard](https://reddit.com/r/ethfinance/comments/18kamvf/comment/kdqeett/)
+- [Whovillage](https://reddit.com/r/ethfinance/comments/18rp69u/comment/kf6h69e/)
+- [pa7x1](https://reddit.com/r/ethfinance/comments/18smom7/comment/kfb96gp/)
+- [Sourdoughpretzel4444](https://reddit.com/r/ethfinance/comments/18tfykq/comment/kfeyr0t/)
+- [_WebOfTrust](https://reddit.com/r/ethfinance/comments/18rp69u/comment/kf3ye67/)
+- [2024 Predictions Thread](https://reddit.com/r/ethfinance/comments/18rp69u/what_are_your_2024_predictions/)
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #48: December 22, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/166184)
+[Livestream Recording](https://www.youtube.com/watch?v=Iup-JwIUOvY) | [POAP](https://poap.gallery/event/166184)
 
 **Upcoming Guests**
 
