@@ -15288,7 +15288,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | rooftopportapotty     | Doing security analysis of browser extensions and web3 wallets<br>Reincarnation of u/skidseverywhere
 .  | seamonkey82           | The client whisperer
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
-.  | superphiz             | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | superphiz             | Ethereum Beacon Chain community health consultant
 .  | swagtimusprime        | Developer Relations at [Scroll](https://scroll.io)
 .  | the-a-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | therocketman_eth      | Offchain Labs (Arbitrum) Integration Engineer
