@@ -1001,6 +1001,376 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #50: January 5, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/166594)
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18yznna/comment/kgeaufp/)
+
+[u/Shitshotdead](https://reddit.com/u/Shitshotdead)
+
+> ethereum
+
+[u/UgotTrisomy21](https://reddit.com/u/UgotTrisomy21)
+
+> $2250
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> 0.0512
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 88,900 hodlers subscribed (-37)
+
+[u/bagogel12](https://reddit.com/u/bagogel12)
+
+> 477d since the Merge
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18y5x53/comment/kgcj9w8/)
+
+*ETF approved,*
+
+*Uncertainty quite improved,*
+
+*Market barely moved.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/NeedlerOP</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18tfykq/daily_general_discussion_december_29_2023/kfhx4tr/)
+
+2013 : "Wall street bonuses/chinese new year red envelope money"
+
+2017 : "Institutional Money"
+
+2021 : "ETF inflows right around the corner"
+
+2025 : " 5% pension allocation across the board"
+
+2029 : " Gov. crypto funds for all nations "
+
+2033 : " Vitalik crowned god-emperor of mankind"
+
+2037 : " Fully automated luxury abundant gay space communism crypto utopia as humanity spreads across the stars"
+
+...
+
+2100 : "ETH/BTC ratio surpasses 0.10 this cycle"
+
+</details>
+<details>
+<summary>u/consideritwon starts a discussion about Vitalik's latest ethresearch post</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18smom7/daily_general_discussion_december_28_2023/kf9svsx/)
+
+Saw it mentioned yesterday, but I think [Vitalik's latest thinking](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989) on Ethereum's positioning within the blockchain trilemma design space deserves further discussion. For me this feels like it has the potential to be a large pivot in core Ethereum philosophy and my initial gut feeling is one of discomfort.
+
+Ethereum has up until now allowed anyone with 32 ETH and moderate technical ability to run a validator. At least two of the options discussed by Vitalik in his post would reduce the decentralisation of Ethereum.
+
+The Ethereum community are a pragmatic bunch who don't see things in black and white. Technical solutions require compromise and decentralisation is a spectrum. Even so abandoning the principle of a relatively small fish being able to validate within the network without having to trust 3rd parties feels like a real departure from a long held value.
+
+</details>
+<details>
+<summary>u/CaptainOfTheGate covers the best Staking as a Service/SaaS providers</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18smom7/daily_general_discussion_december_28_2023/kfb6edi/)
+
+**The Best Staking-as-a-Service (SAAS) Providers**
+
+In approximate order, based mostly on their reputation among Redditors (I read more than I post). For each of these, the user controls their withdrawal keys. 
+
+**Allnodes**
+
+It's $10/month for their Advanced plan, which is the cheapest one that includes MEV (it's worth the extra $5/month). That's equivalent to a fee of only 0.16%, close to zero! They're a top-15% performer on Rated Network over the last 30 days, and mostly use the Teku (a minority client) consensus client; they're also large, if that gives you comfort: 2.6% of all staked ether. 
+
+**Ethpool**
+
+They charge 15% of MEV (10% for 3 nodes, 8% for 30 nodes). That comes out to about 2.9% of all rewards (so yes, about 18x Allnodes). I can't find them on Rated Network. They use minority clients: Lighthouse and Nethermind. 
+
+**Blox Staking**
+
+They have a 0% fee forever (not a typo). Their effectiveness rating on Rated Network is below the 50th percentile as I write this. The company behind them is probably more focused on their new SSV Network now. I noticed that their website gets barely any traffic anymore (it ranks in the millions), but Rated Network says they still stake about 0.53% of staked ether, and they have an active Discord. They use mostly Prysm (the most popular consensus client). 
+
+**Best solution for leftover amounts when you've staked all your 32-ETH blocks:**
+
+Competition in staking is heating up daily (e.g. with DVT solutions coming online), but I'll nominate StakeWise v3. You can stake any amount and don't need to get an LST. You get to choose an operator. Perhaps 4% fees is typical, but I see one offering 1%. Some reputable operators to consider are x (please reply with your opinions). 
+
+**Some reasons you might want to use SAAS:**
+
+You don't want LSTs because you'd have to generate a capital gain when selling ETH for them; and they have high fees, typically 10% for Lido's stETH. 
+
+You don't want to solo stake because you may not feel technically competent enough; you may have unreliable internet (or limited capacity) or electricity; or you may not have a stable place for your node (e.g. you're a digital nomad).
+
+</details>
+<details>
+<summary>u/superphiz has a smart contract shower thought</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18smom7/daily_general_discussion_december_28_2023/kf9xmhu/)
+
+I had a shower thought that I wanted to crank out before I forget it. I probably won't format it well, just trying to dump the idea.
+
+Smart contracts are the basic building blocks, not the infrastructure of web3.
+
+Smart contracts are more like transistors.. or more realistically simple circuits. They can do very small tasks, but having a box of simple circuits doesn't really give you extraordinary power. Imagine having a bunch of [555 timer chips](https://www.youtube.com/watch?v=oZzjmAbyyIQ) - it's a simple but powerful tool, but by itself  it's not revolutionary.
+
+The power of simple circuits comes when you string a bunch of them together to do something even more powerful. 
+
+We're at the beginning of smart circuit development - when several contracts can work together to complete more powerful functions. From where we're standing this seems difficult and complex. The Intel 8080 processor had [6000 transistors](https://en.wikipedia.org/wiki/Intel_8080), but the i9-13xxx series have [25 BILLION](https://forums.tomshardware.com/threads/how-many-transistors-on-raptor-lake-cpus.3791683/). We haven't even reached the capacity of building a smart circuit that includes 10-20 smart transistors/smart contracts yet.
+
+Another way to imagine this is from an evolutionary perspective. We think about this stuff called [Primodial Soup](https://en.wikipedia.org/wiki/Primordial_soup), the idea that a bunch of the right building blocks (amino acids) in the same place at the right time can give rise to more complex biological compounds. Our current primordial soup is the library of smart contracts we're building now, and in time these basic building blocks will evolve into highly complex organisms. 
+
+All of this to say.. we're at the beginning of all of this. We have the foundational building blocks to build complex contraptions that we can't even imagine yet, but given the historical context of building blocks that get organized, it's exceedingly likely that we're on the cusp of rapid evolution in smart contracts.
+
+</details>
+<details>
+<summary>u/Revanchist1 discusses Vitaliks post on why our industry sticking to crypto values is so important</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18tfykq/daily_general_discussion_december_29_2023/kfdxpcp/)
+
+https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html
+
+>This is why it's valuable for Ethereum to have a strong social layer, which vigorously enforces its values in those places where pure incentives can't - but without creating a notion of "Ethereum alignment" that turns into a new form of political correctness.
+
+I already felt some influencers were wielding "Ethereum alignment" as a weapon to criticize projects and L2s. Sometimes it's warranted and sometimes you could feel that they were just posturing for their brand. You can feel the "sliminess"...it's just off putting. Like seeing the the lazer eyes profile pics.
+
+My favorite section is **What are some of these values?**
+
+Vitalik prefectly describes what brought so many of us into crypto when it was solely BTC and dreams of what crypto could eventually do. 
+
+A few years later and the space has evolved so much - taking steps towards achieving some of those grand visions. But in taking those steps, we sacrificed the values that gave crypto any real meaningful value. Why remake the the same thing but worse? The values he outlines in the section are core to crypto and give the space value. Devs need to embrace it and figure a way to make it appealing to consumers. The easy path is centralization. The rewarding path is decentralization.
+
+> It is very possible to build things within the crypto ecosystem that do not follow these values. One can build a system that one calls a "layer 2", but which is actually a highly centralized system secured by a multisig, with no plans to ever switch to something more secure. 
+> 
+> One can build an account abstraction system that tries to be "simpler" than ERC-4337, but at the cost of introducing trust assumptions that end up removing the possibility of a public mempool and make it much harder for new builders to join. 
+> 
+> One could build an NFT ecosystem where the contents of the NFT are needlessly stored on centralized websites, making it needlessly more fragile than if those compoents are stored on IPFS. 
+> 
+> One could build a staking interface that needlessly funnels users toward the already-largest staking pool.
+> 
+> Resisting these pressures is hard, but if we do not do so, then we risk losing the unique value of the crypto ecosystem, and recreating a clone of the existing web2 ecosystem with extra inefficiencies and extra steps.
+
+Beautiful. You could tell it was something that was bothering him for a while now. So much passion and humility in his writing.
+
+</details>
+<details>
+<summary>u/domingo_mon reflects on why we hold ETH and u/EnvironmentDry1343 shares their thoughts too</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18u8jft/daily_general_discussion_december_30_2023/kfitog1/)
+
+[u/domingo_mon](https://reddit.com/u/domingo_mon):
+
+2023 is coming to a close and I want to reflect on what Ethereum means to this community. I have two questions.
+
+**Why do you hold Ether?**
+
+**What is something that Ethereum could accomplish that you can look back in 50 years and say "I held through the bear because I believed in Ethereum's ..." Or "Ethereum is a success to me because it ..."?**
+
+&#x200B;
+
+For me, I got into crypto in general because I believe that the global financial system is rigged. Anything worth owning became more and more expensive every year, and the dream of owning a home or land became further and further out of reach. [It felt like I was on one side of a ballon and my dreams were on the other side.](https://cdn-images-1.medium.com/max/1600/0*ifyjoz_2QbPd5X3A.jpg) The balloon was being inflated, and it felt like my dreams were literally being inflated away.
+
+Bitcoin struck a chord in me because it espouses transparency, fiscal responsibility, and financial freedom. Here was a money that couldn't be printed into oblivion. Here was a money that wasn't first distributed to the mega-banks and the mega-rich where they buy up assets, creating inflation before finally filtering down to us little people. Here was a money that couldn't be confiscated because the owners embrace ideas that weren't popular. Here was a money that could be sent across the world at the speed of light, 24/7. Here was a money that was controlled by everyday people and not some nameless, unelected, unaccountable, government bureaucrat.
+
+I believe that Bitcoin ossified too soon, and r/Bitcoin started banning anyone who suggested that the code should be upgraded.
+
+That's when I found Ethereum. It was a project that had similar characteristics and desires of Bitcoin but, unlike bitcoin, it was going to continue developing. I hope for Ethereum to become a neutral, global settlement layer.  I hold Ether because I want to be a part of the money revolution. I want my children to inherit a world with a fair financial system where the average person can get ahead by saving their ether because the value of their ether isn't being inflated away.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18u8jft/daily_general_discussion_december_30_2023/kfj35kk/)
+
+[u/EnvironmentDry1343](https://reddit.com/u/EnvironmentDry1343):
+
+Alright I'll bite, with the preface that a bunch of this is at least inspired by if not outright copied from posts from other people writing about Ethereum. 
+
+For me it is about increased coordination/cooperation. I'd been reading about bitcoin for years and didn't really care about it because discussion was often centered around antagonism: a big bad 'They' that controlled this rigged system versus the persecuted victims seeking a new beginning. To me, btc has always seemed more like religion than anything else.
+
+It wasn't until I starting reading about Ethereum that I saw the value in the underpinnings of this new religion. Blockchains, when well designed and implemented, allow people to interact/transact without centralized actors. 
+
+People get more done when they work together and the history of human progress is in my opinion the history of humans learning how to cooperate more and kill each other less. Unfortunately, working together usually means giving power to a small group of people that oversee things and are given a mandate to make choices on behalf of others. These centralized actors all too often become corrupted, and the biggest man-made disasters would never be possible without a bunch of centralized actors abusing or misusing their power ("lol lets go kill all the sparrows").
+
+Ethereum obviously is not going to solve the problem of centralized power on its own, but it is one of the few developments that I have seen during my life that allow for improved cooperation without increased centralization. To me, that's big and that's worth sticking around for. 
+
+It is unfortunately also why I haven't been as bearish about Ethereum in the past as I am now. A few years ago the question was "How do we implement this new tool in a credibly neutral way?", a technical question with a *relatively* easily definable answer. Now the question seems to be "Do we really care about decentralization/credible neutrality or do we just want memecoins?". To me (and I suspect most others here) the answer is clear but we have some convincing to do in the broader community. 
+
+So I believe in Ethereum's credible neutrality. If we somehow manage to maintain that for the next 50 years, we're golden in my opinion.
+
+TLDR: Ethereum is potentially one of the all too few positive recent developments that might bring humanity forward (even if only by a little bit).
+
+</details>
+<details>
+<summary>u/Pkickel92 asks about how L2s work and u/hanniabu delivers a comprehensive answer</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18v0z74/daily_general_discussion_december_31_2023/kfp7ucj/)
+
+[u/Pkickel92](https://reddit.com/u/Pkickel92):
+
+I may have a massive misunderstanding on how the L2 to eth chain relationship works/will work, so I was hoping for some clarification.
+
+Currently, I need to bridge my eth over the the L2 chain which costs a relatively high fee. I can then interact with the L2 and eventually bridge back if I choose to. My understanding is that this is the currently the only way L2 talks with L1. Is this correct? If this is the case, I do not see how Ethereum fees will ever get down to the prices of other L1 solutions which I believe is needed for mass/mainstream adoption since we are currently performing about 15 tps.
+
+Is there someway Ethereum (L1) is getting this data in real time that I am missing? If not and you are forced to stay on L2s (more centralized) to have reasonable transaction what is the benefit of this setup over other L1s like Solona, Polkadot, etc.
+
+Any explanation would be greatly appreciated.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18v0z74/daily_general_discussion_december_31_2023/kfq79a8/)
+
+[u/hanniabu](https://reddit.com/u/hanniabu):
+
+I think your understanding of how the rollups operate. When you bridge the only communication happening is the rollup's balance sheet is updated to reflect the addition/withdrawal of this transaction. 
+
+In terms of consensus, for optimistic rollups (e.g. optimism, arbitrum) all the transactions happening on the rollup are compressed (like a zip file) and verified by L1. For zkrollups (e.g. zksync, scroll) a mathematical proof is created for all the transactions and all L1 has to do is verify the proof. 
+
+As L2 blocks get more transactions, the cost per transaction goes down as the shared costs are spread out across more transactions (economies of scale).
+
+(Tangent: The compression of optimistic rollups requires less of the L2 and more of the L1 (and hence more cost). For zkrollups generating the proof requires a lot of effort from the L2, but is very cheap for the L1 to verify.)
+
+L2 blocks don't happen at the same time as L1. They vary depending on the rollup, but I think most have a target of 2 seconds per block. Ethereum blocks are 12 seconds, so there's 6 L2 blocks in each L1 block.
+
+So L2s benefit from math and compression for more efficient settlement as well as economies of scale to provide cheaper transactions. This will get even cheaper after the update in the next few months (\~april 2024) by creating a separate fee market for L1 blockspace specifically dedicated for L2s. So they no longer need to be competing with L1 transactions for blockspace. This change also makes transactions costs more predictable for rollups, rather than needing to slightly overcharge to account for any potential unexpected gas spikes.
+
+After this update L2 transactions will get cheaper (estimated at up to 1/100th depending on rollup design), falling in the range of a few cents to maybe even less than a penny in some cases.
+
+</details>
+<details>
+<summary>u/interweaver is still fighting the good fight to diversify the stake. He later shares some results from such good work in action!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18wi7t1/daily_general_discussion_january_2_2024/kg0r4b1/)
+
+Hey EthFinance, happy 2024! I have some good news to start off the year :D
+
+Something like 15% of all staked Ether is staked through Coinbase, and only a little over a month ago, they posted in a [blog post](https://www.coinbase.com/de/cloud/discover/customer-stories/cb-wallet) that they're using 100% Geth to operate that stake.
+
+We're still in the grips of a Geth client supermajority, with an estimated [75%](https://etherclients.com/) to [85%](https://execution-diversity.info/) of staked Ether using Geth under the hood, so Coinbase's 15% stake using 100% Geth is a big impediment to bringing that number down below 66%, where we'll be safe from an instant catastrophic fork if Geth has a forking bug.
+
+Over the last month, some of you who are on Twitter/X may have been following my campaign to tweet every day at Coinbase to try to get them to diversify their Ethereum execution clients. This was partly an informational campaign to make more people aware of the issues supermajority clients like Geth present, and partly a gentle pressure campaign to get Coinbase to consider switching.
+
+Today this campaign led to a [clarifying tweet from Will Robinson](https://twitter.com/willrobinson23/status/1742211630342299822), VP of Engineering at Coinbase, that Coinbase is definitely planning to diversify their staking execution clients!
+
+There's no timeline associated with this, so I expect it might still take a few months, but it's very exciting that they've finally publicly confirmed that they are aligned on client diversity, and are working towards that goal internally.
+
+I don't think my daily tweets changed any internal Coinbase policy; they've likely been working on this for a while already. But it did enable us to get a public statement from them on their client diversity plans!
+
+If you're interested in my (now concluded) tweet campaign, you can see [my most recent one here](https://twitter.com/arboraeth/status/1742219571543646292), with links to the previous tweets.
+
+Thanks everyone who supported that campaign, and also for every one of you who's running a node with minority execution clients! I'm super hopeful that we can finally get Ethereum to a place of full client diversity in 2024, with resilience against any single client's forking bug.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18wi7t1/daily_general_discussion_january_2_2024/kg19vt1/)
+
+Happy 2024, EthFinance!
+
+I made a longer post on this below but it looks like it might be hidden, so I'll just share the punchline -
+
+Coinbase (or a high-up employee, rather) [committed today](https://twitter.com/willrobinson23/status/1742211630342299822) to diversifying their staked Ether away from supermajority client Geth!
+
+This is amazing news given they're currently running 100% Geth with 15% of all staked Ether.
+
+I'm considerably more optimistic now that this year will be the year Ethereum achieves full client diversity!
+
+</details>
+<details>
+<summary>u/MrVodnik shares some key pointers on keeping your funds secure when signing on new websitesd</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18wi7t1/daily_general_discussion_january_2_2024/kg12t25/)
+
+Oh, it's a complex one. 
+
+tl;dr; There are two types of approvals. Don't sign what you don't understand. Otherwise, you'll be fine. 
+
+Signing is all that your wallet do. If you prepare a signature of a tx, someone else can send this out. So the rule of thumb is - don't sign anything you don't understand. I.e., avoid signing "hex" data that is not translatable to human-readable text (e.g. don't sign "0x2b3cf00321a..." but sign "I agree to terms and services of xyz"). 
+
+When it comes to approvals, these are NOT part of the Ethereum protocol! What we come to understand as approvals, is an ERC20 method to allow other parties (mainly contracts) to move your funds. In most (if not all) of legit ERC20 contracts/tokens, it works as expected, and in scamy ones - you don't care about them anyway. It is good to understand what and how a malicious signature/transaction can do to your funds. Considering above - it can only drain ERC20 that you've approved. If you hold more exotic items in your wallet, then its up to you to verify how they act.
+
+When it comes to approvals, there are two main types out there. The first one is the standard "approve" function of the ERC20 spec, which sets on-chain record of whom and for how much, can move the token in question. The second one is "permit2" introduced by Uniswap and slowly adopted by other dApps. It extends standard approval systems and **allows off-chain approvals**, which I guess is what you're asking about.
+
+</details>
+<details>
+<summary>u/benido2030 has the monthly staking update</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18wi7t1/daily_general_discussion_january_2_2024/kfysit4/)
+
+**Here's the ninth edition of the monthly staking update**   
+First monthly staking update for 2024. Obviously the state of staking will be something to watch this year. A lot of people expect way more ETH staked, especially *if* there is an ETH ETF and it is allowed to stake the underlying ETH. Lido dominance will be something to have an eye on. Then there is eigenlayer of course... And maybe if there are some solo staker airdrops, we will also see new inflows from "small guys". So let's dive in! 
+
+**Validator overview - total: 1051685 validators\***
+
+&#x200B;
+
+* 901635 active (December: 881447; +20188 / +2,2%, | May: 554322; +347313 / +62%)
+* 384 pending (December: 388; -4 / -1% | May: 15537; -15153 / -97,5%)
+* 0 exiting (December: 722; 0 / -100% | May: 7333; -7333 / -100%)
+* 205331 exited (December: 169613; +35718 / +21% | May: 39341; +165990 / +422%)
+
+The validator set keeps on growing. The growth isn't crazy and there are also continuous exits every month, but generally speaking number go up. Right now we are at 24,2% of all ETH staked. In my opinion, there's nothing really "fancy" to see here. 
+
+  
+**Client diversity numbers\*\***  
+*Consensus*
+
+* Prysm 41% (December: 41%, May: 38%)
+* Lighthouse 33% (December: 34%, May: 37%)
+* Teku 16% (December: 16%, May: 17%)
+* Nimbus 8% (December: 7%, May: 6%)
+* Lodestar 1% (December: 1%, May: 1%)
+
+*Execution*
+
+* Geth 84% (December: 84%)
+* Nethermind 8% (December: 8%)
+* Erigon 2% (December: 2%)
+* Besu 5% (December: 5%)
+
+Client diversity is more or less the same it was at the end of last year. Nimbus slightly gaining share, which is good, but not really important, since Consensus clients are looking okay.   
+Execution keeps on being an issue. Geth's share with a constant 84% is still way too high. How can we change that? 
+
+1. Switch from Geth to a minority client. It *really* isn't that hard and might have other benefits like a better feature set (e.g. auto pruning), which might help to make a decision. 
+2. There is e.g. [Arbora.eth](https://x.com/arboraeth/status/1741947346206826699?s=20) on Twitter asking Coinbase to stop using Geth as their sole execution client. Join them, retweet, post, pressure bigger entities to change their setup. I think retweeting is rather low effort, but might help to spread the word. 
+
+  
+**Pool distribution\*\*\***
+
+* Lido 31,7% (December: 32,3%)
+* Coinbase 14,3% (December: 14,2%)
+* Binance 3,7% (December: 4,1%)
+* Rocket Pool 2,9% (December: 2,9%)
+* Kraken 2,8% (December: 2,7%)  
+\+ a lot of whales, smaller staking providers etc.
+
+With the launch of Blast Lido was gaining market share last month. This has stopped and interestingly Lido is basically back to 31,x% like before the launch. Now obviously we can't really tell where it would be without Blast, but my guess is lower and in a best case the launch only pushed it up temporarily and market share will continue to fall. 
+
+Obviously we should not rely on the market handling it! If you have (w)stETH please think about withdrawing from Lido and/ or depositing into Diva. If you participate in the "Diva vampire attack" you will not only receive a new LST but also Diva tokens. Interestingly Diva already has 0.4% market share and hasn't even launched yet. Let's make that number go up!   
+All percentages are rounded, so this is not 100% accurate, but should be good enough to show changes in the coming months.  
+\* https://beaconcha.in/validators#all  
+\*\* https://clientdiversity.org/#distribution  
+\*\*\* [https://dune.com/hildobby/eth2-staking](https://dune.com/hildobby/eth2-staking)
+
+P.S. Completely unrelated, but Murs 3:16 (The 9th Edition) produced by 9th Wonder is imo still one of the best LPs ever. 9th is an incredible producer and I really like Murs flow. He's probably not the best lyricist, but innovative and even had a track about Bitcoin in like 2016 or 2017.
+
+</details>
+<details>
+<summary>u/ElectricMutiny shares their story of loss as a warning for each of us to look after our own ETH carefully</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18xc4ml/daily_general_discussion_january_3_2024/kg3w4tf/)
+
+Two days ago I wrote in the daily about how I lost all of my holdings. The next two days were the worst in my grown up life, just hours of hours of despair and sleepless anxiety. The worst part was seeing all of my ETH in that foreign wallet address, so close, yet so far away. 
+
+Today is better. The sun is shining. I have my little apartment and my family and friends. I did realise some gains during the last bull run which i reinvested in something safer. And my sister still have her holdings, and I will enjoy seeing her get rich during the upcoming bull. She deserves it. 
+
+So take my carelessness, my stupidity, as a warning. If you are not careful, you will get recked.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #49: December 29, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=P36tiPSEhw4) | [POAP](https://poap.gallery/event/166385)
