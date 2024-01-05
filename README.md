@@ -15645,7 +15645,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | jey_s_tears           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
 .  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>Contributor at [Supermodular.xyz](https://supermodular.xyz/) and [Green Pill](https://greenpill.network/)
 .  | juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
-.  | kirill_stakewise      | Co-Founder at [Stakewise](https://stakewise.io/)
+.  | kirill_stakewise      | [Stakewise Co-Founder](https://stakewise.io/)
 .  | kudeta                | [Aestus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
 .  | lefterisjp            | [Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
@@ -15656,6 +15656,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
 .  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
+.  | prince_lantern        | [Lantern Finance Co-Founder](https://www.lantern.finance/)
 .  | profstrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
 .  | pseudotheos           | Researcher at [Scroll](https://scroll.io)
 .  | readreed              | [POAP Studio](https://www.poap.studio/) team member
