@@ -11,982 +11,985 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>972 Dooters - Last Updated January 5, 2024</small>
+<small>975 Dooters - Last Updated January 12, 2024</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
-. | [superphiz](https://reddit.com/u/superphiz) | 152
-. | [logristhebard](https://reddit.com/u/logristhebard) | 97
-. | [benido2030](https://reddit.com/u/benido2030) | 91
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 86
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 76
-. | [696_eth](https://reddit.com/u/696_eth) | 76
-. | [set1less](https://reddit.com/u/set1less) | 69
-. | [hanniabu](https://reddit.com/u/hanniabu) | 66
-. | [kbrot](https://reddit.com/u/kbrot) | 60
-. | [syentist](https://reddit.com/u/syentist) | 59
-. | [stablecoin](https://reddit.com/u/stablecoin) | 57
-. | [ethical-trade](https://reddit.com/u/ethical-trade) | 56
-. | [nixorokish](https://reddit.com/u/nixorokish) | 56
-. | [etheraider](https://reddit.com/u/etheraider) | 48
-. | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 47
-. | [haurog](https://reddit.com/u/haurog) | 47
-. | [bob-rossi](https://reddit.com/u/bob-rossi) | 44
-. | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
-. | [austonst](https://reddit.com/u/austonst) | 41
-. | [the-a-word](https://reddit.com/u/the-a-word) | 39
-. | [alexiskef](https://reddit.com/u/alexiskef) | 38
-. | [savage-dragon](https://reddit.com/u/savage-dragon) | 38
-. | [phimarhal](https://reddit.com/u/phimarhal) | 38
-. | [spacesider](https://reddit.com/u/spacesider) | 36
-. | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
-. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 34
-. | [pa7x1](https://reddit.com/u/pa7x1) | 33
-. | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 33
-. | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 32
-. | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 32
-. | [bagogel12](https://reddit.com/u/bagogel12) | 32
-. | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 31
-. | [interweaver](https://reddit.com/u/interweaver) | 31
-. | [revanchist1](https://reddit.com/u/revanchist1) | 29
-. | [liberosist](https://reddit.com/u/liberosist) | 29
-. | [15kisfud](https://reddit.com/u/15kisfud) | 29
-. | [eggill7227](https://reddit.com/u/eggill7227) | 28
-. | [mrvodnik](https://reddit.com/u/mrvodnik) | 28
-. | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
-. | [ender985](https://reddit.com/u/ender985) | 26
-. | [domotheus](https://reddit.com/u/domotheus) | 26
-. | [papazio](https://reddit.com/u/papazio) | 24
-. | [seamonkey82](https://reddit.com/u/seamonkey82) | 23
-. | [needlerop](https://reddit.com/u/needlerop) | 23
-. | [maswasnos](https://reddit.com/u/maswasnos) | 23
-. | [_weboftrust](https://reddit.com/u/_weboftrust) | 23
-. | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
-. | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 22
-. | [hipaces](https://reddit.com/u/hipaces) | 22
-. | [decibels42](https://reddit.com/u/decibels42) | 22
-. | [wolfparking](https://reddit.com/u/wolfparking) | 21
-. | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
-. | [silentjxhn](https://reddit.com/u/silentjxhn) | 20
-. | [ro-_-b](https://reddit.com/u/ro-_-b) | 20
-. | [not-ngmi](https://reddit.com/u/not-ngmi) | 20
-. | [moschus11](https://reddit.com/u/moschus11) | 20
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 20
-. | [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
-. | [aaj094](https://reddit.com/u/aaj094) | 20
-. | [savage_x](https://reddit.com/u/savage_x) | 19
-. | [coldsnap](https://reddit.com/u/coldsnap) | 19
-. | [vedran_](https://reddit.com/u/vedran_) | 18
-. | [ethacct](https://reddit.com/u/ethacct) | 18
-. | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
-. | [ber10](https://reddit.com/u/ber10) | 18
-. | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 18
-. | [kingleo23](https://reddit.com/u/kingleo23) | 17
-. | [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 17
-. | [abcoathup](https://reddit.com/u/abcoathup) | 16
-. | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
-. | [wulkingdead](https://reddit.com/u/wulkingdead) | 16
-. | [vvpan](https://reddit.com/u/vvpan) | 16
-. | [barthib](https://reddit.com/u/barthib) | 16
-. | [dreth](https://reddit.com/u/dreth) | 15
-. | [hblask](https://reddit.com/u/hblask) | 15
-. | [nikola_j](https://reddit.com/u/nikola_j) | 15
-. | [thehighflyer](https://reddit.com/u/thehighflyer) | 15
-. | [masterroshi9](https://reddit.com/u/masterroshi9) | 15
-. | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 14
-. | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 14
-. | [thehansgruber](https://reddit.com/u/thehansgruber) | 14
-. | [teedeepee](https://reddit.com/u/teedeepee) | 14
-. | [sonotyou](https://reddit.com/u/sonotyou) | 14
-. | [oyurukemono](https://reddit.com/u/oyurukemono) | 14
-. | [asdafari12](https://reddit.com/u/asdafari12) | 14
-. | [offmyporch](https://reddit.com/u/offmyporch) | 13
-. | [kwadrax](https://reddit.com/u/kwadrax) | 13
-. | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 13
-. | [skythe4](https://reddit.com/u/skythe4) | 13
-. | [kudeta](https://reddit.com/u/kudeta) | 13
-. | [im_this_guy](https://reddit.com/u/im_this_guy) | 13
-. | [etherbie](https://reddit.com/u/etherbie) | 13
-. | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 13
-. | [dashby1](https://reddit.com/u/dashby1) | 13
-. | [mrs_willy](https://reddit.com/u/mrs_willy) | 12
-. | [unitedterror](https://reddit.com/u/unitedterror) | 12
-. | [replykindly](https://reddit.com/u/replykindly) | 12
-. | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
-. | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 12
-. | [barleythecat](https://reddit.com/u/barleythecat) | 12
-. | [2peg2city](https://reddit.com/u/2peg2city) | 12
-. | [cutsnek](https://reddit.com/u/cutsnek) | 11
-. | [odds-bodkins](https://reddit.com/u/odds-bodkins) | 11
-. | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
-. | [timmerwb](https://reddit.com/u/timmerwb) | 11
-. | [t0bii](https://reddit.com/u/t0bii) | 11
-. | [pegcity](https://reddit.com/u/pegcity) | 11
-. | [keynya](https://reddit.com/u/keynya) | 11
-. | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 11
-. | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
-. | [bigglybillbrasky](https://reddit.com/u/bigglybillbrasky) | 11
-. | [1l0o](https://reddit.com/u/1l0o) | 11
-. | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 10
-. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 10
-. | [mrcatface13](https://reddit.com/u/mrcatface13) | 10
-. | [luukiemans](https://reddit.com/u/luukiemans) | 10
-. | [heringsalat100](https://reddit.com/u/heringsalat100) | 10
-. | [defirobot](https://reddit.com/u/defirobot) | 10
-. | [bakedent](https://reddit.com/u/bakedent) | 10
-. | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
-. | [ab111292](https://reddit.com/u/ab111292) | 10
-. | [harryzke](https://reddit.com/u/harryzke) | 9
-. | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 9
-. | [ev1501](https://reddit.com/u/ev1501) | 9
-. | [pbrody](https://reddit.com/u/pbrody) | 9
-. | [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 9
-. | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 9
-. | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
-. | [mkkoll](https://reddit.com/u/mkkoll) | 9
-. | [magnushansson](https://reddit.com/u/magnushansson) | 9
-. | [ec265](https://reddit.com/u/ec265) | 9
-. | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 9
-. | [ch3white10](https://reddit.com/u/ch3white10) | 9
-. | [canadiens1993](https://reddit.com/u/canadiens1993) | 9
-. | [buyethordai](https://reddit.com/u/buyethordai) | 9
-. | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 9
-. | [atyzze](https://reddit.com/u/atyzze) | 9
-. | [yeahdave4](https://reddit.com/u/yeahdave4) | 8
-. | [jumnhy](https://reddit.com/u/jumnhy) | 8
-. | [weedstocks](https://reddit.com/u/weedstocks) | 8
-. | [theethmeister](https://reddit.com/u/theethmeister) | 8
-. | [showbizza](https://reddit.com/u/showbizza) | 8
-. | [roargrrrr](https://reddit.com/u/roargrrrr) | 8
-. | [proof-of-lake](https://reddit.com/u/proof-of-lake) | 8
-. | [pembull](https://reddit.com/u/pembull) | 8
-. | [not_selling_eth](https://reddit.com/u/not_selling_eth) | 8
-. | [kb1985](https://reddit.com/u/kb1985) | 8
-. | [jin366](https://reddit.com/u/jin366) | 8
-. | [iscaacsi](https://reddit.com/u/iscaacsi) | 8
-. | [ipeculiarly](https://reddit.com/u/ipeculiarly) | 8
-. | [fast_contract](https://reddit.com/u/fast_contract) | 8
-. | [edmundedgar](https://reddit.com/u/edmundedgar) | 8
-. | [dray11](https://reddit.com/u/dray11) | 8
-. | [defacticool](https://reddit.com/u/defacticool) | 8
-. | [confucius_said](https://reddit.com/u/confucius_said) | 8
-. | [accountaccumulator](https://reddit.com/u/accountaccumulator) | 8
-. | [18boro](https://reddit.com/u/18boro) | 8
-. | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
-. | [vandelay101](https://reddit.com/u/vandelay101) | 7
-. | [thepaypay](https://reddit.com/u/thepaypay) | 7
-. | [steven_a_mma_goat](https://reddit.com/u/steven_a_mma_goat) | 7
-. | [stalslagga](https://reddit.com/u/stalslagga) | 7
-. | [sku](https://reddit.com/u/sku) | 7
-. | [shiftli](https://reddit.com/u/shiftli) | 7
-. | [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
-. | [pocketwailord](https://reddit.com/u/pocketwailord) | 7
-. | [miaviv](https://reddit.com/u/miaviv) | 7
-. | [mayneminu](https://reddit.com/u/mayneminu) | 7
-. | [keepontruckinbag](https://reddit.com/u/keepontruckinbag) | 7
-. | [juxtanotherposition](https://reddit.com/u/juxtanotherposition) | 7
-. | [jmart762](https://reddit.com/u/jmart762) | 7
-. | [jbroja](https://reddit.com/u/jbroja) | 7
-. | [fiberpunk2077](https://reddit.com/u/fiberpunk2077) | 7
-. | [doubtstarsarefire](https://reddit.com/u/doubtstarsarefire) | 7
-. | [cosmiccollusion](https://reddit.com/u/cosmiccollusion) | 7
-. | [childsp](https://reddit.com/u/childsp) | 7
-. | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
-. | [thenextbestguess](https://reddit.com/u/thenextbestguess) | 6
-. | [lawfultots](https://reddit.com/u/lawfultots) | 6
-. | [yeopaa](https://reddit.com/u/yeopaa) | 6
-. | [sfcpfc](https://reddit.com/u/sfcpfc) | 6
-. | [sal_t_nuts](https://reddit.com/u/sal_t_nuts) | 6
-. | [pudgypeng](https://reddit.com/u/pudgypeng) | 6
-. | [offthewall1066](https://reddit.com/u/offthewall1066) | 6
-. | [nefariousnaz](https://reddit.com/u/nefariousnaz) | 6
-. | [monkeyhold99](https://reddit.com/u/monkeyhold99) | 6
-. | [lops21](https://reddit.com/u/lops21) | 6
-. | [logic_beach](https://reddit.com/u/logic_beach) | 6
-. | [llamachef](https://reddit.com/u/llamachef) | 6
-. | [kukai_walker](https://reddit.com/u/kukai_walker) | 6
-. | [kallukoras](https://reddit.com/u/kallukoras) | 6
-. | [glittering-duty-4069](https://reddit.com/u/glittering-duty-4069) | 6
-. | [eth2353](https://reddit.com/u/eth2353) | 6
-. | [eetherway](https://reddit.com/u/eetherway) | 6
-. | [cryptrd285](https://reddit.com/u/cryptrd285) | 6
-. | [corn-potage](https://reddit.com/u/corn-potage) | 6
-. | [coinanon](https://reddit.com/u/coinanon) | 6
-. | [chromes](https://reddit.com/u/chromes) | 6
-. | [ajmonkfish](https://reddit.com/u/ajmonkfish) | 6
-. | [_etherium](https://reddit.com/u/_etherium) | 6
-. | [zk_snacks](https://reddit.com/u/zk_snacks) | 5
-. | [wootnasty](https://reddit.com/u/wootnasty) | 5
-. | [whovillage](https://reddit.com/u/whovillage) | 5
-. | [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
-. | [vvander](https://reddit.com/u/vvander) | 5
-. | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 5
-. | [themoondancekid](https://reddit.com/u/themoondancekid) | 5
-. | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
-. | [the_swingman](https://reddit.com/u/the_swingman) | 5
-. | [strawdar](https://reddit.com/u/strawdar) | 5
-. | [skidseverywhere](https://reddit.com/u/skidseverywhere) | 5
-. | [sinnu2s](https://reddit.com/u/sinnu2s) | 5
-. | [shadowking94](https://reddit.com/u/shadowking94) | 5
-. | [sbdw0c](https://reddit.com/u/sbdw0c) | 5
-. | [red_corneas](https://reddit.com/u/red_corneas) | 5
-. | [rapidlysequencing](https://reddit.com/u/rapidlysequencing) | 5
-. | [rapante](https://reddit.com/u/rapante) | 5
-. | [perleflamme](https://reddit.com/u/perleflamme) | 5
-. | [oldskool47](https://reddit.com/u/oldskool47) | 5
-. | [newman513](https://reddit.com/u/newman513) | 5
-. | [mr_cheese_curds](https://reddit.com/u/mr_cheese_curds) | 5
-. | [mirved](https://reddit.com/u/mirved) | 5
-. | [lobsterspider](https://reddit.com/u/lobsterspider) | 5
-. | [lazy_physicist](https://reddit.com/u/lazy_physicist) | 5
-. | [kedos25](https://reddit.com/u/kedos25) | 5
-. | [kainzilla](https://reddit.com/u/kainzilla) | 5
-. | [intmmtsir](https://reddit.com/u/intmmtsir) | 5
-. | [hereimalive](https://reddit.com/u/hereimalive) | 5
-. | [hamberdler](https://reddit.com/u/hamberdler) | 5
-. | [geoffbezos](https://reddit.com/u/geoffbezos) | 5
-. | [frenkthetank](https://reddit.com/u/frenkthetank) | 5
-. | [fatlever2](https://reddit.com/u/fatlever2) | 5
-. | [ethdefiance](https://reddit.com/u/ethdefiance) | 5
-. | [datacruncha](https://reddit.com/u/datacruncha) | 5
-. | [danksharting](https://reddit.com/u/danksharting) | 5
-. | [best_coder_na](https://reddit.com/u/best_coder_na) | 5
-. | [bad_investment](https://reddit.com/u/bad_investment) | 5
-. | [404bachee](https://reddit.com/u/404bachee) | 5
-. | [wegotsumnewbands](https://reddit.com/u/wegotsumnewbands) | 4
-. | [watch_dominion_now](https://reddit.com/u/watch_dominion_now) | 4
-. | [tutamtumikia](https://reddit.com/u/tutamtumikia) | 4
-. | [toethmooonguy](https://reddit.com/u/toethmooonguy) | 4
-. | [thoughts4food](https://reddit.com/u/thoughts4food) | 4
-. | [theunderdogrutten](https://reddit.com/u/theunderdogrutten) | 4
-. | [the_statustician](https://reddit.com/u/the_statustician) | 4
-. | [suddenmind](https://reddit.com/u/suddenmind) | 4
-. | [stobie](https://reddit.com/u/stobie) | 4
-. | [splintercole](https://reddit.com/u/splintercole) | 4
-. | [silver5005](https://reddit.com/u/silver5005) | 4
-. | [sfdao91](https://reddit.com/u/sfdao91) | 4
-. | [sabishiifury](https://reddit.com/u/sabishiifury) | 4
-. | [rumblecat](https://reddit.com/u/rumblecat) | 4
-. | [plaenar](https://reddit.com/u/plaenar) | 4
-. | [physalisx](https://reddit.com/u/physalisx) | 4
-. | [nooku](https://reddit.com/u/nooku) | 4
-. | [nomad-nuance](https://reddit.com/u/nomad-nuance) | 4
-. | [nevilleharris](https://reddit.com/u/nevilleharris) | 4
-. | [need-a-bencil](https://reddit.com/u/need-a-bencil) | 4
-. | [megroovin](https://reddit.com/u/megroovin) | 4
-. | [labrav](https://reddit.com/u/labrav) | 4
-. | [johnbmaclemore](https://reddit.com/u/johnbmaclemore) | 4
-. | [imelia29](https://reddit.com/u/imelia29) | 4
-. | [i_love_mom](https://reddit.com/u/i_love_mom) | 4
-. | [hombredecamote](https://reddit.com/u/hombredecamote) | 4
-. | [hocilef](https://reddit.com/u/hocilef) | 4
-. | [gethwethreth](https://reddit.com/u/gethwethreth) | 4
-. | [friedchickentrailer](https://reddit.com/u/friedchickentrailer) | 4
-. | [epiphany153](https://reddit.com/u/epiphany153) | 4
-. | [epic_trader](https://reddit.com/u/epic_trader) | 4
-. | [ecguy1011](https://reddit.com/u/ecguy1011) | 4
-. | [doomfuzzslayer](https://reddit.com/u/doomfuzzslayer) | 4
-. | [dinny14](https://reddit.com/u/dinny14) | 4
-. | [degenkolotoure](https://reddit.com/u/degenkolotoure) | 4
-. | [curious-b](https://reddit.com/u/curious-b) | 4
-. | [cocleric](https://reddit.com/u/cocleric) | 4
-. | [breeezyyyy](https://reddit.com/u/breeezyyyy) | 4
-. | [bebopnosering](https://reddit.com/u/bebopnosering) | 4
-. | [anguier](https://reddit.com/u/anguier) | 4
-. | [anderspatriksvensson](https://reddit.com/u/anderspatriksvensson) | 4
-. | [ambidextrous12](https://reddit.com/u/ambidextrous12) | 4
-. | [aaqy](https://reddit.com/u/aaqy) | 4
-. | [18cimal](https://reddit.com/u/18cimal) | 4
-. | [100acrewood](https://reddit.com/u/100acrewood) | 4
-. | [mhotdemnot](https://reddit.com/u/mhotdemnot) | 3
-. | [sinuio](https://reddit.com/u/sinuio) | 3
-. | [readreed](https://reddit.com/u/readreed) | 3
-. | [pinkyandthebrainer](https://reddit.com/u/pinkyandthebrainer) | 3
-. | [evanvanness](https://reddit.com/u/evanvanness) | 3
-. | [davidahoffman](https://reddit.com/u/davidahoffman) | 3
-. | [itchy_ad_3659](https://reddit.com/u/itchy_ad_3659) | 3
-. | [midnightonmars](https://reddit.com/u/midnightonmars) | 3
-. | [wizad23](https://reddit.com/u/wizad23) | 3
-. | [username_error](https://reddit.com/u/username_error) | 3
-. | [tinfoilheadphones](https://reddit.com/u/tinfoilheadphones) | 3
-. | [syzygy00778](https://reddit.com/u/syzygy00778) | 3
-. | [survivaleast](https://reddit.com/u/survivaleast) | 3
-. | [strtrd](https://reddit.com/u/strtrd) | 3
-. | [stevieraykatz](https://reddit.com/u/stevieraykatz) | 3
-. | [splinunz](https://reddit.com/u/splinunz) | 3
-. | [sorangutan](https://reddit.com/u/sorangutan) | 3
-. | [smidge](https://reddit.com/u/smidge) | 3
-. | [shitshotdead](https://reddit.com/u/shitshotdead) | 3
-. | [sayno2mids](https://reddit.com/u/sayno2mids) | 3
-. | [proto-n](https://reddit.com/u/proto-n) | 3
-. | [professionaiact](https://reddit.com/u/professionaiact) | 3
-. | [pinkpuppyball](https://reddit.com/u/pinkpuppyball) | 3
-. | [ournumber4](https://reddit.com/u/ournumber4) | 3
-. | [oblomov1](https://reddit.com/u/oblomov1) | 3
-. | [obitwokenobi](https://reddit.com/u/obitwokenobi) | 3
-. | [nuadhaargetlam](https://reddit.com/u/nuadhaargetlam) | 3
-. | [nonocoiner](https://reddit.com/u/nonocoiner) | 3
-. | [niktak11](https://reddit.com/u/niktak11) | 3
-. | [mwiwm](https://reddit.com/u/mwiwm) | 3
-. | [morganzero](https://reddit.com/u/morganzero) | 3
-. | [kotmynetchup](https://reddit.com/u/kotmynetchup) | 3
-. | [kairepaire](https://reddit.com/u/kairepaire) | 3
-. | [jbmai](https://reddit.com/u/jbmai) | 3
-. | [iwanttobeweve](https://reddit.com/u/iwanttobeweve) | 3
-. | [imaybeslow](https://reddit.com/u/imaybeslow) | 3
-. | [iliiililii](https://reddit.com/u/iliiililii) | 3
-. | [hlpe](https://reddit.com/u/hlpe) | 3
-. | [gumbeat007](https://reddit.com/u/gumbeat007) | 3
-. | [gravy_vampire](https://reddit.com/u/gravy_vampire) | 3
-. | [general_illus](https://reddit.com/u/general_illus) | 3
-. | [fiah84](https://reddit.com/u/fiah84) | 3
-. | [fheredin](https://reddit.com/u/fheredin) | 3
-. | [ethnocent](https://reddit.com/u/ethnocent) | 3
-. | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 3
-. | [esoa](https://reddit.com/u/esoa) | 3
-. | [el-coco-no](https://reddit.com/u/el-coco-no) | 3
-. | [dvdglch](https://reddit.com/u/dvdglch) | 3
-. | [diego-d](https://reddit.com/u/diego-d) | 3
-. | [defijie](https://reddit.com/u/defijie) | 3
-. | [dataalways](https://reddit.com/u/dataalways) | 3
-. | [cryptonomikon](https://reddit.com/u/cryptonomikon) | 3
-. | [communist_mini_pesto](https://reddit.com/u/communist_mini_pesto) | 3
-. | [cometothecaml](https://reddit.com/u/cometothecaml) | 3
-. | [coin010309](https://reddit.com/u/coin010309) | 3
-. | [chokeman](https://reddit.com/u/chokeman) | 3
-. | [candlethief724](https://reddit.com/u/candlethief724) | 3
-. | [breakeizer](https://reddit.com/u/breakeizer) | 3
-. | [bbqcaramelbrulee](https://reddit.com/u/bbqcaramelbrulee) | 3
-. | [badassmotherfker](https://reddit.com/u/badassmotherfker) | 3
-. | [auseve](https://reddit.com/u/auseve) | 3
-. | [16withscars](https://reddit.com/u/16withscars) | 3
-. | [brambrameth](https://reddit.com/u/brambrameth) | 2
-. | [moderatelytortoise](https://reddit.com/u/moderatelytortoise) | 2
-. | [zestykite](https://reddit.com/u/zestykite) | 2
-. | [zerotricks](https://reddit.com/u/zerotricks) | 2
-. | [yourburningpizza](https://reddit.com/u/yourburningpizza) | 2
-. | [yareane](https://reddit.com/u/yareane) | 2
-. | [yadude11](https://reddit.com/u/yadude11) | 2
-. | [wrekhesh](https://reddit.com/u/wrekhesh) | 2
-. | [wanna_know_more](https://reddit.com/u/wanna_know_more) | 2
-. | [viners](https://reddit.com/u/viners) | 2
-. | [vectorvictorious](https://reddit.com/u/vectorvictorious) | 2
-. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 2
-. | [trent_vanepps](https://reddit.com/u/trent_vanepps) | 2
-. | [thisisnotlegal](https://reddit.com/u/thisisnotlegal) | 2
-. | [thewalkinglive](https://reddit.com/u/thewalkinglive) | 2
-. | [theubiquitousbubble](https://reddit.com/u/theubiquitousbubble) | 2
-. | [temporary-music-5468](https://reddit.com/u/temporary-music-5468) | 2
-. | [tech_consultant](https://reddit.com/u/tech_consultant) | 2
-. | [stripedbluewallpaper](https://reddit.com/u/stripedbluewallpaper) | 2
-. | [statsticks](https://reddit.com/u/statsticks) | 2
-. | [srirachaferrari](https://reddit.com/u/srirachaferrari) | 2
-. | [speedemon92](https://reddit.com/u/speedemon92) | 2
-. | [sparta89](https://reddit.com/u/sparta89) | 2
-. | [sn0w_l30pard](https://reddit.com/u/sn0w_l30pard) | 2
-. | [smellymammoths](https://reddit.com/u/smellymammoths) | 2
-. | [smegma_farmer](https://reddit.com/u/smegma_farmer) | 2
-. | [sm3gh34d](https://reddit.com/u/sm3gh34d) | 2
-. | [sirrayshio](https://reddit.com/u/sirrayshio) | 2
-. | [silktouchm](https://reddit.com/u/silktouchm) | 2
-. | [seanathanwaters](https://reddit.com/u/seanathanwaters) | 2
-. | [samueth_peapks](https://reddit.com/u/samueth_peapks) | 2
-. | [rsblk](https://reddit.com/u/rsblk) | 2
-. | [romborg](https://reddit.com/u/romborg) | 2
-. | [rockjones](https://reddit.com/u/rockjones) | 2
-. | [rhader](https://reddit.com/u/rhader) | 2
-. | [reuptaken](https://reddit.com/u/reuptaken) | 2
-. | [reststoprumble](https://reddit.com/u/reststoprumble) | 2
-. | [reno007](https://reddit.com/u/reno007) | 2
-. | [redditor31415927](https://reddit.com/u/redditor31415927) | 2
-. | [red4141](https://reddit.com/u/red4141) | 2
-. | [pulisordie](https://reddit.com/u/pulisordie) | 2
-. | [ptuchinho19](https://reddit.com/u/ptuchinho19) | 2
-. | [psullzzz](https://reddit.com/u/psullzzz) | 2
-. | [prostmelone](https://reddit.com/u/prostmelone) | 2
-. | [profstrangelove](https://reddit.com/u/profstrangelove) | 2
-. | [productdude](https://reddit.com/u/productdude) | 2
-. | [pooeygusset](https://reddit.com/u/pooeygusset) | 2
-. | [phigo50](https://reddit.com/u/phigo50) | 2
-. | [perpetualcamel](https://reddit.com/u/perpetualcamel) | 2
-. | [originalbaconslab](https://reddit.com/u/originalbaconslab) | 2
-. | [old_world9768](https://reddit.com/u/old_world9768) | 2
-. | [o-_l_-o](https://reddit.com/u/o-_l_-o) | 2
-. | [nyruds](https://reddit.com/u/nyruds) | 2
-. | [nothingnotnever](https://reddit.com/u/nothingnotnever) | 2
-. | [nomadic8893](https://reddit.com/u/nomadic8893) | 2
-. | [newtosh](https://reddit.com/u/newtosh) | 2
-. | [namtaru_x](https://reddit.com/u/namtaru_x) | 2
-. | [mountainminer](https://reddit.com/u/mountainminer) | 2
-. | [morkogoz](https://reddit.com/u/morkogoz) | 2
-. | [moneyprintergobrbrrr](https://reddit.com/u/moneyprintergobrbrrr) | 2
-. | [mister_eth](https://reddit.com/u/mister_eth) | 2
-. | [midoridrops](https://reddit.com/u/midoridrops) | 2
-. | [mgr37](https://reddit.com/u/mgr37) | 2
-. | [meyamu](https://reddit.com/u/meyamu) | 2
-. | [mediumrarestake](https://reddit.com/u/mediumrarestake) | 2
-. | [mcmatt05](https://reddit.com/u/mcmatt05) | 2
-. | [mattau05](https://reddit.com/u/mattau05) | 2
-. | [maeby_a_bluth](https://reddit.com/u/maeby_a_bluth) | 2
-. | [maconbacon01](https://reddit.com/u/maconbacon01) | 2
-. | [lucadonnoh](https://reddit.com/u/lucadonnoh) | 2
-. | [ltwln](https://reddit.com/u/ltwln) | 2
-. | [llupine](https://reddit.com/u/llupine) | 2
-. | [lickmytongue77](https://reddit.com/u/lickmytongue77) | 2
-. | [leraq](https://reddit.com/u/leraq) | 2
-. | [leaguegreedy](https://reddit.com/u/leaguegreedy) | 2
-. | [laughing-mime](https://reddit.com/u/laughing-mime) | 2
-. | [larrybob4](https://reddit.com/u/larrybob4) | 2
-. | [kscoleman](https://reddit.com/u/kscoleman) | 2
-. | [koratickle](https://reddit.com/u/koratickle) | 2
-. | [kenzi28](https://reddit.com/u/kenzi28) | 2
-. | [juankestein](https://reddit.com/u/juankestein) | 2
-. | [johnnydappeth](https://reddit.com/u/johnnydappeth) | 2
-. | [jjohncs1v](https://reddit.com/u/jjohncs1v) | 2
-. | [jimyxx](https://reddit.com/u/jimyxx) | 2
-. | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 2
-. | [jaypeaem](https://reddit.com/u/jaypeaem) | 2
-. | [jamjodsnaj](https://reddit.com/u/jamjodsnaj) | 2
-. | [jacoblongesq](https://reddit.com/u/jacoblongesq) | 2
-. | [jackfreeman_](https://reddit.com/u/jackfreeman_) | 2
-. | [itchykittehs](https://reddit.com/u/itchykittehs) | 2
-. | [inter_mirifica](https://reddit.com/u/inter_mirifica) | 2
-. | [imnotthomas](https://reddit.com/u/imnotthomas) | 2
-. | [ican20](https://reddit.com/u/ican20) | 2
-. | [hipattern](https://reddit.com/u/hipattern) | 2
-. | [hauntedjockstrap88](https://reddit.com/u/hauntedjockstrap88) | 2
-. | [hashtagfuzzmaster](https://reddit.com/u/hashtagfuzzmaster) | 2
-. | [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
-. | [gulmorgg](https://reddit.com/u/gulmorgg) | 2
-. | [goatwasher](https://reddit.com/u/goatwasher) | 2
-. | [free__will](https://reddit.com/u/free__will) | 2
-. | [fernadopoo](https://reddit.com/u/fernadopoo) | 2
-. | [experiencegoblintown](https://reddit.com/u/experiencegoblintown) | 2
-. | [ethlinkwin](https://reddit.com/u/ethlinkwin) | 2
-. | [etherenthousiast10k](https://reddit.com/u/etherenthousiast10k) | 2
-. | [ethdreamer](https://reddit.com/u/ethdreamer) | 2
-. | [educatemybrain](https://reddit.com/u/educatemybrain) | 2
-. | [edrews99](https://reddit.com/u/edrews99) | 2
-. | [eddie_eddie](https://reddit.com/u/eddie_eddie) | 2
-. | [dwdwfeefwffffwef](https://reddit.com/u/dwdwfeefwffffwef) | 2
-. | [durkalurk](https://reddit.com/u/durkalurk) | 2
-. | [drogean3](https://reddit.com/u/drogean3) | 2
-. | [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 2
-. | [doyourduty](https://reddit.com/u/doyourduty) | 2
-. | [dose_of_placebo](https://reddit.com/u/dose_of_placebo) | 2
-. | [djlywtf](https://reddit.com/u/djlywtf) | 2
-. | [dirtyundiesthewhites](https://reddit.com/u/dirtyundiesthewhites) | 2
-. | [diligent-mouse3679](https://reddit.com/u/diligent-mouse3679) | 2
-. | [dhartz](https://reddit.com/u/dhartz) | 2
-. | [destreich](https://reddit.com/u/destreich) | 2
-. | [dentonnn](https://reddit.com/u/dentonnn) | 2
-. | [defidude](https://reddit.com/u/defidude) | 2
-. | [deep_archivist](https://reddit.com/u/deep_archivist) | 2
-. | [davethetrousers](https://reddit.com/u/davethetrousers) | 2
-. | [danaraya](https://reddit.com/u/danaraya) | 2
-. | [damien_targaryen](https://reddit.com/u/damien_targaryen) | 2
-. | [da3vr](https://reddit.com/u/da3vr) | 2
-. | [culi122](https://reddit.com/u/culi122) | 2
-. | [cryptomonger](https://reddit.com/u/cryptomonger) | 2
-. | [crypto_rasta](https://reddit.com/u/crypto_rasta) | 2
-. | [crypt0curios](https://reddit.com/u/crypt0curios) | 2
-. | [crispykfc](https://reddit.com/u/crispykfc) | 2
-. | [cory_eth](https://reddit.com/u/cory_eth) | 2
-. | [consideritwon](https://reddit.com/u/consideritwon) | 2
-. | [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 2
-. | [caturday_yet](https://reddit.com/u/caturday_yet) | 2
-. | [caterpillarkitchen67](https://reddit.com/u/caterpillarkitchen67) | 2
-. | [cash](https://reddit.com/u/cash) | 2
-. | [carpathianinsomnia](https://reddit.com/u/carpathianinsomnia) | 2
-. | [captainofthegate](https://reddit.com/u/captainofthegate) | 2
-. | [calvinhedge](https://reddit.com/u/calvinhedge) | 2
-. | [calaber24p](https://reddit.com/u/calaber24p) | 2
-. | [bushmage](https://reddit.com/u/bushmage) | 2
-. | [btoast777](https://reddit.com/u/btoast777) | 2
-. | [braden87](https://reddit.com/u/braden87) | 2
-. | [blocksandpixels](https://reddit.com/u/blocksandpixels) | 2
-. | [biketourthrowaway](https://reddit.com/u/biketourthrowaway) | 2
-. | [bibilieli](https://reddit.com/u/bibilieli) | 2
-. | [bhiitc](https://reddit.com/u/bhiitc) | 2
-. | [believeinapathy](https://reddit.com/u/believeinapathy) | 2
-. | [batmanrockss](https://reddit.com/u/batmanrockss) | 2
-. | [bakindhuman](https://reddit.com/u/bakindhuman) | 2
-. | [baggygravy](https://reddit.com/u/baggygravy) | 2
-. | [ayreuan](https://reddit.com/u/ayreuan) | 2
-. | [ausgear1](https://reddit.com/u/ausgear1) | 2
-. | [aur3l1us](https://reddit.com/u/aur3l1us) | 2
-. | [atleft](https://reddit.com/u/atleft) | 2
-. | [asus_wtf](https://reddit.com/u/asus_wtf) | 2
-. | [art__](https://reddit.com/u/art__) | 2
-. | [angelbattles](https://reddit.com/u/angelbattles) | 2
-. | [allmightlove](https://reddit.com/u/allmightlove) | 2
-. | [allinat40](https://reddit.com/u/allinat40) | 2
-. | [accidental_green](https://reddit.com/u/accidental_green) | 2
-. | [_anedi](https://reddit.com/u/_anedi) | 2
-. | [0xtimer](https://reddit.com/u/0xtimer) | 2
-. | [0xdepositcontract](https://reddit.com/u/0xdepositcontract) | 2
-. | [0xboba](https://reddit.com/u/0xboba) | 2
-. | [-filterfeeder-](https://reddit.com/u/-filterfeeder-) | 2
-. | [-darkknight](https://reddit.com/u/-darkknight) | 2
-. | [vbuterin](https://reddit.com/u/vbuterin) | 1
-. | [kirill_stakewise](https://reddit.com/u/kirill_stakewise) | 1
-. | [import-antigravity](https://reddit.com/u/import-antigravity) | 1
-. | [darkestchaos](https://reddit.com/u/darkestchaos) | 1
-. | [coinedprince](https://reddit.com/u/coinedprince) | 1
-. | [dont_forget_canada](https://reddit.com/u/dont_forget_canada) | 1
-. | [ridgerunners](https://reddit.com/u/ridgerunners) | 1
-. | [earthquakequestion](https://reddit.com/u/earthquakequestion) | 1
-. | [juanbmaclopez](https://reddit.com/u/juanbmaclopez) | 1
-. | [itamarl](https://reddit.com/u/itamarl) | 1
-. | [politicsandcrypto](https://reddit.com/u/politicsandcrypto) | 1
-. | [ethfan](https://reddit.com/u/ethfan) | 1
-. | [reterical](https://reddit.com/u/reterical) | 1
-. | [dear_cartoonist5660](https://reddit.com/u/dear_cartoonist5660) | 1
-. | [happyfrom2016](https://reddit.com/u/happyfrom2016) | 1
-. | [pnwether66](https://reddit.com/u/pnwether66) | 1
-. | [zora](https://reddit.com/u/zora) | 1
-. | [zoopzo](https://reddit.com/u/zoopzo) | 1
-. | [zkstx](https://reddit.com/u/zkstx) | 1
-. | [zephyrflash12](https://reddit.com/u/zephyrflash12) | 1
-. | [zebradice](https://reddit.com/u/zebradice) | 1
-. | [zamicol](https://reddit.com/u/zamicol) | 1
-. | [yogofubi](https://reddit.com/u/yogofubi) | 1
-. | [yllfigureitout](https://reddit.com/u/yllfigureitout) | 1
-. | [wompydonk](https://reddit.com/u/wompydonk) | 1
-. | [wmsy](https://reddit.com/u/wmsy) | 1
-. | [whcrawler](https://reddit.com/u/whcrawler) | 1
-. | [whatup1111](https://reddit.com/u/whatup1111) | 1
-. | [west_compton](https://reddit.com/u/west_compton) | 1
-. | [waste_statement_6404](https://reddit.com/u/waste_statement_6404) | 1
-. | [washedupdiamond](https://reddit.com/u/washedupdiamond) | 1
-. | [vsesuk1](https://reddit.com/u/vsesuk1) | 1
-. | [vlatkovr](https://reddit.com/u/vlatkovr) | 1
-. | [vitalik-is-jesus](https://reddit.com/u/vitalik-is-jesus) | 1
-. | [visciousvenison](https://reddit.com/u/visciousvenison) | 1
-. | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 1
-. | [vegetable-agent-6491](https://reddit.com/u/vegetable-agent-6491) | 1
-. | [vechain_10_dollars](https://reddit.com/u/vechain_10_dollars) | 1
-. | [vashstamp3de](https://reddit.com/u/vashstamp3de) | 1
-. | [vacremon2](https://reddit.com/u/vacremon2) | 1
-. | [usesbinkvideo](https://reddit.com/u/usesbinkvideo) | 1
-. | [urbandystopia](https://reddit.com/u/urbandystopia) | 1
-. | [ubiest](https://reddit.com/u/ubiest) | 1
-. | [tyrolf](https://reddit.com/u/tyrolf) | 1
-. | [txstreet](https://reddit.com/u/txstreet) | 1
-. | [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 1
-. | [turtlesaur](https://reddit.com/u/turtlesaur) | 1
-. | [tsokos](https://reddit.com/u/tsokos) | 1
-. | [truuy](https://reddit.com/u/truuy) | 1
-. | [truthman1990](https://reddit.com/u/truthman1990) | 1
-. | [troyboltonislife](https://reddit.com/u/troyboltonislife) | 1
-. | [tricky-troll](https://reddit.com/u/tricky-troll) | 1
-. | [travist85](https://reddit.com/u/travist85) | 1
-. | [traumerx](https://reddit.com/u/traumerx) | 1
-. | [toothache0](https://reddit.com/u/toothache0) | 1
-. | [tomr750](https://reddit.com/u/tomr750) | 1
-. | [tokenizedhuman](https://reddit.com/u/tokenizedhuman) | 1
-. | [tmturbo](https://reddit.com/u/tmturbo) | 1
-. | [timwmusic](https://reddit.com/u/timwmusic) | 1
-. | [tigawood](https://reddit.com/u/tigawood) | 1
-. | [thuanjinkee](https://reddit.com/u/thuanjinkee) | 1
-. | [three-polish-cowboys](https://reddit.com/u/three-polish-cowboys) | 1
-. | [thoushaltnotfomo](https://reddit.com/u/thoushaltnotfomo) | 1
-. | [theyeatcheese](https://reddit.com/u/theyeatcheese) | 1
-. | [theprodigalbootycall](https://reddit.com/u/theprodigalbootycall) | 1
-. | [thenowl9](https://reddit.com/u/thenowl9) | 1
-. | [thehulotribe](https://reddit.com/u/thehulotribe) | 1
-. | [thecurious0ne](https://reddit.com/u/thecurious0ne) | 1
-. | [thebowlofbeans](https://reddit.com/u/thebowlofbeans) | 1
-. | [thebitlebowski](https://reddit.com/u/thebitlebowski) | 1
-. | [thebestboner](https://reddit.com/u/thebestboner) | 1
-. | [thatwhichshinesforth](https://reddit.com/u/thatwhichshinesforth) | 1
-. | [thatguythatguythagay](https://reddit.com/u/thatguythatguythagay) | 1
-. | [thailand_facts](https://reddit.com/u/thailand_facts) | 1
-. | [texasblum](https://reddit.com/u/texasblum) | 1
-. | [terminal_laziness](https://reddit.com/u/terminal_laziness) | 1
-. | [techno-peasant](https://reddit.com/u/techno-peasant) | 1
-. | [teamredundancyteam](https://reddit.com/u/teamredundancyteam) | 1
-. | [tacitus19](https://reddit.com/u/tacitus19) | 1
-. | [swissthoemu](https://reddit.com/u/swissthoemu) | 1
-. | [swiss_confederate](https://reddit.com/u/swiss_confederate) | 1
-. | [sure-example-1425](https://reddit.com/u/sure-example-1425) | 1
-. | [supermarkit](https://reddit.com/u/supermarkit) | 1
-. | [suicidaleggroll](https://reddit.com/u/suicidaleggroll) | 1
-. | [suclearnub](https://reddit.com/u/suclearnub) | 1
-. | [suburbiton](https://reddit.com/u/suburbiton) | 1
-. | [substantial_hurry_25](https://reddit.com/u/substantial_hurry_25) | 1
-. | [strongllc](https://reddit.com/u/strongllc) | 1
-. | [strictorganization](https://reddit.com/u/strictorganization) | 1
-. | [stoopslife](https://reddit.com/u/stoopslife) | 1
-. | [stache1](https://reddit.com/u/stache1) | 1
-. | [squaredk2](https://reddit.com/u/squaredk2) | 1
-. | [spinz808](https://reddit.com/u/spinz808) | 1
-. | [spectacledhero](https://reddit.com/u/spectacledhero) | 1
-. | [special-meaning3539](https://reddit.com/u/special-meaning3539) | 1
-. | [sp3xl](https://reddit.com/u/sp3xl) | 1
-. | [sosayethweall](https://reddit.com/u/sosayethweall) | 1
-. | [smithgift](https://reddit.com/u/smithgift) | 1
-. | [slowmushroom741](https://reddit.com/u/slowmushroom741) | 1
-. | [slocken](https://reddit.com/u/slocken) | 1
-. | [slay_the_beast](https://reddit.com/u/slay_the_beast) | 1
-. | [skyy7](https://reddit.com/u/skyy7) | 1
-. | [skilhgt](https://reddit.com/u/skilhgt) | 1
-. | [simtrix33](https://reddit.com/u/simtrix33) | 1
-. | [simonlimonsmith](https://reddit.com/u/simonlimonsmith) | 1
-. | [shtafoo](https://reddit.com/u/shtafoo) | 1
-. | [shredthefed](https://reddit.com/u/shredthefed) | 1
-. | [shortstack02](https://reddit.com/u/shortstack02) | 1
-. | [shittysurgeon](https://reddit.com/u/shittysurgeon) | 1
-. | [shiba_son_of_doge](https://reddit.com/u/shiba_son_of_doge) | 1
-. | [sexyborisjohnson](https://reddit.com/u/sexyborisjohnson) | 1
-. | [several-listen7915](https://reddit.com/u/several-listen7915) | 1
-. | [sepyke](https://reddit.com/u/sepyke) | 1
-. | [seat-is-occupied](https://reddit.com/u/seat-is-occupied) | 1
-. | [scurrox](https://reddit.com/u/scurrox) | 1
-. | [scribblebutter](https://reddit.com/u/scribblebutter) | 1
-. | [scheistermeister](https://reddit.com/u/scheistermeister) | 1
-. | [saturnright](https://reddit.com/u/saturnright) | 1
-. | [santamansanta](https://reddit.com/u/santamansanta) | 1
-. | [samus3015](https://reddit.com/u/samus3015) | 1
-. | [samuelshix](https://reddit.com/u/samuelshix) | 1
-. | [robohack](https://reddit.com/u/robohack) | 1
-. | [roberto250b](https://reddit.com/u/roberto250b) | 1
-. | [robertloblaw2](https://reddit.com/u/robertloblaw2) | 1
-. | [rinmusya](https://reddit.com/u/rinmusya) | 1
-. | [rickshawjojo](https://reddit.com/u/rickshawjojo) | 1
-. | [rickandmowgli](https://reddit.com/u/rickandmowgli) | 1
-. | [ribilla_](https://reddit.com/u/ribilla_) | 1
-. | [revras8](https://reddit.com/u/revras8) | 1
-. | [responsiblegrass8080](https://reddit.com/u/responsiblegrass8080) | 1
-. | [redicko](https://reddit.com/u/redicko) | 1
-. | [recoveringcanuck](https://reddit.com/u/recoveringcanuck) | 1
-. | [realarthurok](https://reddit.com/u/realarthurok) | 1
-. | [rayzhueth](https://reddit.com/u/rayzhueth) | 1
-. | [randomzileanmain](https://reddit.com/u/randomzileanmain) | 1
-. | [qwertybop1](https://reddit.com/u/qwertybop1) | 1
-. | [pyroxyze](https://reddit.com/u/pyroxyze) | 1
-. | [puzzled_badger](https://reddit.com/u/puzzled_badger) | 1
-. | [projectequal](https://reddit.com/u/projectequal) | 1
-. | [prais3thesun](https://reddit.com/u/prais3thesun) | 1
-. | [post_orgasm_mind](https://reddit.com/u/post_orgasm_mind) | 1
-. | [popsncats](https://reddit.com/u/popsncats) | 1
-. | [plenix](https://reddit.com/u/plenix) | 1
-. | [pkickel92](https://reddit.com/u/pkickel92) | 1
-. | [pikag](https://reddit.com/u/pikag) | 1
-. | [piezoelectron](https://reddit.com/u/piezoelectron) | 1
-. | [phonethic](https://reddit.com/u/phonethic) | 1
-. | [phillywalsh](https://reddit.com/u/phillywalsh) | 1
-. | [pennvic](https://reddit.com/u/pennvic) | 1
-. | [passetisse](https://reddit.com/u/passetisse) | 1
-. | [paper-gains](https://reddit.com/u/paper-gains) | 1
-. | [pandemoniumpermad](https://reddit.com/u/pandemoniumpermad) | 1
-. | [palegirlshnnng](https://reddit.com/u/palegirlshnnng) | 1
-. | [paddyputthepipedown](https://reddit.com/u/paddyputthepipedown) | 1
-. | [ovitodistati](https://reddit.com/u/ovitodistati) | 1
-. | [overcookedchicken](https://reddit.com/u/overcookedchicken) | 1
-. | [order_book_facts](https://reddit.com/u/order_book_facts) | 1
-. | [oldmando](https://reddit.com/u/oldmando) | 1
-. | [oc3anwav3](https://reddit.com/u/oc3anwav3) | 1
-. | [oblvnxknight](https://reddit.com/u/oblvnxknight) | 1
-. | [oakridgefarm](https://reddit.com/u/oakridgefarm) | 1
-. | [numuhukumakiakiaia](https://reddit.com/u/numuhukumakiakiaia) | 1
-. | [notios](https://reddit.com/u/notios) | 1
-. | [notimplementedtype](https://reddit.com/u/notimplementedtype) | 1
-. | [nomorealcohol2017](https://reddit.com/u/nomorealcohol2017) | 1
-. | [nomakoa](https://reddit.com/u/nomakoa) | 1
-. | [nomadic8893-](https://reddit.com/u/nomadic8893-) | 1
-. | [nodesinformatziya](https://reddit.com/u/nodesinformatziya) | 1
-. | [no_speaker8945](https://reddit.com/u/no_speaker8945) | 1
-. | [no_operation1906](https://reddit.com/u/no_operation1906) | 1
-. | [nlnico](https://reddit.com/u/nlnico) | 1
-. | [ninjadk](https://reddit.com/u/ninjadk) | 1
-. | [nightshadeemoji](https://reddit.com/u/nightshadeemoji) | 1
-. | [nick_badlands](https://reddit.com/u/nick_badlands) | 1
-. | [nichlaes](https://reddit.com/u/nichlaes) | 1
-. | [newone1255](https://reddit.com/u/newone1255) | 1
-. | [new_start_2020](https://reddit.com/u/new_start_2020) | 1
-. | [nervous_yak_2538](https://reddit.com/u/nervous_yak_2538) | 1
-. | [neetzscie](https://reddit.com/u/neetzscie) | 1
-. | [nagus](https://reddit.com/u/nagus) | 1
-. | [mylhowse](https://reddit.com/u/mylhowse) | 1
-. | [mxyz](https://reddit.com/u/mxyz) | 1
-. | [mrnog](https://reddit.com/u/mrnog) | 1
-. | [mrnobodyman](https://reddit.com/u/mrnobodyman) | 1
-. | [mrecon](https://reddit.com/u/mrecon) | 1
-. | [movingintoturquoise](https://reddit.com/u/movingintoturquoise) | 1
-. | [moneygobye](https://reddit.com/u/moneygobye) | 1
-. | [momonosquito](https://reddit.com/u/momonosquito) | 1
-. | [mikkeller](https://reddit.com/u/mikkeller) | 1
-. | [mikemx123](https://reddit.com/u/mikemx123) | 1
-. | [middle-athlete](https://reddit.com/u/middle-athlete) | 1
-. | [metanull-operator](https://reddit.com/u/metanull-operator) | 1
-. | [metalsun6](https://reddit.com/u/metalsun6) | 1
-. | [merklechainsaw](https://reddit.com/u/merklechainsaw) | 1
-. | [maxstandard](https://reddit.com/u/maxstandard) | 1
-. | [maxahoy](https://reddit.com/u/maxahoy) | 1
-. | [matt0x_eth](https://reddit.com/u/matt0x_eth) | 1
-. | [mathje](https://reddit.com/u/mathje) | 1
-. | [maskedman24](https://reddit.com/u/maskedman24) | 1
-. | [masahirox](https://reddit.com/u/masahirox) | 1
-. | [martian0x](https://reddit.com/u/martian0x) | 1
-. | [mark0pollo](https://reddit.com/u/mark0pollo) | 1
-. | [malooky-spooky](https://reddit.com/u/malooky-spooky) | 1
-. | [make_me_think](https://reddit.com/u/make_me_think) | 1
-. | [majorpickle01](https://reddit.com/u/majorpickle01) | 1
-. | [lpsupercell25](https://reddit.com/u/lpsupercell25) | 1
-. | [loyalmedavid](https://reddit.com/u/loyalmedavid) | 1
-. | [lowievr](https://reddit.com/u/lowievr) | 1
-. | [lotec](https://reddit.com/u/lotec) | 1
-. | [lostick](https://reddit.com/u/lostick) | 1
-. | [looselaugh](https://reddit.com/u/looselaugh) | 1
-. | [loksfox](https://reddit.com/u/loksfox) | 1
-. | [littlebigdondon](https://reddit.com/u/littlebigdondon) | 1
-. | [lifelonghodl](https://reddit.com/u/lifelonghodl) | 1
-. | [leperen](https://reddit.com/u/leperen) | 1
-. | [ledrsatan](https://reddit.com/u/ledrsatan) | 1
-. | [lawsonm9](https://reddit.com/u/lawsonm9) | 1
-. | [lavop](https://reddit.com/u/lavop) | 1
-. | [laughing__cow](https://reddit.com/u/laughing__cow) | 1
-. | [laphroaigrules](https://reddit.com/u/laphroaigrules) | 1
-. | [lanztar](https://reddit.com/u/lanztar) | 1
-. | [laninsterjr](https://reddit.com/u/laninsterjr) | 1
-. | [kristkind](https://reddit.com/u/kristkind) | 1
-. | [kooky-mouse-9216](https://reddit.com/u/kooky-mouse-9216) | 1
-. | [kindreply123](https://reddit.com/u/kindreply123) | 1
-. | [khad3](https://reddit.com/u/khad3) | 1
-. | [keystrokesinyourhead](https://reddit.com/u/keystrokesinyourhead) | 1
-. | [keeldoteth](https://reddit.com/u/keeldoteth) | 1
-. | [kamikazesexpilot](https://reddit.com/u/kamikazesexpilot) | 1
-. | [kaisermerkle](https://reddit.com/u/kaisermerkle) | 1
-. | [juxtaposezen](https://reddit.com/u/juxtaposezen) | 1
-. | [juustosuikero](https://reddit.com/u/juustosuikero) | 1
-. | [jrmrx](https://reddit.com/u/jrmrx) | 1
-. | [joskye](https://reddit.com/u/joskye) | 1
-. | [joshuawakefield](https://reddit.com/u/joshuawakefield) | 1
-. | [jonace](https://reddit.com/u/jonace) | 1
-. | [jokl66](https://reddit.com/u/jokl66) | 1
-. | [jironzo](https://reddit.com/u/jironzo) | 1
-. | [jimjimmyjim-the-1st](https://reddit.com/u/jimjimmyjim-the-1st) | 1
-. | [jenkempuffer](https://reddit.com/u/jenkempuffer) | 1
-. | [jbudz](https://reddit.com/u/jbudz) | 1
-. | [jbgt](https://reddit.com/u/jbgt) | 1
-. | [jamcowl](https://reddit.com/u/jamcowl) | 1
-. | [jadenpls](https://reddit.com/u/jadenpls) | 1
-. | [jade_sorceress](https://reddit.com/u/jade_sorceress) | 1
-. | [itswhatevermannn](https://reddit.com/u/itswhatevermannn) | 1
-. | [its_spelled_iain](https://reddit.com/u/its_spelled_iain) | 1
-. | [ironicspeech](https://reddit.com/u/ironicspeech) | 1
-. | [internal-strategy512](https://reddit.com/u/internal-strategy512) | 1
-. | [inhuman_moose](https://reddit.com/u/inhuman_moose) | 1
-. | [infinitemilieu](https://reddit.com/u/infinitemilieu) | 1
-. | [infinite-breath8917](https://reddit.com/u/infinite-breath8917) | 1
-. | [inelukistormking](https://reddit.com/u/inelukistormking) | 1
-. | [ilovestaplers](https://reddit.com/u/ilovestaplers) | 1
-. | [iknowyougotsole](https://reddit.com/u/iknowyougotsole) | 1
-. | [ianazch](https://reddit.com/u/ianazch) | 1
-. | [i_haven-t_reddit](https://reddit.com/u/i_haven-t_reddit) | 1
-. | [hotgirls-eth](https://reddit.com/u/hotgirls-eth) | 1
-. | [hot_lava_poured_in](https://reddit.com/u/hot_lava_poured_in) | 1
-. | [holyflatulence](https://reddit.com/u/holyflatulence) | 1
-. | [hokumbafflegab](https://reddit.com/u/hokumbafflegab) | 1
-. | [hodlingsteady](https://reddit.com/u/hodlingsteady) | 1
-. | [hodleth](https://reddit.com/u/hodleth) | 1
-. | [hiredgoon](https://reddit.com/u/hiredgoon) | 1
-. | [highqi](https://reddit.com/u/highqi) | 1
-. | [hgfyuhbb](https://reddit.com/u/hgfyuhbb) | 1
-. | [henrycharles007](https://reddit.com/u/henrycharles007) | 1
-. | [helponadme1](https://reddit.com/u/helponadme1) | 1
-. | [hehechibby](https://reddit.com/u/hehechibby) | 1
-. | [healthandwealth365](https://reddit.com/u/healthandwealth365) | 1
-. | [headwar](https://reddit.com/u/headwar) | 1
-. | [hawkbit](https://reddit.com/u/hawkbit) | 1
-. | [hawaii_fact](https://reddit.com/u/hawaii_fact) | 1
-. | [halzen627](https://reddit.com/u/halzen627) | 1
-. | [haidren](https://reddit.com/u/haidren) | 1
-. | [gwenvador](https://reddit.com/u/gwenvador) | 1
-. | [guyfawked](https://reddit.com/u/guyfawked) | 1
-. | [gurkang](https://reddit.com/u/gurkang) | 1
-. | [gumba_hasselhoff](https://reddit.com/u/gumba_hasselhoff) | 1
-. | [gou-ranga](https://reddit.com/u/gou-ranga) | 1
-. | [goobergal97](https://reddit.com/u/goobergal97) | 1
-. | [girlamongstsharks](https://reddit.com/u/girlamongstsharks) | 1
-. | [giraffenmensch](https://reddit.com/u/giraffenmensch) | 1
-. | [ggunit1875](https://reddit.com/u/ggunit1875) | 1
-. | [geppetto123](https://reddit.com/u/geppetto123) | 1
-. | [genz_ofcourse](https://reddit.com/u/genz_ofcourse) | 1
-. | [gand_ji](https://reddit.com/u/gand_ji) | 1
-. | [futureofeverythingz](https://reddit.com/u/futureofeverythingz) | 1
-. | [fuglserrand](https://reddit.com/u/fuglserrand) | 1
-. | [fuego710](https://reddit.com/u/fuego710) | 1
-. | [fuckswithfire](https://reddit.com/u/fuckswithfire) | 1
-. | [fuckschickens](https://reddit.com/u/fuckschickens) | 1
-. | [fuckmyfate](https://reddit.com/u/fuckmyfate) | 1
-. | [forgetitz](https://reddit.com/u/forgetitz) | 1
-. | [foodloverfoodhater](https://reddit.com/u/foodloverfoodhater) | 1
-. | [flyinglineman](https://reddit.com/u/flyinglineman) | 1
-. | [fluffaypenguin](https://reddit.com/u/fluffaypenguin) | 1
-. | [flatpak2021_08_2021](https://reddit.com/u/flatpak2021_08_2021) | 1
-. | [flamesrisehigher](https://reddit.com/u/flamesrisehigher) | 1
-. | [fishlover3909](https://reddit.com/u/fishlover3909) | 1
-. | [first-flower-3465](https://reddit.com/u/first-flower-3465) | 1
-. | [fiftyfirstsnails](https://reddit.com/u/fiftyfirstsnails) | 1
-. | [fifthrooter](https://reddit.com/u/fifthrooter) | 1
-. | [fibrepunk2077](https://reddit.com/u/fibrepunk2077) | 1
-. | [feichalo](https://reddit.com/u/feichalo) | 1
-. | [fatcateconomist](https://reddit.com/u/fatcateconomist) | 1
-. | [faithlessnesscold380](https://reddit.com/u/faithlessnesscold380) | 1
-. | [fact_contract](https://reddit.com/u/fact_contract) | 1
-. | [exdedinside](https://reddit.com/u/exdedinside) | 1
-. | [evilphiz](https://reddit.com/u/evilphiz) | 1
-. | [eviljordan](https://reddit.com/u/eviljordan) | 1
-. | [eththermadness](https://reddit.com/u/eththermadness) | 1
-. | [ethrocketeer](https://reddit.com/u/ethrocketeer) | 1
-. | [ethrevolution](https://reddit.com/u/ethrevolution) | 1
-. | [ethordie](https://reddit.com/u/ethordie) | 1
-. | [etherduck](https://reddit.com/u/etherduck) | 1
-. | [eth_scholar](https://reddit.com/u/eth_scholar) | 1
-. | [etereve](https://reddit.com/u/etereve) | 1
-. | [equal-jellyfish1](https://reddit.com/u/equal-jellyfish1) | 1
-. | [epicgoblet](https://reddit.com/u/epicgoblet) | 1
-. | [ennygbennyg](https://reddit.com/u/ennygbennyg) | 1
-. | [emkoscp](https://reddit.com/u/emkoscp) | 1
-. | [elliottmatt](https://reddit.com/u/elliottmatt) | 1
-. | [electricmutiny](https://reddit.com/u/electricmutiny) | 1
-. | [ekapadabak](https://reddit.com/u/ekapadabak) | 1
-. | [eddyg987](https://reddit.com/u/eddyg987) | 1
-. | [easy_like_sunday](https://reddit.com/u/easy_like_sunday) | 1
-. | [dysus1](https://reddit.com/u/dysus1) | 1
-. | [dybsy](https://reddit.com/u/dybsy) | 1
-. | [dudermeister](https://reddit.com/u/dudermeister) | 1
-. | [dudeeggs](https://reddit.com/u/dudeeggs) | 1
-. | [drogean2](https://reddit.com/u/drogean2) | 1
-. | [drew41](https://reddit.com/u/drew41) | 1
-. | [dretherious](https://reddit.com/u/dretherious) | 1
-. | [dpxlumpi](https://reddit.com/u/dpxlumpi) | 1
-. | [dotslaxx](https://reddit.com/u/dotslaxx) | 1
-. | [dont_waver](https://reddit.com/u/dont_waver) | 1
-. | [dondochaka](https://reddit.com/u/dondochaka) | 1
-. | [domingo_mon](https://reddit.com/u/domingo_mon) | 1
-. | [doje_a_vu](https://reddit.com/u/doje_a_vu) | 1
-. | [dog_the_explorer](https://reddit.com/u/dog_the_explorer) | 1
-. | [doctornoisewaterr](https://reddit.com/u/doctornoisewaterr) | 1
-. | [doctor_schmee](https://reddit.com/u/doctor_schmee) | 1
-. | [dizzy_activity](https://reddit.com/u/dizzy_activity) | 1
-. | [distant-shores](https://reddit.com/u/distant-shores) | 1
-. | [dim-pap](https://reddit.com/u/dim-pap) | 1
-. | [deukey](https://reddit.com/u/deukey) | 1
-. | [detroitlions81](https://reddit.com/u/detroitlions81) | 1
-. | [deppep](https://reddit.com/u/deppep) | 1
-. | [dennyjets](https://reddit.com/u/dennyjets) | 1
-. | [delusionsofether](https://reddit.com/u/delusionsofether) | 1
-. | [definoob01](https://reddit.com/u/definoob01) | 1
-. | [defewit](https://reddit.com/u/defewit) | 1
-. | [deariedearieme](https://reddit.com/u/deariedearieme) | 1
-. | [dc-covid-trash](https://reddit.com/u/dc-covid-trash) | 1
-. | [dazzlingbasket](https://reddit.com/u/dazzlingbasket) | 1
-. | [datadude92](https://reddit.com/u/datadude92) | 1
-. | [danseidansei](https://reddit.com/u/danseidansei) | 1
-. | [danieltomby](https://reddit.com/u/danieltomby) | 1
-. | [dangerismyusername](https://reddit.com/u/dangerismyusername) | 1
-. | [danarchist](https://reddit.com/u/danarchist) | 1
-. | [daliroth](https://reddit.com/u/daliroth) | 1
-. | [d0hey](https://reddit.com/u/d0hey) | 1
-. | [d0ck3r](https://reddit.com/u/d0ck3r) | 1
-. | [d-banana-eth](https://reddit.com/u/d-banana-eth) | 1
-. | [cryptowarjournalist](https://reddit.com/u/cryptowarjournalist) | 1
-. | [cryptotaxbro](https://reddit.com/u/cryptotaxbro) | 1
-. | [cryptopuzzlers](https://reddit.com/u/cryptopuzzlers) | 1
-. | [cryptojimmy8](https://reddit.com/u/cryptojimmy8) | 1
-. | [cryptobuddy_1712](https://reddit.com/u/cryptobuddy_1712) | 1
-. | [crypt0w0currency](https://reddit.com/u/crypt0w0currency) | 1
-. | [crypolyf](https://reddit.com/u/crypolyf) | 1
-. | [crumbumcrumbum](https://reddit.com/u/crumbumcrumbum) | 1
-. | [criminalnoodle](https://reddit.com/u/criminalnoodle) | 1
-. | [crap___shoot](https://reddit.com/u/crap___shoot) | 1
-. | [cptnobvs3](https://reddit.com/u/cptnobvs3) | 1
-. | [cpayyyy](https://reddit.com/u/cpayyyy) | 1
-. | [cozypinetree](https://reddit.com/u/cozypinetree) | 1
-. | [cowsclaw](https://reddit.com/u/cowsclaw) | 1
-. | [cow_tipping_olympian](https://reddit.com/u/cow_tipping_olympian) | 1
-. | [competitive-regret21](https://reddit.com/u/competitive-regret21) | 1
-. | [colangelodid911](https://reddit.com/u/colangelodid911) | 1
-. | [clearlyjustsomeguy](https://reddit.com/u/clearlyjustsomeguy) | 1
-. | [claystring](https://reddit.com/u/claystring) | 1
-. | [clark_now](https://reddit.com/u/clark_now) | 1
-. | [ckh27](https://reddit.com/u/ckh27) | 1
-. | [cjuha](https://reddit.com/u/cjuha) | 1
-. | [chrismartinasd](https://reddit.com/u/chrismartinasd) | 1
-. | [chris_dea](https://reddit.com/u/chris_dea) | 1
-. | [chicoconcarne](https://reddit.com/u/chicoconcarne) | 1
-. | [cheezin05](https://reddit.com/u/cheezin05) | 1
-. | [ccgirl21](https://reddit.com/u/ccgirl21) | 1
-. | [caymannan](https://reddit.com/u/caymannan) | 1
-. | [catfoodlover](https://reddit.com/u/catfoodlover) | 1
-. | [canwetalketh](https://reddit.com/u/canwetalketh) | 1
-. | [canadian_stv](https://reddit.com/u/canadian_stv) | 1
-. | [calistadodd](https://reddit.com/u/calistadodd) | 1
-. | [c0smic_0wl](https://reddit.com/u/c0smic_0wl) | 1
-. | [butta_tribot](https://reddit.com/u/butta_tribot) | 1
-. | [burfdurf](https://reddit.com/u/burfdurf) | 1
-. | [bullet_king1996](https://reddit.com/u/bullet_king1996) | 1
-. | [builder_bob23](https://reddit.com/u/builder_bob23) | 1
-. | [bugfrag3](https://reddit.com/u/bugfrag3) | 1
-. | [broccoleet](https://reddit.com/u/broccoleet) | 1
-. | [brickeaters](https://reddit.com/u/brickeaters) | 1
-. | [brent_the_adventurer](https://reddit.com/u/brent_the_adventurer) | 1
-. | [breakmegently](https://reddit.com/u/breakmegently) | 1
-. | [brandon_indy13](https://reddit.com/u/brandon_indy13) | 1
-. | [box_of_hornets](https://reddit.com/u/box_of_hornets) | 1
-. | [bosticetudis](https://reddit.com/u/bosticetudis) | 1
-. | [bmitch567](https://reddit.com/u/bmitch567) | 1
-. | [bman0920](https://reddit.com/u/bman0920) | 1
-. | [blur93](https://reddit.com/u/blur93) | 1
-. | [bleeddonor](https://reddit.com/u/bleeddonor) | 1
-. | [blartarus](https://reddit.com/u/blartarus) | 1
-. | [blackdowney](https://reddit.com/u/blackdowney) | 1
-. | [bitzgi](https://reddit.com/u/bitzgi) | 1
-. | [bigwiseguy55](https://reddit.com/u/bigwiseguy55) | 1
-. | [bigdumbidiot01](https://reddit.com/u/bigdumbidiot01) | 1
-. | [betterstartliving](https://reddit.com/u/betterstartliving) | 1
-. | [bergmannskase](https://reddit.com/u/bergmannskase) | 1
-. | [bennyggbennyg](https://reddit.com/u/bennyggbennyg) | 1
-. | [bennybennygg](https://reddit.com/u/bennybennygg) | 1
-. | [benjamin](https://reddit.com/u/benjamin) | 1
-. | [bazzravish32](https://reddit.com/u/bazzravish32) | 1
-. | [battlepine](https://reddit.com/u/battlepine) | 1
-. | [barkieg](https://reddit.com/u/barkieg) | 1
-. | [ballsonyah](https://reddit.com/u/ballsonyah) | 1
-. | [bagsmcbaggins](https://reddit.com/u/bagsmcbaggins) | 1
-. | [baerbelleksa](https://reddit.com/u/baerbelleksa) | 1
-. | [awardfabrik-sof](https://reddit.com/u/awardfabrik-sof) | 1
-. | [attygalle](https://reddit.com/u/attygalle) | 1
-. | [atheartengineer](https://reddit.com/u/atheartengineer) | 1
-. | [astronautthis](https://reddit.com/u/astronautthis) | 1
-. | [associationseveral46](https://reddit.com/u/associationseveral46) | 1
-. | [asdafari](https://reddit.com/u/asdafari) | 1
-. | [apoiiocreed](https://reddit.com/u/apoiiocreed) | 1
-. | [anor_wondo](https://reddit.com/u/anor_wondo) | 1
-. | [andykaufmantm](https://reddit.com/u/andykaufmantm) | 1
-. | [andrjor](https://reddit.com/u/andrjor) | 1
-. | [andrewmrobbins](https://reddit.com/u/andrewmrobbins) | 1
-. | [ali-dabool](https://reddit.com/u/ali-dabool) | 1
-. | [aitalianstallion](https://reddit.com/u/aitalianstallion) | 1
-. | [airportatheist](https://reddit.com/u/airportatheist) | 1
-. | [ahbartsch](https://reddit.com/u/ahbartsch) | 1
-. | [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 1
-. | [actionpaulson](https://reddit.com/u/actionpaulson) | 1
-. | [9risk](https://reddit.com/u/9risk) | 1
-. | [917redditor](https://reddit.com/u/917redditor) | 1
-. | [69__lol](https://reddit.com/u/69__lol) | 1
-. | [66616661666](https://reddit.com/u/66616661666) | 1
-. | [63rd](https://reddit.com/u/63rd) | 1
-. | [5upergeil](https://reddit.com/u/5upergeil) | 1
-. | [10kethisfud](https://reddit.com/u/10kethisfud) | 1
-. | [0xrel0aded](https://reddit.com/u/0xrel0aded) | 1
-. | [0xdefiant](https://reddit.com/u/0xdefiant) | 1
-. | [0xcazador](https://reddit.com/u/0xcazador) | 1
-. | [0661](https://reddit.com/u/0661) | 1
-. | [---truthseeker---](https://reddit.com/u/---truthseeker---) | 1
+. [superphiz](https://reddit.com/u/superphiz) | 154
+. [logristhebard](https://reddit.com/u/logristhebard) | 99
+. [benido2030](https://reddit.com/u/benido2030) | 94
+. [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 87
+. [tricky_troll](https://reddit.com/u/tricky_troll) | 78
+. [696_eth](https://reddit.com/u/696_eth) | 76
+. [set1less](https://reddit.com/u/set1less) | 70
+. [hanniabu](https://reddit.com/u/hanniabu) | 66
+. [syentist](https://reddit.com/u/syentist) | 62
+. [kbrot](https://reddit.com/u/kbrot) | 60
+. [stablecoin](https://reddit.com/u/stablecoin) | 58
+. [ethical-trade](https://reddit.com/u/ethical-trade) | 57
+. [nixorokish](https://reddit.com/u/nixorokish) | 56
+. [etheraider](https://reddit.com/u/etheraider) | 48
+. [swagtimusprime](https://reddit.com/u/swagtimusprime) | 47
+. [haurog](https://reddit.com/u/haurog) | 47
+. [bob-rossi](https://reddit.com/u/bob-rossi) | 45
+. [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
+. [austonst](https://reddit.com/u/austonst) | 41
+. [the-a-word](https://reddit.com/u/the-a-word) | 39
+. [phimarhal](https://reddit.com/u/phimarhal) | 39
+. [alexiskef](https://reddit.com/u/alexiskef) | 38
+. [savage-dragon](https://reddit.com/u/savage-dragon) | 38
+. [spacesider](https://reddit.com/u/spacesider) | 37
+. [minimalgravitas](https://reddit.com/u/minimalgravitas) | 35
+. [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
+. [pa7x1](https://reddit.com/u/pa7x1) | 33
+. [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 33
+. [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 32
+. [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 32
+. [bagogel12](https://reddit.com/u/bagogel12) | 32
+. [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 31
+. [interweaver](https://reddit.com/u/interweaver) | 31
+. [revanchist1](https://reddit.com/u/revanchist1) | 29
+. [mrvodnik](https://reddit.com/u/mrvodnik) | 29
+. [liberosist](https://reddit.com/u/liberosist) | 29
+. [15kisfud](https://reddit.com/u/15kisfud) | 29
+. [eggill7227](https://reddit.com/u/eggill7227) | 28
+. [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
+. [ender985](https://reddit.com/u/ender985) | 26
+. [domotheus](https://reddit.com/u/domotheus) | 26
+. [papazio](https://reddit.com/u/papazio) | 25
+. [seamonkey82](https://reddit.com/u/seamonkey82) | 24
+. [needlerop](https://reddit.com/u/needlerop) | 23
+. [maswasnos](https://reddit.com/u/maswasnos) | 23
+. [_weboftrust](https://reddit.com/u/_weboftrust) | 23
+. [-lightfoot](https://reddit.com/u/-lightfoot) | 23
+. [waqwaqattack](https://reddit.com/u/waqwaqattack) | 22
+. [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 22
+. [hipaces](https://reddit.com/u/hipaces) | 22
+. [decibels42](https://reddit.com/u/decibels42) | 22
+. [wolfparking](https://reddit.com/u/wolfparking) | 21
+. [silentjxhn](https://reddit.com/u/silentjxhn) | 21
+. [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
+. [ro-_-b](https://reddit.com/u/ro-_-b) | 20
+. [not-ngmi](https://reddit.com/u/not-ngmi) | 20
+. [moschus11](https://reddit.com/u/moschus11) | 20
+. [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
+. [aaj094](https://reddit.com/u/aaj094) | 20
+. [savage_x](https://reddit.com/u/savage_x) | 19
+. [coldsnap](https://reddit.com/u/coldsnap) | 19
+. [vedran_](https://reddit.com/u/vedran_) | 18
+. [ethacct](https://reddit.com/u/ethacct) | 18
+. [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
+. [ber10](https://reddit.com/u/ber10) | 18
+. [2nice4allthis](https://reddit.com/u/2nice4allthis) | 18
+. [wulkingdead](https://reddit.com/u/wulkingdead) | 17
+. [kingleo23](https://reddit.com/u/kingleo23) | 17
+. [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 17
+. [abcoathup](https://reddit.com/u/abcoathup) | 16
+. [dcinvestor](https://reddit.com/u/dcinvestor) | 16
+. [vvpan](https://reddit.com/u/vvpan) | 16
+. [masterroshi9](https://reddit.com/u/masterroshi9) | 16
+. [barthib](https://reddit.com/u/barthib) | 16
+. [dreth](https://reddit.com/u/dreth) | 15
+. [hblask](https://reddit.com/u/hblask) | 15
+. [nikola_j](https://reddit.com/u/nikola_j) | 15
+. [thehighflyer](https://reddit.com/u/thehighflyer) | 15
+. [kudeta](https://reddit.com/u/kudeta) | 15
+. [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 14
+. [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 14
+. [thehansgruber](https://reddit.com/u/thehansgruber) | 14
+. [teedeepee](https://reddit.com/u/teedeepee) | 14
+. [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 14
+. [sonotyou](https://reddit.com/u/sonotyou) | 14
+. [skythe4](https://reddit.com/u/skythe4) | 14
+. [oyurukemono](https://reddit.com/u/oyurukemono) | 14
+. [im_this_guy](https://reddit.com/u/im_this_guy) | 14
+. [eth10kisfud](https://reddit.com/u/eth10kisfud) | 14
+. [asdafari12](https://reddit.com/u/asdafari12) | 14
+. [offmyporch](https://reddit.com/u/offmyporch) | 13
+. [kwadrax](https://reddit.com/u/kwadrax) | 13
+. [etherbie](https://reddit.com/u/etherbie) | 13
+. [dashby1](https://reddit.com/u/dashby1) | 13
+. [mrs_willy](https://reddit.com/u/mrs_willy) | 12
+. [unitedterror](https://reddit.com/u/unitedterror) | 12
+. [timmerwb](https://reddit.com/u/timmerwb) | 12
+. [replykindly](https://reddit.com/u/replykindly) | 12
+. [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
+. [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 12
+. [barleythecat](https://reddit.com/u/barleythecat) | 12
+. [2peg2city](https://reddit.com/u/2peg2city) | 12
+. [1l0o](https://reddit.com/u/1l0o) | 12
+. [cutsnek](https://reddit.com/u/cutsnek) | 11
+. [odds-bodkins](https://reddit.com/u/odds-bodkins) | 11
+. [vuduchyld](https://reddit.com/u/vuduchyld) | 11
+. [t0bii](https://reddit.com/u/t0bii) | 11
+. [pegcity](https://reddit.com/u/pegcity) | 11
+. [keynya](https://reddit.com/u/keynya) | 11
+. [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 11
+. [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
+. [bigglybillbrasky](https://reddit.com/u/bigglybillbrasky) | 11
+. [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 10
+. [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 10
+. [mrcatface13](https://reddit.com/u/mrcatface13) | 10
+. [luukiemans](https://reddit.com/u/luukiemans) | 10
+. [heringsalat100](https://reddit.com/u/heringsalat100) | 10
+. [defirobot](https://reddit.com/u/defirobot) | 10
+. [bakedent](https://reddit.com/u/bakedent) | 10
+. [altsaretrash](https://reddit.com/u/altsaretrash) | 10
+. [ab111292](https://reddit.com/u/ab111292) | 10
+. [harryzke](https://reddit.com/u/harryzke) | 9
+. [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 9
+. [ev1501](https://reddit.com/u/ev1501) | 9
+. [pbrody](https://reddit.com/u/pbrody) | 9
+. [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 9
+. [spontaneousdream](https://reddit.com/u/spontaneousdream) | 9
+. [proof-of-lake](https://reddit.com/u/proof-of-lake) | 9
+. [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
+. [mkkoll](https://reddit.com/u/mkkoll) | 9
+. [magnushansson](https://reddit.com/u/magnushansson) | 9
+. [ec265](https://reddit.com/u/ec265) | 9
+. [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 9
+. [ch3white10](https://reddit.com/u/ch3white10) | 9
+. [canadiens1993](https://reddit.com/u/canadiens1993) | 9
+. [buyethordai](https://reddit.com/u/buyethordai) | 9
+. [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 9
+. [atyzze](https://reddit.com/u/atyzze) | 9
+. [yeahdave4](https://reddit.com/u/yeahdave4) | 8
+. [jumnhy](https://reddit.com/u/jumnhy) | 8
+. [weedstocks](https://reddit.com/u/weedstocks) | 8
+. [theethmeister](https://reddit.com/u/theethmeister) | 8
+. [showbizza](https://reddit.com/u/showbizza) | 8
+. [roargrrrr](https://reddit.com/u/roargrrrr) | 8
+. [pembull](https://reddit.com/u/pembull) | 8
+. [not_selling_eth](https://reddit.com/u/not_selling_eth) | 8
+. [kb1985](https://reddit.com/u/kb1985) | 8
+. [jin366](https://reddit.com/u/jin366) | 8
+. [iscaacsi](https://reddit.com/u/iscaacsi) | 8
+. [ipeculiarly](https://reddit.com/u/ipeculiarly) | 8
+. [fast_contract](https://reddit.com/u/fast_contract) | 8
+. [edmundedgar](https://reddit.com/u/edmundedgar) | 8
+. [dray11](https://reddit.com/u/dray11) | 8
+. [defacticool](https://reddit.com/u/defacticool) | 8
+. [confucius_said](https://reddit.com/u/confucius_said) | 8
+. [accountaccumulator](https://reddit.com/u/accountaccumulator) | 8
+. [18boro](https://reddit.com/u/18boro) | 8
+. [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
+. [vandelay101](https://reddit.com/u/vandelay101) | 7
+. [thepaypay](https://reddit.com/u/thepaypay) | 7
+. [steven_a_mma_goat](https://reddit.com/u/steven_a_mma_goat) | 7
+. [stalslagga](https://reddit.com/u/stalslagga) | 7
+. [sku](https://reddit.com/u/sku) | 7
+. [shiftli](https://reddit.com/u/shiftli) | 7
+. [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
+. [pocketwailord](https://reddit.com/u/pocketwailord) | 7
+. [miaviv](https://reddit.com/u/miaviv) | 7
+. [mayneminu](https://reddit.com/u/mayneminu) | 7
+. [keepontruckinbag](https://reddit.com/u/keepontruckinbag) | 7
+. [juxtanotherposition](https://reddit.com/u/juxtanotherposition) | 7
+. [jmart762](https://reddit.com/u/jmart762) | 7
+. [jbroja](https://reddit.com/u/jbroja) | 7
+. [fiberpunk2077](https://reddit.com/u/fiberpunk2077) | 7
+. [doubtstarsarefire](https://reddit.com/u/doubtstarsarefire) | 7
+. [cosmiccollusion](https://reddit.com/u/cosmiccollusion) | 7
+. [corn-potage](https://reddit.com/u/corn-potage) | 7
+. [childsp](https://reddit.com/u/childsp) | 7
+. [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
+. [thenextbestguess](https://reddit.com/u/thenextbestguess) | 6
+. [lawfultots](https://reddit.com/u/lawfultots) | 6
+. [yeopaa](https://reddit.com/u/yeopaa) | 6
+. [sfcpfc](https://reddit.com/u/sfcpfc) | 6
+. [sal_t_nuts](https://reddit.com/u/sal_t_nuts) | 6
+. [pudgypeng](https://reddit.com/u/pudgypeng) | 6
+. [offthewall1066](https://reddit.com/u/offthewall1066) | 6
+. [nefariousnaz](https://reddit.com/u/nefariousnaz) | 6
+. [monkeyhold99](https://reddit.com/u/monkeyhold99) | 6
+. [lops21](https://reddit.com/u/lops21) | 6
+. [logic_beach](https://reddit.com/u/logic_beach) | 6
+. [llamachef](https://reddit.com/u/llamachef) | 6
+. [kukai_walker](https://reddit.com/u/kukai_walker) | 6
+. [kallukoras](https://reddit.com/u/kallukoras) | 6
+. [glittering-duty-4069](https://reddit.com/u/glittering-duty-4069) | 6
+. [eth2353](https://reddit.com/u/eth2353) | 6
+. [eetherway](https://reddit.com/u/eetherway) | 6
+. [cryptrd285](https://reddit.com/u/cryptrd285) | 6
+. [coinanon](https://reddit.com/u/coinanon) | 6
+. [chromes](https://reddit.com/u/chromes) | 6
+. [ajmonkfish](https://reddit.com/u/ajmonkfish) | 6
+. [_etherium](https://reddit.com/u/_etherium) | 6
+. [zk_snacks](https://reddit.com/u/zk_snacks) | 5
+. [wootnasty](https://reddit.com/u/wootnasty) | 5
+. [whovillage](https://reddit.com/u/whovillage) | 5
+. [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
+. [vvander](https://reddit.com/u/vvander) | 5
+. [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 5
+. [themoondancekid](https://reddit.com/u/themoondancekid) | 5
+. [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
+. [the_swingman](https://reddit.com/u/the_swingman) | 5
+. [strawdar](https://reddit.com/u/strawdar) | 5
+. [skidseverywhere](https://reddit.com/u/skidseverywhere) | 5
+. [sinnu2s](https://reddit.com/u/sinnu2s) | 5
+. [shadowking94](https://reddit.com/u/shadowking94) | 5
+. [sbdw0c](https://reddit.com/u/sbdw0c) | 5
+. [red_corneas](https://reddit.com/u/red_corneas) | 5
+. [rapidlysequencing](https://reddit.com/u/rapidlysequencing) | 5
+. [rapante](https://reddit.com/u/rapante) | 5
+. [perleflamme](https://reddit.com/u/perleflamme) | 5
+. [oldskool47](https://reddit.com/u/oldskool47) | 5
+. [newman513](https://reddit.com/u/newman513) | 5
+. [mr_cheese_curds](https://reddit.com/u/mr_cheese_curds) | 5
+. [mirved](https://reddit.com/u/mirved) | 5
+. [lobsterspider](https://reddit.com/u/lobsterspider) | 5
+. [lazy_physicist](https://reddit.com/u/lazy_physicist) | 5
+. [kedos25](https://reddit.com/u/kedos25) | 5
+. [kainzilla](https://reddit.com/u/kainzilla) | 5
+. [intmmtsir](https://reddit.com/u/intmmtsir) | 5
+. [hereimalive](https://reddit.com/u/hereimalive) | 5
+. [hamberdler](https://reddit.com/u/hamberdler) | 5
+. [geoffbezos](https://reddit.com/u/geoffbezos) | 5
+. [frenkthetank](https://reddit.com/u/frenkthetank) | 5
+. [fatlever2](https://reddit.com/u/fatlever2) | 5
+. [ethdefiance](https://reddit.com/u/ethdefiance) | 5
+. [datacruncha](https://reddit.com/u/datacruncha) | 5
+. [danksharting](https://reddit.com/u/danksharting) | 5
+. [curious-b](https://reddit.com/u/curious-b) | 5
+. [best_coder_na](https://reddit.com/u/best_coder_na) | 5
+. [bad_investment](https://reddit.com/u/bad_investment) | 5
+. [404bachee](https://reddit.com/u/404bachee) | 5
+. [wegotsumnewbands](https://reddit.com/u/wegotsumnewbands) | 4
+. [watch_dominion_now](https://reddit.com/u/watch_dominion_now) | 4
+. [tutamtumikia](https://reddit.com/u/tutamtumikia) | 4
+. [toethmooonguy](https://reddit.com/u/toethmooonguy) | 4
+. [thoughts4food](https://reddit.com/u/thoughts4food) | 4
+. [thewalkinglive](https://reddit.com/u/thewalkinglive) | 4
+. [theunderdogrutten](https://reddit.com/u/theunderdogrutten) | 4
+. [the_statustician](https://reddit.com/u/the_statustician) | 4
+. [suddenmind](https://reddit.com/u/suddenmind) | 4
+. [stobie](https://reddit.com/u/stobie) | 4
+. [splintercole](https://reddit.com/u/splintercole) | 4
+. [silver5005](https://reddit.com/u/silver5005) | 4
+. [sfdao91](https://reddit.com/u/sfdao91) | 4
+. [sabishiifury](https://reddit.com/u/sabishiifury) | 4
+. [rumblecat](https://reddit.com/u/rumblecat) | 4
+. [plaenar](https://reddit.com/u/plaenar) | 4
+. [physalisx](https://reddit.com/u/physalisx) | 4
+. [nooku](https://reddit.com/u/nooku) | 4
+. [nomad-nuance](https://reddit.com/u/nomad-nuance) | 4
+. [nevilleharris](https://reddit.com/u/nevilleharris) | 4
+. [need-a-bencil](https://reddit.com/u/need-a-bencil) | 4
+. [megroovin](https://reddit.com/u/megroovin) | 4
+. [labrav](https://reddit.com/u/labrav) | 4
+. [johnbmaclemore](https://reddit.com/u/johnbmaclemore) | 4
+. [imelia29](https://reddit.com/u/imelia29) | 4
+. [i_love_mom](https://reddit.com/u/i_love_mom) | 4
+. [hombredecamote](https://reddit.com/u/hombredecamote) | 4
+. [hocilef](https://reddit.com/u/hocilef) | 4
+. [gethwethreth](https://reddit.com/u/gethwethreth) | 4
+. [friedchickentrailer](https://reddit.com/u/friedchickentrailer) | 4
+. [epiphany153](https://reddit.com/u/epiphany153) | 4
+. [epic_trader](https://reddit.com/u/epic_trader) | 4
+. [ecguy1011](https://reddit.com/u/ecguy1011) | 4
+. [doomfuzzslayer](https://reddit.com/u/doomfuzzslayer) | 4
+. [dinny14](https://reddit.com/u/dinny14) | 4
+. [degenkolotoure](https://reddit.com/u/degenkolotoure) | 4
+. [cocleric](https://reddit.com/u/cocleric) | 4
+. [breeezyyyy](https://reddit.com/u/breeezyyyy) | 4
+. [bebopnosering](https://reddit.com/u/bebopnosering) | 4
+. [anguier](https://reddit.com/u/anguier) | 4
+. [anderspatriksvensson](https://reddit.com/u/anderspatriksvensson) | 4
+. [ambidextrous12](https://reddit.com/u/ambidextrous12) | 4
+. [aaqy](https://reddit.com/u/aaqy) | 4
+. [18cimal](https://reddit.com/u/18cimal) | 4
+. [100acrewood](https://reddit.com/u/100acrewood) | 4
+. [mhotdemnot](https://reddit.com/u/mhotdemnot) | 3
+. [sinuio](https://reddit.com/u/sinuio) | 3
+. [readreed](https://reddit.com/u/readreed) | 3
+. [pinkyandthebrainer](https://reddit.com/u/pinkyandthebrainer) | 3
+. [evanvanness](https://reddit.com/u/evanvanness) | 3
+. [davidahoffman](https://reddit.com/u/davidahoffman) | 3
+. [accidental_green](https://reddit.com/u/accidental_green) | 3
+. [itchy_ad_3659](https://reddit.com/u/itchy_ad_3659) | 3
+. [midnightonmars](https://reddit.com/u/midnightonmars) | 3
+. [wizad23](https://reddit.com/u/wizad23) | 3
+. [username_error](https://reddit.com/u/username_error) | 3
+. [tinfoilheadphones](https://reddit.com/u/tinfoilheadphones) | 3
+. [syzygy00778](https://reddit.com/u/syzygy00778) | 3
+. [survivaleast](https://reddit.com/u/survivaleast) | 3
+. [strtrd](https://reddit.com/u/strtrd) | 3
+. [stevieraykatz](https://reddit.com/u/stevieraykatz) | 3
+. [splinunz](https://reddit.com/u/splinunz) | 3
+. [sorangutan](https://reddit.com/u/sorangutan) | 3
+. [smidge](https://reddit.com/u/smidge) | 3
+. [sm3gh34d](https://reddit.com/u/sm3gh34d) | 3
+. [shitshotdead](https://reddit.com/u/shitshotdead) | 3
+. [sayno2mids](https://reddit.com/u/sayno2mids) | 3
+. [proto-n](https://reddit.com/u/proto-n) | 3
+. [professionaiact](https://reddit.com/u/professionaiact) | 3
+. [pinkpuppyball](https://reddit.com/u/pinkpuppyball) | 3
+. [ournumber4](https://reddit.com/u/ournumber4) | 3
+. [oblomov1](https://reddit.com/u/oblomov1) | 3
+. [obitwokenobi](https://reddit.com/u/obitwokenobi) | 3
+. [nuadhaargetlam](https://reddit.com/u/nuadhaargetlam) | 3
+. [nonocoiner](https://reddit.com/u/nonocoiner) | 3
+. [niktak11](https://reddit.com/u/niktak11) | 3
+. [mwiwm](https://reddit.com/u/mwiwm) | 3
+. [morganzero](https://reddit.com/u/morganzero) | 3
+. [kotmynetchup](https://reddit.com/u/kotmynetchup) | 3
+. [kairepaire](https://reddit.com/u/kairepaire) | 3
+. [jbmai](https://reddit.com/u/jbmai) | 3
+. [iwanttobeweve](https://reddit.com/u/iwanttobeweve) | 3
+. [imaybeslow](https://reddit.com/u/imaybeslow) | 3
+. [iliiililii](https://reddit.com/u/iliiililii) | 3
+. [hlpe](https://reddit.com/u/hlpe) | 3
+. [gumbeat007](https://reddit.com/u/gumbeat007) | 3
+. [gravy_vampire](https://reddit.com/u/gravy_vampire) | 3
+. [general_illus](https://reddit.com/u/general_illus) | 3
+. [fiah84](https://reddit.com/u/fiah84) | 3
+. [fheredin](https://reddit.com/u/fheredin) | 3
+. [ethnocent](https://reddit.com/u/ethnocent) | 3
+. [ethmaxitard](https://reddit.com/u/ethmaxitard) | 3
+. [ethlinkwin](https://reddit.com/u/ethlinkwin) | 3
+. [esoa](https://reddit.com/u/esoa) | 3
+. [el-coco-no](https://reddit.com/u/el-coco-no) | 3
+. [dvdglch](https://reddit.com/u/dvdglch) | 3
+. [diego-d](https://reddit.com/u/diego-d) | 3
+. [defijie](https://reddit.com/u/defijie) | 3
+. [dataalways](https://reddit.com/u/dataalways) | 3
+. [cryptonomikon](https://reddit.com/u/cryptonomikon) | 3
+. [communist_mini_pesto](https://reddit.com/u/communist_mini_pesto) | 3
+. [cometothecaml](https://reddit.com/u/cometothecaml) | 3
+. [coin010309](https://reddit.com/u/coin010309) | 3
+. [chokeman](https://reddit.com/u/chokeman) | 3
+. [candlethief724](https://reddit.com/u/candlethief724) | 3
+. [breakeizer](https://reddit.com/u/breakeizer) | 3
+. [bbqcaramelbrulee](https://reddit.com/u/bbqcaramelbrulee) | 3
+. [badassmotherfker](https://reddit.com/u/badassmotherfker) | 3
+. [auseve](https://reddit.com/u/auseve) | 3
+. [16withscars](https://reddit.com/u/16withscars) | 3
+. [brambrameth](https://reddit.com/u/brambrameth) | 2
+. [moderatelytortoise](https://reddit.com/u/moderatelytortoise) | 2
+. [zestykite](https://reddit.com/u/zestykite) | 2
+. [zerotricks](https://reddit.com/u/zerotricks) | 2
+. [yourburningpizza](https://reddit.com/u/yourburningpizza) | 2
+. [yareane](https://reddit.com/u/yareane) | 2
+. [yadude11](https://reddit.com/u/yadude11) | 2
+. [wrekhesh](https://reddit.com/u/wrekhesh) | 2
+. [wanna_know_more](https://reddit.com/u/wanna_know_more) | 2
+. [viners](https://reddit.com/u/viners) | 2
+. [vectorvictorious](https://reddit.com/u/vectorvictorious) | 2
+. [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 2
+. [trent_vanepps](https://reddit.com/u/trent_vanepps) | 2
+. [thisisnotlegal](https://reddit.com/u/thisisnotlegal) | 2
+. [theubiquitousbubble](https://reddit.com/u/theubiquitousbubble) | 2
+. [temporary-music-5468](https://reddit.com/u/temporary-music-5468) | 2
+. [tech_consultant](https://reddit.com/u/tech_consultant) | 2
+. [stripedbluewallpaper](https://reddit.com/u/stripedbluewallpaper) | 2
+. [statsticks](https://reddit.com/u/statsticks) | 2
+. [srirachaferrari](https://reddit.com/u/srirachaferrari) | 2
+. [speedemon92](https://reddit.com/u/speedemon92) | 2
+. [sparta89](https://reddit.com/u/sparta89) | 2
+. [sn0w_l30pard](https://reddit.com/u/sn0w_l30pard) | 2
+. [smellymammoths](https://reddit.com/u/smellymammoths) | 2
+. [smegma_farmer](https://reddit.com/u/smegma_farmer) | 2
+. [sirrayshio](https://reddit.com/u/sirrayshio) | 2
+. [silktouchm](https://reddit.com/u/silktouchm) | 2
+. [seanathanwaters](https://reddit.com/u/seanathanwaters) | 2
+. [samueth_peapks](https://reddit.com/u/samueth_peapks) | 2
+. [rsblk](https://reddit.com/u/rsblk) | 2
+. [romborg](https://reddit.com/u/romborg) | 2
+. [rockjones](https://reddit.com/u/rockjones) | 2
+. [rhader](https://reddit.com/u/rhader) | 2
+. [reuptaken](https://reddit.com/u/reuptaken) | 2
+. [reststoprumble](https://reddit.com/u/reststoprumble) | 2
+. [reno007](https://reddit.com/u/reno007) | 2
+. [redditor31415927](https://reddit.com/u/redditor31415927) | 2
+. [red4141](https://reddit.com/u/red4141) | 2
+. [pulisordie](https://reddit.com/u/pulisordie) | 2
+. [ptuchinho19](https://reddit.com/u/ptuchinho19) | 2
+. [psullzzz](https://reddit.com/u/psullzzz) | 2
+. [prostmelone](https://reddit.com/u/prostmelone) | 2
+. [profstrangelove](https://reddit.com/u/profstrangelove) | 2
+. [productdude](https://reddit.com/u/productdude) | 2
+. [pooeygusset](https://reddit.com/u/pooeygusset) | 2
+. [phigo50](https://reddit.com/u/phigo50) | 2
+. [perpetualcamel](https://reddit.com/u/perpetualcamel) | 2
+. [originalbaconslab](https://reddit.com/u/originalbaconslab) | 2
+. [old_world9768](https://reddit.com/u/old_world9768) | 2
+. [o-_l_-o](https://reddit.com/u/o-_l_-o) | 2
+. [nyruds](https://reddit.com/u/nyruds) | 2
+. [nothingnotnever](https://reddit.com/u/nothingnotnever) | 2
+. [nomadic8893](https://reddit.com/u/nomadic8893) | 2
+. [newtosh](https://reddit.com/u/newtosh) | 2
+. [namtaru_x](https://reddit.com/u/namtaru_x) | 2
+. [mountainminer](https://reddit.com/u/mountainminer) | 2
+. [morkogoz](https://reddit.com/u/morkogoz) | 2
+. [moneyprintergobrbrrr](https://reddit.com/u/moneyprintergobrbrrr) | 2
+. [mister_eth](https://reddit.com/u/mister_eth) | 2
+. [midoridrops](https://reddit.com/u/midoridrops) | 2
+. [mgr37](https://reddit.com/u/mgr37) | 2
+. [meyamu](https://reddit.com/u/meyamu) | 2
+. [mediumrarestake](https://reddit.com/u/mediumrarestake) | 2
+. [mcmatt05](https://reddit.com/u/mcmatt05) | 2
+. [mattau05](https://reddit.com/u/mattau05) | 2
+. [maeby_a_bluth](https://reddit.com/u/maeby_a_bluth) | 2
+. [maconbacon01](https://reddit.com/u/maconbacon01) | 2
+. [lucadonnoh](https://reddit.com/u/lucadonnoh) | 2
+. [ltwln](https://reddit.com/u/ltwln) | 2
+. [llupine](https://reddit.com/u/llupine) | 2
+. [lickmytongue77](https://reddit.com/u/lickmytongue77) | 2
+. [leraq](https://reddit.com/u/leraq) | 2
+. [leaguegreedy](https://reddit.com/u/leaguegreedy) | 2
+. [laughing-mime](https://reddit.com/u/laughing-mime) | 2
+. [larrybob4](https://reddit.com/u/larrybob4) | 2
+. [kscoleman](https://reddit.com/u/kscoleman) | 2
+. [koratickle](https://reddit.com/u/koratickle) | 2
+. [kenzi28](https://reddit.com/u/kenzi28) | 2
+. [juankestein](https://reddit.com/u/juankestein) | 2
+. [johnnydappeth](https://reddit.com/u/johnnydappeth) | 2
+. [jjohncs1v](https://reddit.com/u/jjohncs1v) | 2
+. [jimyxx](https://reddit.com/u/jimyxx) | 2
+. [jebediahkholin](https://reddit.com/u/jebediahkholin) | 2
+. [jaypeaem](https://reddit.com/u/jaypeaem) | 2
+. [jamjodsnaj](https://reddit.com/u/jamjodsnaj) | 2
+. [jacoblongesq](https://reddit.com/u/jacoblongesq) | 2
+. [jackfreeman_](https://reddit.com/u/jackfreeman_) | 2
+. [itchykittehs](https://reddit.com/u/itchykittehs) | 2
+. [inter_mirifica](https://reddit.com/u/inter_mirifica) | 2
+. [imnotthomas](https://reddit.com/u/imnotthomas) | 2
+. [ican20](https://reddit.com/u/ican20) | 2
+. [hipattern](https://reddit.com/u/hipattern) | 2
+. [hauntedjockstrap88](https://reddit.com/u/hauntedjockstrap88) | 2
+. [hashtagfuzzmaster](https://reddit.com/u/hashtagfuzzmaster) | 2
+. [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
+. [gulmorgg](https://reddit.com/u/gulmorgg) | 2
+. [goatwasher](https://reddit.com/u/goatwasher) | 2
+. [free__will](https://reddit.com/u/free__will) | 2
+. [fernadopoo](https://reddit.com/u/fernadopoo) | 2
+. [experiencegoblintown](https://reddit.com/u/experiencegoblintown) | 2
+. [etherenthousiast10k](https://reddit.com/u/etherenthousiast10k) | 2
+. [ethdreamer](https://reddit.com/u/ethdreamer) | 2
+. [educatemybrain](https://reddit.com/u/educatemybrain) | 2
+. [edrews99](https://reddit.com/u/edrews99) | 2
+. [eddie_eddie](https://reddit.com/u/eddie_eddie) | 2
+. [dwdwfeefwffffwef](https://reddit.com/u/dwdwfeefwffffwef) | 2
+. [durkalurk](https://reddit.com/u/durkalurk) | 2
+. [drogean3](https://reddit.com/u/drogean3) | 2
+. [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 2
+. [doyourduty](https://reddit.com/u/doyourduty) | 2
+. [dose_of_placebo](https://reddit.com/u/dose_of_placebo) | 2
+. [djlywtf](https://reddit.com/u/djlywtf) | 2
+. [dirtyundiesthewhites](https://reddit.com/u/dirtyundiesthewhites) | 2
+. [diligent-mouse3679](https://reddit.com/u/diligent-mouse3679) | 2
+. [dhartz](https://reddit.com/u/dhartz) | 2
+. [destreich](https://reddit.com/u/destreich) | 2
+. [dentonnn](https://reddit.com/u/dentonnn) | 2
+. [defidude](https://reddit.com/u/defidude) | 2
+. [deep_archivist](https://reddit.com/u/deep_archivist) | 2
+. [davethetrousers](https://reddit.com/u/davethetrousers) | 2
+. [danaraya](https://reddit.com/u/danaraya) | 2
+. [damonkey47](https://reddit.com/u/damonkey47) | 2
+. [damien_targaryen](https://reddit.com/u/damien_targaryen) | 2
+. [da3vr](https://reddit.com/u/da3vr) | 2
+. [culi122](https://reddit.com/u/culi122) | 2
+. [cryptomonger](https://reddit.com/u/cryptomonger) | 2
+. [crypto_rasta](https://reddit.com/u/crypto_rasta) | 2
+. [crypt0curios](https://reddit.com/u/crypt0curios) | 2
+. [crispykfc](https://reddit.com/u/crispykfc) | 2
+. [cory_eth](https://reddit.com/u/cory_eth) | 2
+. [consideritwon](https://reddit.com/u/consideritwon) | 2
+. [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 2
+. [caturday_yet](https://reddit.com/u/caturday_yet) | 2
+. [caterpillarkitchen67](https://reddit.com/u/caterpillarkitchen67) | 2
+. [cash](https://reddit.com/u/cash) | 2
+. [carpathianinsomnia](https://reddit.com/u/carpathianinsomnia) | 2
+. [captainofthegate](https://reddit.com/u/captainofthegate) | 2
+. [calvinhedge](https://reddit.com/u/calvinhedge) | 2
+. [calaber24p](https://reddit.com/u/calaber24p) | 2
+. [bushmage](https://reddit.com/u/bushmage) | 2
+. [btoast777](https://reddit.com/u/btoast777) | 2
+. [braden87](https://reddit.com/u/braden87) | 2
+. [blocksandpixels](https://reddit.com/u/blocksandpixels) | 2
+. [biketourthrowaway](https://reddit.com/u/biketourthrowaway) | 2
+. [bibilieli](https://reddit.com/u/bibilieli) | 2
+. [bhiitc](https://reddit.com/u/bhiitc) | 2
+. [believeinapathy](https://reddit.com/u/believeinapathy) | 2
+. [batmanrockss](https://reddit.com/u/batmanrockss) | 2
+. [bakindhuman](https://reddit.com/u/bakindhuman) | 2
+. [baggygravy](https://reddit.com/u/baggygravy) | 2
+. [ayreuan](https://reddit.com/u/ayreuan) | 2
+. [ausgear1](https://reddit.com/u/ausgear1) | 2
+. [aur3l1us](https://reddit.com/u/aur3l1us) | 2
+. [atleft](https://reddit.com/u/atleft) | 2
+. [asus_wtf](https://reddit.com/u/asus_wtf) | 2
+. [art__](https://reddit.com/u/art__) | 2
+. [angelbattles](https://reddit.com/u/angelbattles) | 2
+. [allmightlove](https://reddit.com/u/allmightlove) | 2
+. [allinat40](https://reddit.com/u/allinat40) | 2
+. [_anedi](https://reddit.com/u/_anedi) | 2
+. [0xtimer](https://reddit.com/u/0xtimer) | 2
+. [0xdepositcontract](https://reddit.com/u/0xdepositcontract) | 2
+. [0xboba](https://reddit.com/u/0xboba) | 2
+. [-filterfeeder-](https://reddit.com/u/-filterfeeder-) | 2
+. [-darkknight](https://reddit.com/u/-darkknight) | 2
+. [vbuterin](https://reddit.com/u/vbuterin) | 1
+. [kirill_stakewise](https://reddit.com/u/kirill_stakewise) | 1
+. [import-antigravity](https://reddit.com/u/import-antigravity) | 1
+. [darkestchaos](https://reddit.com/u/darkestchaos) | 1
+. [coinedprince](https://reddit.com/u/coinedprince) | 1
+. [dont_forget_canada](https://reddit.com/u/dont_forget_canada) | 1
+. [ridgerunners](https://reddit.com/u/ridgerunners) | 1
+. [earthquakequestion](https://reddit.com/u/earthquakequestion) | 1
+. [juanbmaclopez](https://reddit.com/u/juanbmaclopez) | 1
+. [itamarl](https://reddit.com/u/itamarl) | 1
+. [politicsandcrypto](https://reddit.com/u/politicsandcrypto) | 1
+. [ethfan](https://reddit.com/u/ethfan) | 1
+. [reterical](https://reddit.com/u/reterical) | 1
+. [dear_cartoonist5660](https://reddit.com/u/dear_cartoonist5660) | 1
+. [happyfrom2016](https://reddit.com/u/happyfrom2016) | 1
+. [pnwether66](https://reddit.com/u/pnwether66) | 1
+. [zora](https://reddit.com/u/zora) | 1
+. [zoopzo](https://reddit.com/u/zoopzo) | 1
+. [zkstx](https://reddit.com/u/zkstx) | 1
+. [zephyrflash12](https://reddit.com/u/zephyrflash12) | 1
+. [zebradice](https://reddit.com/u/zebradice) | 1
+. [zamicol](https://reddit.com/u/zamicol) | 1
+. [yogofubi](https://reddit.com/u/yogofubi) | 1
+. [yllfigureitout](https://reddit.com/u/yllfigureitout) | 1
+. [wompydonk](https://reddit.com/u/wompydonk) | 1
+. [wmsy](https://reddit.com/u/wmsy) | 1
+. [whcrawler](https://reddit.com/u/whcrawler) | 1
+. [whatup1111](https://reddit.com/u/whatup1111) | 1
+. [west_compton](https://reddit.com/u/west_compton) | 1
+. [waste_statement_6404](https://reddit.com/u/waste_statement_6404) | 1
+. [washedupdiamond](https://reddit.com/u/washedupdiamond) | 1
+. [vsesuk1](https://reddit.com/u/vsesuk1) | 1
+. [vlatkovr](https://reddit.com/u/vlatkovr) | 1
+. [vitalik-is-jesus](https://reddit.com/u/vitalik-is-jesus) | 1
+. [visciousvenison](https://reddit.com/u/visciousvenison) | 1
+. [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 1
+. [vegetable-agent-6491](https://reddit.com/u/vegetable-agent-6491) | 1
+. [vechain_10_dollars](https://reddit.com/u/vechain_10_dollars) | 1
+. [vashstamp3de](https://reddit.com/u/vashstamp3de) | 1
+. [vacremon2](https://reddit.com/u/vacremon2) | 1
+. [usesbinkvideo](https://reddit.com/u/usesbinkvideo) | 1
+. [urbandystopia](https://reddit.com/u/urbandystopia) | 1
+. [ubiest](https://reddit.com/u/ubiest) | 1
+. [tyrolf](https://reddit.com/u/tyrolf) | 1
+. [txstreet](https://reddit.com/u/txstreet) | 1
+. [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 1
+. [turtlesaur](https://reddit.com/u/turtlesaur) | 1
+. [tsokos](https://reddit.com/u/tsokos) | 1
+. [truuy](https://reddit.com/u/truuy) | 1
+. [truthman1990](https://reddit.com/u/truthman1990) | 1
+. [troyboltonislife](https://reddit.com/u/troyboltonislife) | 1
+. [tricky-troll](https://reddit.com/u/tricky-troll) | 1
+. [travist85](https://reddit.com/u/travist85) | 1
+. [traumerx](https://reddit.com/u/traumerx) | 1
+. [toothache0](https://reddit.com/u/toothache0) | 1
+. [tomr750](https://reddit.com/u/tomr750) | 1
+. [tokenizedhuman](https://reddit.com/u/tokenizedhuman) | 1
+. [tmturbo](https://reddit.com/u/tmturbo) | 1
+. [timwmusic](https://reddit.com/u/timwmusic) | 1
+. [tigawood](https://reddit.com/u/tigawood) | 1
+. [thuanjinkee](https://reddit.com/u/thuanjinkee) | 1
+. [three-polish-cowboys](https://reddit.com/u/three-polish-cowboys) | 1
+. [thoushaltnotfomo](https://reddit.com/u/thoushaltnotfomo) | 1
+. [theyeatcheese](https://reddit.com/u/theyeatcheese) | 1
+. [theprodigalbootycall](https://reddit.com/u/theprodigalbootycall) | 1
+. [thenowl9](https://reddit.com/u/thenowl9) | 1
+. [thehulotribe](https://reddit.com/u/thehulotribe) | 1
+. [thecurious0ne](https://reddit.com/u/thecurious0ne) | 1
+. [thebowlofbeans](https://reddit.com/u/thebowlofbeans) | 1
+. [thebitlebowski](https://reddit.com/u/thebitlebowski) | 1
+. [thebestboner](https://reddit.com/u/thebestboner) | 1
+. [thatwhichshinesforth](https://reddit.com/u/thatwhichshinesforth) | 1
+. [thatguythatguythagay](https://reddit.com/u/thatguythatguythagay) | 1
+. [thailand_facts](https://reddit.com/u/thailand_facts) | 1
+. [texasblum](https://reddit.com/u/texasblum) | 1
+. [terminal_laziness](https://reddit.com/u/terminal_laziness) | 1
+. [techno-peasant](https://reddit.com/u/techno-peasant) | 1
+. [teamredundancyteam](https://reddit.com/u/teamredundancyteam) | 1
+. [tacitus19](https://reddit.com/u/tacitus19) | 1
+. [swissthoemu](https://reddit.com/u/swissthoemu) | 1
+. [swiss_confederate](https://reddit.com/u/swiss_confederate) | 1
+. [sure-example-1425](https://reddit.com/u/sure-example-1425) | 1
+. [supermarkit](https://reddit.com/u/supermarkit) | 1
+. [suicidaleggroll](https://reddit.com/u/suicidaleggroll) | 1
+. [suclearnub](https://reddit.com/u/suclearnub) | 1
+. [suburbiton](https://reddit.com/u/suburbiton) | 1
+. [substantial_hurry_25](https://reddit.com/u/substantial_hurry_25) | 1
+. [strongllc](https://reddit.com/u/strongllc) | 1
+. [strictorganization](https://reddit.com/u/strictorganization) | 1
+. [stoopslife](https://reddit.com/u/stoopslife) | 1
+. [stache1](https://reddit.com/u/stache1) | 1
+. [squaredk2](https://reddit.com/u/squaredk2) | 1
+. [spinz808](https://reddit.com/u/spinz808) | 1
+. [spectacledhero](https://reddit.com/u/spectacledhero) | 1
+. [special-meaning3539](https://reddit.com/u/special-meaning3539) | 1
+. [sp3xl](https://reddit.com/u/sp3xl) | 1
+. [sosayethweall](https://reddit.com/u/sosayethweall) | 1
+. [smithgift](https://reddit.com/u/smithgift) | 1
+. [slowmushroom741](https://reddit.com/u/slowmushroom741) | 1
+. [slocken](https://reddit.com/u/slocken) | 1
+. [slay_the_beast](https://reddit.com/u/slay_the_beast) | 1
+. [skyy7](https://reddit.com/u/skyy7) | 1
+. [skilhgt](https://reddit.com/u/skilhgt) | 1
+. [simtrix33](https://reddit.com/u/simtrix33) | 1
+. [simonlimonsmith](https://reddit.com/u/simonlimonsmith) | 1
+. [shtafoo](https://reddit.com/u/shtafoo) | 1
+. [shredthefed](https://reddit.com/u/shredthefed) | 1
+. [shortstack02](https://reddit.com/u/shortstack02) | 1
+. [shittysurgeon](https://reddit.com/u/shittysurgeon) | 1
+. [shiba_son_of_doge](https://reddit.com/u/shiba_son_of_doge) | 1
+. [sexyborisjohnson](https://reddit.com/u/sexyborisjohnson) | 1
+. [several-listen7915](https://reddit.com/u/several-listen7915) | 1
+. [sepyke](https://reddit.com/u/sepyke) | 1
+. [seat-is-occupied](https://reddit.com/u/seat-is-occupied) | 1
+. [scurrox](https://reddit.com/u/scurrox) | 1
+. [scribblebutter](https://reddit.com/u/scribblebutter) | 1
+. [scheistermeister](https://reddit.com/u/scheistermeister) | 1
+. [saturnright](https://reddit.com/u/saturnright) | 1
+. [santamansanta](https://reddit.com/u/santamansanta) | 1
+. [samus3015](https://reddit.com/u/samus3015) | 1
+. [samuelshix](https://reddit.com/u/samuelshix) | 1
+. [robohack](https://reddit.com/u/robohack) | 1
+. [roberto250b](https://reddit.com/u/roberto250b) | 1
+. [robertloblaw2](https://reddit.com/u/robertloblaw2) | 1
+. [rinmusya](https://reddit.com/u/rinmusya) | 1
+. [rickshawjojo](https://reddit.com/u/rickshawjojo) | 1
+. [rickandmowgli](https://reddit.com/u/rickandmowgli) | 1
+. [ribilla_](https://reddit.com/u/ribilla_) | 1
+. [revras8](https://reddit.com/u/revras8) | 1
+. [responsiblegrass8080](https://reddit.com/u/responsiblegrass8080) | 1
+. [redicko](https://reddit.com/u/redicko) | 1
+. [recoveringcanuck](https://reddit.com/u/recoveringcanuck) | 1
+. [realarthurok](https://reddit.com/u/realarthurok) | 1
+. [rayzhueth](https://reddit.com/u/rayzhueth) | 1
+. [randomzileanmain](https://reddit.com/u/randomzileanmain) | 1
+. [qwertybop1](https://reddit.com/u/qwertybop1) | 1
+. [pyroxyze](https://reddit.com/u/pyroxyze) | 1
+. [puzzled_badger](https://reddit.com/u/puzzled_badger) | 1
+. [projectequal](https://reddit.com/u/projectequal) | 1
+. [prais3thesun](https://reddit.com/u/prais3thesun) | 1
+. [post_orgasm_mind](https://reddit.com/u/post_orgasm_mind) | 1
+. [popsncats](https://reddit.com/u/popsncats) | 1
+. [plenix](https://reddit.com/u/plenix) | 1
+. [pkickel92](https://reddit.com/u/pkickel92) | 1
+. [pikag](https://reddit.com/u/pikag) | 1
+. [piezoelectron](https://reddit.com/u/piezoelectron) | 1
+. [phonethic](https://reddit.com/u/phonethic) | 1
+. [phillywalsh](https://reddit.com/u/phillywalsh) | 1
+. [pennvic](https://reddit.com/u/pennvic) | 1
+. [passetisse](https://reddit.com/u/passetisse) | 1
+. [paper-gains](https://reddit.com/u/paper-gains) | 1
+. [pandemoniumpermad](https://reddit.com/u/pandemoniumpermad) | 1
+. [palegirlshnnng](https://reddit.com/u/palegirlshnnng) | 1
+. [paddyputthepipedown](https://reddit.com/u/paddyputthepipedown) | 1
+. [ovitodistati](https://reddit.com/u/ovitodistati) | 1
+. [overcookedchicken](https://reddit.com/u/overcookedchicken) | 1
+. [order_book_facts](https://reddit.com/u/order_book_facts) | 1
+. [oldmando](https://reddit.com/u/oldmando) | 1
+. [oc3anwav3](https://reddit.com/u/oc3anwav3) | 1
+. [oblvnxknight](https://reddit.com/u/oblvnxknight) | 1
+. [oakridgefarm](https://reddit.com/u/oakridgefarm) | 1
+. [numuhukumakiakiaia](https://reddit.com/u/numuhukumakiakiaia) | 1
+. [notios](https://reddit.com/u/notios) | 1
+. [notimplementedtype](https://reddit.com/u/notimplementedtype) | 1
+. [nomorealcohol2017](https://reddit.com/u/nomorealcohol2017) | 1
+. [nomakoa](https://reddit.com/u/nomakoa) | 1
+. [nomadic8893-](https://reddit.com/u/nomadic8893-) | 1
+. [nodesinformatziya](https://reddit.com/u/nodesinformatziya) | 1
+. [no_speaker8945](https://reddit.com/u/no_speaker8945) | 1
+. [no_operation1906](https://reddit.com/u/no_operation1906) | 1
+. [nlnico](https://reddit.com/u/nlnico) | 1
+. [ninjadk](https://reddit.com/u/ninjadk) | 1
+. [nightshadeemoji](https://reddit.com/u/nightshadeemoji) | 1
+. [nick_badlands](https://reddit.com/u/nick_badlands) | 1
+. [nichlaes](https://reddit.com/u/nichlaes) | 1
+. [newone1255](https://reddit.com/u/newone1255) | 1
+. [new_start_2020](https://reddit.com/u/new_start_2020) | 1
+. [nervous_yak_2538](https://reddit.com/u/nervous_yak_2538) | 1
+. [neetzscie](https://reddit.com/u/neetzscie) | 1
+. [nagus](https://reddit.com/u/nagus) | 1
+. [mylhowse](https://reddit.com/u/mylhowse) | 1
+. [mxyz](https://reddit.com/u/mxyz) | 1
+. [mrnog](https://reddit.com/u/mrnog) | 1
+. [mrnobodyman](https://reddit.com/u/mrnobodyman) | 1
+. [mrecon](https://reddit.com/u/mrecon) | 1
+. [movingintoturquoise](https://reddit.com/u/movingintoturquoise) | 1
+. [moneygobye](https://reddit.com/u/moneygobye) | 1
+. [momonosquito](https://reddit.com/u/momonosquito) | 1
+. [mikkeller](https://reddit.com/u/mikkeller) | 1
+. [mikemx123](https://reddit.com/u/mikemx123) | 1
+. [middle-athlete](https://reddit.com/u/middle-athlete) | 1
+. [metanull-operator](https://reddit.com/u/metanull-operator) | 1
+. [metalsun6](https://reddit.com/u/metalsun6) | 1
+. [merklechainsaw](https://reddit.com/u/merklechainsaw) | 1
+. [maxstandard](https://reddit.com/u/maxstandard) | 1
+. [maxahoy](https://reddit.com/u/maxahoy) | 1
+. [matt0x_eth](https://reddit.com/u/matt0x_eth) | 1
+. [mathje](https://reddit.com/u/mathje) | 1
+. [maskedman24](https://reddit.com/u/maskedman24) | 1
+. [masahirox](https://reddit.com/u/masahirox) | 1
+. [martian0x](https://reddit.com/u/martian0x) | 1
+. [mark0pollo](https://reddit.com/u/mark0pollo) | 1
+. [malooky-spooky](https://reddit.com/u/malooky-spooky) | 1
+. [make_me_think](https://reddit.com/u/make_me_think) | 1
+. [majorpickle01](https://reddit.com/u/majorpickle01) | 1
+. [lpsupercell25](https://reddit.com/u/lpsupercell25) | 1
+. [loyalmedavid](https://reddit.com/u/loyalmedavid) | 1
+. [lowievr](https://reddit.com/u/lowievr) | 1
+. [lotec](https://reddit.com/u/lotec) | 1
+. [lostick](https://reddit.com/u/lostick) | 1
+. [looselaugh](https://reddit.com/u/looselaugh) | 1
+. [loksfox](https://reddit.com/u/loksfox) | 1
+. [littlebigdondon](https://reddit.com/u/littlebigdondon) | 1
+. [lifelonghodl](https://reddit.com/u/lifelonghodl) | 1
+. [leperen](https://reddit.com/u/leperen) | 1
+. [ledrsatan](https://reddit.com/u/ledrsatan) | 1
+. [lawsonm9](https://reddit.com/u/lawsonm9) | 1
+. [lavop](https://reddit.com/u/lavop) | 1
+. [laughing__cow](https://reddit.com/u/laughing__cow) | 1
+. [laphroaigrules](https://reddit.com/u/laphroaigrules) | 1
+. [lanztar](https://reddit.com/u/lanztar) | 1
+. [laninsterjr](https://reddit.com/u/laninsterjr) | 1
+. [kristkind](https://reddit.com/u/kristkind) | 1
+. [kooky-mouse-9216](https://reddit.com/u/kooky-mouse-9216) | 1
+. [kindreply123](https://reddit.com/u/kindreply123) | 1
+. [khad3](https://reddit.com/u/khad3) | 1
+. [keystrokesinyourhead](https://reddit.com/u/keystrokesinyourhead) | 1
+. [keeldoteth](https://reddit.com/u/keeldoteth) | 1
+. [kamikazesexpilot](https://reddit.com/u/kamikazesexpilot) | 1
+. [kaisermerkle](https://reddit.com/u/kaisermerkle) | 1
+. [juxtaposezen](https://reddit.com/u/juxtaposezen) | 1
+. [juustosuikero](https://reddit.com/u/juustosuikero) | 1
+. [jrmrx](https://reddit.com/u/jrmrx) | 1
+. [joskye](https://reddit.com/u/joskye) | 1
+. [joshuawakefield](https://reddit.com/u/joshuawakefield) | 1
+. [jonace](https://reddit.com/u/jonace) | 1
+. [jokl66](https://reddit.com/u/jokl66) | 1
+. [jironzo](https://reddit.com/u/jironzo) | 1
+. [jimjimmyjim-the-1st](https://reddit.com/u/jimjimmyjim-the-1st) | 1
+. [jenkempuffer](https://reddit.com/u/jenkempuffer) | 1
+. [jbudz](https://reddit.com/u/jbudz) | 1
+. [jbgt](https://reddit.com/u/jbgt) | 1
+. [jamcowl](https://reddit.com/u/jamcowl) | 1
+. [jadenpls](https://reddit.com/u/jadenpls) | 1
+. [jade_sorceress](https://reddit.com/u/jade_sorceress) | 1
+. [itswhatevermannn](https://reddit.com/u/itswhatevermannn) | 1
+. [its_spelled_iain](https://reddit.com/u/its_spelled_iain) | 1
+. [ironicspeech](https://reddit.com/u/ironicspeech) | 1
+. [internal-strategy512](https://reddit.com/u/internal-strategy512) | 1
+. [inhuman_moose](https://reddit.com/u/inhuman_moose) | 1
+. [infinitemilieu](https://reddit.com/u/infinitemilieu) | 1
+. [infinite-breath8917](https://reddit.com/u/infinite-breath8917) | 1
+. [inelukistormking](https://reddit.com/u/inelukistormking) | 1
+. [ilovestaplers](https://reddit.com/u/ilovestaplers) | 1
+. [iknowyougotsole](https://reddit.com/u/iknowyougotsole) | 1
+. [ianazch](https://reddit.com/u/ianazch) | 1
+. [i_haven-t_reddit](https://reddit.com/u/i_haven-t_reddit) | 1
+. [hotgirls-eth](https://reddit.com/u/hotgirls-eth) | 1
+. [hot_lava_poured_in](https://reddit.com/u/hot_lava_poured_in) | 1
+. [holyflatulence](https://reddit.com/u/holyflatulence) | 1
+. [hokumbafflegab](https://reddit.com/u/hokumbafflegab) | 1
+. [hodlingsteady](https://reddit.com/u/hodlingsteady) | 1
+. [hodleth](https://reddit.com/u/hodleth) | 1
+. [hiredgoon](https://reddit.com/u/hiredgoon) | 1
+. [highqi](https://reddit.com/u/highqi) | 1
+. [hgfyuhbb](https://reddit.com/u/hgfyuhbb) | 1
+. [henrycharles007](https://reddit.com/u/henrycharles007) | 1
+. [helponadme1](https://reddit.com/u/helponadme1) | 1
+. [hehechibby](https://reddit.com/u/hehechibby) | 1
+. [healthandwealth365](https://reddit.com/u/healthandwealth365) | 1
+. [headwar](https://reddit.com/u/headwar) | 1
+. [hawkbit](https://reddit.com/u/hawkbit) | 1
+. [hawaii_fact](https://reddit.com/u/hawaii_fact) | 1
+. [halzen627](https://reddit.com/u/halzen627) | 1
+. [haidren](https://reddit.com/u/haidren) | 1
+. [gwenvador](https://reddit.com/u/gwenvador) | 1
+. [guyfawked](https://reddit.com/u/guyfawked) | 1
+. [gurkang](https://reddit.com/u/gurkang) | 1
+. [gumba_hasselhoff](https://reddit.com/u/gumba_hasselhoff) | 1
+. [gou-ranga](https://reddit.com/u/gou-ranga) | 1
+. [goobergal97](https://reddit.com/u/goobergal97) | 1
+. [girlamongstsharks](https://reddit.com/u/girlamongstsharks) | 1
+. [giraffenmensch](https://reddit.com/u/giraffenmensch) | 1
+. [ggunit1875](https://reddit.com/u/ggunit1875) | 1
+. [geppetto123](https://reddit.com/u/geppetto123) | 1
+. [genz_ofcourse](https://reddit.com/u/genz_ofcourse) | 1
+. [gand_ji](https://reddit.com/u/gand_ji) | 1
+. [futureofeverythingz](https://reddit.com/u/futureofeverythingz) | 1
+. [fuglserrand](https://reddit.com/u/fuglserrand) | 1
+. [fuego710](https://reddit.com/u/fuego710) | 1
+. [fuckswithfire](https://reddit.com/u/fuckswithfire) | 1
+. [fuckschickens](https://reddit.com/u/fuckschickens) | 1
+. [fuckmyfate](https://reddit.com/u/fuckmyfate) | 1
+. [forgetitz](https://reddit.com/u/forgetitz) | 1
+. [foodloverfoodhater](https://reddit.com/u/foodloverfoodhater) | 1
+. [flyinglineman](https://reddit.com/u/flyinglineman) | 1
+. [fluffaypenguin](https://reddit.com/u/fluffaypenguin) | 1
+. [flatpak2021_08_2021](https://reddit.com/u/flatpak2021_08_2021) | 1
+. [flamesrisehigher](https://reddit.com/u/flamesrisehigher) | 1
+. [fishlover3909](https://reddit.com/u/fishlover3909) | 1
+. [first-flower-3465](https://reddit.com/u/first-flower-3465) | 1
+. [fiftyfirstsnails](https://reddit.com/u/fiftyfirstsnails) | 1
+. [fifthrooter](https://reddit.com/u/fifthrooter) | 1
+. [fibrepunk2077](https://reddit.com/u/fibrepunk2077) | 1
+. [feichalo](https://reddit.com/u/feichalo) | 1
+. [fatcateconomist](https://reddit.com/u/fatcateconomist) | 1
+. [faithlessnesscold380](https://reddit.com/u/faithlessnesscold380) | 1
+. [fact_contract](https://reddit.com/u/fact_contract) | 1
+. [exploreddit](https://reddit.com/u/exploreddit) | 1
+. [exdedinside](https://reddit.com/u/exdedinside) | 1
+. [evilphiz](https://reddit.com/u/evilphiz) | 1
+. [eviljordan](https://reddit.com/u/eviljordan) | 1
+. [eththermadness](https://reddit.com/u/eththermadness) | 1
+. [ethrocketeer](https://reddit.com/u/ethrocketeer) | 1
+. [ethrevolution](https://reddit.com/u/ethrevolution) | 1
+. [ethordie](https://reddit.com/u/ethordie) | 1
+. [etherduck](https://reddit.com/u/etherduck) | 1
+. [eth_scholar](https://reddit.com/u/eth_scholar) | 1
+. [etereve](https://reddit.com/u/etereve) | 1
+. [equal-jellyfish1](https://reddit.com/u/equal-jellyfish1) | 1
+. [epicgoblet](https://reddit.com/u/epicgoblet) | 1
+. [ennygbennyg](https://reddit.com/u/ennygbennyg) | 1
+. [emkoscp](https://reddit.com/u/emkoscp) | 1
+. [elliottmatt](https://reddit.com/u/elliottmatt) | 1
+. [electricmutiny](https://reddit.com/u/electricmutiny) | 1
+. [ekapadabak](https://reddit.com/u/ekapadabak) | 1
+. [eddyg987](https://reddit.com/u/eddyg987) | 1
+. [easy_like_sunday](https://reddit.com/u/easy_like_sunday) | 1
+. [dysus1](https://reddit.com/u/dysus1) | 1
+. [dybsy](https://reddit.com/u/dybsy) | 1
+. [dudermeister](https://reddit.com/u/dudermeister) | 1
+. [dudeeggs](https://reddit.com/u/dudeeggs) | 1
+. [drogean2](https://reddit.com/u/drogean2) | 1
+. [drew41](https://reddit.com/u/drew41) | 1
+. [dretherious](https://reddit.com/u/dretherious) | 1
+. [dpxlumpi](https://reddit.com/u/dpxlumpi) | 1
+. [dotslaxx](https://reddit.com/u/dotslaxx) | 1
+. [dont_waver](https://reddit.com/u/dont_waver) | 1
+. [dondochaka](https://reddit.com/u/dondochaka) | 1
+. [domingo_mon](https://reddit.com/u/domingo_mon) | 1
+. [doje_a_vu](https://reddit.com/u/doje_a_vu) | 1
+. [dog_the_explorer](https://reddit.com/u/dog_the_explorer) | 1
+. [doctornoisewaterr](https://reddit.com/u/doctornoisewaterr) | 1
+. [doctor_schmee](https://reddit.com/u/doctor_schmee) | 1
+. [dizzy_activity](https://reddit.com/u/dizzy_activity) | 1
+. [distant-shores](https://reddit.com/u/distant-shores) | 1
+. [dim-pap](https://reddit.com/u/dim-pap) | 1
+. [deukey](https://reddit.com/u/deukey) | 1
+. [detroitlions81](https://reddit.com/u/detroitlions81) | 1
+. [deppep](https://reddit.com/u/deppep) | 1
+. [dennyjets](https://reddit.com/u/dennyjets) | 1
+. [delusionsofether](https://reddit.com/u/delusionsofether) | 1
+. [definoob01](https://reddit.com/u/definoob01) | 1
+. [defewit](https://reddit.com/u/defewit) | 1
+. [deariedearieme](https://reddit.com/u/deariedearieme) | 1
+. [dc-covid-trash](https://reddit.com/u/dc-covid-trash) | 1
+. [dazzlingbasket](https://reddit.com/u/dazzlingbasket) | 1
+. [datadude92](https://reddit.com/u/datadude92) | 1
+. [danseidansei](https://reddit.com/u/danseidansei) | 1
+. [danieltomby](https://reddit.com/u/danieltomby) | 1
+. [dangerismyusername](https://reddit.com/u/dangerismyusername) | 1
+. [danarchist](https://reddit.com/u/danarchist) | 1
+. [daliroth](https://reddit.com/u/daliroth) | 1
+. [d0hey](https://reddit.com/u/d0hey) | 1
+. [d0ck3r](https://reddit.com/u/d0ck3r) | 1
+. [d-banana-eth](https://reddit.com/u/d-banana-eth) | 1
+. [cryptowarjournalist](https://reddit.com/u/cryptowarjournalist) | 1
+. [cryptotaxbro](https://reddit.com/u/cryptotaxbro) | 1
+. [cryptopuzzlers](https://reddit.com/u/cryptopuzzlers) | 1
+. [cryptojimmy8](https://reddit.com/u/cryptojimmy8) | 1
+. [cryptobuddy_1712](https://reddit.com/u/cryptobuddy_1712) | 1
+. [crypt0w0currency](https://reddit.com/u/crypt0w0currency) | 1
+. [crypolyf](https://reddit.com/u/crypolyf) | 1
+. [crumbumcrumbum](https://reddit.com/u/crumbumcrumbum) | 1
+. [criminalnoodle](https://reddit.com/u/criminalnoodle) | 1
+. [crap___shoot](https://reddit.com/u/crap___shoot) | 1
+. [cptnobvs3](https://reddit.com/u/cptnobvs3) | 1
+. [cpayyyy](https://reddit.com/u/cpayyyy) | 1
+. [cozypinetree](https://reddit.com/u/cozypinetree) | 1
+. [coxenbawls](https://reddit.com/u/coxenbawls) | 1
+. [cowsclaw](https://reddit.com/u/cowsclaw) | 1
+. [cow_tipping_olympian](https://reddit.com/u/cow_tipping_olympian) | 1
+. [competitive-regret21](https://reddit.com/u/competitive-regret21) | 1
+. [colangelodid911](https://reddit.com/u/colangelodid911) | 1
+. [clearlyjustsomeguy](https://reddit.com/u/clearlyjustsomeguy) | 1
+. [claystring](https://reddit.com/u/claystring) | 1
+. [clark_now](https://reddit.com/u/clark_now) | 1
+. [ckh27](https://reddit.com/u/ckh27) | 1
+. [cjuha](https://reddit.com/u/cjuha) | 1
+. [chrismartinasd](https://reddit.com/u/chrismartinasd) | 1
+. [chris_dea](https://reddit.com/u/chris_dea) | 1
+. [chicoconcarne](https://reddit.com/u/chicoconcarne) | 1
+. [cheezin05](https://reddit.com/u/cheezin05) | 1
+. [ccgirl21](https://reddit.com/u/ccgirl21) | 1
+. [caymannan](https://reddit.com/u/caymannan) | 1
+. [catfoodlover](https://reddit.com/u/catfoodlover) | 1
+. [canwetalketh](https://reddit.com/u/canwetalketh) | 1
+. [canadian_stv](https://reddit.com/u/canadian_stv) | 1
+. [calistadodd](https://reddit.com/u/calistadodd) | 1
+. [c0smic_0wl](https://reddit.com/u/c0smic_0wl) | 1
+. [butta_tribot](https://reddit.com/u/butta_tribot) | 1
+. [burfdurf](https://reddit.com/u/burfdurf) | 1
+. [bullet_king1996](https://reddit.com/u/bullet_king1996) | 1
+. [builder_bob23](https://reddit.com/u/builder_bob23) | 1
+. [bugfrag3](https://reddit.com/u/bugfrag3) | 1
+. [broccoleet](https://reddit.com/u/broccoleet) | 1
+. [brickeaters](https://reddit.com/u/brickeaters) | 1
+. [brent_the_adventurer](https://reddit.com/u/brent_the_adventurer) | 1
+. [breakmegently](https://reddit.com/u/breakmegently) | 1
+. [brandon_indy13](https://reddit.com/u/brandon_indy13) | 1
+. [box_of_hornets](https://reddit.com/u/box_of_hornets) | 1
+. [bosticetudis](https://reddit.com/u/bosticetudis) | 1
+. [bmitch567](https://reddit.com/u/bmitch567) | 1
+. [bman0920](https://reddit.com/u/bman0920) | 1
+. [blur93](https://reddit.com/u/blur93) | 1
+. [bleeddonor](https://reddit.com/u/bleeddonor) | 1
+. [blartarus](https://reddit.com/u/blartarus) | 1
+. [blackdowney](https://reddit.com/u/blackdowney) | 1
+. [bitzgi](https://reddit.com/u/bitzgi) | 1
+. [bigwiseguy55](https://reddit.com/u/bigwiseguy55) | 1
+. [bigdumbidiot01](https://reddit.com/u/bigdumbidiot01) | 1
+. [betterstartliving](https://reddit.com/u/betterstartliving) | 1
+. [bergmannskase](https://reddit.com/u/bergmannskase) | 1
+. [bennyggbennyg](https://reddit.com/u/bennyggbennyg) | 1
+. [bennybennygg](https://reddit.com/u/bennybennygg) | 1
+. [benjamin](https://reddit.com/u/benjamin) | 1
+. [bazzravish32](https://reddit.com/u/bazzravish32) | 1
+. [battlepine](https://reddit.com/u/battlepine) | 1
+. [barkieg](https://reddit.com/u/barkieg) | 1
+. [ballsonyah](https://reddit.com/u/ballsonyah) | 1
+. [bagsmcbaggins](https://reddit.com/u/bagsmcbaggins) | 1
+. [baerbelleksa](https://reddit.com/u/baerbelleksa) | 1
+. [awardfabrik-sof](https://reddit.com/u/awardfabrik-sof) | 1
+. [attygalle](https://reddit.com/u/attygalle) | 1
+. [atheartengineer](https://reddit.com/u/atheartengineer) | 1
+. [astronautthis](https://reddit.com/u/astronautthis) | 1
+. [associationseveral46](https://reddit.com/u/associationseveral46) | 1
+. [asdafari](https://reddit.com/u/asdafari) | 1
+. [apoiiocreed](https://reddit.com/u/apoiiocreed) | 1
+. [anor_wondo](https://reddit.com/u/anor_wondo) | 1
+. [andykaufmantm](https://reddit.com/u/andykaufmantm) | 1
+. [andrjor](https://reddit.com/u/andrjor) | 1
+. [andrewmrobbins](https://reddit.com/u/andrewmrobbins) | 1
+. [ali-dabool](https://reddit.com/u/ali-dabool) | 1
+. [aitalianstallion](https://reddit.com/u/aitalianstallion) | 1
+. [airportatheist](https://reddit.com/u/airportatheist) | 1
+. [ahbartsch](https://reddit.com/u/ahbartsch) | 1
+. [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 1
+. [actionpaulson](https://reddit.com/u/actionpaulson) | 1
+. [9risk](https://reddit.com/u/9risk) | 1
+. [917redditor](https://reddit.com/u/917redditor) | 1
+. [69__lol](https://reddit.com/u/69__lol) | 1
+. [66616661666](https://reddit.com/u/66616661666) | 1
+. [63rd](https://reddit.com/u/63rd) | 1
+. [5upergeil](https://reddit.com/u/5upergeil) | 1
+. [10kethisfud](https://reddit.com/u/10kethisfud) | 1
+. [0xrel0aded](https://reddit.com/u/0xrel0aded) | 1
+. [0xdefiant](https://reddit.com/u/0xdefiant) | 1
+. [0xcazador](https://reddit.com/u/0xcazador) | 1
+. [0661](https://reddit.com/u/0661) | 1
+. [---truthseeker---](https://reddit.com/u/---truthseeker---) | 1
 
 
 
@@ -997,6 +1000,273 @@ Rank | Username   | Daily Doots
 
 
 # Weekly Doots
+
+
+
+<details>
+  <summary>Week #51: January 12, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/166806)
+
+**Announcements**
+
+- [Ethereum Foundation AMA](https://reddit.com/r/ethereum/comments/191kke6/ama_we_are_ef_research_pt_11_10_january_2024/)
+
+**Upcoming Guests**
+
+- January 26 - Kevin Owocki of [Green Pill](https://greenpill.network/)
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/194nvno/comment/khhc627/)
+
+[u/Fiberpunk2077](https://reddit.com/u/Fiberpunk2077)
+
+> Ethereum
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 88,973 hodlers subscribed (+17)
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $2620.17
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> 0.0567
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/193ukvu/comment/khe6hf4/)
+
+*Suspens removal,*
+
+*A court ordered approval,*
+
+*Not fiducial.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Itur_ad_Astra</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1927osy/daily_general_discussion_january_9_2024/kh4g8z4/)
+
+OMG! 😭Cant believe ETF is approved ! Thank you SEC team ! ❤️ keep doing the great work. 💪🏻💪🏻💪🏻🚀🚀🚀 
+
+---
+
+[Context](https://coincentral.com/busted-waltonchain-accused-orchestrating-fake-giveaway/)
+
+</details>
+<details>
+<summary>u/pr0nh0li0 warns of the scammy state of crypto twitter right now</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18y5x53/daily_general_discussion_january_4_2024/kgbku24/)
+
+Current Twitter experience as a long time crypto user. Seeing [this same scam](https://i.imgur.com/9z4xfYw.png) ad for a fake ZKsync airdrop every ~5 tweets, and some other scam ad every other 10 tweets.
+
+> Just got this now, my heart's full of joy, what an amazing day 🌟
+
+lol; At least a/b test the copy scammer guy I really can't imagine this headline works *that* well
+
+(I still love crypto Twitter despite how god awful the spam has gotten on the platform)
+
+</details>
+<details>
+<summary>u/LogrisTheBard covers how Eigen layer is affecting the peg of LSTs 🧠</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18y5x53/daily_general_discussion_january_4_2024/kgctkg6/)
+
+So many people hyped into the swETH EigenLayer contract that it has seriously affected the swETH peg. Prior to the EigenLayer deposit opening people were chain minting swETH for Pearls then selling it to ETH at almost a 3% loss. That is to say the market was speculating that the pearl to ETH ratio would be about .0015. As recently as Dec 10th swETH was at about 1.01 swETH/ETH. Right now it's sitting at almost 1.05 (the native rate is 1.0471). So just holding swETH in the past 4 weeks has made you 4% almost on your ETH (more than an entire year of solo staking). It has also [largely drained the swETH liquidity](https://dune.com/swell-network/sweth-in-dexes) as apparently LPs exited their position to pure swETH and deposited the whole stack into EigenLayer. You can see volume hugely spiked, right around the time TVL halved.
+
+Larger LSTs are less dramatically affected but there's the same phenomenon are still visible in them. In many cases the lower liquidity has significantly improved the liquidity farming rates. Some of these new combination pools like cbETH/wstETH/rETH are yielding over 12% APR (like 5x solo staking). Even most of the older pools are still at or above 7.5% after accounting for the native appreciation of the LST in their yield.
+
+</details>
+<details>
+<summary>u/hanniabu explains the risks of EigenLayer</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18y5x53/daily_general_discussion_january_4_2024/kgb7pvg/)
+
+* Eigen Layer smart contract risk: Initially slashing will be manually vetted (not sure about penalties), but eventually this will be an automated process. There's the potential to get penalized/slashed accidentally.
+* Eigen Layer AVS (services) smart contract risk: - There's the potential to get penalized/slashed accidentally.
+* Token risk: Some services may require you to hold their token as collateral in replace of or in addition to ETH.
+* Consensus risk: 
+   * You're assigning your withdrawal address to Eigen Layer. As their marketshare increases it's not great to have them in that position of power, especially when slashing is a manual process where there's coercion potential.
+   * It alters the incentive mechanisms of the chain by introducing large scale second order incentives. Things that a logical actor wouldn't consider before may now be an option.
+   * It encourages risk at the consensus layer, which isn't good. Especially since home stakers that are more risk averse may not want to participate since native APR gets pushed down and the only way to have sufficient APR is to engage in that risk.
+* Influence: If Eigen Layer gets larger, they can have outweighed influence on the ecosystem similar to Lido. That influence allows unchecked growth and behavior because people don't want to be on your bad side. You can also afford pay your way to the outcomes you want.
+* Unknown risk: Just like with MEV and builders, there can be a rabbit hole of issues we're not aware of yet.
+
+---
+
+Note: While Eigen Layer was specifically mentioned, I believe these are inherent risks to all restaking
+
+</details>
+<details>
+<summary>u/stablecoin updates us on privacy tools</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18yznna/daily_general_discussion_january_5_2024/kgi0exy/)
+
+> <https://medium.com/@Railgun_Project/the-new-architecture-for-ethereum-privacy-introducing-railgun-v3-21e111fa297e>
+
+suggest everyone interested in privacy preserving technology read this update (from early December) around Railgun V3. Railgun is a privacy layer you can deposit to and withdrawal to any address, and now they are going to help incorporate defi onto the privacy layer so all your swaps and farming can be shielded. 
+
+Also Nocturne just launched a working product last month (which is I think maybe what spurned this update article, friendly competition), and it's nice to see privacy projects still building even if the USG is trying to chill everyone away from the space. Vitalik is a known backer of Nocturne as well.
+
+> <https://app.nocturne.xyz/>
+
+[EDIT Nocturne Announcement Article]
+
+> <https://dailyhodl.com/2023/11/15/nocturne-launches-on-mainnet-to-bring-private-accounts-to-ethereum/>
+
+lastly don't forget that Aztec network is supposed to launch sometime this year. we may have lost Tornado access in the US temporarily, but it didn't shut it down (not even close) and more and more of these privacy solutions will emerge making it even more and more difficult to deter. at the end of the day blockchain doesn't work without proper privacy being an option. I urge everyone to learn about and explore these tools.
+
+</details>
+<details>
+<summary>u/sm3gh34d covers the Besu block bug</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18zt205/daily_general_discussion_january_6_2024/kgo0kfi/)
+
+This wasn't how I intended to spend my Saturday, but it looks like the sub already is aware of the mainnet block that halted besu this morning:  [https://etherscan.io/txsInternal?block=18947893](https://etherscan.io/txsInternal?block=18947893)  
+
+
+What you might not know yet is there is a hotfix release out that prevents this from occurring in the future for similarly crafted blocks.  If you are running besu on mainnet, even if you have already addressed the problem and are caught back up to head, you should upgrade to this hotfix release:  
+
+
+<https://github.com/hyperledger/besu/releases/tag/23.10.3-hotfix>
+
+---
+
+[Besu post-mortem](https://wiki.hyperledger.org/pages/viewpage.action?pageId=117440824)
+
+</details>
+<details>
+<summary>u/masterRoshi9 discusses one of the original reasons we're drawn to crypto</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/18zt205/daily_general_discussion_january_6_2024/kglzhbv/)
+
+Please excuse this minor pause in bullishness and meme sentiment while I vent a bit and reflect on larger problems. 
+
+I often think about how inefficient, backwards, corrupt, and self serving politicians of the world  governments are; particularly my own. Without getting specific and political, there are so many obvious problems  that politicians refuse to address, or can’t, due to clearly perverse incentives that drive them and make them worse over time. It’s one of the things that’s drawn me most to crypto. The guys at Bankless and others in crypto have stated many times that crypto is speed running the lessons learned from traditional finance. More importantly I think it’s speed running lessons around incentive alignment. When everything is financial, the incentive problems and consequences of system design become much more explicit and quantifiable than they are implied like many of the problems in meat space. Governance issues have been rampant in crypto, don’t get me wrong, but experimentation on a smaller scale creates lessons learned and informative feedback that could ideally be applied to broader government systems. 
+
+Unfortunately I often times think that we’re too far gone, or late in this game of informed discovery to be able to actionable apply these learnings to larger legacy systems. I’m not even sure we’ve discovered ways to solve a lot of the problems in crypto let alone the broader physical world. Internally crypto can feel fast moving and iterative at a blazing pace, but it also feels slow to me in aspects like these. I feel that if crypto came about 50 years earlier, we might have had a better shot at rethinking the way we govern as a society; that we’d have been able to take more preventative measures or seen problems coming much earlier as a result. 
+
+If there is a hope here, I’m confident it will come from younger generations and the lessons they learn from this industry. Everything is driven by incentives, and game theory should be considered everywhere when governing. Here’s hoping the US and other governments nurture innovation in this space going forward. Despite the scams and problems we have here, it is still the breeding ground for the ideas and minds that have the chance to turn things around. It is for this reason, among many others, that choosing pro-crypto candidates is a much higher stakes battle than I think many people realize, even in our industry. It is one of the most important aspects of candidates I will consider voting for moving forward. Long live crypto. Long live Ethereum. Long live innovation. Long live experimentation.
+
+</details>
+<details>
+<summary>u/timmerwb shares some thoughts on staking after the Besu incident</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/190lbbx/daily_general_discussion_january_7_2024/kgqcffb/)
+
+A few further thoughts and opinions on the Besu failure yesterday. I think there is nuance in this situation that got overlooked. But before I begin, let's get some facts straight - and these are well known and not up for debate:
+
+*1) No client should have a super majority.*
+
+*2) The current, and wholly inappropriate situation with Geth is based on i) it's code maturity and empirical reliability; ii) a completely unacceptable level of laziness, wrecklessness and short-term greed by large staking entities. (Which is sadly ironic because at least one of those is tied very closely to the overarching security mechanism of PoS - another example of how we cannot simply "code in" all required incentives.)*
+
+However, for some stakers, namely solo-stakers (and possibly other smaller, more responsible staking entites), the situation is much less clear. I think it's fair to say that Geth is indeed a much(?) supererior client to the competition. Should, therefore, a solo-staker take on a more philanthropic role by worrying more about network health by say, running Besu - a less mature client - than their own immediate needs? In terms of measurable risk *for them* (as far as we can calculate) running Besu would seem to be a disadvantage. E.g. the probability of an event like yesterday for Besu (or NM?) is clearly higher, and their ability to recover from it expediently compared to a larger provider, probably much lower (hence larger losses in time, stress and income). Moreover, as stated at the outset, the systemic risk from the Geth super majority is *not* driven by solo stakers, and so solo stakers are not meaningfully mitigating that risk by avoiding Geth. (This is like the problem with global warming - we should all try our best, but in reality at this stage, due to the tragedy of the commons, the biggest, and possibly *only meaingful* improvements can be made by societal policy shift in law).
+
+So, solo-stakers in particular have a question to answer. Should they willingly chose a client that is measureably poorer and riskier *for them*, basically in support of the "greater good"? Or do they stick with Geth, which is likely to be more reliable for them, and basically push the job of reducing the Geth majority onto the larger stakers (who are clearly much more culpable)? Ultimately, this is something of a subjective choice that boils down to estimates of risk, reliability and person attitude. Yes, Geth *could* fail in a catastrophic way, but Besu *did* fail in a catastrophic way. The (empirical) probabilities speak for themselves. Sadly, there is even a worse outcome here, in that (the short sighted) large stakers will now be extremely glad they were running Geth, and not Besu, because imagine having thouands of validators going down on a weekend, with no clear fix for ~24 hours. That would have been extremely costly. Bullet dodged.
+
+In summary, if all clients were demonstrably equally reliabile, the choice of client and question of majority would be more straightforward. But they are not equal at the present time and pragmatism will prevail.
+
+---
+
+[Besu post-mortem](https://wiki.hyperledger.org/pages/viewpage.action?pageId=117440824)
+
+</details>
+<details>
+<summary>In light of the Besu bug, u/Spacesider found a bug in Lighthouse too!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/191e4wm/daily_general_discussion_january_8_2024/kgvtle2/)
+
+Due to the recent Besu issue, I found a bug in the Lighthouse VC.
+
+If you are interested, the full details can be found here > <https://github.com/sigp/lighthouse/issues/5044>
+
+</details>
+<details>
+<summary>u/cryptOwOcurrency share some wallet security tips</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/193195q/daily_general_discussion_january_10_2024/kha9kp1/)
+
+As we enter the early stages of the next bull market, please remember to keep your crypto wallet secure. While I can't get into the specific schemes I use to keep mine secure, here are some general guidelines I follow that have worked for me since I created my first crypto wallet in the early 2010s.
+
+* Always prefer open-source over closed-source. Never trust closed-source software with your main stack. Only use the most popular, well-vetted open source software.
+
+* Strike a balance between safety and recoverability (make your keys safe enough that they don't get stolen, but not so "safe" they you lose the only copy of them).
+
+* Have no single point of failure, wherever possible. Split your assets across addresses. Split your key across physical locations. But it's gotta be more sophisticated than just putting 12 words in one place and 12 words in another, because afaik 12 words can be bruteforced. Wish I could be more specific about this. Some wallets support Shamir, which can be a good way to do this. Gnosis Safe is less flexible but perhaps the only smart contract out there to be trusted with someone's main stack.
+
+* Do not use the same PC user account for crypto that you use for your daily tasks. Ideally, have a crypto-only "online" computer that runs something other than Windows. Maintain a minimal software footprint on it. Log into it periodically to keep the OS up to date.
+
+* Also keep a crypto-only "offline" computing device that never touches the internet. If it's a PC, it needs to be running a very mainstream very publicly-audited version of Linux like ubuntu, fedora, debian, etc. A hardware wallet counts as long as the design is open and the firmware is open-source, but it has some trade-offs you'll have to weigh for yourself.
+
+* Do everything (concerning your main stack) in multiple batches. Everything. Even the most simple transfers from one address to another that seem like they would be impossible to fuck up, because trust me it's possible to fuck up - if not by your own accord, then by some tricky dicky scheme whereby a hacker replaces addresses in your computer's memory or uses some other silly scheme to bamboozle you. It'll be more expensive to batch things as far as transaction fees, but it's not possible for a single huge fuckup to ruin you. Nobody is perfect, but managing crypto demands perfection. If you send your entire stack off to some rando etherscan spoofer or directly to the token contract itself, there's no getting it back.
+
+* When you're confirming an address, check it from two different devices running different OSes. One device can be compromised; two heterogeneous devices are unlikely to be compromised by the same hacker at the same time.
+
+* If your wallet looks a little different than it usually does, panic. You'll need to learn breathing exercises to panic properly without harming yourself too much. But the 1% chance you catch something malicious is worth the 99% of the time where a wallet software update changed things around a bit.
+
+* If your seed phrase has ever been typed into any device that physically has a wifi chip in it, your keys are compromised. Generate a new seed and transfer things.
+
+* Corollary: If you did something "clever" like write your seed phrase into a poem, it's still compromised. We're in the AI age now, so you have to protect your seed not only from malicious actors but from their smart AI bot armies who you have to assume will be combing through that poetry you wrote in 10th grade that's in that dropbox account you forgot about, trying random combinations of words in hopes that it derives an active private key.
+
+* If you have ever said your seed phrase out loud in earshot of a device that has a microphone and a wifi chip (cell phone, non-airgapped pc, smart tv...), your keys are compromised. Generate a new seed and transfer things.
+
+* If your seed phrase has ever been in view of any camera on any device, your keys are compromised. Generate a new seed and transfer things.
+
+* If your seed phrase ever looks at you a little cockeyed like he wants treats, but you already gave him his treats today, he's compromised and sadly you need to put him down.
+
+* If you do not know the specific method by which entropy was collected to generate your keys, your keys are compromised. The gold standard is to use physical dice to generate your seed phrase, and make sure you roll 'em around in your hands a lot. Bitcoin OGs remember Diceware.
+
+* If your ETH is wrapped in some way or another, you don't own ETH, you own an IOU for ETH. You are owed by a company and/or a contract. Companies go bankrupt, contracts get hacked. If you must hold IOUs, spread them out, but beware correlation risks that may be hiding themselves (ftx/celsius/blockfi/voyager/genesis/3ac is a great example of a hidden correlation risk).
+
+* You need to learn the basics of cryptography. Creating and managing keys without knowing cryptography basics is like trying to drive a car without knowing the rules of the road.
+
+* You need to learn the basics of computer security. Learn what makes hacking attempts successful. Learn what CTF is, and learn about the ways hackers and social engineers typically gain access to systems. Imagine you are a hacker with full pwned access to your own main daily driver computer, and imagine how you would try to steal your crypto.
+
+* Keep yourself up all night worrying about your wallet security. If you wanted to have a peaceful low-stress life, you should have gotten a government 9-5 instead of getting into crypto. If you really need some sleep, buy some melatonin and a weighted blanket. Don't fuck with Ambien - the government puts chips in the pills that program you to go get your seed phrase in the middle of the night and text it to the cia.
+
+* Don't fuck with Ledger.
+
+* Don't fuck with Binance.
+
+* If you are a regulatory agency, use 2-factor auth on your fucking twitter account.
+
+My general paranoia has saved me several times since I started investing in crypto in the early 2010s. Remember, they ARE trying to get your keys. Always. You need to be perfect every time to win, they only need you to fuck up a single time to win, so the game is tilted in their favor. They will never stop, so you have to never stop defending.
+
+
+</details>
+<details>
+<summary>u/skythe4 breaks the biggest news of the year only to moments later, bring the news which makes real life seem like a parody of itself</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1927osy/daily_general_discussion_january_9_2024/kh3yvyk/)
+
+> Today the SEC grants approval for #Bitcoin ETFs for listing on all registered national securities exchanges. 
+> 
+> The approved Bitcoin ETFs will be subject to ongoing surveillance and compliance measures to ensure continued investor protection.
+
+<https://twitter.com/SECGov/status/1744829327294837236>
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1927osy/daily_general_discussion_january_9_2024/kh41pbd/)
+
+> The @SECGov twitter account was compromised, and an unauthorized tweet was posted. The SEC has not approved the listing and trading of spot bitcoin exchange-traded products.
+
+<https://twitter.com/GaryGensler/status/1744833049064288387>
+
+You can't make this stuff up.
+
+</details>
+<details>
+<summary>In a short and sweet doot, u/coxenbawls explains both the big news and what the market seemed to make of it</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/193195q/daily_general_discussion_january_10_2024/kh9nqb3/)
+
+Spot BTC ETF approved. This is good for ETH.
+
+</details>
+</details>
+
+
+
+
+
+
+
 
 
 
