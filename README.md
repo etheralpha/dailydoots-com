@@ -1259,6 +1259,13 @@ You can't make this stuff up.
 Spot BTC ETF approved. This is good for ETH.
 
 </details>
+<details>
+<summary>u/KuDeTa expresses his gratitude for the Optimism rPGF Grant and support Aestus received</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/193ukvu/comment/khejatj/)
+
+As you may/not know, [u/austonst](https://reddit.com/u/austonst] and I run the Aestus relay. To be frank, it's been a hard hard slog in terms of funding and we've paid for the whole thing ourselves out of pocket this last year +. Well. A few months ago [u/benido2030](https://reddit.com/u/benido2030) raised this in here and practically pushed me into working through the OP rPGF round 3 process. I had assumed it wasn't worth it. Today we found out that we've just been granted \~100k OP tokens (🤯). That is an ungodly amount of money for our little project. I don't even know how to begin to say thank you, but none the less thank you, thank you and thank you to him, u/superphiz and everyone else that voted and pushed this through. 🤝
+
+</details>
 </details>
 
 
@@ -1273,7 +1280,7 @@ Spot BTC ETF approved. This is good for ETH.
 <details>
   <summary>Week #50: January 5, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/166594)
+[Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://poap.gallery/event/166594)
 
 <details>
 <summary>The morning trinity</summary>
