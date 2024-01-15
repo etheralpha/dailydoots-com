@@ -15943,6 +15943,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | stevieraykatz         | [Coinlander](https://coinlander.one/) - An interactive experiment in the design and development of community gaming primitives, including the Seeker characters and The One Coin artifact
 .  | superphiz             | Ethereum Beacon Chain community health consultant
 .  | swagtimusprime        | Developer Relations at [Scroll](https://scroll.io)
+.  | takegreenpill         | [OBOL](https://obol.tech/) team member
 .  | the-a-word            | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | therocketman_eth      | Offchain Labs (Arbitrum) Integration Engineer
 .  | toethmooonguy         | "To ETH Mooon!!! ┗(°0°)┛"
@@ -15993,6 +15994,7 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 .  | minimalgravitas       | Optimism             | [view details and delegate](https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | pseudotheos           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/pseudotheos.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | ytocin                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | atleft                | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/515ad8e2-8b42-440c-b0ea-0f09a46557a6)
 .  | dcinvestor            | Uniswap              | [view details and delegate](https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3)
 
 
