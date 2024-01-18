@@ -1001,6 +1001,8 @@ Rank | Username   | Daily Doots
 
 # Weekly Doots
 
+<callout>Recordings: &nbsp;&nbsp;[Libsyn](https://evmavericks.libsyn.com/) &nbsp;&nbsp;|&nbsp;&nbsp; [Pods](https://pods.media/evmavericks) &nbsp;&nbsp;|&nbsp;&nbsp; [Youtube]([#delegates](https://www.youtube.com/@evmavericks/streams)) &nbsp;&nbsp;|&nbsp;&nbsp; [Spotify](https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I)</callout>
+
 
 
 <details>
