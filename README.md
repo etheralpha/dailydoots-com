@@ -1010,7 +1010,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #52: January 19, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/167076)
+[Livestream Recording](https://www.youtube.com/watch?v=B9_AloQt26Q) | [POAP](https://poap.gallery/event/167076)
 
 *Special guest Mike Silagadze joins us from [Ether.Fi](https://ether.fi), a native liquid restaking protocol.*
 
