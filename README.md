@@ -1014,7 +1014,7 @@ Rank | Username   | Daily Doots
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/167341)
 
-*Special guest Kevin Owocki joins us from Gitcoin and Green Pill (https://greenpill.network/), a network-society that exports regenerative digital infrastructure to the world.*
+*Special guest Kevin Owocki joins us from [Gitcoin](https://gitcoin.co/) and [Green Pill](https://greenpill.network/), a network-society that exports regenerative digital infrastructure to the world.*
 
 **Announcements**
 
