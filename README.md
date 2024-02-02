@@ -11,60 +11,60 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>979 Dooters - Last Updated January 26, 2024</small>
+<small>980 Dooters - Last Updated February 2, 2024</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
-. | [superphiz](https://reddit.com/u/superphiz) | 157
-. | [logristhebard](https://reddit.com/u/logristhebard) | 103
-. | [benido2030](https://reddit.com/u/benido2030) | 97
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 90
+. | [superphiz](https://reddit.com/u/superphiz) | 161
+. | [logristhebard](https://reddit.com/u/logristhebard) | 104
+. | [benido2030](https://reddit.com/u/benido2030) | 98
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 91
 . | [tricky_troll](https://reddit.com/u/tricky_troll) | 80
 . | [696_eth](https://reddit.com/u/696_eth) | 76
 . | [set1less](https://reddit.com/u/set1less) | 73
 . | [hanniabu](https://reddit.com/u/hanniabu) | 66
-. | [syentist](https://reddit.com/u/syentist) | 64
+. | [syentist](https://reddit.com/u/syentist) | 65
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 59
-. | [stablecoin](https://reddit.com/u/stablecoin) | 58
-. | [nixorokish](https://reddit.com/u/nixorokish) | 56
-. | [haurog](https://reddit.com/u/haurog) | 53
+. | [stablecoin](https://reddit.com/u/stablecoin) | 59
+. | [nixorokish](https://reddit.com/u/nixorokish) | 57
+. | [haurog](https://reddit.com/u/haurog) | 55
 . | [etheraider](https://reddit.com/u/etheraider) | 48
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 47
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 47
+. | [alexiskef](https://reddit.com/u/alexiskef) | 43
+. | [interweaver](https://reddit.com/u/interweaver) | 43
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
-. | [the-a-word](https://reddit.com/u/the-a-word) | 41
+. | [the-a-word](https://reddit.com/u/the-a-word) | 42
 . | [phimarhal](https://reddit.com/u/phimarhal) | 41
 . | [austonst](https://reddit.com/u/austonst) | 41
-. | [alexiskef](https://reddit.com/u/alexiskef) | 40
+. | [pa7x1](https://reddit.com/u/pa7x1) | 40
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 39
-. | [pa7x1](https://reddit.com/u/pa7x1) | 39
-. | [spacesider](https://reddit.com/u/spacesider) | 37
-. | [interweaver](https://reddit.com/u/interweaver) | 37
-. | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 36
+. | [spacesider](https://reddit.com/u/spacesider) | 38
+. | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 38
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 35
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 34
-. | [bagogel12](https://reddit.com/u/bagogel12) | 33
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 32
-. | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 31
+. | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 32
+. | [mrvodnik](https://reddit.com/u/mrvodnik) | 30
+. | [eggill7227](https://reddit.com/u/eggill7227) | 30
 . | [15kisfud](https://reddit.com/u/15kisfud) | 30
 . | [revanchist1](https://reddit.com/u/revanchist1) | 29
-. | [mrvodnik](https://reddit.com/u/mrvodnik) | 29
 . | [liberosist](https://reddit.com/u/liberosist) | 29
-. | [eggill7227](https://reddit.com/u/eggill7227) | 29
+. | [seamonkey82](https://reddit.com/u/seamonkey82) | 28
 . | [ender985](https://reddit.com/u/ender985) | 27
-. | [seamonkey82](https://reddit.com/u/seamonkey82) | 26
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
+. | [papazio](https://reddit.com/u/papazio) | 26
 . | [domotheus](https://reddit.com/u/domotheus) | 26
-. | [papazio](https://reddit.com/u/papazio) | 25
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 24
+. | [bagogel12](https://reddit.com/u/bagogel12) | 24
 . | [_weboftrust](https://reddit.com/u/_weboftrust) | 24
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 23
+. | [ro-_-b](https://reddit.com/u/ro-_-b) | 23
 . | [needlerop](https://reddit.com/u/needlerop) | 23
 . | [maswasnos](https://reddit.com/u/maswasnos) | 23
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 23
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
-. | [ro-_-b](https://reddit.com/u/ro-_-b) | 22
 . | [hipaces](https://reddit.com/u/hipaces) | 22
 . | [decibels42](https://reddit.com/u/decibels42) | 22
 . | [wolfparking](https://reddit.com/u/wolfparking) | 21
@@ -73,10 +73,10 @@ Rank | Username   | Daily Doots
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 20
 . | [moschus11](https://reddit.com/u/moschus11) | 20
 . | [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
+. | [ber10](https://reddit.com/u/ber10) | 20
 . | [aaj094](https://reddit.com/u/aaj094) | 20
 . | [savage_x](https://reddit.com/u/savage_x) | 19
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
-. | [ber10](https://reddit.com/u/ber10) | 19
 . | [vedran_](https://reddit.com/u/vedran_) | 18
 . | [ethacct](https://reddit.com/u/ethacct) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
@@ -87,6 +87,7 @@ Rank | Username   | Daily Doots
 . | [abcoathup](https://reddit.com/u/abcoathup) | 16
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
 . | [vvpan](https://reddit.com/u/vvpan) | 16
+. | [thehansgruber](https://reddit.com/u/thehansgruber) | 16
 . | [skythe4](https://reddit.com/u/skythe4) | 16
 . | [masterroshi9](https://reddit.com/u/masterroshi9) | 16
 . | [kudeta](https://reddit.com/u/kudeta) | 16
@@ -94,9 +95,9 @@ Rank | Username   | Daily Doots
 . | [hblask](https://reddit.com/u/hblask) | 15
 . | [nikola_j](https://reddit.com/u/nikola_j) | 15
 . | [thehighflyer](https://reddit.com/u/thehighflyer) | 15
-. | [thehansgruber](https://reddit.com/u/thehansgruber) | 15
 . | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 15
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 15
+. | [asdafari12](https://reddit.com/u/asdafari12) | 15
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 14
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 14
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 14
@@ -104,19 +105,19 @@ Rank | Username   | Daily Doots
 . | [sonotyou](https://reddit.com/u/sonotyou) | 14
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 14
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 14
-. | [asdafari12](https://reddit.com/u/asdafari12) | 14
+. | [1l0o](https://reddit.com/u/1l0o) | 14
 . | [offmyporch](https://reddit.com/u/offmyporch) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
+. | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 13
 . | [etherbie](https://reddit.com/u/etherbie) | 13
 . | [dashby1](https://reddit.com/u/dashby1) | 13
-. | [1l0o](https://reddit.com/u/1l0o) | 13
 . | [mrs_willy](https://reddit.com/u/mrs_willy) | 12
 . | [unitedterror](https://reddit.com/u/unitedterror) | 12
 . | [timmerwb](https://reddit.com/u/timmerwb) | 12
 . | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
-. | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 12
+. | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 12
 . | [barleythecat](https://reddit.com/u/barleythecat) | 12
 . | [2peg2city](https://reddit.com/u/2peg2city) | 12
 . | [cutsnek](https://reddit.com/u/cutsnek) | 11
@@ -126,10 +127,10 @@ Rank | Username   | Daily Doots
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 11
 . | [pegcity](https://reddit.com/u/pegcity) | 11
 . | [keynya](https://reddit.com/u/keynya) | 11
-. | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 11
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
 . | [bigglybillbrasky](https://reddit.com/u/bigglybillbrasky) | 11
 . | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 10
+. | [proof-of-lake](https://reddit.com/u/proof-of-lake) | 10
 . | [mrcatface13](https://reddit.com/u/mrcatface13) | 10
 . | [luukiemans](https://reddit.com/u/luukiemans) | 10
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 10
@@ -142,7 +143,6 @@ Rank | Username   | Daily Doots
 . | [ev1501](https://reddit.com/u/ev1501) | 9
 . | [pbrody](https://reddit.com/u/pbrody) | 9
 . | [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 9
-. | [proof-of-lake](https://reddit.com/u/proof-of-lake) | 9
 . | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [magnushansson](https://reddit.com/u/magnushansson) | 9
@@ -223,6 +223,7 @@ Rank | Username   | Daily Doots
 . | [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
 . | [vvander](https://reddit.com/u/vvander) | 5
 . | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 5
+. | [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 5
 . | [themoondancekid](https://reddit.com/u/themoondancekid) | 5
 . | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
 . | [the_swingman](https://reddit.com/u/the_swingman) | 5
@@ -253,6 +254,7 @@ Rank | Username   | Daily Doots
 . | [fatlever2](https://reddit.com/u/fatlever2) | 5
 . | [ethdefiance](https://reddit.com/u/ethdefiance) | 5
 . | [ecguy1011](https://reddit.com/u/ecguy1011) | 5
+. | [doomfuzzslayer](https://reddit.com/u/doomfuzzslayer) | 5
 . | [danksharting](https://reddit.com/u/danksharting) | 5
 . | [curious-b](https://reddit.com/u/curious-b) | 5
 . | [breeezyyyy](https://reddit.com/u/breeezyyyy) | 5
@@ -290,15 +292,16 @@ Rank | Username   | Daily Doots
 . | [hocilef](https://reddit.com/u/hocilef) | 4
 . | [gethwethreth](https://reddit.com/u/gethwethreth) | 4
 . | [friedchickentrailer](https://reddit.com/u/friedchickentrailer) | 4
+. | [fiah84](https://reddit.com/u/fiah84) | 4
 . | [epiphany153](https://reddit.com/u/epiphany153) | 4
 . | [epic_trader](https://reddit.com/u/epic_trader) | 4
 . | [el-coco-no](https://reddit.com/u/el-coco-no) | 4
-. | [doomfuzzslayer](https://reddit.com/u/doomfuzzslayer) | 4
 . | [djlywtf](https://reddit.com/u/djlywtf) | 4
 . | [dinny14](https://reddit.com/u/dinny14) | 4
 . | [degenkolotoure](https://reddit.com/u/degenkolotoure) | 4
 . | [cocleric](https://reddit.com/u/cocleric) | 4
 . | [bebopnosering](https://reddit.com/u/bebopnosering) | 4
+. | [baggygravy](https://reddit.com/u/baggygravy) | 4
 . | [anguier](https://reddit.com/u/anguier) | 4
 . | [anderspatriksvensson](https://reddit.com/u/anderspatriksvensson) | 4
 . | [ambidextrous12](https://reddit.com/u/ambidextrous12) | 4
@@ -315,7 +318,6 @@ Rank | Username   | Daily Doots
 . | [midnightonmars](https://reddit.com/u/midnightonmars) | 3
 . | [wizad23](https://reddit.com/u/wizad23) | 3
 . | [username_error](https://reddit.com/u/username_error) | 3
-. | [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 3
 . | [tinfoilheadphones](https://reddit.com/u/tinfoilheadphones) | 3
 . | [syzygy00778](https://reddit.com/u/syzygy00778) | 3
 . | [survivaleast](https://reddit.com/u/survivaleast) | 3
@@ -350,7 +352,6 @@ Rank | Username   | Daily Doots
 . | [gumbeat007](https://reddit.com/u/gumbeat007) | 3
 . | [gravy_vampire](https://reddit.com/u/gravy_vampire) | 3
 . | [general_illus](https://reddit.com/u/general_illus) | 3
-. | [fiah84](https://reddit.com/u/fiah84) | 3
 . | [fheredin](https://reddit.com/u/fheredin) | 3
 . | [ethnocent](https://reddit.com/u/ethnocent) | 3
 . | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 3
@@ -370,6 +371,7 @@ Rank | Username   | Daily Doots
 . | [bbqcaramelbrulee](https://reddit.com/u/bbqcaramelbrulee) | 3
 . | [badassmotherfker](https://reddit.com/u/badassmotherfker) | 3
 . | [auseve](https://reddit.com/u/auseve) | 3
+. | [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 3
 . | [0xboba](https://reddit.com/u/0xboba) | 3
 . | [brambrameth](https://reddit.com/u/brambrameth) | 2
 . | [moderatelytortoise](https://reddit.com/u/moderatelytortoise) | 2
@@ -403,6 +405,7 @@ Rank | Username   | Daily Doots
 . | [rsblk](https://reddit.com/u/rsblk) | 2
 . | [romborg](https://reddit.com/u/romborg) | 2
 . | [rockjones](https://reddit.com/u/rockjones) | 2
+. | [robohack](https://reddit.com/u/robohack) | 2
 . | [rhader](https://reddit.com/u/rhader) | 2
 . | [reuptaken](https://reddit.com/u/reuptaken) | 2
 . | [reststoprumble](https://reddit.com/u/reststoprumble) | 2
@@ -470,6 +473,7 @@ Rank | Username   | Daily Doots
 . | [free__will](https://reddit.com/u/free__will) | 2
 . | [fernadopoo](https://reddit.com/u/fernadopoo) | 2
 . | [experiencegoblintown](https://reddit.com/u/experiencegoblintown) | 2
+. | [ethsomesense](https://reddit.com/u/ethsomesense) | 2
 . | [etherenthousiast10k](https://reddit.com/u/etherenthousiast10k) | 2
 . | [ethdreamer](https://reddit.com/u/ethdreamer) | 2
 . | [educatemybrain](https://reddit.com/u/educatemybrain) | 2
@@ -519,7 +523,6 @@ Rank | Username   | Daily Doots
 . | [believeinapathy](https://reddit.com/u/believeinapathy) | 2
 . | [batmanrockss](https://reddit.com/u/batmanrockss) | 2
 . | [bakindhuman](https://reddit.com/u/bakindhuman) | 2
-. | [baggygravy](https://reddit.com/u/baggygravy) | 2
 . | [ayreuan](https://reddit.com/u/ayreuan) | 2
 . | [ausgear1](https://reddit.com/u/ausgear1) | 2
 . | [aur3l1us](https://reddit.com/u/aur3l1us) | 2
@@ -529,7 +532,6 @@ Rank | Username   | Daily Doots
 . | [angelbattles](https://reddit.com/u/angelbattles) | 2
 . | [allmightlove](https://reddit.com/u/allmightlove) | 2
 . | [allinat40](https://reddit.com/u/allinat40) | 2
-. | [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 2
 . | [_anedi](https://reddit.com/u/_anedi) | 2
 . | [0xtimer](https://reddit.com/u/0xtimer) | 2
 . | [0xdepositcontract](https://reddit.com/u/0xdepositcontract) | 2
@@ -656,7 +658,6 @@ Rank | Username   | Daily Doots
 . | [santamansanta](https://reddit.com/u/santamansanta) | 1
 . | [samus3015](https://reddit.com/u/samus3015) | 1
 . | [samuelshix](https://reddit.com/u/samuelshix) | 1
-. | [robohack](https://reddit.com/u/robohack) | 1
 . | [roberto250b](https://reddit.com/u/roberto250b) | 1
 . | [robertloblaw2](https://reddit.com/u/robertloblaw2) | 1
 . | [rinmusya](https://reddit.com/u/rinmusya) | 1
@@ -808,6 +809,7 @@ Rank | Username   | Daily Doots
 . | [hawkbit](https://reddit.com/u/hawkbit) | 1
 . | [hawaii_fact](https://reddit.com/u/hawaii_fact) | 1
 . | [halzen627](https://reddit.com/u/halzen627) | 1
+. | [hairyguch](https://reddit.com/u/hairyguch) | 1
 . | [haidren](https://reddit.com/u/haidren) | 1
 . | [gwenvador](https://reddit.com/u/gwenvador) | 1
 . | [guyfawked](https://reddit.com/u/guyfawked) | 1
@@ -847,7 +849,6 @@ Rank | Username   | Daily Doots
 . | [evilphiz](https://reddit.com/u/evilphiz) | 1
 . | [eviljordan](https://reddit.com/u/eviljordan) | 1
 . | [eththermadness](https://reddit.com/u/eththermadness) | 1
-. | [ethsomesense](https://reddit.com/u/ethsomesense) | 1
 . | [ethrocketeer](https://reddit.com/u/ethrocketeer) | 1
 . | [ethrevolution](https://reddit.com/u/ethrevolution) | 1
 . | [ethordie](https://reddit.com/u/ethordie) | 1
@@ -1010,9 +1011,333 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #54: February 2, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/167651)
+
+*Special guest Lucas from [PODS](https://pods.media/), a new way to publish, discover, and own your favorite podcasts.*
+
+**Announcements**
+
+- [Vote on this poll](https://reddit.com/r/ethfinance/comments/1agzn4m/an_updated_subreddit_policy_on_referral_links/) for an updated subreddit policy on referral links.
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1agwsik/comment/kojxh9g/)
+
+[u/Tilligan](https://reddit.com/u/Tilligan)
+
+> Ethereum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $2307.80
+
+[u/Equal-Jellyfish1](https://reddit.com/u/Equal-Jellyfish1)
+
+> 0.0536
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ado855/comment/kk685pr/)
+
+*The hacker running,*
+
+*While the tables are turning,*
+
+*Ether is burning.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/SeaMonkey82</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/19f2ia2/daily_general_discussion_january_25_2024/kjlt7gp/)
+
+*Every day thousands of validators are forced to toil away in centralized server farms under the dangerous working conditions of using a supermajority execution layer client. For just 32 ETH, you can give a validator a home and keep their stake safe from harm. Please give today.*
+
+</details>
+<details>
+<summary>u/superphiz updates us on client diversity moves and the Ethfinanciers who are helping us to track the situation. And u/alexiskef chimes in with a positive reply after putting pressure on Consensys.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1abbg8a/daily_general_discussion_january_26_2024/kjn17qc/)
+
+[u/superphiz](https://reddit.com/u/superphiz):
+
+You should know that the tide toward client diversity is changing dramatically. I'd like to thank the folks who have supported this work and those who have provided great updates here and I'd 100% encourage you to continue engaging in that community service role.
+
+On January 22, 2024, Brian Armstrong from [Coinbase responded to DCInvestor](https://twitter.com/brian_armstrong/status/1749552489509392696) to say that he was [taking a look](https://checkout.poap.xyz/167170/crypto?step=1) at client diversity within Coinbase's staking operation and they'll report back in February. If they continue to suggest that other clients aren't mature enough, we'll wonder why Coinbase is [utilizing open source software without contributing back](https://twitter.com/superphiz/status/1750199002056769994) to the code base as would be expected.
+
+[AllNodes](https://twitter.com/Allnodes/status/1750519886286295117), [p2p.org](https://twitter.com/P2Pvalidator/status/1750550082934472885), and [Anker](https://twitter.com/Archer_MD_/status/1750892604584001975) announced switching to minority clients within the past 24 hours. This switch is a great illustration of how efficiently large operations CAN shift clients if they choose to. The value of these victories, and the contributions by their respective contributors cannot be overstated. Thank you, Allnodes, P2P.org and Anker.
+
+After an initially [tone deaf defense](https://twitter.com/cryptoQuoc/status/1749572714833027494), Stakefish seems to be [changing its tune](https://twitter.com/stakefish/status/1750216552979251490) a bit, but despite a reference to the responsibility of client diversity, there's little apparent commitment to make real changes, so lets watch this one closely.
+
+Lido operators represent the [largest group](https://www.rated.network/?network=mainnet&view=pool&timeWindow=1d&page=1&poolType=all) of validator operators, and [our data suggests](https://execution-diversity.info/) that they're still highly reliant on geth. /u/yorickdowne has been a great advocate for decentralization from within lido, as a node operator for reducing the supermajority client, but the push hasn't been very successful yet. I'm optimistic that at some point they'll act in their own best interest.
+
+Hanni Abu's [ClientDiversity.org](https://clientdiversity.org/) is our best view into client diversity, and the execution client data currently sourced by word of mouth. While I look forward to more and better data, I deeply appreciate and value this source.
+
+I'd like to send good vibes to everyone who is working on this front, groups like [EthStaker](https://ethstaker.cc), led by /u/nixorokish, [Jasper the Friendly Ghost](https://twitter.com/drjasper_eth), who is pouring his passion into this [and I sure af hope he's still thriving in med school], and [Anthony Sassano who, through The Daily Gwei](https://www.youtube.com/@TheDailyGwei), beats this drum CONTINUOUSLY, also /u/interweaver for reaching out to providers and educating about the risks of a majoriy client fault. And perhaps the biggest thanks to /u/hanniabu through [EtherAlpha](https://etheralpha.org/) who tirelessly develops data that enables all of us to see the threats ahead of us. Without his efforts we'd be flying blind toward a black hole.
+
+None of this even mentions the deep and detailed academic work and research going into client diversity. Thanks to /u/haurog for providing [insight into the academic and EIP efforts](https://reddit.com/r/ethfinance/comments/1abbg8a/daily_general_discussion_january_26_2024/kjmr7ds/).
+
+For my part, I'm continuing to go back to home stakers as the best future for the network. Giving lots of control of the network to third parties with little or nothing at stake is dangerous and undermines the goal of a decentralized network. If you have any way to stake from home, as a solo staker, Rocket Pool operator, DVT operator - whatever - I really encourage you to do that.
+
+I've started a [very [very] basic document](https://github.com/superphiz/topics/blob/master/execution_client_diversity.txt) to help us track these events, please feel free to hop in and help develop it as you see fit.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1abbg8a/daily_general_discussion_january_26_2024/kjnfpbo/)
+
+[u/alexiskef](https://reddit.com/u/alexiskef):
+
+😊 More good news on the client diversity front!
+
+About 4 days ago, both u/0xboba and [myself](https://reddit.com/r/ethfinance/comments/19cou8k/comment/kj262g4/?utm_source=share&utm_medium=web2x&context=3) (following the [news](https://reddit.com/r/ethfinance/comments/199j5zi/comment/kig0g1y/?utm_source=share&utm_medium=web2x&context=3) that 🦊/Consensys have began [offering](https://twitter.com/MetaMask/status/1747999337068531882?t=RoFikSJPwUiEelTRc1RZFw&s=19) their users the ability to stake through their "own" validators), were wondering if anyone knew which Execution (and Consensus) clients Consensys Metamask Staking are using..
+
+So, I contacted Consensys, who directed me to 🦊 support.. I asked the following:
+
+*"What are the client combinations (EL/CL) that my validators will be running? I understand from some (very) basic information the MM Staking web page provides, that you "operate diverse validator clients and distributed infrastructure hosted across multiple regions and cloud providers”, but in light of the recent software bugs in Besu and Nethermind, I need to know that my capital is not at risk by depending on a super-majority client like Geth"*
+
+They answered by just pointing me to some vague articles on their support page.. I pressed on, asking for details, and they just answered!
+
+*"As a company, Consensys is deeply committed to client diversity: we are developing an Execution Layer client (BESU) and a Consensus Layer client (Teku). Consensys Staking infrastructure uses an algorithm to distribute validators across multiple Execution and Consensus Layer clients. On the consensus layer, we run 2 clients for validator duties: Teku and Lighthouse. Our algorithm allocates new validators to Teku or Lighthouse to maintain a 50%-50% split between Teku and Lighthouse across the entire platform. On the execution layer, we currently run the majority of Geth.* ***Our top priority is to increase BESU's footprint: we aim to reach 50% of BESU in the coming weeks before the end of February.*** *After the Merge, Consensys Staking evaluated the use of BESU and provided feedback and support to improve performances, in order to optimise rewards for End Users. The BESU team worked tirelessly, releasing new features such as a fully flat state DB and other improvements that bring BESU much closer to Geth performances.* ***We started BESU rollout across our platform and will iteratively increase BESU's footprint to reach 50% of all validators we operate before the end of February 2024****. This progressive rollout aims to ensure no or limited performance degradation for our users. Beyond client diversity, Consensys Staking validators are distributed across 2 clouds (Azure, AWS) and 6 regions (2 in the US, 2 in Europe and 2 in Asia)"*
+
+😊
+
+</details>
+<details>
+<summary>u/nixorokish reviews the Keystone hardware wallet and u/alexiskef also chimes in with a review.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ac3zs6/daily_general_discussion_january_27_2024/kjui3k7/)
+
+[u/nixorokish](https://reddit.com/u/nixorokish):
+
+i tried out the keystone hardware wallet and wrote up some thoughts on it: https://twitter.com/nixorokish/status/1751319725274214825
+
+i had more criticisms than praise and feel pretty lukewarm on it    
+summary:
+
+- typo on the verification screen indicates a lack of attention to detail to me
+- couldn't get software update to work on web. could have tried the SD card method but then i would have had to go find my SD card converter thingy and i couldn't be bothered. So instead of using frame, which is what i would normally use, i just decided to try out Rabby
+- too much QR back and forth. probably mobile-wallet friendly but when i'm using a desktop software wallet, it is an absolute pain in the butt that all the keystone stuff is just QR codes. there's no way to scan a QR code with my computer when i'm trying to send some test money from my coinbase account
+- refresh rate feels janky. scrolling isn't easy on the eyes
+- the screen is easily scratched
+- there's not a clear point to start from on the screen. it basically defaults to a settings page, where you can add more wallets and chains. i wish there were a dashboard type of screen where you could see all existing wallets instead of having to click "Ethereum" first to see your Ethereum wallets. i guess maybe that's just me as an ETH maxi though, I'm likely not going to have any other chains to click on in the near future
+
+I doooo like
+
+- the constant haptic feedback (i think this is an optional setting)
+- the size of the screen and device itself
+- clear signing page
+- biometrics (fingerprint) to unlock and sign txs
+
+kinda wanna try the Hito next. what i REALLY want is for Grid+ to make a smaller, travel-friendly wallet
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ac3zs6/daily_general_discussion_january_27_2024/kjun14j/)
+
+[u/alexiskef](https://reddit.com/u/alexiskef):
+
+Huh! I actually saw your comment during Xmas (the one telling us you were going to try it..) and.. bought one right there and then!
+
+I was actually meaning to ask you about your initial impression! 
+
+Personally, I have been more than happy with it. To the point where it has replaced my Ledger play-money wallet!
+
+I too encountered an initial software upgrade problem, but everything worked at my second attempt.
+
+I see what you mean with the too-much-QR codes, however that IS how the device works.. And on that note, I'll add that both the scanning by the device (of the laptop QR) AND the blurred scanning by my laptop (of the wallet QRs), works flawlessly and super fast.. I find myself going through txs much faster than with my Ledger..
+
+I do agree with you on the "start page" point. It IS quite confusing. I too initially wanted an "anchor" type of screen. Possibly (as you said), with a clear list of my wallets.. 
+
+However, after reading more on the way the device works, I came across the article which explains the security provisions for multiple wallets.. The device loads each wallet with a different (seed phrase) AND pin. And you can only have one wallet active.. This is quite logical, as only YOU know the number of wallets (seed phrases) that are loaded (but hidden). This wouldn't be possible with an "anchor" screen.. And even if users did not care for all their wallets to be listed on that screen, they'd still need to input a (different) pin, each and every time they went back onto that screen and selected a wallet..
+
+My screen has not been scratched so far, but I do see your point here.. I am very (too..) careful while using and storing it.. I already ordered the pouch from their website..
+
+I do also like the screen size, the clear signing info, and most importantly the biometrics..
+
+One other thing I have to add, is that I got really really confused when trying to connect it to my (already Ledger-connected) Metamask extension.. As in super confused.. 
+
+So I downloaded Rabby (thank you u/superphiz), and started fresh.. Everything made sense right there..
+
+</details>
+<details>
+<summary>u/pa7x1 clarifies the fact that not all slashing is equal.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ac3zs6/daily_general_discussion_january_27_2024/kjsdhlc/)
+
+Most people confuse the different penalties the protocol may apply, because we tend to be a bit lazy with the penalties and call everything slashing. But there are different penalties. Slashing is just one of them and is almost impossible to trigger by a bug. And even when it happens due to operator mistake it slashes for 1 ETH. Just so you can see it directly, here is a very recent slashing.
+
+<https://beaconcha.in/validator/1061987>
+
+This validator lost 1 ETH (and a bit extra due to missed attestations after, but rounds to nothing) and is exited. But if there had been a mass slashing affecting many people, then the correlation penalty and inactivity leak kicks in, that's what can take you to total loss of capital.
+
+So as I was thinking about it these days I noticed that mixing all the penalties under slashing might be partly why we have supermajority issues. Nobody wants to lose money for something they don't have control of. Much like people tend to fear traveling in airplanes more because the situation is out of your control. So losing your stack because of a bug you have no responsibility of is avoided, and everyone flocks to the client that is perceived safest. 
+
+But this is the wrong mental model of the network penalties, the network is not gonna punish you for uncorrelated issues because it's designed to work under imperfect conditions. So this doesn't really bother the network. If you have a bug with a very minor client you may be offline and missing attestations a few hours, maybe a day. That's nothing, penalties for that are very small. You would need to be 60% of the year offline to lose money for inactivity. That's how small those penalties are, a few hours here and there is not even something you can feel. 
+
+But if it loses at least 1/3 of the validators then the protocol gets pissed, because it cannot fulfill its duties. And then punishes, and can punish very heavily. The penalties here are the inactivity leak and the correlation penalty. This is what you should fear. 
+
+So the **TL;DR** of the story is that you shouldn't fear client bugs per se. You should fear having the same bug as many people, that's what triggers severe penalties. And the good news is that you have total control over it. You have the choice to not suffer significant loss of capital. It's entirely on you. Choose minority clients.
+
+</details>
+<details>
+<summary>u/HairyGuch made a website outlining the latest Ethereum roadmap.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1acvrm9/daily_general_discussion_january_28_2024/kjzptbz/)
+
+Hey all. After Vitalik's roadmap update, I took a stab at putting all the relevant information I knew of in a single place. Some of the sections remain a WIP, but I'm mostly happy with the layout.
+
+<https://ethroadmap.com/>
+
+I'm looking for feedback (or even contributors) to help make it better. I have thick skin so feel free to let her rip.
+
+What's not here that you think would be useful? How would you like to see each section fleshed out more?
+
+</details>
+<details>
+<summary>u/interweaver shares Rocket School needing some final touches before launch and shares a sneak peek then shifts the focus onto the next hardfork</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ado855/daily_general_discussion_january_29_2024/kk5m62v/)
+
+Do you run Rocket Pool minipools? Or are you interested in learning how to do so? EVMavericks have spent the past year and a half building Rocket School, a video course about Rocket Pool, and we need your help reviewing or testing it! 
+
+See the main post in r/ethstaker here: <https://reddit.com/r/ethstaker/comments/1ae56h9/do_you_run_rocket_pool_minipools_or_are_you/>
+
+[Sneak Peak](https://reddit.com/r/ethfinance/comments/1ado855/daily_general_discussion_january_29_2024/kk6glh6/)
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1acvrm9/daily_general_discussion_january_28_2024/kjziq9f/)
+
+I would highly recommend anyone interested in Ethereum's upcoming upgrades read Christine Kim's notes on this week's ACDC call. They contain a fantastic review of some of the EIPs under consideration for the Prague/Electra small-feature hardfork currently being targeted from the end of 2024, prior to the Verkle fork coming after it. 
+
+Only a few relatively small (but important) EIPs have been tentatively scheduled for inclusion; some of the slightly larger ticket items are still under debate, mostly because client devs believe including them would push Prague/Electra into 2025.
+
+<https://www.galaxy.com/insights/research/ethereum-all-core-developers-consensus-call-126/>
+
+</details>
+<details>
+<summary>u/LogrisTheBard shines a light on the darker side of this space</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ado855/daily_general_discussion_january_29_2024/kk6dv9i/)
+
+I usually think of the minimum requirements for a PoW system as:
+
+1) There is basically infinite work to do. We can't have the consensus of the chain halt because it's waiting for work to arrive.
+
+2) Anyone can do work and submit a proof of that work for verification. If this was limited to known entities they could form a cabal that halt or at least slow the chain at will.
+
+3) Anyone can verify/validate how much work was done objectively (at least statistically). We have to be able to reach consensus on how much to reward each miner. Again, anonymity and open access prevents effective conspiracies.
+
+4) Validation takes far less time than it took to do the work. A system that relies on massive redundant computation for consensus will have to compensate too much per unit work done to be economically effective in the long run (looking at you Bitcoin).
+
+In my [previous post](https://reddit.com/r/ethfinance/comments/18luu66/daily_general_discussion_december_19_2023/ke2fw3x/?context=3) I talked about GenSyn which swapped out useless hashing for useful model training and the economic potential of such a solution. AI training just happens to be a task that meets all these criteria. There is basically infinite demand for AI training. I can think of a few other tasks such as protein folding (folding at home) or private key cracking but most computational tasks don't meet these criteria and even some of those that do wouldn't have much economic value. As such, while Gensyn seemed to have a neat idea, it didn't seem to be a paradigm shift so much as a cool footnote in history. *However*, what happens if we relax requirement 3 a bit and allow for subjective consensus?
+
+"But Logris, what the hell is subjective consensus?" Glad you asked! Basically it's group think for deciding on things with no objective answer. The most common example of this is every oracle you've ever known. Smart contracts can only refer to chain state. They can't see BTC price feeds on Kraken for example. All data that is off-chain is subjective from the perspective of the chain. Consensus on that data is decided subjectively by oracles. But not all oracles work alike. Chainlink is optimized for a small number of data streams with high liveness. UMA is optimized for the long-tail of queries with latency that can be measured in days.
+
+The interesting part about UMA in my opinion is they apply a commit-reveal scheme and use stake to keep people honest. All participants submit their data in an encrypted way before a deadline, then submit the decryption keys for that data after the deadline when no answer can be changed. The do something like average the result and people with answers too far from the mean lose some of their stake. The obvious Schelling point for a submission is *the truth*. Expecting the average to be anything but that requires a conspiracy of submitters to distort the data. Unless you believe such a conspiracy exists, the rational answer to submit is the truest one you can find. All you're really doing is measuring what *you believe* everyone else *will believe*, but in practice this works well when there is an *objective* answer rather than something either unknown or disputed. You could imagine how this could be used for anything: "Did Trump lose the 2020 election?". I expect you'd get a very different answer if you shoved that question through this system than if you polled the average US voter. Honestly, I expect you'd get a better one.
+
+So what would happen if you applied something like UMA consensus to a PoW blockchain? Addressing the points above in order.
+
+1) You would still need a stream of continuous work for miners to do. Either that work has to be submitted by validators or it needs to be self-evident to miners. Nothing here says the work has to actually be useful, just eventually verifiable.
+
+2) You still need permissionless mining but if the work isn't self-evident the network may need some type of sampling to throttle the participants which means you'll need miner stake for Sybil resistance.
+
+3) Validation would still be permissionless but validators would definitely need stake for subjective consensus to function.
+
+4) This is basically unchanged but I will note that nothing says payouts in a blockchain have to be immediate. It's totally fine if people receive their payout a couple days later. That said, you want consensus to happen continuously so you probably want each participant running a program rather than manually voting.
+
+What types of tasks could you now do that you previously couldn't have? In order of least to highest villainy:
+
+1) Miners provide DePIn resources like data availability; Validators validate using data sampling.
+
+2) Miners submit a predictive price of the S&P 500 for the next day; Validators grade it retroactively. If this ever gets competitive it will distort global markets as large players buy and sell to make their predictions come true.
+
+If you're willing to have the validators create synthetic work to fill in any gaps as well:
+
+3) Break web2 Sybil resistance. Full multi-model media. Solve Captchas for bots so they can break into accounts easier. Create fake videos and images for KYC for identity thieves. Create explicit photos of Taylor Swift and distribute them on a data availability layer. Create Fake news for Russia to destroy democracies. Entirely peer to peer and anonymously. Destroy society as we know it.
+
+"But Logris, who would create such an evil thing?" Glad you asked! Before you say this is far-fetched and sounds terrible, this is *in principle* the concept of [BitTensor](https://flagship.fyi/outposts/ai-crypto/exploring-bittensors-new-subnets-a-deep-dive/). So, uh, this is *happening today* and the payouts right now are about $25M a day. Just your heads up that we're heading into hell!
+
+I know you like the darker stuff /u/nixorokish so here you go!
+
+</details>
+<details>
+<summary>u/OkDragonfruit1929 introduces one of the up and coming execution clients, Silkworm</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1afauzq/daily_general_discussion_january_31_2024/kobrpgb/)
+
+Because of the recent push for client diversity, I've been researching a few of the alpha and pre-alpha EL clients in the works, and the Silkworm Ethereum client has me really excited. I'm always looking out for new and innovative projects that can push the technology forward.
+  
+Silkworm aims to be the fastest Ethereum client while still maintaining high code quality and readability. That combination really appeals to me - performance without sacrificing robustness or security. The fact that it builds on top of the well-regarded geth/Erigon codebase, but uses a completely different programming language gives me confidence that the developers know what they're doing.
+  
+I also like Silkworm's use of more modern C++ standards and the libmdbx database engine. Adopting C++20 features and leveraging a high-performance embedded database seems like a recipe for speed.
+  
+I'm eager to try it out once testnet builds are available. The documentation around building and testing Silkworm locally is already pretty good.
+   
+Overall, I think the team has laid out a compelling technical vision with Silkworm. If they can deliver on faster sync and execution times without reducing decentralization or security, it could be a big win for Ethereum. I'll be following the project closely as it develops.
+
+</details>
+<details>
+<summary>u/cheeky-gorilla shares Tim Beiko's recent proposal</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1afauzq/daily_general_discussion_january_31_2024/koak5vd/)
+
+Tim Beiko published the "Protocol Guild Pledge" yesterday, his quantitative framing for why projects built on Ethereum should donate 1% of their tokens to help onboard and retain Ethereum's unbelievably talented core protocol contributors:
+
+[https://tim.mirror.xyz/srVdVopOFhD\_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4\_ng](https://tim.mirror.xyz/srVdVopOFhD\_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4\_ng)
+
+For those who prefer to watch/listen, a great summary by Anthony Sassano: [https://www.youtube.com/watch?v=PlSaGTDtDXA&t=715s](https://www.youtube.com/watch?v=PlSaGTDtDXA&t=715s)
+
+Tim's announcement was front-run by Ether.fi, [announcing](https://twitter.com/ether_fi/status/1752376059394408458) they'd allocate 1% of their upcoming token to the Guild, and there are a few other (major) projects who are waiting in the wings to make the same announcement! 👀
+
+If you know of any projects that would like to host Protocol Guild for a community call or Spaces, please feel free to DM me here or [Twitter](https://twitter.com/cheekygorilla0x) or [Farcaster](https://warpcast.com/cheeky-gorilla)!
+
+</details>
+<details>
+<summary>u/proof-of-lake shares some thoughts on points</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1afauzq/daily_general_discussion_january_31_2024/kobkudg/)
+
+IMO, points have been developing a bad rep mostly for nothing.
+
+(Though I will say, there are two fairly different approaches, and one is worse than the other).
+
+What's good about points:
+
+-they let teams be explicit about the sorts of user behaviour they want (to drive adoption or growth)
+
+-they allow teams to evolve and develop those goals in a way that supports real-time testing and feedback (so for example, "how will user behaviour change if we tweak these variables and incentives?")
+
+-they give teams a chance to "claw back" or change these metrics quite rapidly if needed (something that is harder to do if a token incentive program is already live and running) 
+
+-they reduce Sybil airdrop farming because they generally relate to actual capital (x time) being put in, or at least, to behaviours that are deemed desirable and useful by the protocol team
+
+-they give users who *are* keen to pursue a token allocation some transparency, prior to token generation (meaning you can see where you sit overall relative to other users, and you know what behaviours will be "rewarded" and whether your time and effort is being well directed).
+
+For all these reasons, points seem to me to be (on balance) a logical development that has mostly been positive.
+
+*However* - what I will say is that it begins to cross the line once too much gamification is brought in. By this I mean instances in which teams make their points program too complex, too casino-like, and too demanding: countless fancy ranks and tiers, NFTs and badges, quests, pointless or tangential tasks (daily check-ins??) super aggressive referral programs, etc. 
+
+These are the ones that (to me) feel exploitative and annoying. I'd sadly put EtherFi in this category, even though I think the team is legit and the core product makes sense. Orbiter has trended this way too.
+
+Eigenlayer's points, on the other hand, look simple, justifiable and useful.
+
+So next time you're thinking about points, start by asking - what's the point? Sometimes there is one! ...but to any devs out there - don't make it a carnival game, please.
+
+</details>
+
+A Huge shoutout to [u/Twelvemeatballs](https://reddit.com/u/Twelvemeatballs) for preparing our substidoots 🍎 and maintaining the impeccable use of emoji shorthand ✏️ while Tricky_Troll was on the frontlines ⛺️
+
+Credit to [u/usesbinkvideo](https://reddit.com/u/usesbinkvideo) for the gem of a suggestion "Put that name on a McDonald's nametag for him"🍟
+
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #53: January 26, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/167341)
+[Livestream Recording](https://www.youtube.com/watch?v=vGmuMB_uB-g) | [POAP](https://poap.gallery/event/167341)
 
 *Special guest Kevin Owocki joins us from [Gitcoin](https://gitcoin.co/) and [Green Pill](https://greenpill.network/), a network-society that exports regenerative digital infrastructure to the world.*
 
