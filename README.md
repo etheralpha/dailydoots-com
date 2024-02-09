@@ -1245,13 +1245,6 @@ The post has 5 different suggestions for how to do this. Personally, I like mult
 </details>
 <details>
 <summary>u/Set1Less warns us about a bad experience with a certain smart wallet</summary>
-[View on Reddit →]()
-
-
-
-</details>
-<details>
-<summary></summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/1aj9j2n/daily_general_discussion_february_5_2024/kp23kga/)
 
 After many years in crypto. I seem to have run into the first instance of "losing" my wallet which is an account abstraction wallet from Particle Network(Ally.build created for the Linea tasks) created through signing in with email or twitter/discord, but Im unable to recover it for whatever reason. Apparently I may have used a different email or social account but I doubt that - I have tried logging back in with all my accounts and various combos, but it only loads a brand new wallet and not the ones which had the funds in it. The particle network discord is filled with people complaining about losing access to their wallet and the only reply they are getting is "read faq"
