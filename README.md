@@ -1013,7 +1013,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #54: February 2, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/167651)
+[Livestream Recording](https://www.youtube.com/watch?v=2wvhr12_Pz0) | [POAP](https://poap.gallery/event/167651)
 
 *Special guest Lucas from [PODS](https://pods.media/), a new way to publish, discover, and own your favorite podcasts.*
 
