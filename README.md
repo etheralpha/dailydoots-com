@@ -1026,7 +1026,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #56: February 16, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/168421)
+[Listen Live](https://www.youtube.com/watch?v=HD2frZKqxlE) | [POAP Checkout](https://poap.gallery/event/168421)
 
 **Announcements**
 
