@@ -1036,6 +1036,299 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #58: March 8, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/170624)
+
+**Announcements**
+
+- 🎉 We surpassed 1000 dooters! 🎉
+- 🧑‍🏫 [Rocket School](https://therocketschool.xyz/) has launched, an education series teaching you how to run a node from home, produced by JT Nichol, Doubtstars, Interweaver, juxtanotherposition, Eyezick, ShfRyn, and ZombieBP
+- Dencun upgrade is March 13th, make sure to update your validator clients. EthStaker is also [hosting an upgrade stream](https://www.youtube.com/watch?v=iL0cZRkyrV0) at 9am EST.
+- $4k imminent, ༼ つ ◕◕ ༽つ ETH TAKE OUR ENERGY ༼ つ ◕◕ ༽つ
+
+**Upcoming Guests**
+
+- March 22 - Adam Blumberg of [Interaxis](https://www.interaxis.io/)
+
+
+<details>
+<summary>The morning trinity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b9gurw/comment/ktvqiav/)
+
+[u/ETHdude8686](https://reddit.com/u/ETHdude8686)
+
+> Ethereum
+
+[u/HITMAN616](https://reddit.com/u/HITMAN616)
+
+> $3889
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 89,573 hodlers subscribed (+11)
+
+[u/domotheus](https://reddit.com/u/domotheus)
+
+> 0.058161
+
+[u/bagogel12](https://reddit.com/u/bagogel12)
+
+> 540 days since The Merge.
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b8n4nd/comment/kttzfty/)
+
+*There's none his kin,*
+
+*Tokens can't do the talkin,*
+
+*A dead man walkin.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/aur3l1us</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b2t640/comment/ksnux6k/)
+
+Now I lay me down to sleep, I pray that Wall St. will pump my ETH. But even if the ETFs should fail, I know and I trust in good ol’ retail.
+
+</details>
+<details>
+<summary>Choda time</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b8n4nd/comment/ktsf8nu/)
+
+[u/clamchoda](https://reddit.com/u/clamchoda):
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>u/El-Coco-No shares his knowledge about finalization</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b2t640/daily_general_discussion_february_29_2024/ksow2ll/)
+
+Finalization
+
+I’ve just been learning more about finalization and had a few ah-ha moments that made me very happy. I figured I’d share them here and also ask anyone to check my thinking. 
+
+Finalization is not some magic 2/3 number, where an *almost* finalized block just needs to get over that hump of 2/3 of the validators attesting to it and then it’s safe. It’s just a line that we’ve chosen to define and say “here’s a good bar to meet and we can say the block is “finalized.” 
+
+So what is it and why does it matter?
+
+The beacon chain chooses one validator at random to propose a block in each 12-second slot of the blockchain. That validator is the only one who can propose a block, and they can only propose one block. If they propose more than one block for the same slot, they get slashed and force-exited as a validator.
+
+The interesting thing to note here is that an Ethereum block reorg only has two possible outcomes: the proposed block or an empty block. That differs from Bitcoin, in which reorged blocks contain different transactions and were proposed by different miners. 
+
+Anyway…blocks are only validated by a fraction of the existing validators, as each validator only attests to 1 out of every 32 blocks. This is a way to keep Ethereum nimble, as requiring each validator to attest to each block would bog down the network. 
+
+However, at the end of every 32 block section (32 blocks is an “epoch”), there is a block called a “checkpoint.” When a validator casts their 1-out-of-every-32 blocks vote, they also cast a vote attesting to the last checkpoint. When a checkpoint garners attestations from 2/3 of all validators in existence, that checkpoint (and every block before it) is considered “justified.” 
+
+And when two checkpoints in a row are justified (which naturally takes at minimum of two epochs or 12.8 minutes), the oldest of the two justified blocks is considered “finalized” along with every block that preceded it. 
+
+So why is this important? Because of the double vote slashing offense. 
+
+Each validator can only vote one way per block. They can’t change their vote, or a double vote slashing occurs. When a validator is slashed, they lose around .5 eth and are forced-exited after a certain amount of delayed time. This time delay allows the protocol to see who else is being penalized around the same time period. If there are many slashing offenses, the protocol assumes they were colluding to attack the network, and the slashing offenses start to get angry and impose an additional penalty. It’s important  to understand the formula for this additional penalty. It’s:
+
+validator_balance * 3 * fraction_of_validators_slashed
+
+In other words, if you’re the only offender, your additional penalty is negligible. However, if at least 1/3 of the other validators were also slashed around the same time, you lose *all of your stake*. (This is one reason that it’s so stupid to be running a super majority client, but I digress).
+
+So let’s look at this in terms of a justified block. Most conservative case: 
+
+A block is justified because exactly 2/3 validators have attested to it (and the other 1/3 haven’t voted yet). In order to get reorged, 2/3 + 1 validators need to attest to a different block in that slot. We’ll, 1/3 of validators are still free to vote, but to get the other 1/3 + 1 validators, 1/3 + 1 of all total validators will need to cast a second vote. They can do this, but they’ll get slashed. And a quick look at our handy formula above tells you this will result in a total slashing event of all of these validators’ shit. 
+
+And if it’s this costly to change a justified block, imagine how difficult it would be to reorg a finalized one. The details get a little tricky here for me, but I believe it would require over 2/3 of all validators losing all of their stake. Right now, that’s $73 billion dollars worth of security. Not only would the benefit of coordinating this attack have to be worth more than $73 billion, but the attacker would also have to corrupt over 2/3 of the decentralized validators of Ethereum. That last statement is the reason that decentralization matters in Ethereum, and why home stakers are soooooo important. Ethereum needs to be able to withstand a full on moloch attack worth all the money that will ever be settled on top of the chain. Since we like to think that’s the entire world’s economy, the value of the eth securing the network by validators will only take us so far. Decentralization does the rest.
+
+</details>
+<details>
+<summary>u/Wulkingdead shares their bull case over at r/cc</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b3n2y3/daily_general_discussion_march_1_2024/ksvne1w/)
+
+i made a 'my bull case for Ethereum' post in r/cc if any of you are interested, or have any corrections :D
+
+somehow i spent 2 hours on making that post LOL! Also posted on eth subreddits but check out the r/cc one ;)
+
+</details>
+<details>
+<summary>u/accidental_green shares their validator updater for the upcoming hard fork and the circles back shares their story of writing a useful staking script</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b4h3wq/daily_general_discussion_march_2_2024/kt01amw/)
+
+To help validators with the upcoming hard fork, I improved my open source [Validator Updater](https://github.com/accidental-green/validator-updater) so everyone can easily update their validator in under a minute!
+
+Detailed instructions can be found on the [Ethstaker post](https://reddit.com/r/ethstaker/comments/1b4o4ja/automated_validator_update_tool/), quick summary below.
+
+**Note:** The updater is adapted from Somer Esat's guides, and saves the updated binaries to /usr/local/bin. If you have a different setup, you can move the binaries to your desired location after download.
+
+**Validator Updater Summary:**
+
+1. Select Execution Client: (Besu, Geth, Nethermind)
+2. Select Consensus Client: (Lighthouse, Nimbus, Prysm, Teku)
+3. Update MEV-boost? (Yes/No)
+4. Click "Update"
+
+That's it, updates process in the terminal and you can be back online before missing a single attestation!
+
+Feel free to check out my other open source Ethereum projects:
+
+[Validator Install](https://github.com/accidental-green/validator-install) - Install a full validator from fresh Ubuntu in minutes  
+[Client Switcher](https://github.com/accidental-green/client-switcher) - Instantly switch execution clients to improve client diversity
+
+All code is open source but has not been audited, so any testing/feedback is always appreciated.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b63kgo/daily_general_discussion_march_4_2024/ktaw87p/)
+
+A Prysm dev forked my code!
+
+I wanted to share my story in case anyone here is considering contributing to Ethereum and isn't sure how to get started.
+
+So to start, I'm not a programmer. I was the "Excel guy" at the office because I knew how to do vlookups. I started dabbling in VBA and eventually wrote a macro to take an Ethereum address and lookup the balance using Etherscan API.
+
+One day while updating my validator, I decided to try a Python script rather than copy/paste the 10 commands. I ran the script and was shocked it actually worked. I slowly added more clients and eventually created the [validator-updater](https://github.com/accidental-green/validator-updater).
+
+I figured if I could write a script to update, maybe I could write a script that took commands from Somer Esat's guides and create a full [validator-install](https://github.com/accidental-green/validator-install) script.
+
+It took a few months, but I finally got it working. I decided to create a Github account and share on Ethstaker. People responded positively, but no one actually wanted to run it (would you trust your 32 ETH to a random script on Github?)
+
+It was pretty disappointing to know I created something that made staking 100x easier, but no one wanted to run it. I made updates, added clients, but in the end it felt like I was screaming into the void (props to u/superphiz for saying he liked my project and encouraging me to continue working on it).
+
+Eventually [u/nixorokish](https://reddit.com/u/nixorokish) at Ethstaker reached out and said they liked my initiative and wanted to send some DAI as a thank you. Once that DAI hit my wallet I remember thinking I made it, I'm officially on the Ethereum payroll!
+
+A few months later, I got a notification that someone created a pull request on my repository. I went to investigate and noticed it was Preston Van Loon (Prysm dev) [fixing a typo](https://github.com/accidental-green/validator-install/pull/4) in my validator install code. Pushing the merge button made me feel like an actual developer.
+
+He also forked my repository, which means it's now hosted on his[ Github](https://github.com/prestonvanloon/validator-install). That was a major boost to my confidence and Github street cred.
+
+u/hanniabu reached out and suggested adding a keystore import to the installer. I worked up a few changes and he graciously reviewed the code and provided valuable feedback.
+
+As the client diversity stuff became popular, I created [client-switcher](https://github.com/accidental-green/client-switcher) to help people switch execution clients with a single click. It was well received and multiple people reached out saying they were able to successfully switch to a minority client.
+
+Recently u/coincashew forked my code and created their own one line installer, mentioning that because of my code they were able to write the whole thing in a single day. People were actually building off my code, and the idea of open source started to make more sense. 
+
+So what's the point in writing all this? I'm not really sure. I spent years as a silent observer of this sub, so decided it's finally time to share my story and maybe inspire someone to start that project they've been thinking about.
+
+This hasn't been very lucrative financially, but it's nice knowing I've contributed to Ethereum and made staking a bit more accessible. Not sure where it goes from here, but I'm cleaning up the code in hopes to eventually have it audited.
+
+Thanks to everyone who provided guidance and encouragement. This really is a special corner of the internet, and I'm happy to be a part of it!
+
+</details>
+<details>
+<summary>u/plaenar shares a crazy scammer tactic of address poisoning (be careful!)</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b4h3wq/daily_general_discussion_march_2_2024/kt14h6q/)
+
+Be careful, someone is address poisoning transactions pretty efficiently.  I sent some ETH from wallet A to a new wallet B, and after the transaction went through, someone sent me a dust amount of ETH to wallet A.  The scammer's address has the same first 4 and last 4 characters as wallet B.  Now I have to be really careful not to accidentally send anything to the scammer's address.
+
+Its alarming because of how quickly they did it, being able to brute force a vanity address with 8 matching characters, fund it, have the txs go through within a minute.
+
+</details>
+<details>
+<summary>u/superphiz shares an idea of something like the equivalent of the Nobel prize for Ethereum</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b59xrs/daily_general_discussion_march_3_2024/kt55q90/)
+
+> Free idea: a few years ago, someone told me they'd like to see a Nobel Prize equivalent for Ethereum, but it hasn't happened yet.
+> 
+> The chain will turn 10 years old in ~18 months, which seems like great timing for this! It gives enough time to make it happen properly, too 😄
+
+\- [Tim Beiko](https://twitter.com/TimBeiko/status/1762888487496466713)
+
+I really love this idea and could see it being something that EthFinance and/or the EVMaverick's spearheaded.
+
+</details>
+<details>
+<summary>u/Wurstgewitter shares a nice site he made gashighdontcry</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b59xrs/daily_general_discussion_march_3_2024/kt6ztfw/)
+
+Hi guys, I am currently building a little website, mostly to improve my typescript and next.js skills. I am a backend dev trying to get more into frontends for a while, partly because of my job.
+
+ I wanted to come up with an educational page about ethereum gas and L2s. The main points I want to bring across are how gas cost is not the same for every transaction, but depends on the type of transaction and especially the gas limit. Also I wanted to cover L2s and have an interactive option to compare the gas prices between L1 <> L2 (so far only mainnet and arbitrum)
+
+  
+There is a lot of confusion among newcomers about these topics, and maybe a website like this will help someone. I know there are similar pages, but as I said I mostly needed an excuse to build something haha.
+
+Check out my prototype here [gashighdontcry.net](http://gashighdontcry.net)
+
+Mobile view works but is not optimized yet.
+
+While working on it I noticed that the arbiscan api always returns 0.1GWei for the gas price, so that part is kinda static, but afaik there is no better way to estimate arbitrum gas.
+
+When you have ideas for more content, or notice bugs or whatever let me know!
+
+</details>
+<details>
+<summary>u/Maswasnos Cheers to the folks who stuck around in the daily!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b63kgo/daily_general_discussion_march_4_2024/ktdcxry/)
+
+Pretty incredible to be closing in on $4k again after 2 years. Cheers to the folks who stuck around in the daily, I wasn't as active as I was in 2021/22 but I still read it almost every day.
+
+</details>
+<details>
+<summary>u/jtnichol Rocketschool in session</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b6y3ja/daily_general_discussion_march_5_2024/ktgwgu2/)
+
+Rocket School now Live! EVMavericks ManeNet DAO + EthStaker + Rocket Pool - Class Is In Session!
+
+💓♻️ <https://twitter.com/ProDJKC/status/1765032313962811697>
+
+<https://nitter.net/ProDJKC/status/1765032313962811697>
+
+📺 <https://youtu.be/uue49JOSqjg>
+
+<https://therocketschool.xyz/>
+
+</details>
+<details>
+<summary>u/SeaMonkey82 Reminds us Dencun March 13 (approx. 13:55 UTC)!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b7se02/daily_general_discussion_march_6_2024/ktkmrsk/)
+
+Reminder:  
+
+>[Dencun will activate on the Ethereum mainnet at epoch 269568, occuring on March 13, 2024 at 13:55 UTC. Node operators & stakers must upgrade their software to releases listed in this announcement.](https://blog.ethereum.org/2024/02/27/dencun-mainnet-announcement)
+
+</details>
+<details>
+<summary>u/Tricky_Troll 's van got hit and the camping is jeopardised for now OO</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1b6y3ja/daily_general_discussion_march_5_2024/kthvj0q/)
+
+Sorry guys, this is my fault. My van has been damaged after someone reversed into it and the door won’t close properly so camping has been jeopardised. I will do everything in my power to get the old girl up and running again so camping and the subsequent bull run can continue. Thank you for your understanding.
+
+—(This is not a joke)—
+
+</details>
+<details>
+<summary>EthDenver daily updates from u/austonst</summary>
+
+- [Day 1](https://reddit.com/r/ethfinance/comments/1azgo7x/daily_general_discussion_february_25_2024/ks1dbu7/)
+- [Day 2](https://reddit.com/r/ethfinance/comments/1b0acur/daily_general_discussion_february_26_2024/ks6o82l/)
+- [Day 3](https://reddit.com/r/ethfinance/comments/1b14ls9/daily_general_discussion_february_27_2024/ksc9cxy/)
+- [Day 4](https://reddit.com/r/ethfinance/comments/1b1ys3b/daily_general_discussion_february_28_2024/ksi3epo/)
+- [Day 5](https://reddit.com/r/ethfinance/comments/1b2t640/daily_general_discussion_february_29_2024/ksnr3ia/)
+- [Day 6](https://reddit.com/r/ethfinance/comments/1b3n2y3/daily_general_discussion_march_1_2024/kstn5c3/)
+- [Day 7](https://reddit.com/r/ethfinance/comments/1b4h3wq/daily_general_discussion_march_2_2024/ksz4kat/)
+- [Day 8](https://reddit.com/r/ethfinance/comments/1b59xrs/daily_general_discussion_march_3_2024/kt458jx/)
+- [Day 9](https://reddit.com/r/ethfinance/comments/1b63kgo/daily_general_discussion_march_4_2024/kt9lj44/)
+
+</details>
+<details>
+<summary>EthDenver daily updates from u/llamachef</summary>
+
+- [Day 4](https://reddit.com/r/ethfinance/comments/1b1ys3b/daily_general_discussion_february_28_2024/kslfszw/)
+- [Day 6](https://reddit.com/r/ethfinance/comments/1b3n2y3/daily_general_discussion_march_1_2024/ksx6mu5/)
+- [Day 7](https://reddit.com/r/ethfinance/comments/1b4h3wq/daily_general_discussion_march_2_2024/kt2imfw/)
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #57: February 23, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=rJZXfbcOcLY) | [POAP](https://poap.gallery/event/168878)
