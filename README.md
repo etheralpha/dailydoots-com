@@ -1045,7 +1045,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #58: March 8, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/170624)
+[Livestream Recording](https://www.youtube.com/watch?v=VkOXvd-bWTY) | [POAP](https://poap.gallery/event/170624)
 
 **Announcements**
 
