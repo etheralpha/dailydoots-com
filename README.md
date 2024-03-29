@@ -10948,7 +10948,7 @@ Signed,
 
 Editor's note: If there's one thing good waffles do, it's stick together.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWc5gsU-eeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<https://www.youtube.com/watch?v=RWc5gsU-eeY>
 
 </details>
 <details>
@@ -11143,7 +11143,7 @@ I'm a free market kind of guy but these are some real shitcoins
 
 Gameplay preview:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OyyGdpp6UcY?start=2706" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<[https://www.youtube.com/embed/OyyGdpp6UcY?start=2706](https://youtu.be/OyyGdpp6UcY?t=2706)>
 
 ---
 
