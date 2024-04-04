@@ -1048,7 +1048,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #60: March 29, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/171669)
+[Livestream Recording](https://www.youtube.com/watch?v=RJDmaFZMHSY) | [POAP](https://collectors.poap.xyz/drop/171669)
 
 *Special guest Ram Ahluwalia, CFA and CEO of [Lumida Wealth](https://www.lumida.com/), a digitally native, SEC registered investment advisor specializing in alternative investments and digital assets.*
 
@@ -1342,7 +1342,7 @@ Who am I going to see where?
 <details>
   <summary>Week #59: March 22, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=0EO0BsAOnx4) | [POAP](https://poap.gallery/event/171366)
+[Livestream Recording](https://www.youtube.com/watch?v=0EO0BsAOnx4) | [POAP](https://collectors.poap.xyz/drop/171366)
 
 *Special guest Adam Blumberg of [Interaxis](https://www.interaxis.io/). Adam is a Certified Financial Planner, and a former Registered Investment Advisor. He co-founded Interaxis in 2019 to educate advisors and investors on digital assets and decentralized finance. His Interaxis YouTube channel is viewed by thousands across the globe. He is a regular contributor to Coindesk's Crypto For Advisors and was featured on Bloomberg TV and Blockworks.*
 
@@ -1634,7 +1634,7 @@ And while I am at it... Think about how you would feel if we hit 15k and then th
 <details>
   <summary>Week #58: March 8, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=VkOXvd-bWTY) | [POAP](https://poap.gallery/event/170624)
+[Livestream Recording](https://www.youtube.com/watch?v=VkOXvd-bWTY) | [POAP](https://collectors.poap.xyz/drop/170624)
 
 **Announcements**
 
@@ -1927,7 +1927,7 @@ Sorry guys, this is my fault. My van has been damaged after someone reversed int
 <details>
   <summary>Week #57: February 23, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=rJZXfbcOcLY) | [POAP](https://poap.gallery/event/168878)
+[Livestream Recording](https://www.youtube.com/watch?v=rJZXfbcOcLY) | [POAP](https://collectors.poap.xyz/drop/168878)
 
 *Special guest Kevin Owocki joins us from Gitcoin and Green Pill (https://greenpill.network/), a network-society that exports regenerative digital infrastructure to the world.*
 
@@ -2181,7 +2181,7 @@ They sent a thank you note that said Kana was so excited she ran to school at 6 
 <details>
   <summary>Week #56: February 16, 2024</summary>
 
-[Listen Live](https://www.youtube.com/watch?v=HD2frZKqxlE) | [POAP Checkout](https://poap.gallery/event/168421)
+[Listen Live](https://www.youtube.com/watch?v=HD2frZKqxlE) | [POAP Checkout](https://collectors.poap.xyz/drop/168421)
 
 **Announcements**
 
@@ -2497,7 +2497,7 @@ Also, it looks like Rocket Pool stakers aren't able to claim right now, but I'm 
 <details>
   <summary>Week #55: February 9, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=2Pp16s5sRm4) | [POAP Checkout](https://poap.gallery/event/167971)
+[Livestream Recording](https://www.youtube.com/watch?v=2Pp16s5sRm4) | [POAP Checkout](https://collectors.poap.xyz/drop/167971)
 
 **Announcements**
 
@@ -2786,7 +2786,7 @@ I am happy to answer any (sincere) questions.
 <details>
   <summary>Week #54: February 2, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=2wvhr12_Pz0) | [POAP](https://poap.gallery/event/167651)
+[Livestream Recording](https://www.youtube.com/watch?v=2wvhr12_Pz0) | [POAP](https://collectors.poap.xyz/drop/167651)
 
 *Special guest Lucas from [PODS](https://pods.media/), a new way to publish, discover, and own your favorite podcasts.*
 
@@ -3110,7 +3110,7 @@ Credit to [u/usesbinkvideo](https://reddit.com/u/usesbinkvideo) for the gem of a
 <details>
   <summary>Week #53: January 26, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=vGmuMB_uB-g) | [POAP](https://poap.gallery/event/167341)
+[Livestream Recording](https://www.youtube.com/watch?v=vGmuMB_uB-g) | [POAP](https://collectors.poap.xyz/drop/167341)
 
 *Special guest Kevin Owocki joins us from [Gitcoin](https://gitcoin.co/) and [Green Pill](https://greenpill.network/), a network-society that exports regenerative digital infrastructure to the world.*
 
@@ -3491,7 +3491,7 @@ I'm working to get it audited asap, but any help in the meantime is appreciated.
 <details>
   <summary>Week #52: January 19, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=B9_AloQt26Q) | [POAP](https://poap.gallery/event/167076)
+[Livestream Recording](https://www.youtube.com/watch?v=B9_AloQt26Q) | [POAP](https://collectors.poap.xyz/drop/167076)
 
 *Special guest Mike Silagadze joins us from [Ether.Fi](https://ether.fi), a native liquid restaking protocol.*
 
@@ -3941,7 +3941,7 @@ Favorite moment of argument so far:
 <details>
   <summary>Week #51: January 12, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://poap.gallery/event/166806)
+[Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://collectors.poap.xyz/drop/166806)
 
 **Announcements**
 
@@ -4215,7 +4215,7 @@ As you may/not know, [u/austonst](https://reddit.com/u/austonst] and I run the A
 <details>
   <summary>Week #50: January 5, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://poap.gallery/event/166594)
+[Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://collectors.poap.xyz/drop/166594)
 
 <details>
 <summary>The morning trinity</summary>
@@ -4585,7 +4585,7 @@ So take my carelessness, my stupidity, as a warning. If you are not careful, you
 <details>
   <summary>Week #49: December 29, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=P36tiPSEhw4) | [POAP](https://poap.gallery/event/166385)
+[Livestream Recording](https://www.youtube.com/watch?v=P36tiPSEhw4) | [POAP](https://collectors.poap.xyz/drop/166385)
 
 **Upcoming Guests**
 
@@ -4880,7 +4880,7 @@ Celebrate that one airdrop like it was the lottery. Be happy about your first ET
 <details>
   <summary>Week #48: December 22, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=Iup-JwIUOvY) | [POAP](https://poap.gallery/event/166184)
+[Livestream Recording](https://www.youtube.com/watch?v=Iup-JwIUOvY) | [POAP](https://collectors.poap.xyz/drop/166184)
 
 **Upcoming Guests**
 
@@ -5180,7 +5180,7 @@ I would interpret that as a single entity has control over a large part of these
 <details>
   <summary>Week #47: December 15, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=Z2Be5ur-asw) | [POAP](https://poap.gallery/event/165838)
+[Livestream Recording](https://www.youtube.com/watch?v=Z2Be5ur-asw) | [POAP](https://collectors.poap.xyz/drop/165838)
 
 **Upcoming Guests**
 
@@ -5860,7 +5860,7 @@ special shoutout to [u/minimalgravitas](https://reddit.com/u/minimalgravitas) fo
 <details>
   <summary>Week #45: December 1, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=T2GxKNDQHPU) | [POAP](https://poap.gallery/event/160012)
+[Livestream Recording](https://www.youtube.com/watch?v=T2GxKNDQHPU) | [POAP](https://collectors.poap.xyz/drop/160012)
 
 **Upcoming Guests**
 
@@ -6220,7 +6220,7 @@ Thank you.
 <details>
   <summary>Week #44: November 24, 2023</summary>
 
-[Listen Live](https://www.youtube.com/watch?v=A0Uk6WWNsUo) | [POAP](https://poap.gallery/event/159601)
+[Listen Live](https://www.youtube.com/watch?v=A0Uk6WWNsUo) | [POAP](https://collectors.poap.xyz/drop/159601)
 
 
 <details>
@@ -6439,7 +6439,7 @@ Of course, you could use a regular privacy protocol instead. Tornado is sanction
 <details>
   <summary>Week #43: November 17, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=XYGMDMUfsjs) | [POAP Checkout](https://poap.gallery/event/159203)
+[Livestream Recording](https://www.youtube.com/watch?v=XYGMDMUfsjs) | [POAP Checkout](https://collectors.poap.xyz/drop/159203)
 
 <details>
 <summary>The morning trinity</summary>
@@ -6727,7 +6727,7 @@ No Livestream | No POAP
 <details>
   <summary>Week #41: October 27, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP](https://poap.gallery/event/157240)
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP](https://collectors.poap.xyz/drop/157240)
 
 **Announcements**
 
@@ -6976,7 +6976,7 @@ EDIT: Little more research.  So Lido creates an NFT that is minted the second yo
 <details>
   <summary>Week #40: October 20, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=ZUTHYk-gVU0) | [POAP](https://poap.gallery/event/156799)
+[Livestream Recording](https://www.youtube.com/watch?v=ZUTHYk-gVU0) | [POAP](https://collectors.poap.xyz/drop/156799)
 
 Guest appearance by Greg Di Prisco, Co-Founder of [Ajna](https://ajna.finance/), a noncustodialand permissionless lending protocol that requires no governance or external price feeds.
 
@@ -7536,7 +7536,7 @@ Now. What are you celebrating? What have I missed? What can we do better? THESE 
 <details>
   <summary>Week #39: October 13, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=NsNVSsVtN7k) | [POAP](https://poap.gallery/event/156314)
+[Livestream Recording](https://www.youtube.com/watch?v=NsNVSsVtN7k) | [POAP](https://collectors.poap.xyz/drop/156314)
 
 Guest appearance by Billy Luedtke from [Intuition](https://intuition.systems/), a project that aims to have identity for everything on the blockchain
 
@@ -7779,7 +7779,7 @@ Check out Personae's Twitter (Nitter) threads on their proof system here:
 <details>
   <summary>Week #38: October 6, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=-iqGkzdhGgQ) | [POAP](https://poap.gallery/event/155891)
+[Livestream Recording](https://www.youtube.com/watch?v=-iqGkzdhGgQ) | [POAP](https://collectors.poap.xyz/drop/155891)
 
 Guest appearance by James Carnley from [EVM File System (EFS)](https://about.evmfs.eth.limo/), an onchain database allowing trustless access to collaboratively built data and applications. [View presentation →](https://docs.google.com/presentation/d/1mmwjK5yQcTzIR04e_OfkPBeMoC4MTNlJvp-iiUVgCJo/edit#slide=id.p)
 
@@ -8102,7 +8102,7 @@ Thine ally in the digital voyage.
 <details>
   <summary>Week #36: September 22, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=nCfj2LwTbWI) | [POAP](https://poap.gallery/event/150669)
+[Livestream Recording](https://www.youtube.com/watch?v=nCfj2LwTbWI) | [POAP](https://collectors.poap.xyz/drop/150669)
 
 
 <details>
@@ -8728,7 +8728,7 @@ I hope the youtube links work as the videos are still streaming youtube seems no
 <details>
   <summary>Week #34: September 8, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=Yepkb7mzaAA) | [POAP Checkout](https://poap.gallery/event/149502)
+[Livestream Recording](https://www.youtube.com/watch?v=Yepkb7mzaAA) | [POAP Checkout](https://collectors.poap.xyz/drop/149502)
 
 Guest appearance by [Lantern Finance](https://lantern.finance/), a KYC American-based staking provider.
 
@@ -9040,7 +9040,7 @@ I just wanted to share this, because it's a factor I had forgotten about, and it
 <details>
   <summary>Week #33: September 1, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=bWWFr7rMwiU) | [POAP](https://poap.gallery/event/149024)
+[Livestream Recording](https://www.youtube.com/watch?v=bWWFr7rMwiU) | [POAP](https://collectors.poap.xyz/drop/149024)
 
 **Announcements**
 
@@ -9388,7 +9388,7 @@ By roughly adding up the top dozen stablecoins on [CoinGecko](https://www.coinge
 <details>
   <summary>Week #32: August 25, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=2fknVVDi1tU) | [POAP](https://poap.gallery/event/148487)
+[Livestream Recording](https://www.youtube.com/watch?v=2fknVVDi1tU) | [POAP](https://collectors.poap.xyz/drop/148487)
 
 **Announcements**
 
@@ -9684,7 +9684,7 @@ Three of the top 15 eth burning/gas consuming contracts on mainnet are L2s. That
 <details>
   <summary>Week #31: August 18, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=qHpLeezlq80) | [POAP](https://poap.gallery/event/147983)
+[Livestream Recording](https://www.youtube.com/watch?v=qHpLeezlq80) | [POAP](https://collectors.poap.xyz/drop/147983)
 
 **Announcements**
 
@@ -9952,7 +9952,7 @@ it really guts me to come here and find myself [getting shit on](https://reddit.
 <details>
   <summary>Week #29: August 4, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=QXLsZG5oGPs) | [POAP](https://poap.gallery/event/146487)
+[Livestream Recording](https://www.youtube.com/watch?v=QXLsZG5oGPs) | [POAP](https://collectors.poap.xyz/drop/146487)
 
 
 <details>
@@ -10274,7 +10274,7 @@ This platform can then be used to:
 <details>
   <summary>Week #28: July 28, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=nO3cctyZV50) | [POAP](https://poap.gallery/event/145873)
+[Livestream Recording](https://www.youtube.com/watch?v=nO3cctyZV50) | [POAP](https://collectors.poap.xyz/drop/145873)
 
 <details>
 <summary>The morning trinity</summary>
@@ -10581,7 +10581,7 @@ Wish I could say its surprising...
 <details>
   <summary>Week #27: July 14, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=pvPp5ii6wmI) | [POAP](https://poap.gallery/event/143298)
+[Livestream Recording](https://www.youtube.com/watch?v=pvPp5ii6wmI) | [POAP](https://collectors.poap.xyz/drop/143298)
 
 <details>
 <summary>The morning trinity</summary>
@@ -10810,7 +10810,7 @@ Google Play Changes Policy on Tokenized Digital Assets, Allowing NFTs in Apps an
 <details>
   <summary>Week #26: July 7, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=twRs1bpsAc8) | [POAP](https://poap.gallery/event/142004)
+[Livestream Recording](https://www.youtube.com/watch?v=twRs1bpsAc8) | [POAP](https://collectors.poap.xyz/drop/142004)
 
 Guest appearance by Frisson from [Tally](https://tally.xyz/), an on-chain DAO framework.
 
@@ -11069,7 +11069,7 @@ Get your Gnosis nodes ready for Shapella (withdrawals)! Happening Aug 1 (UTC) ac
 <details>
   <summary>Week #25: June 30, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=Z0Jyor_MyFk) | [POAP](https://poap.gallery/event/140922)
+[Livestream Recording](https://www.youtube.com/watch?v=Z0Jyor_MyFk) | [POAP](https://collectors.poap.xyz/drop/140922)
 
 Guest appearance by Gravning Amundsen, Co-Founder of [Firn Protocol](https://app.firn.cash/), a zero-knowledge privacy platform.
 
@@ -11322,7 +11322,7 @@ Additionally, if you are in EVMavericks discord, we have a security channel. You
 <details>
   <summary>Week #23: June 16, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=difDTKT_S5A) | [POAP](https://poap.gallery/event/130577)
+[Livestream Recording](https://www.youtube.com/watch?v=difDTKT_S5A) | [POAP](https://collectors.poap.xyz/drop/130577)
 
 Guest appearance by Kevin Owocki from [Green Pill](https://greenpill.network/) and [supermodular](https://supermodular.xyz/).
 
@@ -11569,7 +11569,7 @@ Some observed discussion points I found of interest:
 <details>
   <summary>Week #22: June 9, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=VZRR5gN17Nk) | [POAP](https://poap.gallery/event/129405)
+[Livestream Recording](https://www.youtube.com/watch?v=VZRR5gN17Nk) | [POAP](https://collectors.poap.xyz/drop/129405)
 
 Guest appearance by Matt Finestone, former lead of Gamestop NFT and currently head of [Taiko.xyz](https://taiko.xyz/), a decentralized and Ethereum-equivalent ZK-Rollup.
 
@@ -11893,7 +11893,7 @@ All the best,
 <details>
   <summary>Week #21: June 2, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP](https://poap.gallery/event/128337)
+[Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP](https://collectors.poap.xyz/drop/128337)
 
 Guest appearance by Brendan Shakeshaft and Joe Van Loon, founders of [Auditware](https://www.auditwizard.io/). Auditware specializes in performing smart contract audits and building security tooling. Their flagship product Audit Wizard (currently in alpha) is the ultimate web3 security tool, allowing you to audit your smart contracts with ease.
 
@@ -12160,7 +12160,7 @@ This problem won't just solve itself, there needs to be a community initiative.
 <details>
   <summary>Week #20: May 26, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=gHKyO3_Y2N4) | [POAP](https://poap.gallery/event/127668)
+[Livestream Recording](https://www.youtube.com/watch?v=gHKyO3_Y2N4) | [POAP](https://collectors.poap.xyz/drop/127668)
 
 Guest appearance by Rhett Shipp from [Gravita Protocol](https://www.gravitaprotocol.com/), a decentralized borrowing protocol.
 
@@ -12429,7 +12429,7 @@ Cheers and Big Hugs from GreenPilled City
 <details>
   <summary>Week #19: May 19, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=yo0Mh4TLDXk) | [POAP](https://poap.gallery/event/126878)
+[Livestream Recording](https://www.youtube.com/watch?v=yo0Mh4TLDXk) | [POAP](https://collectors.poap.xyz/drop/126878)
 
 Guest appearance by DCinvestor, an early pioneer in the Ethereum community on Reddit and was a huge part of Ethtrader and Ethfinance. You can find him on Twitter, discussing Ethereum, NFTs, AI & more. <https://twitter.com/iamDCinvestor>
 
@@ -12955,7 +12955,7 @@ That all said, whatever governance token you own please consider usings this wee
 <details>
   <summary>Week #18: May 5, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=6bw1j2qVXoU) | [POAP](https://poap.gallery/event/125267)
+[Livestream Recording](https://www.youtube.com/watch?v=6bw1j2qVXoU) | [POAP](https://collectors.poap.xyz/drop/125267)
 
 **Announcements**
 
@@ -13314,7 +13314,7 @@ We will soon see the impact of this development on collection prices. While leve
 <details>
   <summary>Week #17: April 28, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=saq7NkGh4PY) | [POAP](https://poap.gallery/event/124517)
+[Livestream Recording](https://www.youtube.com/watch?v=saq7NkGh4PY) | [POAP](https://collectors.poap.xyz/drop/124517)
 
 **Announcements**
 
@@ -13737,7 +13737,7 @@ I hope to find a way in the EVM discord to experiment with creating badges for l
 <details>
   <summary>Week #16: April 21, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=n6cLenFLq2I) | [POAP Checkout](https://poap.gallery/event/123583)
+[Livestream Recording](https://www.youtube.com/watch?v=n6cLenFLq2I) | [POAP Checkout](https://collectors.poap.xyz/drop/123583)
 
 Guest appearance by Gloria Kimbwala, Principal Engineer at [SuperModular.xyz](https://supermodular.xyz/).
 
@@ -14113,7 +14113,7 @@ SEC's actions are embarrassing (even Hester, Gensler's colleague says so), the I
 <details>
   <summary>Week #15: April 14, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=B7qRiEzM4LE) | [POAP](https://poap.gallery/event/122667)
+[Livestream Recording](https://www.youtube.com/watch?v=B7qRiEzM4LE) | [POAP](https://collectors.poap.xyz/drop/122667)
 
 Guest appearance by Christopher Whinfrey, Co-Founder of Hop Protocol! <https://hop.exchange/>
 
@@ -15052,7 +15052,7 @@ There are a couple decent projects out there, but I feel pretty discouraged abou
 
 Future mainstream adoption alert:
 
-Likely for the first time ever, an (unofficial) [POAP was created](https://poap.gallery/event/111565) for a WordCamp this last weekend at [WordCamp Phoenix 2023](https://phoenix.wordcamp.org/2023/). 
+Likely for the first time ever, an (unofficial) [POAP was created](https://collectors.poap.xyz/drop/111565) for a WordCamp this last weekend at [WordCamp Phoenix 2023](https://phoenix.wordcamp.org/2023/). 
 
 If unfamiliar, WordCamps are WordPress' event series that any group of volunteers can create anywhere in the world and get support from the non-profit WordPress Foundation. WordPress powers over 40% of *all websites on the internet*. 👀 
 
@@ -15121,7 +15121,7 @@ Side note: [MEV-Boost Community Call 2](https://collective.flashbots.net/t/mev-b
 <details>
   <summary>Week #12: March 24, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=K8n4M1ltdBQ) | [POAP](https://poap.gallery/event/111365)
+[Livestream Recording](https://www.youtube.com/watch?v=K8n4M1ltdBQ) | [POAP](https://collectors.poap.xyz/drop/111365)
 
 Guest appearance by Anthony Bertolino, Head of Growth at POAP, to discuss the release of POAP Drops! <https://drops.poap.xyz/>
 
@@ -15895,7 +15895,7 @@ It distilled the community down to those that believe in the original ethos ethe
 <details>
   <summary>Week #10: March 10, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=LWNxFT7goPY) | [POAP](https://poap.gallery/event/109458)
+[Livestream Recording](https://www.youtube.com/watch?v=LWNxFT7goPY) | [POAP](https://collectors.poap.xyz/drop/109458)
 
 **Announcements**
 
@@ -16186,7 +16186,7 @@ You all know, this bear is a builder. Here are some newish, not-so-well-known De
 <details>
   <summary>Week #9: March 3, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=WuwyR17DjJw) | [POAP](https://poap.gallery/event/108151)
+[Livestream Recording](https://www.youtube.com/watch?v=WuwyR17DjJw) | [POAP](https://collectors.poap.xyz/drop/108151)
 
 **Announcements**
 
@@ -16520,7 +16520,7 @@ Coworker, if you manage to cross this post and recognize me. Doxx me and I will 
 <details>
   <summary>Week #8: February 24, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=QhifKezKprY) | [POAP](https://poap.gallery/event/105654)
+[Livestream Recording](https://www.youtube.com/watch?v=QhifKezKprY) | [POAP](https://collectors.poap.xyz/drop/105654)
 
 **Announcements**
 
@@ -16880,7 +16880,7 @@ edit: formatting; summarizing a little bc the kicker comes at the end of a wall 
   <details>
   <summary>Week #7: February 17, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=bHHAsudu418) | [POAP](https://poap.gallery/event/101860)
+[Livestream Recording](https://www.youtube.com/watch?v=bHHAsudu418) | [POAP](https://collectors.poap.xyz/drop/101860)
 
 *Special guest VP joins us from [Hexagon](https://twitter.com/HexagonApp), a group born out of Golem project. A new app funding Ethereum infrastructure & public goods projects. Rewards from 100,000 staked ETH are powering a sandbox for governance and community funding experiments. [Read more...](https://docs.hexagonapp.xyz/)*
 
@@ -17210,7 +17210,7 @@ Consider donating to crypto lobbying groups this year if you have the means and 
 <details>
   <summary>Week #6: February 10, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=Vk1y-RRdr3E) | [POAP](https://poap.gallery/event/100715)
+[Livestream Recording](https://www.youtube.com/watch?v=Vk1y-RRdr3E) | [POAP](https://collectors.poap.xyz/drop/100715)
 
 **Announcements**
 
@@ -17462,7 +17462,7 @@ More important things to focus on individually, sorry for the jaded take.
 <details>
   <summary>Week #5: February 3, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=mREo3TWlMi4) | [POAP](https://poap.gallery/event/99709)
+[Livestream Recording](https://www.youtube.com/watch?v=mREo3TWlMi4) | [POAP](https://collectors.poap.xyz/drop/99709)
 
 🎉 *We've reached 800 unique dooters!*
 
@@ -17853,7 +17853,7 @@ My final "do it while neutral sentiment lasts" rant - I've used the phrase "mark
 <details>
   <summary>Week #4: January 27, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [POAP](https://poap.gallery/event/98654)
+[Livestream Recording](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [POAP](https://collectors.poap.xyz/drop/98654)
 
 *Special guest [James Wigginton](https://www.orrick.com/en/People/D/3/2/James-Wigginton) joins us to discuss DAO/COOP configurations and the benefits over an LLC structure.*
 
@@ -18059,7 +18059,7 @@ I was able to follow along pretty good and now I'm officially running a node on 
 <details>
   <summary>Week #3: January 20, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=W4T2x_TomXA) | [POAP](https://poap.gallery/event/97630)
+[Livestream Recording](https://www.youtube.com/watch?v=W4T2x_TomXA) | [POAP](https://collectors.poap.xyz/drop/97630)
 
 <details>
 <summary>Shitpost of the week: Meme from u/pr0nh0li0 who stole it from Hsaka</summary>
@@ -18332,7 +18332,7 @@ From my POV, a good day here. Made great progress getting everyone at EY on the 
 <details>
   <summary>Week #2: January 13, 2023</summary>
 
-[Livestream Recording]() | [POAP](https://poap.gallery/event/96569)
+[Livestream Recording]() | [POAP](https://collectors.poap.xyz/drop/96569)
 
 <details>
 <summary>Shitpost of the week: u/ExperienceGoblintown</summary>
@@ -18554,7 +18554,7 @@ Tldr; I agree Shanghai will likely increase decentralisation. if I can do it, li
 <details>
   <summary>Week #1: January 6, 2023</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=DgalmQ3ulco) | [POAP](https://poap.gallery/event/95687_)
+[Livestream Recording](https://www.youtube.com/watch?v=DgalmQ3ulco) | [POAP](https://collectors.poap.xyz/drop/95687_)
 
 <details>
 <summary>Shitpost of the week: u/nixorokish</summary>
