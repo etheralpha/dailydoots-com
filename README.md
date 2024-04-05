@@ -1305,7 +1305,7 @@ Hence a [FHE encoded neural net](https://link.springer.com/article/10.1007/s1208
 
 </details>
 <details>
-<summary>u/dondochaka share a cool new [DAO product they created for Reddit users!</summary>
+<summary>u/dondochaka share a cool new DAO product they created for Reddit users!</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/1buk90w/daily_general_discussion_april_3_2024/kxvovul/)
 
 The startup I work for just shipped [https://www.rdatadao.org](https://www.rdatadao.org). Without sharing my own opinion or involvement, I'm curious what impression it leaves you all with...
