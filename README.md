@@ -1066,6 +1066,252 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #63: April 26, 2024</summary>
+
+[Listen Live](https://checkout.poap.xyz/172944) | [POAP Checkout](https://checkout.poap.xyz/172944)
+
+**Upcoming Guests**
+
+- May 3 - SwagtimusPrime of [Scroll](https://scroll.io/)
+- May 10 - Prince Jindal of [Lantern Finance](https://www.lantern.finance/)
+- May 17 - Waq of [Rocket Fuel](https://www.youtube.com/@RocketFuel-RPL)
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cdcy19/daily_general_discussion_april_26_2024/l1b62r9/)
+
+[u/DayTraderBiH](https://reddit.com/u/DayTraderBiH)
+
+> Ethereum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $3142
+
+[u/Equal-Jellyfish1](https://reddit.com/u/Equal-Jellyfish1)
+
+> 0.04889
+
+[u/syzygy00778](https://reddit.com/u/syzygy00778)
+
+> 3,966 validators to go till a million active validators.
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c99qz0/daily_general_discussion_april_21_2024/l0nrwf2/)
+
+*Kindly taking note,*
+
+*Blockchain is no antidote,*
+
+*It is a lifeboat.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Itur_ad_Astra</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c6v2o5/daily_general_discussion_april_18_2024/l065y1a/)
+
+Ethereum: Undergoes infinity halvings. ***I SLEEP***
+
+Bitcoin: Undergoes one halving. ***REAL SHIT?***
+
+</details>
+<details>
+<summary>u/monkeyhold99 asks about which EigenLayer operators to delegate to and gets many great responses</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c6v2o5/daily_general_discussion_april_18_2024/l03ooit/)
+
+Looking for a list or some comparison of safe Eigenlayer operators to delegate to. Any help?
+
+I see Aestus mentioned here but not familiar with their background.
+
+EigenYields seems sketchy upon further inspection. 
+
+Etherfi has like 8 different operators, but are they all the same?
+
+I also see Staked.US and they seem to have a good track record, but they shut out Americans from airdrops so how would that work if you’re an American restaker? 
+
+Or, is it best to just wait until some of the larger exchanges like Coinbase and Kraken get in on the game?
+
+</details>
+<details>
+<summary>u/STRTRD is doing the lord's work reaching out to large staking providers still using the (almost) supermajority client.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c6v2o5/daily_general_discussion_april_18_2024/l06nlme/)
+
+(Reposting since reddit deleted last post because of links.)
+
+Few weeks ago when finding of Geth bug was posted here I decided to contact top 11 majority-Geth/undisclosed staking operators listed on supermajority info (having 1% and more network penetration)
+
+I presented myself as a current/potential user, concerned about client supermajority issue, asking about their current setup and potential plans to improve client diversity status.
+
+Contact was made through emails, customer support or Discord. Here are the summaries of respones I recieved:
+
+* Binance: We understand the concerns around supermajority usage and its impacts on network security and user funds. While we are devoted to ensuring the highest level of security for our users, as a standard security practice, we do not disclose specifics about our internal infrastructure including Ethereum validator client details. This policy is in place to shield our operations and safeguard user assets. However, we take threats to network security seriously and continuously improve our infrastructure in response to evolving industry developments and security principles. Diversifying into minority clients is indeed a recognized method to spread risk and enhance security. Rest assured, we have expert teams constantly observing the ecosystem and shaping our approach.
+* Kraken: We would be unable to discuss any exact details of how we manage Ethereum client diversity, one of which is indeed GETH. Kindly note however, we are acutely aware of the benefits to the chain and for our own risk mitigation that client diversity brings, as such we do have strategies in place to this effect.
+* OKX: Kindly be informed that OKX uses supermajority execution clients and we are unable to provide any confirmation on plans to diversify to minority ones as this decision requires the approval of a significant majority of stakeholders or participants to proceed.
+* Bitcoin Suisse: "At present, Bitcoin Suisse primarily employs GETH for our execution layer nodes, as you've noted. We're in the process of evaluating the use of an additional node provider besides GETH. However, we're proceeding cautiously to ensure a seamless transition, prioritizing stability and security considerations." They are now listed with 90% Geth, 10% Besu.
+* RockX: no response, Discord
+* Blockdaemon: no response, sent inquiry on their site, got forwarded to email, then email forwarded me back to site
+* Hash Key Cloud: no response, site form
+* Prysmatic Labs: Yes we are in the process of testing Nethermind on our setups. This takes a while as we need to have reasonable confidence in testnets before moving on to mainnet.
+* Chainsafe: "Almost there. We are doing some extended testing on a small group of mainnet validators right now and will roll out the rest of them later this week if there are no issues." Also this tweet suggests that they are 30% Nethermind instead of 26% listed on supermajority: "The Lodestar and Infrastructure teams currently run 30% of our validators with and will continue to increase this alongside inclusion of ."
+* Kukis Global: "We will update our stats on supermajority info soon, we are currently close to 60% Nethermind and 40% Geth and will go towards 0% Geth this year." Indeed, they are listed at 50% now.
+* Figment: no response, made contact as a potential user, still waiting
+
+I think Binance, Kraken and OKX (8% combined) should be campaigned further through social media and other channels to ensure they make an action. It seemed to be effective with Coinbase, we saw Brian Armstrong responded personally to DC on twitter, it also worked with consensus clients.
+
+Many smaller operators seem to be steadily working towards diversifying, but feel free to check up on them as well.
+
+Community did bring awareness to the problem and it improved, we can get it to 50% or below.
+
+</details>
+<details>
+<summary>u/KuDeTa is looking to hire an Ethfinancier as a DevOps engineer for Aestus!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c7okhx/daily_general_discussion_april_19_2024/l0af6kk/)
+
+The [Aestus MEV Relay](https://aestus.live) is [hiring](https://cryptocurrencyjobs.co/engineering/aestus-mev-and-staking-devops-engineer/) a DevOps Engineer.
+
+Frankly when u/austonst and I started this projected \~20 months ago, we both imagined (hoped?) it would have become irrelevant by now. However, ePBS is an unsolved research problem that even optimistically feels years away from any kind of resolution. So - we intend to set things up to play a long term game. We still think it's crucial to the long term health of Ethereum that credibly neutral players occupy this space - because MEV is an incredible centralising force.
+
+We've recently received some funding from an Optimism retro PGF round, which ethfinancers were instrumental in supporting. So, it's because of the fine work from people like u/superphiz and u/bendido2030 that we are in a position to hire at all. It would be great to return that trust by sourcing someone close to this community.
+
+The ad suggests this is a full-time role, but we're very open to *committed* part-time contributions — and this could be a fun, albeit intense, side-gig for someone. Your primary role will be to help us improve the performance and stability of our existing architecture and develop a plan for the future. The right person will have very strong cloud and k8s experience in domains including observability and security. Generalist coding capability, a willingness to absorb new information and learn new skills are also essential. You'll also be part of an on-call rota.
+
+This work brings you very close to the core Ethereum protocol and part of your job will to be stay on top of research and developments in the MEV and ePBS space. While for me the most exciting part of this project has been in the constant adventure of working at the bleeding edge - there are many unknowns - and that also means that whoever we hire will have to accept a bit of insecurity. Having said that, the additional capacity will allow us to spend more time exploring new services and opportunities both in the relay ecosystem and beyond - restaking and shared-sequencing are both ecosystems where we think our ethos and experience can make a difference.
+
+Worth also noting that unfortunately and for complicated reasons, we can't hire anyone resident in the US. I hope i'm not breaking any rules by posting this here!
+
+</details>
+<details>
+<summary>u/atleft is looking to help reach out to StarkNet about misallocated airdrop tokens.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c7okhx/daily_general_discussion_april_19_2024/l09nsgw/)
+
+Starknet's foundation is well aware that mistakes were made in the initial round of provisions. There are numerous efforts underway to address those mistakes and find a more positive way to move forward. In that vein, I am hoping that some of you who feel they were unreasonably excluded from the first round will share a) why you feel that way, b) the account address (DM me if preferred), and c) what criteria you feel \*should\* have been applied. I am asking in my capacity as a Starknet delegate and member of the Starknet builder's council to provide as much guidance as I can back to the foundation.
+
+Edit: doesn't have to be limited to \*your\* account. If you know of any accounts that are good examples, please forward them along.
+
+</details>
+<details>
+<summary>u/haurog shares some scams targeting him lately and u/austonst educates us on the latest evolution</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c7okhx/daily_general_discussion_april_19_2024/l09nkij/)
+
+[u/haurog](https://reddit.com/u/haurog):
+
+A very good indication that we are in a bull market is the pick up of the various scam attempts I come across. A few weeks ago my cold wallet on Ethereum was getting spammed with address poisoning attacks. Cost the spammer several dollars for each poisoning. I cannot really believe that these kind of things are worth it for them, but apparently they are ready to spend real money to do it. 
+
+Then came a cold DM on telegram from someone wanting to borrow my github account for a day. I blocked them so I never found out what they actually wanted with it, but I guess they saw my github account in the list of some airdrops and they would have wanted to claim them. 
+
+Yesterday I got DMs on Discord and Telegram with freelance coding job opportunities. These are close to 100% a scam as well. At the moment I am talking to them to try to find out how they would want to scam me. The slightly worrying part about the DMs is that they feel a bit closer to me than address poisoning. Especially, when these messages have been sent on two different apps (discord and telegram) simultaneously. Seems like someone is adding my user name to their scamming database.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1c8hqbi/daily_general_discussion_april_20_2024/l0jnwkm/)
+
+[u/austonst](https://reddit.com/u/austonst):
+
+I've got an addition to /u/haurog 's [scam watchlist](https://reddit.com/r/ethfinance/comments/1c7okhx/daily_general_discussion_april_19_2024/l09nkij/) from yesterday. My more valuable wallets have been getting hit with address poisoning attacks, which at this point I would hope most people here are familiar with. And this should *really* be addressed with better tools at the wallet/etherscan level.
+
+But more interestingly, my personal cell phone was hit today with a text message:
+
+> COINBASE: An unauthorized device from Salt Lake City, Utah has logged into your Coinbase account. If this was not authorized by you, please reply with "N". If this was authorized by you ignore this message.
+
+I caught on immediately, in part because I wasn't actually sure I *have* a Coinbase account (I checked, and I do, but I didn't even really complete account setup, never set it up to receive fiat or crypto funds). But also because I had just recently read [this article on Ars Technica](https://arstechnica.com/security/2024/04/lastpass-users-targeted-in-phishing-attacks-good-enough-to-trick-even-the-savvy/), which describes the abilities of the CryptoChameleon phishing-as-a-service toolkit. It's a really good read, would recommend. But the first step of one of CryptoChameleon's techniques is described to be similar: a phone call telling the recipient that there was an unauthorized login and asking them to press "1" or "2" to accept or deny.
+
+This is kind of tricky because there's not really any immediate danger in replying "N" (or pressing "2" to deny). If it's legit then you've done your part to prevent an attack. If it's not legit, then all you've done is sent a pointless text message. And users have become increasingly used to dealing with these kinds of messages from all sorts of account logins, so it may not ring any alarm bells. Why not send a quick "N" and be done with it?
+
+But my understanding is that the first step of a scam is by far the most important. On one hand, some scams deliberately use dubious sounding claims (Nigerian prince, anyone?) as an initial filter, so that the savvy users weed themselves out, and the people who actually respond are more likely to be duped by the subsequent requests. But that's probably just a side-benefit here, maybe allowing the recipients without Coinbase accounts to filter themselves out. And it's notable that this message asks for action to deny and a non-response to approve. The vast majority of legit messages of this kind are the other way around: silence means deny. And that's smart, that's the way it *should* be.
+
+More relevant this time is a sort of a sunk cost fallacy. In the world of video games that are "free to play" but with microtransactions for additional bonuses, it's well understood that getting the user to make their first payment is a massive step. Once someone has caved and paid once, they're much more likely to continue to do so. And at some point you can ask me about the fascinating ways in which a scammer on the streets of Istanbul employed a bunch of tricks to make it really hard for me to disengage once we had started talking, but that's a longer story. But in short: if a scammer can get you to take the first step, you're much more likely to fall for the following steps. So in this case, having the first step be something so likely to get casual responses means a higher success rate as a whole.
+
+If the CryptoChameleon playbook described by Ars is accurate, there would probably be a followup text or email with a link to a fake phishing Coinbase login page, ready to take my password. I would hope even if people fell for the first step, they'd catch the issue at this point, but the danger could be that the first step being fairly risk-free would cause people to let their guard down.
+
+This turned out longer than I planned, hope it reads all right. *tl;dr*: Scams nowadays will likely start with "unauthorized device/login" messages, these kinds of messages should make you consider if the source could be a scammer.
+
+</details>
+<details>
+<summary>u/asdafari12 educates us on malicious transactions</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ca2coe/daily_general_discussion_april_22_2024/l0s0dpr/)
+
+> Can I accidentally sign something malicious and it then drains my wallet?
+
+Yes, hackers can be very creative. You could lose all of a single token, or an NFT or even native ETH. Not more than one type or token per signature. 
+
+I didn't think they could touch your ETH but just recently learned of a way. It uses eth_sign to have you sign a TX that the scammer generated in advance. It will only be valid for one nonce though. Basically, your private key has signed a TX that the scammer can create later, for example an ETH transfer. The wallets warn of those signature types heavily though. 
+
+It is also possible to lose many NFTs at once. I don't completely understand it but I remember when some people lost multiple Apes/Punks a couple of years back in a signing scam. Below is an article on it. 
+
+> "However, signing a message like the second or third image on a website that turns out to be a scam will grant the scammers contract (and linked wallet) the ability to literally just buy all your approved NFTs to the specified contract under the “exchange” for ETH" -https://www.linkedin.com/pulse/what-gasless-signature-scam-heiner-garcía-pérez-u0ice
+
+It can be difficult to spot a scam because the UI in Metamask is often abysmal for signatures. It's a lot better in Rabby but even there sometimes it doesn't understand things. It can then look like, you are trading asset 0xCY45... for asset 0x567DF... at a price of 85000000 gwei. That's just ridiculous and easy to make a mistake on any of the contracts or even the amount might be a zero too much/little. I have read of people getting scammed this way. 
+
+You should always be careful when signing. If you are some public crypto MVP with millions of USD, you should even be extra careful. Use a separate PC only for crypto. I read about someone at a crypto company that opened a job resume PDF, it had some kind of malware that affected his metamask to push a modified TX to his hardware wallet which drained the company of millions USD.
+
+Separating wallets and having a multi-sig are good practices.
+
+</details>
+<details>
+<summary>u/evm_lion has caught the FHE bug</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cawa14/daily_general_discussion_april_23_2024/l0y1iq6/)
+
+Logris got me very interested in FHE for the past few days. Thank you for sharing! The tech is super interesting as someone who consistently takes the long and dull path while navigating the internet to preserve privacy and reduce data-mining (even though I know that it doesn't change anything in the grand scheme). A bit surprised I didn't know about this technology before. Running algorithms over data without knowing the true input/output, while still knowing the validity of the computation is preserved, is mind-blowing, but also makes sense when looking a bit closer.  
+  
+In a utopian future, where this is the new standard for how the internet and its services work, I wonder how companies will keep serving you things like relevant ads and a personalized experience. Although I'd be more than happy to live in a world without these "features", the incentives are just so strong that it doesn't make sense for them to let them go willingly. Anyone have any thoughts about this?
+
+It would be nice if it turned into a marketplace, where you get these things served blindly through the same mechanisms, and got compensated for doing so (Brave had a cool visionary idea like this, but didn't work out that well in practice). A less cool approach would be design-patterns for applications to gate-keep certain features, like premium services or exclusive content in exchange for users opting in to give their data. 
+
+(Feel free to delete this if its too off-topic, mods)
+
+</details>
+<details>
+<summary>u/waqwaqattack will be filling in the Daily Gwei shortage!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cbpygi/daily_general_discussion_april_24_2024/l11onv7/)
+
+Howdy y'all! 
+
+So, I think most of us here watch The Daily Gwei everyday. For those of you who do watch, you'll know that Sassal is taking a 2 week break from recording the show starting on Monday. During that time, I'm going to help fill in the gap by providing Ethereum news on top of Rocket Pool news on Rocket Fuel.
+
+Sassal talks about it in today's episode: [https://www.youtube.com/watch?v=qhI6OsMVZk8](https://www.youtube.com/watch?v=qhI6OsMVZk8)
+
+For those of you who want to follow along, my YouTube channel is [www.youtube.com/@RocketFuel-RPL](http://www.youtube.com/@RocketFuel-RPL) and I also release episodes via podcast here:   
+
+- Podcast RSS: [https://anchor.fm/s/cd29a3d8/podcast/rss](https://anchor.fm/s/cd29a3d8/podcast/rss)  
+- Anchor.fm: [https://anchor.fm/rocket-fuel](https://anchor.fm/rocket-fuel)  
+- Spotify: [https://open.spotify.com/show/0Mvta9d2MsKq2u62w8RSoo](https://open.spotify.com/show/0Mvta9d2MsKq2u62w8RSoo)  
+- Apple Podcasts: [https://podcasts.apple.com/us/podcast/rocket-fuel/id1655014529](https://podcasts.apple.com/us/podcast/rocket-fuel/id1655014529)
+
+I won't be able to match his knowledge and insights (or bullish rants), but it might be a useful stop gap while he's away.
+
+</details>
+<details>
+<summary>u/SeaMonkey82 shares the latest Lodestar release</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cawa14/daily_general_discussion_april_23_2024/l0ybdlt/)
+
+[Lodestar v1.18.0 released today](https://github.com/ChainSafe/lodestar/releases/tag/v1.18.0)  
+
+> Our new release contains some noticeable facelifts! We recommend this update to all users of Lodestar.
+>
+> Our documentation located at https://chainsafe.github.io/lodestar/ is now using Docusaurus for a better experience. We've attached Plausible metrics to further help improve the contents of our documentation with minimal intrusiveness and open-source analytics. We continue to do content additions and improve our documentation for the best user and builder experience possible.
+>
+> This release addresses many compatibility issues discovered from cross-client testing with Lodestar and other consensus clients. This also includes fixes for compatibility with some external DVT platforms and remote signers.
+>
+> Target peers by default has been increased from 50 to 100 peers. Many users have already set this for better validator effectiveness and now we have it set by default to become a better peer on the network.
+>
+> builder.selection now has a default setting that gives slightly preferential treatment to locally produced blocks via builderBoostFactor=90 . This configurable setting is set to 90 instead of 100 by default, requiring builder blocks from relays to be above ~10% profit to be selected. The previous default setting was maxprofit. This can be changed in your local configuration.
+>
+> Basic devcontainer support is now integrated for easier development setups such as Github Codespaces. For more information, see https://chainsafe.github.io/lodestar/contribution/getting-started#devcontainer.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #62: April 12, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=_43-fLJYhMk) | [POAP](https://collectors.poap.xyz/drop/172302)
