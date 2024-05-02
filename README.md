@@ -19696,6 +19696,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | lefterisjp            | [Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy
 .  | logic_beach           | [RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day;<br>Coordinates a cohort of solidity learners: <https://discord.gg/aVnY7jnJWt>
 .  | logristhebard         | [Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain
+.  | mango_sake            | [Kollit](https://kollit.ai/) - A tool to create optimal buy/sell strategies
 .  | midnightonmars        | [GridPlus](https://gridplus.io/) CEO
 .  | mister_eth            | [ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks
 .  | motionick             | [Wanderers Founder](https://www.wanderers.ai/game] - A free-to-play sci-fi based rogue-lite game with card collecting and deck building elements
