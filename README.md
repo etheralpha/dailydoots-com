@@ -20081,6 +20081,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
 .  | edmundedgar           | An r/ethereum moderator
 .  | eetherway             | [Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content <br> Part of the core team at Unstoppable Games
+.  | empirestake           | [Lantern Finance](https://www.lantern.finance/) Co-Founder - A US-based staking platform
 .  | ethmaxitard           | [L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources
 .  | fc-test               | Working on building a web3 game
 .  | fly1n_hawaiian        | Community Manager at [ZkSync](https://zksync.io/)
@@ -20105,8 +20106,9 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | motionick             | [Wanderers Founder](https://www.wanderers.ai/game] - A free-to-play sci-fi based rogue-lite game with card collecting and deck building elements
 .  | nikola_j              | [DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions
 .  | nixorokish            | [EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant
+.  | nodeset_nick          | [NodeSet](https://nodeset.io/) Founder & CEO - Connecting node operators to value
 .  | pbrody                | [EY Blockchain](https://blockchain.ey.com/) team member
-.  | prince_lantern        | [Lantern Finance Co-Founder](https://www.lantern.finance/)
+.  | prince_lantern        | [Lantern Finance](https://www.lantern.finance/) Co-Founder - A US-based staking platform (now u/empirestake)
 .  | profstrangelove       | [LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees
 .  | pseudotheos           | Researcher at [Scroll](https://scroll.io)
 .  | readreed              | [POAP Studio](https://www.poap.studio/) team member
