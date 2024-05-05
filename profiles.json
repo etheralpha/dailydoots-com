@@ -101,6 +101,11 @@
     },
     {
         "": ".",
+        "Username": "empirestake",
+        "Description": "[Lantern Finance](https://www.lantern.finance/) Co-Founder - A US-based staking platform"
+    },
+    {
+        "": ".",
         "Username": "ethmaxitard",
         "Description": "[L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources"
     },
@@ -191,6 +196,11 @@
     },
     {
         "": ".",
+        "Username": "mango_sake",
+        "Description": "[Kollit](https://kollit.ai/) - A tool to create optimal buy/sell strategies"
+    },
+    {
+        "": ".",
         "Username": "midnightonmars",
         "Description": "[GridPlus](https://gridplus.io/) CEO"
     },
@@ -216,13 +226,18 @@
     },
     {
         "": ".",
+        "Username": "nodeset_nick",
+        "Description": "[NodeSet](https://nodeset.io/) Founder & CEO - Connecting node operators to value"
+    },
+    {
+        "": ".",
         "Username": "pbrody",
         "Description": "[EY Blockchain](https://blockchain.ey.com/) team member"
     },
     {
         "": ".",
         "Username": "prince_lantern",
-        "Description": "[Lantern Finance Co-Founder](https://www.lantern.finance/)"
+        "Description": "[Lantern Finance](https://www.lantern.finance/) Co-Founder - A US-based staking platform (now u/empirestake)"
     },
     {
         "": ".",
@@ -268,6 +283,11 @@
         "": ".",
         "Username": "swagtimusprime",
         "Description": "Developer Relations at [Scroll](https://scroll.io)"
+    },
+    {
+        "": ".",
+        "Username": "takegreenpill",
+        "Description": "[OBOL](https://obol.tech/) team member"
     },
     {
         "": ".",
