@@ -1069,7 +1069,7 @@ Rank | Username   | Daily Doots
 <details>
   <summary>Week #64: May 3, 2024</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/173217)
+[Livestream Recording](https://www.youtube.com/watch?v=0ozYrP0SfZk) | [POAP Checkout](https://checkout.poap.xyz/173217)
 
 *Special guest Swagtimus joins us from [Scroll](https://scroll.io/), an EVM-compatible ZK rollup.*
 
@@ -3418,7 +3418,7 @@ They sent a thank you note that said Kana was so excited she ran to school at 6 
 <details>
   <summary>Week #56: February 16, 2024</summary>
 
-[Listen Live](https://www.youtube.com/watch?v=HD2frZKqxlE) | [POAP Checkout](https://collectors.poap.xyz/drop/168421)
+[Livestream Recording](https://www.youtube.com/watch?v=HD2frZKqxlE) | [POAP Checkout](https://collectors.poap.xyz/drop/168421)
 
 **Announcements**
 
@@ -7457,7 +7457,7 @@ Thank you.
 <details>
   <summary>Week #44: November 24, 2023</summary>
 
-[Listen Live](https://www.youtube.com/watch?v=A0Uk6WWNsUo) | [POAP](https://collectors.poap.xyz/drop/159601)
+[Livestream Recording](https://www.youtube.com/watch?v=A0Uk6WWNsUo) | [POAP](https://collectors.poap.xyz/drop/159601)
 
 
 <details>
@@ -7964,7 +7964,7 @@ No Livestream | No POAP
 <details>
   <summary>Week #41: October 27, 2023</summary>
 
-[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP](https://collectors.poap.xyz/drop/157240)
+[Livestream Recording](https://www.youtube.com/watch?v=HxFRR5gyupg) | [POAP](https://collectors.poap.xyz/drop/157240)
 
 **Announcements**
 
