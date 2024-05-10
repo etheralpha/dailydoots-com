@@ -1070,9 +1070,298 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #65: May 10, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/173477)
+
+*Special guest Prince Jindal joins us from [Lantern Finance](https://www.lantern.finance/), a new liquid staking protocol.*
+
+**Announcements**
+
+- Reminder: Mother's day is this Sunday (May 12th)
+
+**Upcoming Guests**
+
+- May 17 - Waq of [Rocket Fuel](https://www.youtube.com/c/RocketFuel-RPL)
+- May 24 - Anthony Bertolino of [Obol Network](https://obol.tech/)
+- May 31 - Chris/Jean-Paul/Interweaver of [Influence](https://www.influenceth.io/)
+- June 21 - Brendan Asselstine of [PoolTogether](https://pooltogether.com/)
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cohjve/comment/l3e4lbl/)
+
+[u/LifelongHODL](https://reddit.com/u/LifelongHODL)
+
+> Ethereum
+
+[u/AuspiciousEther](https://reddit.com/u/AuspiciousEther)
+
+> €2812
+
+[u/Zeebrasurfer](https://reddit.com/u/Zeebrasurfer)
+
+> 0.048
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 90,430 hodlers subscribed (+5)
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/comment/l2qfzdn/)
+
+*Feel the blockchain beat,*
+
+*The protocol is complete,*
+
+*Rest is obsolete.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/HauntedJockStrap88</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/daily_general_discussion_may_5_2024/l2qeoko/)
+
+Idk man. I doubt that Blackrock, Van Eck, Franklin Templeton, Stripe, Mastercard, Visa, PayPal, JPM Chase etc. being interested in ETH is important. 
+
+We probably won’t even see ATHs again, or even appreciate in price from here. 
+
+When Larry Fink talks about instantaneous guaranteed settlement and the tokenization of securities I’m sure he’s talking about Cardano or Solana. 
+
+I’m sure Base deploying as a layer 2 on ETH instead of as an alt Layer 1 that’s just noise. 
+
+The United States Federal Government being concerned about DeFi as a national security threat is obviously not the most bullish thing imaginable. They totally always embrace technological innovation quickly and without question. If ETH was truly as disruptive (and lucrative) as we’ve all been suspecting the United States Federal Government certainly wouldn’t be raising an eyebrow at it. No sir. 
+
+Sell it all. ETH isn’t just a security. It a mega-doodoo scary evil security that is also a shitcoin of no importance and will clearly go to 0.
+
+</details>
+<details>
+<summary>u/charitablechair sees web 2 thinking in airdrops</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ci7az9/daily_general_discussion_may_2_2024/l28airo/)
+
+After the EIGEN token announcement (and subsequent backlash) I've been thinking a lot more about how so much in the world of crypto right now seems to be the product web2 thinking i.e. VC money, financialized governance, etc etc.
+
+One big plot hole with this web2 thinking, as I see it, is that it's really hard if not impossible to create a moat in crypto. Liquidity is never truly locked, vampire attacks are a thing, etc. etc. I personally believe that the crypto future that we were promised is not built on the back of for-profit, but rather autonomous public goods that are built and then kind've just put out into the world. Therefore this is a misalignment.
+
+Adding to this rift is the fact that it seems VCs have figured out the crypto equivalent of the traditional [attract->extract](https://brandondonnelly.com/2018/02/19/attract-and-extract/) model. Since it is so hard to "turn a profit" in crypto, the main way to get paid is via this charade we call governance tokens. The attract cycle is building up TVL and hype, and the extract cycle is a user-hostile TGE and exit. This would explain...
+
+1. Tiny and arbitrary allocations (5-10% for the community, airdrops for random NFT projects, etc.)
+2. Opaque snapshot and TGE dates that of course insiders know beforehand
+3. No withdrawal functionality until after TGE as a way of inflating TVL numbers (looking at you Renzo)
+4. Non-transferable tokens (that is, until VCs are vested)
+5. Arbitrarily limiting regions and putting serious effort into blocking VPNs 
+
+The EIGEN announcement is of course disappointing, but in retrospect it's obvious that it would go this way.
+
+The silver linining in all this is that once the dust settles we'll find that some things did get built with all this VC money after all. Those interested in creating public goods can take what's been built, clone it, and undercut it. Since I don't see a shift in how we fund crypto projects anytime soon, this is what I rest my optimism on.
+
+</details>
+<details>
+<summary>u/PhiMarHal does their due diligence on the Swell L2</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/daily_general_discussion_may_5_2024/l2piabr/)
+
+The other day, one of us asked if depositing assets into Swell L2 was safe.
+
+I took a look today!
+
+Swell L2 isn't live, so currently you're depositing into a staking contract. The code looks clean and intuitive.
+
+If you deposit rebasing assets like eETH or stETH or plain ETH, your deposit is first routed through a zapper contract to convert it to weETH, wstETH or wETH.
+
+The zapping contract is here: <https://etherscan.io/address/0xbd9fc4fdb07e46a69349101e862e82aa002ade0d#code>
+
+There's no issue with this contract. It's immutable, no access control, everything is clearly defined.
+
+Then in either case, your assets end up in the proper staking contract.
+
+The staking contract is here: <https://etherscan.io/address/0x38d43a6cb8da0e855a42fb6b0733a0498531d774#code>
+
+It's a simple contract with a couple functions. When your assets are inside this contract, they are dormant, not used for anything and not exposed to extra risk.
+
+Only you can deposit and withdraw your assets. 
+
+**EDIT: relevant update -> [u/ennui85](https://reddit.com/u/ennui85) points out the emergency function can't actually touch your deposits. That was a misread on my part.
+
+This means the contract is 100% safe, much better than my "fairly safe" assessment.
+
+-- end of original post below --
+
+Save for one emergency function: the "owner" of this contract can withdraw the full balance of any allowed token inside the contract.
+
+This "owner" leads to a Timelock: <https://etherscan.io/address/0xCa2DF225ba3c4743E02611EC423FaAC311dEEEd4#readContract>
+
+The Timelock delay is set to 259200 seconds (3 days).
+
+The "admin" of this Timelock leads to a 4-of-6 multisig: <https://etherscan.io/address/0x20fDF47509C5eFC0e1101e3CE443691781C17F90#readProxyContract>
+
+Overall I'd rank this as "fairly safe" = less safe than Uniswap, but safer than PT/YT on Pendle and safer than money markets like Aave/Compound. 
+
+The 3 days delay on owner withdrawals *should* be a guarantee against any wrongdoing, provided you assume between $500M of TVL some depositors will monitor the multisig (or do it yourself). The code is simple, in a good way, your assets simply sit in this contract. There is no upgrade function of any kind, presumably the bridging to Swell L2 will be an entirely manual process once it goes live (which is also a good thing).
+
+</details>
+<details>
+<summary>u/back_to_samadhi returns from a long time off and wants to catch up with how Ethereum is tracking compared to its initial vision and u/pa7x1 and u/hblask share the important stuff.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/daily_general_discussion_may_5_2024/l2ovthg/)
+
+[u/back_to_samadhi](https://reddit.com/u/back_to_samadhi):
+
+Invested in Ethereum in the 2014 ICO. I have been away for a long time. I'm currently unwell and do not have the energy to try to get up to date, I barely understood how POW worked.
+
+Whatever Ethereum is today, does it still have promise of building a new financial ecosystem and being the backbone of finance? Mass adoption will come if the correct/needed applications are being built.
+
+But at a quick glance the space seems to be slightly empty, and all I see are airdrops and yield farming, when Ethereum and in general crypto has (had?) the potential to create a real revolution and change humanity.
+
+Can someone direct me to good sources of information I could read or watch to catch up with what has been happening since 2021? As I said, I'm very unwell and do not have the mental sharpness or strength to go in depth right now...even if I want to.
+
+Ever since August 2015 I've been following the ETHBTC ratio, and although I'm not worried, I am starting to think perhaps my timeline for seeing a ratio bull market is farther away than I had hoped...perhaps this still needs a few years. Or perhaps this is a retest of the ratio breakout from 2021 before moving higher.
+
+But we need a catalyst, and airdrops along with yield farming won't cut it. Ethereum needs to prove that a new financial system is on the way before a bubble similar to the dot com bubble is possible. Perhaps that's here, hence I'm asking for information to help me build an objective narrative. Thanks, and bless you all with good health...its much more important than any of this.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/daily_general_discussion_may_5_2024/l2p1cr0/)
+
+[u/pa7x1](https://reddit.com/u/pa7x1):
+
+After the latest update that made rollups economically viable, Ethereum is ready for primetime. The vision for a new, efficient and transparent backbone for finance that dis-intermediates middlemen is finally possible technically. Before we were limited to 10-20 transactions per second which is clearly insufficient to meet global settlement needs. Right now we have room for around 300-500 tps and the scalability roadmap will keep pushing it further to the order of 100K tps. 
+
+The most significant roadblock right now is regulatory, the SEC and current US administration is very antagonistic of crypto and Ethereum in particular. But technology is unstoppable, once the genie is out it cannot be put back in. These hurdles will be overcome too.
+
+If you have not been following you can hear it from the mouth of Blackrock's (biggest asset manager in the world) CEO himself. <https://www.youtube.com/watch?v=HTveRlW7QPo>
+
+Wish you the best, take care of yourself.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/daily_general_discussion_may_5_2024/l2p34vy/)
+
+[u/hblask](https://reddit.com/u/hblask):
+
+I think people always look to the consumer/retail side to see if Ethereum is living up to its potential, but I think that is a mistake. I think the real potential is in the commercial side of things, such as the stuff Paul Brody is doing with EY.   Just google "Paul Brody EY Nightfall".  There are tons of videos.
+
+The tl;dr is: EY is working on a set of business tools for supply chain tracking, so that companies can track every input and output of the supply chain from raw materials to consumer. Additionally, companies can ask for bids over the blockchain, award contracts, track performance, and do all the necessary accounting and payments.
+
+They thought it would take about a decade to really build momentum -- like turning a battleship, you need a lot of lead time.  I believe we are about halfway through that, and many companies are trying it and starting the transition.
+
+</details>
+<details>
+<summary>u/issac_hunt1 shares our biggest frustration right now and u/cryptrd285 shares news behind it</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1claz43/daily_general_discussion_may_6_2024/l2uigbh/)
+
+[u/issac_hunt1](https://reddit.com/u/issac_hunt1):
+
+The "regulation by enforcement" is so frustrating. You cant seriously tell me Coinbase, Uniswap and Metamask are the bad guys in crypto.. when so much blatant insider trading, pump and dumps every single day. It suggests that there is just some ulterior motive 
+
+Robinhood is one of the largest non-crypto companies to get into crypto in a big way (I mean for retail they have wallet/dex, and please the BTC ETF doesn really count in this), and now they are being sued. This is just intimidation and send a message to rest of the companies that if you get into crypto, you will be sued
+
+Its no wonder no other big company has even tried. Last cycle there was genuine hope that companies will push into crypto. Nike, Coke, many played around with NFTs. Reddit came up with tokens. This cycle many more were gonna experiment....but now do you think a big company like Apple or Google will launch even a crypto wallet? If they dont know they are going to be charged as a "broker dealer" or "clearing agent" or "unregistered security" or whatever 
+
+Its just to kill crypto .... Its all part of the agenda to stifle any growth of crypto
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1claz43/daily_general_discussion_may_6_2024/l2ugvtr/)
+
+[u/cryptrd285](https://reddit.com/u/cryptrd285):
+
+SEC sues $COIN and claims SOL, ADA, MATIC, FIL, SAND, AXS, CHZ, FLOW, ICP, NEAR, VGX, DASH and NEXO are securities
+
+$HOOD gets sued and only list BTC, ETH, DOGE, SHIB, AVAX, LTC, UNI, ETC, LINK, XLM, and AAVE
+
+So either SEC is making it up as they go or they missed a lot of “securities” when they sued coinbase
+
+<https://twitter.com/UncleRewards/status/1787493240767140087>
+
+</details>
+<details>
+<summary>u/krokodilmannchen is now a mod of r/EthFiance</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1claz43/daily_general_discussion_may_6_2024/l2ttdat/)
+
+Completely offtopic but she said yes today. :) 🌟
+
+![](https://i.imgur.com/UsbU19p.jpeg)
+
+</details>
+<details>
+<summary>u/Syentist covers their favourite recent Ethereum podcast series</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ckjkf6/daily_general_discussion_may_5_2024/l2o62mn/)
+
+Infinite Jungle podcast by Christine Kim (she used to do the tweetstorms after each ACD call back in the day) is easily my top podcast on the Ethereum ecosystem lately. Beats out the Daily Gwei which was my previous must-listen
+
+There's two 30min episodes a week, the first which covers what the core devs decided in the previous week's ACDC/ACDE call, and the second which interviews someone from the Ethereum ecosystem. 
+
+The best part is she has a way of explaining hard to understand concepts almost like a school teacher - I've learned so much about account abstraction, Verkle tries, the EVM, EOF etc, even despite having a rough understanding of these areas already.
+
+</details>
+<details>
+<summary>u/llamachef shares a cool product they have been using since ETHDenver</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cm3wej/daily_general_discussion_may_7_2024/l2z31wi/)
+
+EthDenver follow up regarding Exponential.Fi, which was one of the stalls in the hall and had an offer for those that signed up during EthDenver. The offer was for those that verified by the end of the gathering, deposited and held the investment for 60 days, those that deposited 1,000 USDC got 100, and a 10,000 deposit got 1,000. Just got passed the 60 day mark and got the offer paid out, so that's neat.
+
+The Exponential product, in my view, is trying to make defi appear through a more traditional investment bank wrapped. You login, do the KYC and all, and can either deposit from your Bank through Bridge or send via an Eth wallet, on mainnet, Arb, Polygon, and others, and you can send Eth or usdc. Once deposited you are presented with a variety of portfolios and projected APRs to invest in, denominated in currencies like eth, BTC, stables or some alts. They have pretty charts and stuff, and easy to understand descriptions of what's being invested in and the risk (and I just found you can click on "Full Report" to get a detailed breakdown, like quality of code, usage, reliability and more, and links to the actual defi site and a discord to discuss), like USDC-Across bridging, the Arb TriCrypto, etc . Pretty easy to invest into something, isn't instant like defi, I suspect they delay a day or two to try and batch transactions. Once invested it shows your average return and projected, again with charts and percentages. Pretty slick overall.
+
+I like the product for a couple reasons. First, it keeps (and kept) me from doing wilder defi things because I knew I had to invest for the 60 days. It also allows automatic reinvesting of profits, like a traditional investment fund. Will probably keep my investments there since it pretty much was funded with eth profit taking. It's a very nice site and I don't need to be doing lots of wallet approvals and transactions to do anything. I'm assuming the tax report will be pretty nice when the time comes. And hey, they followed through on their 60 day promise of a USDC reward and I can't be sad with free USDC. 
+
+Cons, though not super cons I guess. KYC with ID, so very tradfi. Also, for some reason you can only withdraw in the same amount as you deposited, you can't divide it up, which is weird cause I can do that with stocks and the like. So I've got the ability to withdraw my whole initial deposit, or my profits. The fee page says they can take up to 1%, when I looked at mine it said 0.2%, so a positive in understanding the fees involved, but no variability for onchain gas or timing to make it cheaper.
+
+Not shilling (the majority of my defi is still via wallets), but just think it's a good way to take defi into the tradfi space.
+
+</details>
+<details>
+<summary>u/benido2030 introduces the Ethereum Defence Alliance</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cmwhiy/daily_general_discussion_may_8_2024/l33js7o/)
+
+Good day EthFinance,   
+  
+I would like to share a new initiative: The [Ethereum Defense Alliance](https://ethereumdefensealliance.com/). So what is the Ethereum Defense Alliance or EDA?
+
+>We are a group of individuals and entities with the goal of protecting Ethereum against risk vectors and fostering a robust and sustainable network.
+
+The EDA was initiated last year when the threat of Lido was even greater than it is today and as you all know it has evolved since then. Some EthFinance members like u/hanniabu, u/bob-rossi, u/minimalgravitas and myself are EDA Stewards and we are trying to coordinate people and ideas. There are already many more members and entities that have joint the EDA. 
+
+We saw the power of coordination and importance of governance to protect the network. The EDA’s mission is protect Ethereum from centralization and risk vectors in every shape of from through:
+
+* Collaboration: As the saying goes, “it takes a village to raise a child”. We aim to bring together individuals, projects, and organizations from across the ecosystem to promote positive change as a united front.
+* Education: Knowledge about decentralization pitfalls and their common causes is important to prevent the community at large from falling into them. This is our first (and possibly best) defense against risk vectors.
+* Governance: Project governance can have influential effects on the rest of the network. The EDA contains delegates from key projects who will prioritize and advocate for chain health.
+* Monitoring: We are developing tools and resources to actively monitor threats to Ethereum’s decentralization to catch issues early.
+* Change: Once a threat has been identified, we look to spread awareness to the broader Ethereum community for swift course correction.
+
+We believe this community understands the risks as well. Basically the search for delegates is/ was already one of the EDA's initiatives. But governance is only a means to an end and there is obviously more than that. We are looking forward to your input. The goal is to become even more proactive and drive changes before threats even show up. If you have any questions, you can post them here, contact one of us or use the contact form on the [EDA homepage](https://ethereumdefensealliance.com/). 
+
+</details>
+<details>
+<summary>u/asdafari12 has the latest US regulatory shenanigans</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1cmwhiy/daily_general_discussion_may_8_2024/l3650hy/)
+
+> <https://x.com/CodyCarboneDC/status/1788263944034934964>
+
+Even if there are bipartisan pro-crypto agreements in congress, Biden is prepared to veto it according to a press release from the White House today on one such potential agreement that is being voted on later today. Is this how democracies should work?
+
+Basically, the SEC issued guidelines (SAB 21) that banks, brokers-dealers, and many other entities can't custody digital assets. They did so without first asking for comments or coordinating with other agencies. 
+
+See link below for full reasons given why they want to nullify the SEC SAB 21. It is a good brief read that makes sense to me. Risks are also bigger if all custody is concentrated to Coinbase. 
+
+> <https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409242>
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #64: May 3, 2024</summary>
 
-[Livestream Recording](https://www.youtube.com/watch?v=0ozYrP0SfZk) | [POAP Checkout](https://checkout.poap.xyz/173217)
+[Livestream Recording](https://www.youtube.com/watch?v=0ozYrP0SfZk) | [POAP](https://collectors.poap.xyz/drop/173217)
 
 *Special guest Swagtimus joins us from [Scroll](https://scroll.io/), an EVM-compatible ZK rollup.*
 
