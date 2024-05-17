@@ -20372,6 +20372,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | cryptouf              | [Unofficial Curve Newsletter](https://cryptouf.substack.com/) -  A newsletter about what's happening in Curve Finance
 .  | danceratopz           | [disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits
 .  | davidahoffman         | [Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey
+.  | daw_                  | [AirdropScan](https://airdropscan.org/) - Find unclaimed crypto airdrops
 .  | dmihal                | [CryptoStats Founder](https://cryptostats.community/) - A community-driven neutral source for crypto metrics
 .  | domotheus             | EF Researcher
 .  | dreth                 | Writing a book about crypto/defi (hence asking for scam examples recently) and writing in my blog <https://dac.ac/>
