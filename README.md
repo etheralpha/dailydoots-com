@@ -1280,7 +1280,7 @@ What are your takeaways?
 
 </details>
 <details>
-<summary>u/benido2030 shares our ZKSync delegates.Then delineates the ZK delegation. While • u/_WebOfTrust discusses delegation</summary>
+<summary>u/benido2030 shares our ZKSync delegates while u/_WebOfTrust discusses his delegation experience</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/1dh06hm/daily_general_discussion_june_16_2024/l8vple4/)
 
 [u/benido2030](https://reddit.com/u/benido2030):
