@@ -1088,6 +1088,294 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #69: June 21, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/175083)
+
+*Special guest Brendan Asselstine joins us from [PoolTogether](https://pooltogether.com/), a protocol to win while saving.*
+
+**Announcements**
+
+- 🎉 [u/superphiz](https://reddit.com/u/superphiz) surpasses 200 daily doots! 🎉
+
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dkvydm/comment/l9knzvs/)
+
+[u/franzperdido](https://reddit.com/u/franzperdido)
+
+> Äh...thereum?
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 90,560 hodlers suhh...ubscribed (+4)
+
+[u/Tom_The_Moose](https://reddit.com/u/Tom_The_Moose)
+
+> $3509
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> 0.0544
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ddymob/comment/l8c4z8m/)
+
+*Bridge in and bridge out,*
+
+*An habit we must ditch out,*
+
+*Intents will switch out.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/MrCatFace13</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1djb287/comment/l9a68vh/)
+
+It's 3am and Gary hasn't been home yet. He's sweating, gently waxing his red stapler for the last time over a bottle of Jim Beam. Elizabeth Warren said he could only keep the stapler, which he stole from the strange man in the basement, if he destroyed crypto. After glossing over the TPS reports on his desk in a bourbon-daze, Gary picks up the phone. A smokey Eldritch voice answers.
+
+"It's Gary," Gary says, wondering if any other color of stapler will ever fill the vessel of his soul like the red one has. "Drop the investigations against ETH."
+
+He pours himself and his red stapler a snifter of whisky; then he simply weeps.
+
+(Which is to say: <https://cointelegraph.com/news/sec-to-drop-ethereum-investigation-says-consensys>)
+
+</details>
+<details>
+<summary>u/stablecoin covers a concerning bill amendment in the states</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1deqzov/daily_general_discussion_june_13_2024/l8frolx/)
+
+[edit] these amendments are in committee still and likely will be tough for Brad to get his way this time. we will know more when the bill is finalized. 
+[/edit]
+
+Brad Sherman just cucked the USA again by effectively banning P2P crypto amending shit last minute into a must pass defense bill. 
+
+Every node connects to Russia, every transaction must be doxed. There is no escaping this hell until the tech is so innocuous and private it is impossible to regulate. 
+
+<https://x.com/eleanorterrett/status/1801228173851394204>
+
+> 🚨NEW: California Democrat @BradSherman filed an amendment with the House Rules Committee for the following to be included in the must-pass NDAA (National Defense Authorization Act) bill: 
+
+> 1. The @USTreasury Secretary would have “clear authority to prohibit digital asset trading platforms and transaction facilitators under U.S. jurisdiction from transacting with cryptocurrency addresses that are known to be, or could reasonably be known to be, in Russia.”
+
+> 2. @FinCENnews (Financial Crimes Enforcement Network) would be able to require U.S. taxpayers engaged in a transaction with a value greater than $10K of cryptocurrency offshore to file FinCEN Form 114 (FBAR).
+
+</details>
+<details>
+<summary>u/domotheus used a cool tool to prevent someone getting rugged by a honey pot</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ddymob/daily_general_discussion_june_12_2024/l8an1hx/)
+
+<https://honeypot.is/?address=0xd52456e8a33718f72ba38469539c082eb761f78b>
+
+> POPCAT (POPCAT)  
+> Honeypot Detected
+> 
+> Run the fuck away.
+> 
+> execution reverted: TransferHelper: TRANSFER_FROM_FAILED
+> 
+> The taxes on this token are extremely high. You will get significantly less from a trade than expected, be careful!
+> 
+> A very high amount of users can not sell their tokens. This is likely a honeypot.
+> 
+> all_snipers_honeypot
+
+</details>
+<details>
+<summary>u/suburbiton explains why the long tail of assets hasn't pumped yet</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dfiz4n/daily_general_discussion_june_14_2024/l8jlorf/)
+
+From twitter:
+
+People don’t understand why markets pump. How the flow of money works. The first tier of money goes to top tier stocks and government bonds. Then to high level private equity private credit etc .. Then it flows to higher risk bonds. Then to higher risk stocks…to top tier corporate bonds. Lower tier private equity… alternative investments like bitcoin. Then….
+
+After everything is filled … money flows to high high risk like Altcoins etc and alt stocks penny stocks what not. The reason no Altcoin or even Ethereum has hit a new ATH or broken or even come close to breaking 2021 highs is because there isn’t money to make it that far. 
+
+You need liquidity events in market to reach the far depths of risk. That far depth gets touched once everything else is full. Similar to money flowing bucket to bucket. The liquidity event that happened in 2008 and 2020 has not happened yet. Liquidity events are lower rates, or stimulus. Without it you cannot have high risk products pump. In January 2024 market was pricing in a huge liquidity event for 2024. 7 rate cuts. This is why everything hit 3 year highs. This along with bitcoin etf got us a new high on BTC and saw many alts climb several 500-1000% from 2022 lows. That liquidity event never materialized. We went from 7 cuts, to 3 cuts to a shock 1 cut now for 2024. The only way for market to go back up to all time highs accross the board is for liquidity event. Unfortunately if we get a shock event like Covid , or something else black swan that forces the Fed to cut rates quicker or a hard recession it’s usually too late. Market will crash ahead of it. That crash you buy and ride it back up into the liquidity event. 
+
+Fed has decided they don’t want to cut aggressively. They going to cut in December this year and then next year. This will possibly result in a recession or maybe we just see soft landing and gradual cuts over next 2/3 years. I. That scenario market will slowly grind up over next 2-3 years and we might see altcoin highs during that time. Market is forward looking so it can always change. If we approach a recession worse than expected and say u employment ticks up to 5% then Fed will cut but by then we will see a big dump in market on recession or stagflation fears. 
+
+It’s always a tough battle. The last 15 years of bull markets were on the back of liquidity events. This is the first time we have no stimulus. It’s a diff ball game. It’s a much tougher grind market for high risk assets in such scenario. That’s why all money is flowing to easy tech stocks that are giving better returns than crypto. Nobody wants to risk anything because there is no liquidity event. Ofcourse things can change but that’s the state of the market. 
+
+<https://x.com/wizardofsoho/status/1801419487201071423>
+
+</details>
+<details>
+<summary>u/Ethical-trade looks at the difference in usage between Ethereum and Solana</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dfiz4n/daily_general_discussion_june_14_2024/l8kpagn/)
+
+Remember that Solana chain everyone was so worried about a couple of months ago?
+
+[Solana currently has a 4.24% TVL market share over defi](https://defillama.com/chains). Ethereum has a 60.8% market share. Include L2s and it's closing on 70%. Include EVM chains and sidechains and it's over 90%.
+
+A part of me used to wish for eth to remain king on all fronts, including memecoins. 
+
+My worst case scenario used to be *"even if everything fails, there'll still be demand for Ethereum to be the internet's casino, which will require eth for gas (more demand) and this usage will burn eth (less supply). So even in the worst case, price goes up over time".* 
+
+But memecoins have migrated to Solana. Is it a bad thing? Well, not anymore.
+
+Given the recent surge of L2s, the tx cost drops, the ETF, and the institutional demand for tokenisation, the worst case scenario is far better than it used to be. The complete vision seems to be happening, green and scalable. Ethereum becoming the world's settlement layer isn't a pipe dream anymore, it's becoming a realistic scenario. 
+
+Today solana is alleviating Ethereum from scam, grifters, and hopefully regulator attention. It's taking the garbage that didn't require decentralization to function out of our ecosystem. 
+
+Ethereum is taking everything else.
+
+</details>
+<details>
+<summary>u/barthib is making sure you didn't miss all of the bullish news</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dgacad/daily_general_discussion_june_15_2024/l8p8mya/)
+
+In case you didn't see it yesterday:
+
+- The [Wall Street Journal figured out](https://x.com/reptar258/status/1801644699188351236) that stable coins help the american dollar to stay relevant (because everyone in any country can/do hold and use USDC or USDT) and provide the american state with buyers for their debt (indirectly, in the sense that Circle and Tether convert the USDs of their customers into bonds).
+Guess which blockchain hosts 70% of the TVL of stablecoins?
+- [BlackRock reiterated](https://x.com/matthew_sigel/status/1801342560977190937) that public blockchains are more secure and offer more opportunities than the private ones.
+- A commissioner of [the SEC stated](https://x.com/BSCNews/status/1801626710380556328) that tokenisation is the future of financial markets.
+- [ETH ETFs candidates informed journalists](https://x.com/EricBalchunas/status/1801725292404261308) that the SEC gave them feedback on their S-1 forms and the feedback is light, and asked them to update them within a week.
+
+Meanwhile, information sources do business as usual: Coindesk, Cointelegraph and The Block ignore Ethereum-related news or turn them into "blockchain news",
+Crypto Twitter and YouTube shill the shaky and declining Solana, BTC cultists and Solana moonboys repeat outdated propaganda against Ethereum over and over.
+
+Why? Because they know. They are worried.
+
+</details>
+<details>
+<summary>u/696_eth reflects on the ZKSync airdrop from a farmer's perspective</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dh06hm/daily_general_discussion_june_16_2024/l8u6eh4/)
+
+Farmer's POV: $ZK takeaways
+
+My personal insights and experience from farming $ZK airdrop.
+
+• Variety of strategies.
+
+It really paid off using different strategies and although medium and small wallets basically got nothing, it was a good bet to try it out. Focusing on more than 1 big quality account was really smart and that's one of my main takeaways: have 5ish big juicy legit farmor accounts with a deeply rich history and previous qualifications and go at it. It also allows for easier and more pleasant farming because it's not that tedious to repeat.
+
+• Giving up small sybilling accounts.
+
+ZKsync had 9M+ wallets and only ~696k qualified. It makes no sense to continue using low-value and quality wallets while spending one's time and energy. Farmers are not going away, thus you'd still need to stand out in the sea of hopeful airdrop chasers.
+
+• Farming can be ze wei - great risk/reward.
+
+Airdrop farming can be profitable due to great R/R. You have a capped downside of how much money you will burn on gas fees, NFTs, and what not and you have quite an unlimited upside. Yes, zksync had a cap at 100k points but that would have been more than enough to guarantee an insane upside. 
+
+• Sybilling is a must.
+
+Due to the upside being capped sometimes, we have to hedge ourselves or, like in the case with $eigen, lower value accounts are rewarded for being too low of a value lol. For those reasons, it's important not to whale projects unless there's a transparent structure of unlimited upside that aims clearly to not forego whales.
+
+• Overview.
+
+I've heard and been told that it's too late to start farming yada yada but a decent chunk of $zk considering that I started late with no prior knowledge is a great accomplishment. Airdrop farming was and still is one of the most lucrative ways to gain the edge. However, I would argue that the edge lies in whaling some metrics or in the ability to access those resources to pump up your stats, and lesser accounts without that capital are unable to compete, therefore missing out on the great R/R play which in turn makes it worthwhile for lower value portfolios. Time and effort is no longer enough not just to outcompete but to even have a decent chunk of making it. 
+
+• $ZK price speculation.
+
+At current premarket prices of $0.3-0.35ish, it would open at $7ish bn FDV given the 21bn of the total supply. To me, that would be a hold. As always I expect a dump at the open but being realistic even if I am not that skillful to be one of the first to dump, I won't be able to buy back lower. Historically, it has also been true to wait for a pump within days or a week, sometimes up to 16ish days or in rare cases for up to 1.5 months. With those things in mind, I can see a dump, a post-dump pump and I'm personally hoping for a cope pump - you know, that type of pump that TIA had. Ideally, I'd get ~$0.7ish+ and exit.
+
+What are your takeaways?
+
+*p.s. this better edited article + more articles, including recent ones on how to get on farcaster and tips for the newcomers are available on [my paragraph](https://paragraph.xyz/@696eth)*
+
+</details>
+<details>
+<summary>u/benido2030 shares our ZKSync delegates.Then delineates the ZK delegation. While • u/_WebOfTrust discusses delegation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dh06hm/daily_general_discussion_june_16_2024/l8vple4/)
+
+[u/benido2030](https://reddit.com/u/benido2030):
+
+I just played around with the zksync dao tool / delegation portal and the search is... not optimal. I wanted to add an ENS after not having one when setting up the profile and I did, but you can't find my or any profile via ENS. I think starknet used the same tool (Tally) as well I thought it didn't work because starknet has different addresses. You also can't search for usernames, it seems to be not working by default. 
+
+So a quick summary for tomorrow in case you're not dumping on day1: 
+
+- u/haurog: [https://vote.zknation.io/dao/delegate/haurog.eth](https://vote.zknation.io/dao/delegate/haurog.eth) or copy paste this address: 0x1c0AcCc24e1549125b5b3c14D999D3a496Afbdb1
+
+- u/\_weboftrust: [https://vote.zknation.io/dao/delegate/0x7aaba482329d001d9ab7120f0546b6760ae3fe19](https://vote.zknation.io/dao/delegate/0x7aaba482329d001d9ab7120f0546b6760ae3fe19) or copy paste this address 0x7AAbA482329D001D9AB7120f0546B6760AE3FE19
+
+- u/benido2030: [https://vote.zknation.io/dao/delegate/0x05429d5113c06405398f613eaad632f5a00b43e1](https://vote.zknation.io/dao/delegate/0x05429d5113c06405398f613eaad632f5a00b43e1) or copy paste this address 0x05429D5113c06405398F613EAAD632F5A00B43E1
+
+I guess searching for the address is the easiest since I expect claiming and delegating to be one process. You probably can skip delegating and then go to the profile and delegate manually, but doing it in the claiming process is more comfy... 
+
+  
+I'll repost tomorrow morning as well!
+
+---
+
+zkGM - reposting from yesterday re: delegation in zksync 
+
+I just played around with the zksync dao tool / delegation portal and the search is... not optimal. I wanted to add an ENS after not having one when setting up the profile and I did, but you can't find my or any profile via ENS. I think starknet used the same tool (Tally) as well I thought it didn't work because starknet has different addresses. You also can't search for usernames, it seems to be not working by default.
+
+So a quick summary for tomorrow in case you're not dumping on day1:
+
+• u/haurog: <https://vote.zknation.io/dao/delegate/haurog.eth> or copy paste this address: 0x1c0AcCc24e1549125b5b3c14D999D3a496Afbdb1
+
+• u/_weboftrust: <https://vote.zknation.io/dao/delegate/0x7aaba482329d001d9ab7120f0546b6760ae3fe19> or copy paste this address 0x7AAbA482329D001D9AB7120f0546B6760AE3FE19
+
+• u/benido2030: <https://vote.zknation.io/dao/delegate/0x05429d5113c06405398f613eaad632f5a00b43e1> or copy paste this address 0x05429D5113c06405398F613EAAD632F5A00B43E1
+
+I guess searching for the address is the easiest since I expect claiming and delegating to be one process. You probably can skip delegating and then go to the profile and delegate manually, but doing it in the claiming process is more comfy.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1dhq7bj/daily_general_discussion_june_17_2024/l90wmbb/)
+
+[u/_WebOfTrust](https://reddit.com/u/_WebOfTrust):
+
+Claim is still not working for me; I changed to custom RPC, but Rabby is not responding. However, there is some hope on a related topic. Every time I used to look at DAO governance, I would see the same faces as delegates with only token-based governance, which never motivated me to contribute or participate. Everything changed when Optimism governance was announced (plus few other things).
+
+I just looked at the ZKsync delegate page. The Ethfinance delegate combined has a voting power of more than 10M ZKsync (Benido + haurog + Liberosist + smol amount delegate to me as well). This might be a fraction compared to Syncswap or Olimpio, but the point of my rambling is to highlight a change, a positive change that I wanted to see. New faces, views, opinions, and ideas- not just projects representing themselves as delegates, but also community members. Even though they are invested directly, they care about the ecosystem and want to drive it in a positive direction. 
+
+Haurog DM'd me on Farcaster to create a profile as they could not see my profile there, and time was running out. Benido took this initiative to form a sort of delegation council emerging from Ethfinance. To me, I don't see any financial benefits they might be getting for doing this apart from their belief in helping, improving, and contributing to this evolving ecosystem.
+
+So, my dudes, thank you, and I look forward to reading more from you outside of this forum.
+
+</details>
+<details>
+<summary>u/cryptrd285 shares the big W for the day</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1diimbq/daily_general_discussion_june_18_2024/l98r34t/)
+
+> ETHEREUM SURVIVES THE SEC.
+> 
+> Today we’re happy to announce a major win for Ethereum developers, technology providers, and industry participants: the Enforcement Division of the SEC has notified us that it is closing its investigation into Ethereum 2.0. 
+> 
+> This means that the SEC will not bring charges alleging that sales of ETH are securities transactions.
+
+<https://x.com/Consensys/status/1803230653120659641>
+
+</details>
+<details>
+<summary>u/haurog has a DevCon announcement</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1diimbq/daily_general_discussion_june_18_2024/l96k40y/)
+
+If you plan to go to devcon this year, the first opportunity to get a ticket just opened: <https://devcon.org/en/tickets/>
+
+It is a raffle. You bid on tickets. The 20 highest bids get a ticket and then 184 are raffled among all the participants. Minimum bid is 0.08 ETH to participate. The raffle will be open until July 9th. On July 9th they will open discount ticket to which you can apply and plead your case on why you are an important part of the ethereum space. Discount tickets have the same price as the raffle minimum bid (299$). On july 16th the normal tickets go on sale which cost double (599$).
+
+</details>
+<details>
+<summary>u/haurog summarises an article on why stakers sometimes miss attestations</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1djb287/daily_general_discussion_june_19_2024/l99u2wt/)
+
+Lighthouse devs released a blog post about attestation misses. It goes into a lot of details on the path from attestation creation until it is included in a block and discusses all the possible ways an attestation might not get included due to failures at any of the intermediate steps. It also shows how to analyze the origin of possible misses in the logs and their grafana dashboard. This part is obviously focused on how to do it with lighthouse. All in all it is a great read.
+
+The take home message is that quite often attestation misses are outside of the users control. To minimize attestation misses the user can make sure that their clock is synced, has opened the necessary ports to get enough peers and have a hardware setup which does not have a bottleneck (SSD, CPU and bandwidth) to make sure to get attestations out as efficiently as possible. 
+
+<https://lighthouse-blog.sigmaprime.io/attestation-analysis.html>
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Week #68: May 31, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=-d9lEqkoMX0) | [POAP](https://collectors.poap.xyz/drop/174344)
