@@ -1446,9 +1446,12 @@ Staking survey data just dropped [on ethstaker.](https://paragraph.xyz/@ethstake
 </details>
 <details>
 <summary>u/austonst recaps EthCC</summary>
-[View on Reddit →]()
 
-
+- [Day 1](https://reddit.com/r/ethfinance/comments/1dy0lbc/daily_general_discussion_july_8_2024/lc8wah6/)
+- [Day 2](https://reddit.com/r/ethfinance/comments/1dy0lbc/daily_general_discussion_july_8_2024/lc8wnnd/)
+- [Day 3](https://reddit.com/r/ethfinance/comments/1dyu2vs/daily_general_discussion_july_9_2024/lcf6ign/)
+- [Day 4](https://reddit.com/r/ethfinance/comments/1dzng6z/daily_general_discussion_july_10_2024/lcl4hwi/)
+- [Day 5](https://reddit.com/r/ethfinance/comments/1e0gtdv/daily_general_discussion_july_11_2024/lcqtfu9/)
 
 </details>
 </details>
