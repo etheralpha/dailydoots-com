@@ -11,61 +11,61 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1069 Dooters - Last Updated July 26, 2024</small>
+<small>1072 Dooters - Last Updated August 2, 2024</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 210
-. | [logristhebard](https://reddit.com/u/logristhebard) | 136
+. | [logristhebard](https://reddit.com/u/logristhebard) | 139
 . | [benido2030](https://reddit.com/u/benido2030) | 134
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 112
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 111
 . | [set1less](https://reddit.com/u/set1less) | 103
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 98
-. | [haurog](https://reddit.com/u/haurog) | 94
+. | [haurog](https://reddit.com/u/haurog) | 93
 . | [syentist](https://reddit.com/u/syentist) | 90
 . | [hanniabu](https://reddit.com/u/hanniabu) | 87
 . | [696_eth](https://reddit.com/u/696_eth) | 82
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 80
 . | [phimarhal](https://reddit.com/u/phimarhal) | 69
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
-. | [austonst](https://reddit.com/u/austonst) | 63
 . | [nixorokish](https://reddit.com/u/nixorokish) | 63
-. | [the-a-word](https://reddit.com/u/the-a-word) | 61
+. | [pa7x1](https://reddit.com/u/pa7x1) | 62
+. | [the-a-word](https://reddit.com/u/the-a-word) | 62
+. | [austonst](https://reddit.com/u/austonst) | 61
 . | [kbrot](https://reddit.com/u/kbrot) | 60
-. | [pa7x1](https://reddit.com/u/pa7x1) | 60
-. | [bob-rossi](https://reddit.com/u/bob-rossi) | 56
+. | [bob-rossi](https://reddit.com/u/bob-rossi) | 55
 . | [alexiskef](https://reddit.com/u/alexiskef) | 51
 . | [etheraider](https://reddit.com/u/etheraider) | 50
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 49
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
 . | [interweaver](https://reddit.com/u/interweaver) | 48
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 47
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
-. | [seamonkey82](https://reddit.com/u/seamonkey82) | 40
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 39
+. | [seamonkey82](https://reddit.com/u/seamonkey82) | 39
 . | [15kisfud](https://reddit.com/u/15kisfud) | 38
 . | [spacesider](https://reddit.com/u/spacesider) | 38
+. | [cryptrd285](https://reddit.com/u/cryptrd285) | 37
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 37
-. | [cryptrd285](https://reddit.com/u/cryptrd285) | 36
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 36
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
-. | [needlerop](https://reddit.com/u/needlerop) | 35
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 35
 . | [barthib](https://reddit.com/u/barthib) | 34
-. | [domotheus](https://reddit.com/u/domotheus) | 32
+. | [domotheus](https://reddit.com/u/domotheus) | 33
+. | [needlerop](https://reddit.com/u/needlerop) | 33
 . | [eggill7227](https://reddit.com/u/eggill7227) | 32
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 32
 . | [_weboftrust](https://reddit.com/u/_weboftrust) | 30
 . | [liberosist](https://reddit.com/u/liberosist) | 30
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 30
 . | [revanchist1](https://reddit.com/u/revanchist1) | 30
-. | [thehansgruber](https://reddit.com/u/thehansgruber) | 29
+. | [ro-_-b](https://reddit.com/u/ro-_-b) | 29
 . | [asdafari12](https://reddit.com/u/asdafari12) | 28
 . | [ender985](https://reddit.com/u/ender985) | 28
+. | [thehansgruber](https://reddit.com/u/thehansgruber) | 28
+. | [wolfparking](https://reddit.com/u/wolfparking) | 28
 . | [bagogel12](https://reddit.com/u/bagogel12) | 27
-. | [ro-_-b](https://reddit.com/u/ro-_-b) | 27
-. | [wolfparking](https://reddit.com/u/wolfparking) | 27
 . | [ber10](https://reddit.com/u/ber10) | 26
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
 . | [papazio](https://reddit.com/u/papazio) | 26
@@ -80,17 +80,17 @@ Rank | Username   | Daily Doots
 . | [skythe4](https://reddit.com/u/skythe4) | 22
 . | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 21
 . | [coinanon](https://reddit.com/u/coinanon) | 21
+. | [dreth](https://reddit.com/u/dreth) | 21
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 21
 . | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 21
-. | [dreth](https://reddit.com/u/dreth) | 20
 . | [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
 . | [moschus11](https://reddit.com/u/moschus11) | 20
-. | [nikola_j](https://reddit.com/u/nikola_j) | 20
 . | [savage_x](https://reddit.com/u/savage_x) | 20
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 20
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
 . | [mrcatface13](https://reddit.com/u/mrcatface13) | 19
+. | [nikola_j](https://reddit.com/u/nikola_j) | 19
 . | [vvpan](https://reddit.com/u/vvpan) | 19
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 18
@@ -102,6 +102,7 @@ Rank | Username   | Daily Doots
 . | [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 17
 . | [hblask](https://reddit.com/u/hblask) | 17
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 17
+. | [hsuke](https://reddit.com/u/hsuke) | 17
 . | [kingleo23](https://reddit.com/u/kingleo23) | 17
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 17
 . | [masterroshi9](https://reddit.com/u/masterroshi9) | 17
@@ -109,7 +110,6 @@ Rank | Username   | Daily Doots
 . | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 17
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
 . | [eth2353](https://reddit.com/u/eth2353) | 16
-. | [hsuke](https://reddit.com/u/hsuke) | 16
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 16
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 16
 . | [sonotyou](https://reddit.com/u/sonotyou) | 16
@@ -148,6 +148,7 @@ Rank | Username   | Daily Doots
 . | [t0bii](https://reddit.com/u/t0bii) | 11
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
 . | [18boro](https://reddit.com/u/18boro) | 10
+. | [aaqy](https://reddit.com/u/aaqy) | 10
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
 . | [bakedent](https://reddit.com/u/bakedent) | 10
 . | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 10
@@ -158,10 +159,11 @@ Rank | Username   | Daily Doots
 . | [kallukoras](https://reddit.com/u/kallukoras) | 10
 . | [magnushansson](https://reddit.com/u/magnushansson) | 10
 . | [monkeyhold99](https://reddit.com/u/monkeyhold99) | 10
+. | [physalisx](https://reddit.com/u/physalisx) | 10
 . | [pocketwailord](https://reddit.com/u/pocketwailord) | 10
 . | [shiftli](https://reddit.com/u/shiftli) | 10
+. | [spinz808](https://reddit.com/u/spinz808) | 10
 . | [theethmeister](https://reddit.com/u/theethmeister) | 10
-. | [aaqy](https://reddit.com/u/aaqy) | 9
 . | [atyzze](https://reddit.com/u/atyzze) | 9
 . | [canadiens1993](https://reddit.com/u/canadiens1993) | 9
 . | [ch3white10](https://reddit.com/u/ch3white10) | 9
@@ -174,9 +176,7 @@ Rank | Username   | Daily Doots
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [newman513](https://reddit.com/u/newman513) | 9
 . | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
-. | [physalisx](https://reddit.com/u/physalisx) | 9
 . | [plaenar](https://reddit.com/u/plaenar) | 9
-. | [spinz808](https://reddit.com/u/spinz808) | 9
 . | [stobie](https://reddit.com/u/stobie) | 9
 . | [strtrd](https://reddit.com/u/strtrd) | 9
 . | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 9
@@ -217,6 +217,7 @@ Rank | Username   | Daily Doots
 . | [lawfultots](https://reddit.com/u/lawfultots) | 7
 . | [mayneminu](https://reddit.com/u/mayneminu) | 7
 . | [miaviv](https://reddit.com/u/miaviv) | 7
+. | [offthewall1066](https://reddit.com/u/offthewall1066) | 7
 . | [phigo50](https://reddit.com/u/phigo50) | 7
 . | [profstrangelove](https://reddit.com/u/profstrangelove) | 7
 . | [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
@@ -229,7 +230,6 @@ Rank | Username   | Daily Doots
 . | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [_etherium](https://reddit.com/u/_etherium) | 6
-. | [baggygravy](https://reddit.com/u/baggygravy) | 6
 . | [bitzgi](https://reddit.com/u/bitzgi) | 6
 . | [chromes](https://reddit.com/u/chromes) | 6
 . | [datacruncha](https://reddit.com/u/datacruncha) | 6
@@ -238,12 +238,12 @@ Rank | Username   | Daily Doots
 . | [el-coco-no](https://reddit.com/u/el-coco-no) | 6
 . | [frenkthetank](https://reddit.com/u/frenkthetank) | 6
 . | [hombredecamote](https://reddit.com/u/hombredecamote) | 6
+. | [imelia29](https://reddit.com/u/imelia29) | 6
 . | [kukai_walker](https://reddit.com/u/kukai_walker) | 6
 . | [labrav](https://reddit.com/u/labrav) | 6
 . | [logic_beach](https://reddit.com/u/logic_beach) | 6
 . | [lops21](https://reddit.com/u/lops21) | 6
 . | [nefariousnaz](https://reddit.com/u/nefariousnaz) | 6
-. | [offthewall1066](https://reddit.com/u/offthewall1066) | 6
 . | [oldskool47](https://reddit.com/u/oldskool47) | 6
 . | [pudgypeng](https://reddit.com/u/pudgypeng) | 6
 . | [sal_t_nuts](https://reddit.com/u/sal_t_nuts) | 6
@@ -257,16 +257,15 @@ Rank | Username   | Daily Doots
 . | [yeopaa](https://reddit.com/u/yeopaa) | 6
 . | [404bachee](https://reddit.com/u/404bachee) | 5
 . | [bad_investment](https://reddit.com/u/bad_investment) | 5
+. | [baggygravy](https://reddit.com/u/baggygravy) | 5
 . | [best_coder_na](https://reddit.com/u/best_coder_na) | 5
 . | [clamchoda](https://reddit.com/u/clamchoda) | 5
 . | [curious-b](https://reddit.com/u/curious-b) | 5
 . | [danksharting](https://reddit.com/u/danksharting) | 5
 . | [ethdefiance](https://reddit.com/u/ethdefiance) | 5
-. | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 5
 . | [fatlever2](https://reddit.com/u/fatlever2) | 5
 . | [geoffbezos](https://reddit.com/u/geoffbezos) | 5
 . | [hamberdler](https://reddit.com/u/hamberdler) | 5
-. | [imelia29](https://reddit.com/u/imelia29) | 5
 . | [intmmtsir](https://reddit.com/u/intmmtsir) | 5
 . | [kainzilla](https://reddit.com/u/kainzilla) | 5
 . | [kairepaire](https://reddit.com/u/kairepaire) | 5
@@ -289,6 +288,7 @@ Rank | Username   | Daily Doots
 . | [the_statustician](https://reddit.com/u/the_statustician) | 5
 . | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
 . | [thoughts4food](https://reddit.com/u/thoughts4food) | 5
+. | [timwithnotoolbelt](https://reddit.com/u/timwithnotoolbelt) | 5
 . | [vvander](https://reddit.com/u/vvander) | 5
 . | [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
 . | [whovillage](https://reddit.com/u/whovillage) | 5
@@ -312,6 +312,7 @@ Rank | Username   | Daily Doots
 . | [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 4
 . | [epic_trader](https://reddit.com/u/epic_trader) | 4
 . | [epiphany153](https://reddit.com/u/epiphany153) | 4
+. | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 4
 . | [ethsomesense](https://reddit.com/u/ethsomesense) | 4
 . | [fecalreceptacle](https://reddit.com/u/fecalreceptacle) | 4
 . | [fernadopoo](https://reddit.com/u/fernadopoo) | 4
@@ -326,6 +327,7 @@ Rank | Username   | Daily Doots
 . | [llupine](https://reddit.com/u/llupine) | 4
 . | [mcmatt05](https://reddit.com/u/mcmatt05) | 4
 . | [megroovin](https://reddit.com/u/megroovin) | 4
+. | [merklechainsaw](https://reddit.com/u/merklechainsaw) | 4
 . | [mister_eth](https://reddit.com/u/mister_eth) | 4
 . | [moneygobye](https://reddit.com/u/moneygobye) | 4
 . | [need-a-bencil](https://reddit.com/u/need-a-bencil) | 4
@@ -345,18 +347,16 @@ Rank | Username   | Daily Doots
 . | [syzygy00778](https://reddit.com/u/syzygy00778) | 4
 . | [theunderdogrutten](https://reddit.com/u/theunderdogrutten) | 4
 . | [thewalkinglive](https://reddit.com/u/thewalkinglive) | 4
-. | [timwithnotoolbelt](https://reddit.com/u/timwithnotoolbelt) | 4
 . | [toethmooonguy](https://reddit.com/u/toethmooonguy) | 4
 . | [tutamtumikia](https://reddit.com/u/tutamtumikia) | 4
-. | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 4
 . | [watch_dominion_now](https://reddit.com/u/watch_dominion_now) | 4
 . | [wegotsumnewbands](https://reddit.com/u/wegotsumnewbands) | 4
 . | [wurstgewitter](https://reddit.com/u/wurstgewitter) | 4
 . | [---truthseeker---](https://reddit.com/u/---truthseeker---) | 3
+. | [aelowsson](https://reddit.com/u/aelowsson) | 3
 . | [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 3
 . | [asus_wtf](https://reddit.com/u/asus_wtf) | 3
 . | [atleft](https://reddit.com/u/atleft) | 3
-. | [atyzzze](https://reddit.com/u/atyzzze) | 3
 . | [auseve](https://reddit.com/u/auseve) | 3
 . | [badassmotherfker](https://reddit.com/u/badassmotherfker) | 3
 . | [baerbelleksa](https://reddit.com/u/baerbelleksa) | 3
@@ -367,6 +367,7 @@ Rank | Username   | Daily Doots
 . | [breakeizer](https://reddit.com/u/breakeizer) | 3
 . | [candlethief724](https://reddit.com/u/candlethief724) | 3
 . | [cash](https://reddit.com/u/cash) | 3
+. | [caturday_yet](https://reddit.com/u/caturday_yet) | 3
 . | [chokeman](https://reddit.com/u/chokeman) | 3
 . | [coin010309](https://reddit.com/u/coin010309) | 3
 . | [cometothecaml](https://reddit.com/u/cometothecaml) | 3
@@ -401,7 +402,6 @@ Rank | Username   | Daily Doots
 . | [jbmai](https://reddit.com/u/jbmai) | 3
 . | [juankestein](https://reddit.com/u/juankestein) | 3
 . | [kotmynetchup](https://reddit.com/u/kotmynetchup) | 3
-. | [merklechainsaw](https://reddit.com/u/merklechainsaw) | 3
 . | [mhotdemnot](https://reddit.com/u/mhotdemnot) | 3
 . | [midnightonmars](https://reddit.com/u/midnightonmars) | 3
 . | [moneyprintergobrbrrr](https://reddit.com/u/moneyprintergobrbrrr) | 3
@@ -438,7 +438,7 @@ Rank | Username   | Daily Doots
 . | [tokenizedhuman](https://reddit.com/u/tokenizedhuman) | 3
 . | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 3
 . | [username_error](https://reddit.com/u/username_error) | 3
-. | [vbv3ubcxqb9b](https://reddit.com/u/vbv3ubcxqb9b) | 3
+. | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 3
 . | [wizad23](https://reddit.com/u/wizad23) | 3
 . | [-darkknight](https://reddit.com/u/-darkknight) | 2
 . | [-filterfeeder-](https://reddit.com/u/-filterfeeder-) | 2
@@ -446,11 +446,11 @@ Rank | Username   | Daily Doots
 . | [0xtimer](https://reddit.com/u/0xtimer) | 2
 . | [_anedi](https://reddit.com/u/_anedi) | 2
 . | [adankairo](https://reddit.com/u/adankairo) | 2
-. | [aelowsson](https://reddit.com/u/aelowsson) | 2
 . | [allinat40](https://reddit.com/u/allinat40) | 2
 . | [allmightlove](https://reddit.com/u/allmightlove) | 2
 . | [angelbattles](https://reddit.com/u/angelbattles) | 2
 . | [art__](https://reddit.com/u/art__) | 2
+. | [atyzzze](https://reddit.com/u/atyzzze) | 2
 . | [aur3l1us](https://reddit.com/u/aur3l1us) | 2
 . | [ausgear1](https://reddit.com/u/ausgear1) | 2
 . | [ayreuan](https://reddit.com/u/ayreuan) | 2
@@ -471,7 +471,6 @@ Rank | Username   | Daily Doots
 . | [captainofthegate](https://reddit.com/u/captainofthegate) | 2
 . | [carpathianinsomnia](https://reddit.com/u/carpathianinsomnia) | 2
 . | [caterpillarkitchen67](https://reddit.com/u/caterpillarkitchen67) | 2
-. | [caturday_yet](https://reddit.com/u/caturday_yet) | 2
 . | [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 2
 . | [consideritwon](https://reddit.com/u/consideritwon) | 2
 . | [cory_eth](https://reddit.com/u/cory_eth) | 2
@@ -671,6 +670,7 @@ Rank | Username   | Daily Doots
 . | [catfoodlover](https://reddit.com/u/catfoodlover) | 1
 . | [caymannan](https://reddit.com/u/caymannan) | 1
 . | [ccgirl21](https://reddit.com/u/ccgirl21) | 1
+. | [chazschmidt](https://reddit.com/u/chazschmidt) | 1
 . | [cheezin05](https://reddit.com/u/cheezin05) | 1
 . | [chicoconcarne](https://reddit.com/u/chicoconcarne) | 1
 . | [chris_dea](https://reddit.com/u/chris_dea) | 1
@@ -797,6 +797,7 @@ Rank | Username   | Daily Doots
 . | [girlamongstsharks](https://reddit.com/u/girlamongstsharks) | 1
 . | [goobergal97](https://reddit.com/u/goobergal97) | 1
 . | [gou-ranga](https://reddit.com/u/gou-ranga) | 1
+. | [grimacexbt](https://reddit.com/u/grimacexbt) | 1
 . | [gumba_hasselhoff](https://reddit.com/u/gumba_hasselhoff) | 1
 . | [gurkang](https://reddit.com/u/gurkang) | 1
 . | [guyfawked](https://reddit.com/u/guyfawked) | 1
@@ -843,6 +844,7 @@ Rank | Username   | Daily Doots
 . | [jade_sorceress](https://reddit.com/u/jade_sorceress) | 1
 . | [jadenpls](https://reddit.com/u/jadenpls) | 1
 . | [jamcowl](https://reddit.com/u/jamcowl) | 1
+. | [jan1919](https://reddit.com/u/jan1919) | 1
 . | [jaskidd05](https://reddit.com/u/jaskidd05) | 1
 . | [jbgt](https://reddit.com/u/jbgt) | 1
 . | [jbudz](https://reddit.com/u/jbudz) | 1
@@ -1062,6 +1064,7 @@ Rank | Username   | Daily Doots
 . | [vacremon2](https://reddit.com/u/vacremon2) | 1
 . | [vashstamp3de](https://reddit.com/u/vashstamp3de) | 1
 . | [vbuterin](https://reddit.com/u/vbuterin) | 1
+. | [vbv3ubcxqb9b](https://reddit.com/u/vbv3ubcxqb9b) | 1
 . | [vechain_10_dollars](https://reddit.com/u/vechain_10_dollars) | 1
 . | [vegetable-agent-6491](https://reddit.com/u/vegetable-agent-6491) | 1
 . | [visciousvenison](https://reddit.com/u/visciousvenison) | 1
@@ -1092,6 +1095,7 @@ Rank | Username   | Daily Doots
 
 
 
+
 [↑ Back to top ↑](#)
 
 
@@ -1104,9 +1108,351 @@ Rank | Username   | Daily Doots
 
 
 <details>
-  <summary>Week #72: July 26, 2024</summary>
+  <summary>#73: August 2, 2024</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/176266/crypto)
+
+**Upcoming Guests**
+
+- August 9 - Amir & Jason from [Puffer Finance](https://unifi.puffer.fi/)
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ei1pba/comment/lg3g000/)
+
+[u/ReluctantToast777](https://reddit.com/u/ReluctantToast777)
+
+> Ethereum
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> $3152
+
+[u/alexiskef](https://reddit.com/u/alexiskef)
+
+> 0.0489
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 90,748 hodlers subscribed (+1)
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1egeu6r/comment/lg1dcv1/)
+
+*Ignore politics,*
+
+*Distrust their economics,*
+
+*Store your mnemonics.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Imelia29</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1eer8s9/daily_general_discussion_july_29_2024/lfgd4ti/)
+
+There once was a coin called ethereum
+
+With a fanclub in neigh-on delirium
+
+They asked Ray to flippen
+
+But he just kept on dippin'
+
+Mayhaps life can't be judged by this criterium
+
+alt. last line:
+
+Some patience to temper your accelererium
+
+...maaan, ethereum is a stupid word to rhyme with. Impress me, ethfinance!
+
+</details>
+<details>
+<summary>u/Itur_ad_Astra is strengthening their FUD busting skills</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ecfslx/daily_general_discussion_july_26_2024/lf17lnb/)
+
+When discussing crypto, and comparing ETH with BTC/alts online and offline, I can easily refute all points against ETH. Ethereum is so well thought out and designed, that it seems there are literally no weak points, and you can easily debate its superiority.
+
+But I'm wondering about one point that I don't have the technical knowledge to easily counter. Many altcoiners say that ETH suffers from "spaghetti code", and a large technical debt that is going to be a big issue going forward, either by eventually causing a huge bug and collapse of the blockchain, or by just slowing down its further development and letting other, better written coins come on top.
+
+So I'm asking anyone that's more into Ethereum's technicals/developement than I am. Is there any truth to this claim? My answer would usually be that Ethereum was mostly accused of slow development, which would indicate prioritizing quality over speed, but this isn't concrete proof that the code is *actually* good quality. How would *you* reply to someone that claims that Ethereum's code is bad code?
+
+</details>
+<details>
+<summary>u/cryptrd285 thinks the ETF flows have been bullish so u/Caturday_Yet stopped by to see something big for themselves</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ecfslx/daily_general_discussion_july_26_2024/lf2bs7o/)
+
+[u/cryptrd285](https://reddit.com/u/cryptrd285):
+
+Bloomberg guy Eric B is stating that out of all the inflow into new ETFS, 2/3 is actually new flow, and 1/3 is people swapping from ETHE to low fee ones
+
+This would be super bullish...
+
+<https://x.com/Evan_ss6/status/1816882268075372756>
+
+> If @EricBalchunas is correct here, this would be outrageously bullish
+> 
+> New ETFs have taken in $978MM in 3 days.
+> 
+> At 2/3 new, that’s $652MM or $217.3MM a day
+> 
+> During slow summer
+> 
+> Big if, small sample, but even something modest like $30-60MM a day would be bullish
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ecfslx/daily_general_discussion_july_26_2024/lf2taca/)
+
+[u/Caturday_Yet](https://reddit.com/u/Caturday_Yet):
+
+![](https://imgur.com/5Mq50Y5)
+
+</details>
+<details>
+<summary>u/LogrisTheBard has a warning for all Compound users</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1eer8s9/daily_general_discussion_july_29_2024/lfjd5u5/)
+
+Regarding the recent [Compound governance attack](https://x.com/azflin/status/1817659068967768555?s=61) the real danger here isn't that they rugged the treasury. However much they stole there isn't enough liquidity to exit that amount. The real danger is they went from having outsized control of the governance to do something like this to defacto ownership of the governance system to do whatever else they want soon.
+
+I'll remind everyone that Compound doesn't use isolated lending pools. Every depositor/borrowable asset is at risk against price losses of every collateral asset. So the real risk here is that they mint a token e.g. LogrisShitCoin, seed it against a tiny amount of liquidity to give it a price while owning 100% of it, vote to enable use of that token as collateral, borrow all the assets in Compound, and let the liquidations rack up bad debt behind them.
+
+If you have assets in Compound this is your cue to switch to an isolated lending pool strategy. We used to have more of these but some like Rari and Euler have gone the way of the dodo. Euler v2 is just around the corner but given their history I'd probably give that a year before trying it. Otherwise I can recommend Silo, Gearbox, Ajna, or Llamalend.
+
+</details>
+<details>
+<summary>u/HSuke brainstorms scam prevention techniques then like 2 peas in a pod u/Dreth shares a book chapter they wrote on avoiding scams</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1eer8s9/daily_general_discussion_july_29_2024/lfigqox/)
+
+[u/HSuke](https://reddit.com/u/HSuke):
+
+It's really cool that I was able to traverse back one day at a time [a whole year](https://reddit.com/r/ethfinance/comments/15dcqqy/daily_general_discussion_july_30_2023/ju2784k/) via Daily Doots without encountering a single broken link. Great job, u/Tricky_Troll and Substidoots!
+
+----------
+
+Anyways, I was looking for a list of scams techniques that our community has encountered. Here's a short summary of the scams and how to avoid them, if even possible.
+
+####**Google Ad links**
+
+**How it worked**: User searched for polymarket and clicked on a google sponsored ad link (right above the actual link) directing to an identical page with a 1-character domain name difference. User then signed a permit Tx draining user of a specific token.
+
+**How to prevent**:
+
+1. Be extremely careful with Google ad links.
+1. Also be careful with domain typo squatting. Entering "Umiswap" instead of "Uniswap" is all it takes to get drained.
+1. Test with a small amount first, and don't do unlimited approvals/permits on the test transation
+
+A wallet guard or advanced-security wallet like Rabby wallet can prevent some of these kinds of attacks.
+
+####**Bridge hack**
+
+**How it worked**: DeFI protocol LI.FI's L2 Bridge got hacked. Contract was drained. (User narrowly avoided hack by using good practices.)
+
+**How to prevent**: Don't approve more than you need to use. Try to use official bridges when possible. Be careful with DeFi bridges. 
+
+####**Persistent spear phishing attack + Homoglyph attack**
+
+**How it worked**: Attacker called and emailed multiple times about a known recent hack of specific account belonging to the user that got its info leaked (the leak part was true). They had the user's account due to the recent leak. The domain was indistinguishable from the official domain, but it used an identical-looking foreign character instead of the real English character (**a homoglyph**). User didn't fall for it, but attack was convincing due to its persistence and professionalism.
+
+**How to prevent**: Remain skeptical about calls and emails. Always be wary of ayone who tries to rush you into making hasty decisions. Always check email and website domains, though in this case that wouldn't have helped since the domain was practically indistinguishable (homoglyph). In this case, don't click on the email link. Instead, retype the link in the address bar.
+
+####**Home break-in with armed attackers**
+
+**How attacked**: Crypto dev with 10k followers had a home break-in with armed attackers
+
+**How to prevent**: Well, this is really hard to prevent if you already have your info public due to a previous mass data leak. Everyone has already had their data leaked multiple times. If you're rich, maybe get good security and have a throwaway wallet. Honestly, I don't really have a good way to prevent this. On the other hand, this attack is not specific to crypto.
+
+####**Address poisoning a test transaction**
+
+**How it worked**: User made test transaction (which is good practice) in preparation for a bigger transaction. Immediately got address-poisoned by an attacker monitoring whale addresses. User then used the poisoned address from the account's transaction history. (Story seems a bit fishy since the user should've been an expert at avoiding common attacks.)
+
+**How to prevent**: Use an address book with whitelisted addresses. Be wary of address poisoning attacks. Don't copy addresses from the transaction history.
+
+####**Liquidity Pool was hacked**
+
+**How it worked**: Self-explanitory. Liquidity Pool was hacked. User's LP wallet was drained.
+
+**How to prevent**: Be careful when joining LPs. Some of them have bugs or exploits. User was able to avoid heavy damage because he kept his LP wallet separated from his main wallets.
+
+####**Warpcast frames**
+
+**How it worked**: Blindly trusting a mint via a Warpcast frame
+
+**How to prevent**: Don't immediately assume that people on Warpcast are trustworthy. Treat it like a slightly-safer Twitter.
+
+####**Supply-side attack**
+
+**How it worked**: 2 separate reports for this kind of hack. In one, a hacker pulled off a BGP hijack (compromises routing protocol) of a crypto platform's service provider. In another, hacker compromised a github account of a library the a wallet software used.
+
+**How to prevent**: If you're the end user, there is no practical way to prevent this kind of attack. It doesn't matter if it's crypto or traditional finance, a supply-side attack can destroy you, and there's very little you can do about it. Stick with wallets and platforms that have good security practices to minimize the chances of this happening. Realistically, if some infrastructure's DNS or BGP gets hijacked, even crypto security experts can get screwed.
+
+####**Fake revoke scam**
+
+**How it worked**: This got reported multiple times, though I don't think anyone on the sub fell for it. Basically, after a large hack, scammers would link to fake revoke_dot_cash sites hoping to trick careless users who were rushing to revoke their approvals/permits.
+
+**How to prevent**: Don't fall for schemes that try to rush you into doing something and making a careless mistake. Type in website addresses manually.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1efl096/daily_general_discussion_july_30_2024/lfm3duj/)
+
+[u/Dreth](https://reddit.com/u/Dreth):
+
+In 2022, I started writing a book on crypto, that I intended to self publish to help complete beginners get a head start on the philosophy of crypto, how to get into it, how to self custody funds and how to avoid scams. 
+
+I never quite finished everything, I had a little over 30 thousand words, but I did ask for help for scam examples in this subreddit at the time.
+
+Today I decided to publish the 'identifying and avoiding scams' section because the longer I wait to ever publish this, the more outdated it'll be. It's likely already outdated. It was still missing some examples I wanted to show, but I believe it's already valuable enough to at least post here.
+
+Here it is in case anyone wants to take a look: <https://dac.ac/blog/identifying_and_avoiding_crypto_scams>
+
+Feedback is appreciated too, just bear in mind that not even I have given it a full re-read in a couple years.
+
+There's an acknowledgements section at the bottom giving credit to those who helped me out, but I want give a shout out to them here too:
+
+- u/alexiskef for many of the discord DM 
+- u/busterrulezzz for his writing tips and his narration of the experience he had on a crypto startup that turned out to be a scam narrated on r/CryptoCurrency (don't worry I didn't copy it or anything, I know the post is deleted now)
+- The ethfinance mods for allowing me to ask for examples of scams publicly on the daily thread
+- u/pocketwailord, u/excellentpantschoice, u/datacruncha, u/actualbadger, u/sinnU2s, u/lawfultots, u/RedPillInjester, for all the examples they sent, all quite distinct from one another which was really helpful
+- u/nixorokish for offering me to collaborate on a different project on a scam-related diagram and for tagging me in a few other examples on the daily threads
+
+</details>
+<details>
+<summary>u/domotheus shares Song A Day Mann sticking it to the man</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1eer8s9/daily_general_discussion_july_29_2024/lfiil3p/)
+
+Our boy Song A Day Mann is suing the SEC for the sake of all NFT projects lol
+
+<https://www.dropbox.com/scl/fi/i1yd58id0lcbez3x2hiqp/1-2024-07-29-Complaint.pdf>
+
+</details>
+<details>
+<summary>u/AElowsson discusses the proper way to present home staker yield</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1efl096/daily_general_discussion_july_30_2024/lfo5bbt/)
+
+[Tweet](https://x.com/weboftrees/status/1818285735591419963) where I highlight how to present yield distributions for non-pooled stakers. Some webpages and researchers rely on things like the median across all validators over some minuscule time period, averaging these medians over time. This fails to capture the probabilistic outcome facing the solo staker. Half of the validators will never propose a block during the same day, yet half will still propose within a few months.  Order statistics are instead relevant on a per-validator basis over longer time.   
+  
+*To check if it is raining, do not extend your hand and measure the median number of fingers impacted by raindrops every millisecond. The result will always be zero; yet it might still rain.*
+
+The figure shows how distributions vary with pool size after one year. This is a more appropriate way to communicate order statistics. The tiny vertical black line segment is the solo stakers that do not have a block proposal or sync-committee duty over a year, presented as the “all-time median” on sites such as Rated. The real median outcome facing solo stakers after one year is indicated by a black arrow, fairly close already to the expected yield.
+
+The context of this discussion is the modeling assumptions in the post on [maximum viable security (MVS)](https://ethresear.ch/t/maximum-viable-security-a-new-framing-for-ethereum-issuance/19992).  
+  
+The modeling and the same figure can also be found in my [latest response](https://ethresear.ch/t/maximum-viable-security-a-new-framing-for-ethereum-issuance/19992/5) to that post.
+
+</details>
+<details>
+<summary>u/ro-_-b has been on the Ethereum journey for a long time and is comfortable being here for a lot longer</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1egeu6r/daily_general_discussion_july_31_2024/lfsczq8/)
+
+Ethereum came a long way:
+
+When I joined prediction markets and decentralized social media were concepts people pointed at when discussing potential use cases of the network
+
+Today both concepts are implemented (polymarket, Farcaster) and show how it all makes sense. The teams that implemented them were not the ones which people initially thought would but that’s the beauty of decentralization
+
+Both of these are early and have lots of growth ahead but we’re at a stage where we’re beyond imagining with live apps in production. We’ve came a long way so far
+
+ETH is an asset I feel comfy holding for the next 20 years+
+
+I can not say the same about any other crypto asset. The ones that are mostly VC hyped are the ones that get dumped at the end of the cycle so I would certainly not recommend to hold these for the long run if your objective is to take home profit
+
+</details>
+<details>
+<summary>u/MerkleChainsaw asks about the realities of tokenization and u/pa7x1 explains how they think tokenization will work</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1egeu6r/daily_general_discussion_july_31_2024/lfsuo87/)
+
+[u/MerkleChainsaw](https://reddit.com/u/MerkleChainsaw):
+
+How would Blackrock (or anyone else) actually implement tokenization of real world assets?
+
+They'd need to maintain some centralized control even if KYC whitelisting wasn't required, just to reverse transactions of lost or stolen coins. North Korea wouldn't actually get to be part owner in Lockheed Martin because they stole some shares and "code is law". That's not too big a deal because RWAs will always require trust in the issuer anyway, and Blackrock is of course more trustworthy and regulated than crypto startups like Celsius were.
+
+I don't think Blackrock would be comfortable using existing L2s for the token smart contract. They wouldn't control the governance and any breaking changes could be catastrophic with billions (or trillions?) of dollars worth of assets at stake representing claims to real world things. I know technically this governance argument could apply to Ethereum itself, but I think Ethereum governance will always be more reliable since validators with ETH at stake are the ultimate approvers of any changes. L2s will either be centralized or have changes decided by cash grab governance tokens. If Blackrock or an industry consortium designed their own specialized and controlled L2 then wouldn't we lose most of the benefits of the openness of DeFi?
+
+At some point it's just easier to just build an API with specifications for transferring ownership between accounts when a trade has happened. They could even have an address / signed transaction scheme similar to blockchains so that any exchange could instant settle a trade, but that would still just be tradfi.
+
+I've sold my ETH, but the possibility of RWAs coming to Ethereum gives me some FOMO because the opportunity could be absolutely massive. I'm trying to visualize how it would actually work in a way that accrues value to ETH.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1egeu6r/daily_general_discussion_july_31_2024/lft2ka9/)
+
+[u/pa7x1](https://reddit.com/u/pa7x1):
+
+I suspect BlackRock, Nasdaq, etc... will run their own permissioned L2s. I.e. you cannot execute orders directly, you won't have the private keys and a wallet to create your orders directly. Your experience as a user might be exactly the same as it is today, through your broker app. These L2s will be the underlying infrastructure where the trades are executed.
+
+What's the advantage for them? Running their trading on their systems already works and is likely cheaper in terms of infra, so why bother? The answer is composability. They will be all interconnected by Ethereum, acting as the infrastructure backbone for finance. Moving assets from one L2 to another is trivial, immediate, auditable, cryptographically secure and you know the assets are truly there. Finance works currently with D+1, D+2 settlement. During that 1 or 2 days, your assets are in the limbo. And that settlement is costly, in terms of resources and delays. Sprinkle these with a bit of zk magic, based rollups, pre-confirmations... and you will have global instant settlement.
+
+For trivial stuff, like small trading, they give us the perception of immediate settlement. Your MSFT stock appears directly in your brokerage account when you click buy, but it's not really there yet. But for big money, you cannot really trust the money is there until it's settled. The financial world was on the brink of collapse during the 2008 crisis as nobody could trust anybody else's balance sheets.
+
+Have a watch to this podcast if you haven't: <https://www.youtube.com/watch?v=KUMGYEKIiGw>
+
+</details>
+<details>
+<summary> u/SeaMonkey82 shares Erigon's ASCII art</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1egeu6r/daily_general_discussion_july_31_2024/lfvh0qk/)
+
+Daily Holesky:  
+
+[I reported something causing Nethermind to crash and it got fixed](https://github.com/NethermindEth/nethermind/issues/7286).  In more exciting news, erigon has otter art now.  
+
+```
+INFO[07-31|16:50:18.454]
+   _____ _             _   _                ____  _   _
+  / ____| |           | | (_)              / __ \| | | |
+ | (___ | |_ __ _ _ __| |_ _ _ __   __ _  | |  | | |_| |_ ___ _ __ ___ _   _ _ __   ___
+  \___ \| __/ _ | '__| __| | '_ \ / _ | | |  | | __| __/ _ \ '__/ __| | | | '_ \ / __|
+  ____) | || (_| | |  | |_| | | | | (_| | | |__| | |_| ||  __/ |  \__ \ |_| | | | | (__ _ _ _
+ |_____/ \__\__,_|_|   \__|_|_| |_|\__, |  \____/ \__|\__\___|_|  |___/\__, |_| |_|\___(_|_|_)
+                                    __/ |                               __/ |
+                                   |___/                               |___/
+
+
+                                        .:-===++**++===-:
+                                   :=##%@@@@@@@@@@@@@@@@@@%#*=.
+                               .=#@@@@@@%##+====--====+##@@@@@@@#=.     ...
+                   .=**###*=:+#@@@@%*=:.                  .:=#%@@@@#==#@@@@@%#-
+                 -#@@@@%%@@@@@@%+-.                            .=*%@@@@#*+*#@@@%=
+                =@@@*:    -%%+:                                    -#@+.     =@@@-
+                %@@#     +@#.                                        :%%-     %@@*
+                @@@+    +%=.     -+=                        :=-       .#@-    %@@#
+                *@@%:  #@-      =@@@*                      +@@@%.       =@= -*@@@:
+                 #@@@##@+       #@@@@.                     %@@@@=        #@%@@@#-
+                  :#@@@@:       +@@@#       :=++++==-.     *@@@@:        =@@@@-
+                  =%@@%=         +#*.    =#%#+==-==+#%%=:  .+#*:         .#@@@#.
+                 +@@%+.               .+%+-.          :=##-                :#@@@-
+                -@@@=                -%#:     ..::.      +@*                 +@@%.
+    .::-========*@@@..              -@#      +%@@@@%.     -@#               .-@@@+=======-
+.:-====----:::::#@@%:--=::::..      #@:      *@@@@@%:      *@=      ..:-:-=--:@@@+::::----
+                =@@@:.......        @@        :+@#=.       -@+        .......-@@@:
+       .:=++####*%@@%=--::::..      @@   %#     %*    :@*  -@+      ...::---+@@@#*#*##+=-:
+  ..--==::..     :%@@@-   ..:::..   @@   +@*:.-#@@+-.-#@-  -@+   ..:::..  .+@@@#.     ..:-
+                  .#@@@##-:.        @@    :+#@%=.:+@@#=.   -@+        .-=#@@@@+
+             -=+++=--+%@@%+=.       @@       +%*=+#%-      -@+       :=#@@@%+--++++=:
+         .=**=:.      .=*@@@@@#=:.  @@         :--.        -@+  .-+#@@@@%+:       .:=*+-.
+        ::.              .=*@@@@@@%#@@+=-:..         ..::=+#@%#@@@@@@%+-.             ..-.
+                            ..=*#@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@%#+-.
+                                  .:-==++*#######%######**+==-:
+```
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>#72: July 26, 2024</summary>
+
+[Listen Live](https://www.youtube.com/watch?v=sHeXVp7sBos) | [POAP Checkout](https://checkout.poap.xyz/176266/crypto)
 
 *Special guest [Ryan McPeck](https://twitter.com/McOso_) joins us from [Metamask](https://metamask.io/).*
 
@@ -1422,7 +1768,7 @@ They're running low on funds for the upcoming trial. Their fees are $500K/month 
 
 
 <details>
-  <summary>Week #71: July 12, 2024</summary>
+  <summary>#71: July 12, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Buv6tn9NRCQ) | [POAP](https://collectors.poap.xyz/drop/175991)
 
@@ -1788,7 +2134,7 @@ Staking survey data just dropped [on ethstaker.](https://paragraph.xyz/@ethstake
 
 
 <details>
-  <summary>Week #70: June 28, 2024</summary>
+  <summary>#70: June 28, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=GJVeXC-zN0U) | No POAP
 
@@ -1805,7 +2151,7 @@ Staking survey data just dropped [on ethstaker.](https://paragraph.xyz/@ethstake
 
 
 <details>
-  <summary>Week #69: June 21, 2024</summary>
+  <summary>#69: June 21, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=o7O4hgJGJDU) | [POAP](https://collectors.poap.xyz/drop/175083)
 
@@ -2093,7 +2439,7 @@ The take home message is that quite often attestation misses are outside of the 
 
 
 <details>
-  <summary>Week #68: May 31, 2024</summary>
+  <summary>#68: May 31, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=-d9lEqkoMX0) | [POAP](https://collectors.poap.xyz/drop/174344)
 
@@ -2381,7 +2727,7 @@ If I was a crypto lobbyist though, I would expect way more from the administrati
 
 
 <details>
-  <summary>Week #67: May 24, 2024</summary>
+  <summary>#67: May 24, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=eAYjV9rDWk4) | [POAP](https://collectors.poap.xyz/drop/174070)
 
@@ -2709,7 +3055,7 @@ Source:
 
 
 <details>
-  <summary>Week #66: May 17, 2024</summary>
+  <summary>#66: May 17, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=rC5OhVNoNNU) | [POAP](https://collectors.poap.xyz/drop/173772)
 
@@ -3050,7 +3396,7 @@ It has been clear for a long time the MEV landscape is filled with well-connecte
 
 
 <details>
-  <summary>Week #65: May 10, 2024</summary>
+  <summary>#65: May 10, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=GygcHqlW_Xg) | [POAP](https://collectors.poap.xyz/drop/173477)
 
@@ -3339,7 +3685,7 @@ See link below for full reasons given why they want to nullify the SEC SAB 21. I
 
 
 <details>
-  <summary>Week #64: May 3, 2024</summary>
+  <summary>#64: May 3, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=0ozYrP0SfZk) | [POAP](https://collectors.poap.xyz/drop/173217)
 
@@ -3741,7 +4087,7 @@ Coming to Ryan from Bankless - I really dont envy his job of trying to explain a
 
 
 <details>
-  <summary>Week #63: April 26, 2024</summary>
+  <summary>#63: April 26, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=4ahroYymUPw) | [POAP](https://collectors.poap.xyz/drop/172944)
 
@@ -3987,7 +4333,7 @@ I won't be able to match his knowledge and insights (or bullish rants), but it m
 
 
 <details>
-  <summary>Week #62: April 12, 2024</summary>
+  <summary>#62: April 12, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=_43-fLJYhMk) | [POAP](https://collectors.poap.xyz/drop/172302)
 
@@ -4279,7 +4625,7 @@ ETH needs to keep changing for the better, so don't sacrifice the future to the 
 
 
 <details>
-  <summary>Week #61: April 5, 2024</summary>
+  <summary>#61: April 5, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=xYQWGTENc5o) | [POAP](https://collectors.poap.xyz/drop/171987)
 
@@ -4555,7 +4901,7 @@ Warning: It was realized this also exports your DMs.[u/dondochaka](https://reddi
 
 
 <details>
-  <summary>Week #60: March 29, 2024</summary>
+  <summary>#60: March 29, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=RJDmaFZMHSY) | [POAP](https://collectors.poap.xyz/drop/171669)
 
@@ -4849,7 +5195,7 @@ Who am I going to see where?
 
 
 <details>
-  <summary>Week #59: March 22, 2024</summary>
+  <summary>#59: March 22, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=0EO0BsAOnx4) | [POAP](https://collectors.poap.xyz/drop/171366)
 
@@ -5141,7 +5487,7 @@ And while I am at it... Think about how you would feel if we hit 15k and then th
 
 
 <details>
-  <summary>Week #58: March 8, 2024</summary>
+  <summary>#58: March 8, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=VkOXvd-bWTY) | [POAP](https://collectors.poap.xyz/drop/170624)
 
@@ -5434,7 +5780,7 @@ Sorry guys, this is my fault. My van has been damaged after someone reversed int
 
 
 <details>
-  <summary>Week #57: February 23, 2024</summary>
+  <summary>#57: February 23, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=rJZXfbcOcLY) | [POAP](https://collectors.poap.xyz/drop/168878)
 
@@ -5688,7 +6034,7 @@ They sent a thank you note that said Kana was so excited she ran to school at 6 
 
 
 <details>
-  <summary>Week #56: February 16, 2024</summary>
+  <summary>#56: February 16, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=HD2frZKqxlE) | [POAP Checkout](https://collectors.poap.xyz/drop/168421)
 
@@ -6004,7 +6350,7 @@ Also, it looks like Rocket Pool stakers aren't able to claim right now, but I'm 
 
 
 <details>
-  <summary>Week #55: February 9, 2024</summary>
+  <summary>#55: February 9, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=2Pp16s5sRm4) | [POAP Checkout](https://collectors.poap.xyz/drop/167971)
 
@@ -6293,7 +6639,7 @@ I am happy to answer any (sincere) questions.
 
 
 <details>
-  <summary>Week #54: February 2, 2024</summary>
+  <summary>#54: February 2, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=2wvhr12_Pz0) | [POAP](https://collectors.poap.xyz/drop/167651)
 
@@ -6617,7 +6963,7 @@ Credit to [u/usesbinkvideo](https://reddit.com/u/usesbinkvideo) for the gem of a
 
 
 <details>
-  <summary>Week #53: January 26, 2024</summary>
+  <summary>#53: January 26, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=vGmuMB_uB-g) | [POAP](https://collectors.poap.xyz/drop/167341)
 
@@ -6998,7 +7344,7 @@ I'm working to get it audited asap, but any help in the meantime is appreciated.
 
 
 <details>
-  <summary>Week #52: January 19, 2024</summary>
+  <summary>#52: January 19, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=B9_AloQt26Q) | [POAP](https://collectors.poap.xyz/drop/167076)
 
@@ -7448,7 +7794,7 @@ Favorite moment of argument so far:
 
 
 <details>
-  <summary>Week #51: January 12, 2024</summary>
+  <summary>#51: January 12, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://collectors.poap.xyz/drop/166806)
 
@@ -7722,7 +8068,7 @@ As you may/not know, [u/austonst](https://reddit.com/u/austonst] and I run the A
 
 
 <details>
-  <summary>Week #50: January 5, 2024</summary>
+  <summary>#50: January 5, 2024</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=itC1-BUU0AY) | [POAP](https://collectors.poap.xyz/drop/166594)
 
@@ -8092,7 +8438,7 @@ So take my carelessness, my stupidity, as a warning. If you are not careful, you
 
 
 <details>
-  <summary>Week #49: December 29, 2023</summary>
+  <summary>#49: December 29, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=P36tiPSEhw4) | [POAP](https://collectors.poap.xyz/drop/166385)
 
@@ -8387,7 +8733,7 @@ Celebrate that one airdrop like it was the lottery. Be happy about your first ET
 
 
 <details>
-  <summary>Week #48: December 22, 2023</summary>
+  <summary>#48: December 22, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Iup-JwIUOvY) | [POAP](https://collectors.poap.xyz/drop/166184)
 
@@ -8687,7 +9033,7 @@ I would interpret that as a single entity has control over a large part of these
 
 
 <details>
-  <summary>Week #47: December 15, 2023</summary>
+  <summary>#47: December 15, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Z2Be5ur-asw) | [POAP](https://collectors.poap.xyz/drop/165838)
 
@@ -9012,7 +9358,7 @@ This place, this garden that we have here, we grow hope in it. Hope thrives here
 
 
 <details>
-  <summary>Week #46: December 8, 2023</summary>
+  <summary>#46: December 8, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=ARHtGV-XrLA) | No POAP
 
@@ -9367,7 +9713,7 @@ special shoutout to [u/minimalgravitas](https://reddit.com/u/minimalgravitas) fo
 
 
 <details>
-  <summary>Week #45: December 1, 2023</summary>
+  <summary>#45: December 1, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=T2GxKNDQHPU) | [POAP](https://collectors.poap.xyz/drop/160012)
 
@@ -9727,7 +10073,7 @@ Thank you.
 
 
 <details>
-  <summary>Week #44: November 24, 2023</summary>
+  <summary>#44: November 24, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=A0Uk6WWNsUo) | [POAP](https://collectors.poap.xyz/drop/159601)
 
@@ -9946,7 +10292,7 @@ Of course, you could use a regular privacy protocol instead. Tornado is sanction
 
 
 <details>
-  <summary>Week #43: November 17, 2023</summary>
+  <summary>#43: November 17, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=XYGMDMUfsjs) | [POAP Checkout](https://collectors.poap.xyz/drop/159203)
 
@@ -10217,7 +10563,7 @@ Stay safe out there, and if anyone wants to do a favour and report the scammer t
 
 
 <details>
-  <summary>Week #42: Novmber 10, 2023</summary>
+  <summary>#42: Novmber 10, 2023</summary>
 
 No Livestream | No POAP
 
@@ -10234,7 +10580,7 @@ No Livestream | No POAP
 
 
 <details>
-  <summary>Week #41: October 27, 2023</summary>
+  <summary>#41: October 27, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=HxFRR5gyupg) | [POAP](https://collectors.poap.xyz/drop/157240)
 
@@ -10483,7 +10829,7 @@ EDIT: Little more research.  So Lido creates an NFT that is minted the second yo
 
 
 <details>
-  <summary>Week #40: October 20, 2023</summary>
+  <summary>#40: October 20, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=ZUTHYk-gVU0) | [POAP](https://collectors.poap.xyz/drop/156799)
 
@@ -11043,7 +11389,7 @@ Now. What are you celebrating? What have I missed? What can we do better? THESE 
 
 
 <details>
-  <summary>Week #39: October 13, 2023</summary>
+  <summary>#39: October 13, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=NsNVSsVtN7k) | [POAP](https://collectors.poap.xyz/drop/156314)
 
@@ -11286,7 +11632,7 @@ Check out Personae's Twitter (Nitter) threads on their proof system here:
 
 
 <details>
-  <summary>Week #38: October 6, 2023</summary>
+  <summary>#38: October 6, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=-iqGkzdhGgQ) | [POAP](https://collectors.poap.xyz/drop/155891)
 
@@ -11592,7 +11938,7 @@ Thine ally in the digital voyage.
 
 
 <details>
-  <summary>Week #37: September 29, 2023</summary>
+  <summary>#37: September 29, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=29fq4Er075k) | No POAP
 
@@ -11609,7 +11955,7 @@ Thine ally in the digital voyage.
 
 
 <details>
-  <summary>Week #36: September 22, 2023</summary>
+  <summary>#36: September 22, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=nCfj2LwTbWI) | [POAP](https://collectors.poap.xyz/drop/150669)
 
@@ -11889,7 +12235,7 @@ As long as those logical inconsistencies are core points of the Lido thesis, the
 
 
 <details>
-  <summary>Week #35: September 15, 2023</summary>
+  <summary>#35: September 15, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=CcCer9SmQUs) | [POAP Checkout](https://checkout.poap.xyz/150114)
 
@@ -12235,7 +12581,7 @@ I hope the youtube links work as the videos are still streaming youtube seems no
 
 
 <details>
-  <summary>Week #34: September 8, 2023</summary>
+  <summary>#34: September 8, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Yepkb7mzaAA) | [POAP Checkout](https://collectors.poap.xyz/drop/149502)
 
@@ -12547,7 +12893,7 @@ I just wanted to share this, because it's a factor I had forgotten about, and it
 
 
 <details>
-  <summary>Week #33: September 1, 2023</summary>
+  <summary>#33: September 1, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=bWWFr7rMwiU) | [POAP](https://collectors.poap.xyz/drop/149024)
 
@@ -12895,7 +13241,7 @@ By roughly adding up the top dozen stablecoins on [CoinGecko](https://www.coinge
 
 
 <details>
-  <summary>Week #32: August 25, 2023</summary>
+  <summary>#32: August 25, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=2fknVVDi1tU) | [POAP](https://collectors.poap.xyz/drop/148487)
 
@@ -13191,7 +13537,7 @@ Three of the top 15 eth burning/gas consuming contracts on mainnet are L2s. That
 
 
 <details>
-  <summary>Week #31: August 18, 2023</summary>
+  <summary>#31: August 18, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=qHpLeezlq80) | [POAP](https://collectors.poap.xyz/drop/147983)
 
@@ -13442,7 +13788,7 @@ it really guts me to come here and find myself [getting shit on](https://reddit.
 
 
 <details>
-  <summary>Week #30: August 11, 2023</summary>
+  <summary>#30: August 11, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=JIc7fZw9a44) | No POAP
 
@@ -13459,7 +13805,7 @@ it really guts me to come here and find myself [getting shit on](https://reddit.
 
 
 <details>
-  <summary>Week #29: August 4, 2023</summary>
+  <summary>#29: August 4, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=QXLsZG5oGPs) | [POAP](https://collectors.poap.xyz/drop/146487)
 
@@ -13781,7 +14127,7 @@ This platform can then be used to:
 
 
 <details>
-  <summary>Week #28: July 28, 2023</summary>
+  <summary>#28: July 28, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=nO3cctyZV50) | [POAP](https://collectors.poap.xyz/drop/145873)
 
@@ -14088,7 +14434,7 @@ Wish I could say its surprising...
 
 
 <details>
-  <summary>Week #27: July 14, 2023</summary>
+  <summary>#27: July 14, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=pvPp5ii6wmI) | [POAP](https://collectors.poap.xyz/drop/143298)
 
@@ -14317,7 +14663,7 @@ Google Play Changes Policy on Tokenized Digital Assets, Allowing NFTs in Apps an
 
 
 <details>
-  <summary>Week #26: July 7, 2023</summary>
+  <summary>#26: July 7, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=twRs1bpsAc8) | [POAP](https://collectors.poap.xyz/drop/142004)
 
@@ -14576,7 +14922,7 @@ Get your Gnosis nodes ready for Shapella (withdrawals)! Happening Aug 1 (UTC) ac
 
 
 <details>
-  <summary>Week #25: June 30, 2023</summary>
+  <summary>#25: June 30, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Z0Jyor_MyFk) | [POAP](https://collectors.poap.xyz/drop/140922)
 
@@ -14813,7 +15159,7 @@ Additionally, if you are in EVMavericks discord, we have a security channel. You
 
 
 <details>
-  <summary>Week #24: June 23, 2023</summary>
+  <summary>#24: June 23, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=7a_aZ095wJU) | No POAP
 
@@ -14829,7 +15175,7 @@ Additionally, if you are in EVMavericks discord, we have a security channel. You
 
 
 <details>
-  <summary>Week #23: June 16, 2023</summary>
+  <summary>#23: June 16, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=difDTKT_S5A) | [POAP](https://collectors.poap.xyz/drop/130577)
 
@@ -15076,7 +15422,7 @@ Some observed discussion points I found of interest:
 
 
 <details>
-  <summary>Week #22: June 9, 2023</summary>
+  <summary>#22: June 9, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=VZRR5gN17Nk) | [POAP](https://collectors.poap.xyz/drop/129405)
 
@@ -15400,7 +15746,7 @@ All the best,
   
   
 <details>
-  <summary>Week #21: June 2, 2023</summary>
+  <summary>#21: June 2, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=3aFebk70Nxc) | [POAP](https://collectors.poap.xyz/drop/128337)
 
@@ -15667,7 +16013,7 @@ This problem won't just solve itself, there needs to be a community initiative.
   
   
 <details>
-  <summary>Week #20: May 26, 2023</summary>
+  <summary>#20: May 26, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=gHKyO3_Y2N4) | [POAP](https://collectors.poap.xyz/drop/127668)
 
@@ -15936,7 +16282,7 @@ Cheers and Big Hugs from GreenPilled City
   
   
 <details>
-  <summary>Week #19: May 19, 2023</summary>
+  <summary>#19: May 19, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=yo0Mh4TLDXk) | [POAP](https://collectors.poap.xyz/drop/126878)
 
@@ -16462,7 +16808,7 @@ That all said, whatever governance token you own please consider usings this wee
   
 
 <details>
-  <summary>Week #18: May 5, 2023</summary>
+  <summary>#18: May 5, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=6bw1j2qVXoU) | [POAP](https://collectors.poap.xyz/drop/125267)
 
@@ -16821,7 +17167,7 @@ We will soon see the impact of this development on collection prices. While leve
 
 
 <details>
-  <summary>Week #17: April 28, 2023</summary>
+  <summary>#17: April 28, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=saq7NkGh4PY) | [POAP](https://collectors.poap.xyz/drop/124517)
 
@@ -17244,7 +17590,7 @@ I hope to find a way in the EVM discord to experiment with creating badges for l
 
 
 <details>
-  <summary>Week #16: April 21, 2023</summary>
+  <summary>#16: April 21, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=n6cLenFLq2I) | [POAP Checkout](https://collectors.poap.xyz/drop/123583)
 
@@ -17620,7 +17966,7 @@ SEC's actions are embarrassing (even Hester, Gensler's colleague says so), the I
 
 
 <details>
-  <summary>Week #15: April 14, 2023</summary>
+  <summary>#15: April 14, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=B7qRiEzM4LE) | [POAP](https://collectors.poap.xyz/drop/122667)
 
@@ -17997,7 +18343,7 @@ Happy Shapella Day and stay safe out there, fellow Ethfinancers!
 
 
 <details>
-  <summary>Week #14: April 7, 2023</summary>
+  <summary>#14: April 7, 2023</summary>
 
 No stream | No POAP
 
@@ -18386,7 +18732,7 @@ Edit - this works for Prysm, Lighthouse and Lodestar. Teku and Nimbus does not s
   
 
 <details>
-  <summary>Week #13: March 31, 2023</summary>
+  <summary>#13: March 31, 2023</summary>
 
 No stream | No POAP
 
@@ -18628,7 +18974,7 @@ Side note: [MEV-Boost Community Call 2](https://collective.flashbots.net/t/mev-b
 
 
 <details>
-  <summary>Week #12: March 24, 2023</summary>
+  <summary>#12: March 24, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=K8n4M1ltdBQ) | [POAP](https://collectors.poap.xyz/drop/111365)
 
@@ -19091,7 +19437,7 @@ Honestly... best that Coinbase, who's well-capitalized and equipped to handle th
 
 
 <details>
-  <summary>Week #11: March 17, 2023</summary>
+  <summary>#11: March 17, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=ALt23lX6vl0) | No POAP
 
@@ -19402,7 +19748,7 @@ It distilled the community down to those that believe in the original ethos ethe
 
 
 <details>
-  <summary>Week #10: March 10, 2023</summary>
+  <summary>#10: March 10, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=LWNxFT7goPY) | [POAP](https://collectors.poap.xyz/drop/109458)
 
@@ -19693,7 +20039,7 @@ You all know, this bear is a builder. Here are some newish, not-so-well-known De
 
 
 <details>
-  <summary>Week #9: March 3, 2023</summary>
+  <summary>#9: March 3, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=WuwyR17DjJw) | [POAP](https://collectors.poap.xyz/drop/108151)
 
@@ -20027,7 +20373,7 @@ Coworker, if you manage to cross this post and recognize me. Doxx me and I will 
 
 
 <details>
-  <summary>Week #8: February 24, 2023</summary>
+  <summary>#8: February 24, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=QhifKezKprY) | [POAP](https://collectors.poap.xyz/drop/105654)
 
@@ -20387,7 +20733,7 @@ edit: formatting; summarizing a little bc the kicker comes at the end of a wall 
   
   
   <details>
-  <summary>Week #7: February 17, 2023</summary>
+  <summary>#7: February 17, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=bHHAsudu418) | [POAP](https://collectors.poap.xyz/drop/101860)
 
@@ -20717,7 +21063,7 @@ Consider donating to crypto lobbying groups this year if you have the means and 
 
 
 <details>
-  <summary>Week #6: February 10, 2023</summary>
+  <summary>#6: February 10, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=Vk1y-RRdr3E) | [POAP](https://collectors.poap.xyz/drop/100715)
 
@@ -20969,7 +21315,7 @@ More important things to focus on individually, sorry for the jaded take.
 
 
 <details>
-  <summary>Week #5: February 3, 2023</summary>
+  <summary>#5: February 3, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=mREo3TWlMi4) | [POAP](https://collectors.poap.xyz/drop/99709)
 
@@ -21360,7 +21706,7 @@ My final "do it while neutral sentiment lasts" rant - I've used the phrase "mark
 
 
 <details>
-  <summary>Week #4: January 27, 2023</summary>
+  <summary>#4: January 27, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=M-AcQ26EhLs) | [POAP](https://collectors.poap.xyz/drop/98654)
 
@@ -21566,7 +21912,7 @@ I was able to follow along pretty good and now I'm officially running a node on 
 
 
 <details>
-  <summary>Week #3: January 20, 2023</summary>
+  <summary>#3: January 20, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=W4T2x_TomXA) | [POAP](https://collectors.poap.xyz/drop/97630)
 
@@ -21839,7 +22185,7 @@ From my POV, a good day here. Made great progress getting everyone at EY on the 
 
 
 <details>
-  <summary>Week #2: January 13, 2023</summary>
+  <summary>#2: January 13, 2023</summary>
 
 [Livestream Recording]() | [POAP](https://collectors.poap.xyz/drop/96569)
 
@@ -22061,7 +22407,7 @@ Tldr; I agree Shanghai will likely increase decentralisation. if I can do it, li
 
 
 <details>
-  <summary>Week #1: January 6, 2023</summary>
+  <summary>#1: January 6, 2023</summary>
 
 [Livestream Recording](https://www.youtube.com/watch?v=DgalmQ3ulco) | [POAP](https://collectors.poap.xyz/drop/95687_)
 
