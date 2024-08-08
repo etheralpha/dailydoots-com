@@ -1105,16 +1105,15 @@ Rank | Username   | Daily Doots
 
 <callout>Recordings: &nbsp;&nbsp;[Libsyn](https://evmavericks.libsyn.com/) &nbsp;&nbsp;|&nbsp;&nbsp; [Pods](https://pods.media/evmavericks) &nbsp;&nbsp;|&nbsp;&nbsp; [Youtube](https://www.youtube.com/@evmavericks/streams) &nbsp;&nbsp;|&nbsp;&nbsp; [Spotify](https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I)</callout>
 
+**Upcoming Guests**
+
+- August 23 - Amir & Jason from [Puffer Finance](https://unifi.puffer.fi/)
 
 
 <details>
   <summary>#73: August 2, 2024</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/176266/crypto)
-
-**Upcoming Guests**
-
-- August 9 - Amir & Jason from [Puffer Finance](https://unifi.puffer.fi/)
 
 <details>
 <summary>The morning roundup</summary>
