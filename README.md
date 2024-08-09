@@ -1118,6 +1118,363 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>Week #74: August 9, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1enrae5/comment/lh89w8l/)
+
+[u/hehechibby](https://reddit.com/u/hehechibby)
+
+> Ethereum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $2662.54
+
+[u/Vinegar_Strokes__](https://reddit.com/u/Vinegar_Strokes__)
+
+> 0.043
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 90,771 hodlers subscribed (+2)
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ejnbk4/comment/lgingg8/)
+
+*It's a scarry chart,*
+
+*Fundamentals outsmart,*
+
+*It's merely a fart.*
+
+</details>
+<details>
+<summary>Choda time!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1emxgi7/comment/lh4exoe/)
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>Shitpost of the week: u/EmpireStake</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ekfjb6/daily_general_discussion_august_5_2024/lgm77mw/)
+
+> be me  
+> wake up in cozy Airbnb on fine Sunday morning 
+> Tropical Storm Debby cancels flights home
+> fuckthat.jpg  
+> wife and I decide to drive rental car back to New York
+> 12-hour drive ahead  
+> leave at 11 am 
+> ETH price tanking, watching it on Apple Watch  
+> realize I have a big loan on Aave  
+> sweating.jpg
+> remember liquidation point in low $2000s, can't remember exact number  
+> anxietyintensifies.gif  
+> hit traffic
+> nearly 12 am, price dropping faster  
+> panicmode.exe  
+> arrive in NYC, get in Lyft, tell driver to go fast  
+> driver understands and drives like a maniac  
+> wife has no idea
+> get home, check position 
+> LTV at 76%, 4% away from liquidation  
+> fire up Ledger, send more crypto 
+> lower liquidation price by half  
+> calm.jpg
+
+what. a. day.
+
+</details>
+<details>
+<summary>u/PhiMarHal shares their experience at EDCON</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ei1pba/daily_general_discussion_august_2_2024/lg5jqfg/)
+
+(1/2)
+
+I broke my no conference rule and attended EDCON in Tokyo this year. Didn't see any posts about it, but maybe I missed them, it's been hectic running around to try to attend everything (and missing most of it). Either way I thought I'd share my subjective experience as a normally privacy-conscious grumpy internet man.
+
+First, the quality of that conference was impressive. On every aspect. Coordinating any event is no easy task, and here the organization was top notch. As someone who doesn't speak a word of Japanese and can hardly mumble coherent English, the EDCON team aptly corraled me and others wherever they needed to be.
+
+Great venues too. Most days we were at the United Nations building. I think the whole building catered to the convention? One big conference room housing about ~400 people for the main talks, and side conference rooms for side talks/workshops. Then the main 2 days took place at the Yoyogi gymnasiums, which were OK for the more festive atmospheres they were meant to be, but a bit iffy on acoustics when it comes to listening to technical talks.
+
+Of course this is what matters most, the quality of these talks. I have to say this did not disappoint. There's something to be said for being committed to an event and passively sitting there for hours, as opposed to surfing the Internet and actively seeking knowledge. Whether you want it or not, when you're physically present your brain starts to absorb knowledge like a plant does photosynthetis.
+
+In particular, I found all the talks on MPC (Multi Party Computation), TEE (Trusted Execution Environment), FHE (Fully Homomorphic Encryption) especially interesting. Many of us have seen these terms many times, the most adventurous among us even try to read Vitalik's blogs on the topic. Personally it still failed to click for me. Until I sat in these rooms and saw the points explained and reexplained in a variety of different ways by various speakers.
+
+Major props in particular to the panel between Guy Itzhaki (Fhenix), Zhen Yu Yong (Web3Auth), Chua Zheng Leong (Automata). Three guys who manifestly know their stuff and engaged with each other to make these concepts obvious to the crowd. The theme was MPC vs TEE vs FHE, but really it came down to them explaining where each solution makes the most sense. I don't know when EDCON will put the videos of these talks online, but if there's one panel I'd suggest watching, it would be this one.
+
+In person, you truly get to see who's passionate and who's acting. Either that or there were some excellent actors. The aura of highbrained discussion shifts your perspective, you get caught in the enthusiasm. When I first saw Fhenix (which is a L2) online, my cynical ass thought oh joy, they took FHE and made a little play with Phenix, how "clever". Post conference? Oh, they took FHE and made a little wordplay with Phenix! How clever! (his frown and cynicism: gone)
+
+Another protocol that flipped me 180 was Zircuit. Initially (online) their marketing as an AI-powered L2 made me scoff. But the talk by their CTO made an excellent case for the future of sequencers, differentiating themselves by subjective qualities rather than the objective increases of scale. I got to speak with one of their devs, who told me the AI is really used for data analysis, to classify the possible pathways for DeFi hacks we've seen in the past, and then identify transactions that look functionally similar and send them in quarantine before inspection. Which is entirely sensible when you think about it. So many exploits boil down to flashloans, oracle manipulations and high changes of volume in a single block, that it should be not only possible but practical to build heuristics to defeat most common attack vectors.
+
+Needless to say, I'm now accumulating some Zircuit points...
+
+Intmax people were on several panels, and then they featured proeminently at Plasmacon the next day as they were organizing it. Justin Drake had a pretty cool gigabrain (omegabrain?) talk about it. I won't even try to pretend I can explain, save that you can run pretty aggressive compressions for payment usecases. 
+
+Justin also made the interesting case BTC as an asset could survive a 51% attack (which in his opinion will happen within ~10 years) by using one-shot quantum signatures and leaving the PoW chain behind. Right, I understand some of these words.
+
+Adrian Brink of Anoma had several talks on completely different topics, all great stuff. He's a good speaker and obviously a smart man, if a little bit too smart as his presentations tend to end up too dense with information. I liked his hot take in Plasmacon the most, paraphrased: if we define scalability as the ability to retain fixed costs no matter the activity, then rollups are not a viable scaling solution, while Plasma can be. Personally I think the burden on app developers (who have to guarantee data availability or think of the right incentive mechanisms for others to provide it) is too large for the time being, and I would not bet on Plasma being big at scale before 2030, but what do I know?
+
+The more relevant point, maybe, is that a whole lot of people are clearly building for 2030 and beyond. If you're ever looking for a fix of optimism to distract you from market trends or cryptotwitter feuds, I will wholeheartedly vouch for EDCON. This could not have been better exemplified than by Vitalik's keynotes.
+
+Finally got to see the unicorn... scratch that, the horse... amend that, the man... on stage. There is a special sort of energy to his talks. You can tell he's exposing his concrete, factual vision for the space, which he makes accessible to the rest of us but doesn't massage, inflate, nor reduce, in any other way. But I also liked the energy of his body language. Always moving around, pacing from one leg to another, the frame of someone who speaks of a topic he knows in and out and wishes our input/output bandwidth as human beings could stretch to accomodate the full speed of his thoughts as fast as they come. It hits different when mr Buterin says we can scale, because it MEANS we CAN scale.
+ 
+The focus was on the next 10 years of Ethereum, touching on where we were, where we're at and where we're going. Main idea: we got the fees down, now we need to get back to 2016 UX of a monolithic construction from the user perspective. Main pathways: gas auctions (you have ETH on any rollup, someone else broadcasts your transaction on the desired rollup for a fee, competition should push that fee down to negligible levels), chain prefixes (op:0x1234 and arb:0x1234 instead of 0x1234, handled at the wallet/dapp level, all you see and use is 0x1234 and everything is taken care of).
+
+In closing, he suggested the infra is good and we should expect to see a shift in focus towards applications. Music to my ears.
+
+(re: unicorn. On the final day, Vitalik came in a Bufficorn costume. Then removed it to reveal his secret identity as a humanoid horse holding Dogecoin. Then became human. I feel the genius in that costume is that he waddled around the conference for hours before, incognito. How do you attend a show when you're a rockstar billionaire? Without the suit he would have been crowded all the time, but as a mascot most people seemed to blissfully ignore him.)
+
+---
+
+(2/2)
+
+So the main stuff was good. And there was a lot more to it! The hackathons were great, you get to see what people are building. Much of it was sponsored by zkSync. There was a funny dynamic to this. First you'd hear the zkSync guys describe their newest infra directions, the possibilities it allows. Then the hackers would show up on stage... and after their presentations, would be assaulted by technical questions from the very same zkSync people. "What do you think about this potential issue? Have you thought about using specific feature X in your app? What about..." All in good form, benevolent, but nonetheless you got the vibe of Infra Nobility questioning Application Peasants. If there ever was a need to illustrate this current reality in our industry, I think it was on display there, in those poor hackers' confused answers.
+
+zkSync had the best swag. They brought their eli5 books (which you might have already seen here: https://eli5.zksync.io/ ), in Japanese and English. A 200-piece puzzle box. Their mascot "Zeek" was proeminently featured. They're killing it on branding, it's stuff you're happy to own because it looks visually pleasing, and it's appropriate for kids too.
+
+They had this pretty slick zkQuest website too: https://zkquest.zksync.io
+
+Which you activated by going to their booth. It let you do a bunch of developer quests, ranging from very simple to rather involved, and covered a large spread of topics in their ecosystem. You got real ETH for finishing those quests, and the amounts were rather generous! Doing everything could net you about 0.065 ETH.
+
+(Most people didn't. I only managed less than half, and I'm in the top50 leaderboard.)
+
+Oh, and finishing the first set of easier quests got you the coolest swag, a Zeek hat. It was genuinely cool to see people wandering around with theirs on, you could tell who's engaging deeply with the developer side of the conference. Status signals like this make for fun crowd dynamics.
+
+The PSE research group (pse.dev) worked the same magic in their FHE panel. They demonstrated this app letting you connect with other people by tapping your NFC-enabled phone to a ring, to then let you make private groups and vote on various things anonymously. In the end everyone who participated got a NFC black ring. More subtle than a Zeek hat, it was neat to spot other ringbearers in the wild through the rest of the conference.
+
+The entertainment was fun. Partly because there was clear confusion between the attendees and the shows. You hear stories about fans going ga-ga for Kpop, then you're here watching tripleS get on stage and half of the crowd is getting up and walking away.
+
+(It was just after Vitalik's keynote. You could see the flow of the wave moving in for his talk, then moving back out. Half of the total crowd or so.)
+
+I made it a purpose to approach this conference while revealing as little about myself as possible. I did not specify my job, my occupation, made it a point to say I was neither a developer nor an investor, didn't tell my name, never connected my Twitter or Telegram to anything. My goal in that was to see how open the culture is, to check whether reputation/identity are defacto requirements or if people are willing to engage with you regardless.
+
+The conference scored highly on that scale. I applied to almost all side events, and almost everyone let me in. I didn't try to approach people, but several individuals came to me. Out of them only one I would qualify as a shitcoin shiller, and even then he was fairly respectful and didn't try to push beyond giving me the swag. Everyone else was insightful, loved to trade ideas and talk about what they were doing. I'm not a particularly charismatic person, so to come in anonymous and get this amount of positive sentiment and friendliness freely extended... truly suggests, at least to me, the community has done a good job translating the "permissionless" concept to real life.
+
+There was a good spread of side events. Whatever it is you wanted to do. If you wanted to go deep into some technical topic, there was a side event for that in a crowded classroom somewhere. If you wanted to watch Japanese idols sing some songs about smart contracts being the next hope of humanity, there was a side event for that too. I went to everything I could, if only because as a first-time Japan tourist it made for a guide to discover the hot spots in town. It was a good reminder blockchain leans young. You could count the people with grey hair on your two hands, if not two fingers.
+
+Subjective conclusion to subjective experience. I had a blast. In life it's easy to nerd out and it's easy to have fun, but it can be hard to find a crowd doing both. I'm also flabbergasted this value is delivered essentially for free. As the EDCON tickets were given to anyone who applied near the end. There was a healthy mix of foreigners to locals, maybe about 60:40. Most of the talks were in English with some AI real-time translation in Japanese.
+
+Strangely enough, it only reaffirmed my belief going to conferences is a tricky path. As in, you can lose sight of the "real" users, onchain. Free tickets to attend or no, the guy from Serbia who makes €600 a month is not hopping on a flight to Tokyo anytime soon. The attendance was definitely biaised towards rich, and it's easy to feel optimistic when you're here either because you're financially independent or because your well-paid job foots the bill.
+
+There's a counterpoint in that the Ethereum community goes through significant effort to diversify event locations and to make things accessible. At this point there's probably something somewhere anyone could attend, given a reasonable effort.
+
+It's hard to stay objective when you're having a good time. I now have so much positive bias towards several protocols based on my people encounters. There's a reason many societies have strict anti-bribery laws, most of us get swayed easily; and man do I feel bribed out in the abundance of free stuff thrown my way.
+
+But you know what? Maybe objectivity is overrated. Brings to mind a certain WEF video: "welcome to the 2030 roadmap. I own all the things, I have some privacy, and life has never been better."
+
+If you ever feel down about this space and have the opportunity to attend, do yourself a favor and take the plunge.
+
+</details>
+<details>
+<summary>u/pa7x1 speculates on future blobspace price and demand</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ei1pba/daily_general_discussion_august_2_2024/lg4xqgc/)
+
+Estimating the late game economics of blobspace. This is just a quick back of the envelope math, to get a taste of the numbers. Feel free to tweak the assumptions as you see fit. With current blobspace target of 3 blobs (1 shard):
+
+500 tps x 60 x 60 x 24 x 365 secs per year = 15800M transactions per year
+
+Say average transaction fee is 5 cents. Which would make the median even lower, around 1-2 cents. Making even the lowest added value use cases (e.g. pay for coffee) perfectly viable. This is likely extremely conservative because if we start having serious financial applications on top of Ethereum (i.e. tokenized RWA) those fees are ridiculously low. Your broker charges you easily 5 USD per transaction. And registration of car titles, houses, etc... is even more expensive. So it could push the average much higher easily.
+
+15800M tx per year x 0.05 USD per tx = 800M USD per year
+
+Say Ethereum captures 80% of that. This assumption is based on the current burn %, which has typically floated around 80% of the tx cost. This is the trickiest assumption, I don't have a good way of estimating how much value will be captured by Ethereum from the L2 transaction fees. This is dependent on the attractiveness of data availability on Ethereum vs all other options. So feel free to tweak this value. If we assume 80%, that gives us 640M USD per year with 1 shard.
+
+With full danksharding we will go up to 64 shards. So that would puts of the order of 40B USD per year of burn just from blobspace. That gives you an implied price of ETH of 30-35K USD just from blobspace alone. Add to that Ethereum's proper blockspace which in the past has been able to capture a similar figure of burn and you get to a price of ETH around 50K to 100K USD. The price estimate is simply a consequence of assuming ETH cannot be absurdly deflationary, if it were it would cause a supply crunch and the price would go upwards resulting in less burn until it estabilizes around the price that gets us to close to 0 inflation.
+
+Mind you, this is a long-term view of the roadmap. It will take us still years to deliver Danksharding and 64 shards and onboard all the use cases. But it serves to illustrate how the ETH late-game economics could look like.
+
+Disagree with any of the numbers? Change them! The point is not so much to derive a specific figure, but to get a sense of the order of magnitudes we would be dealing with.
+
+</details>
+<details>
+<summary>u/SeaMonkey82 has a warning for all validators</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ejnbk4/daily_general_discussion_august_4_2024/lgjezl6/)
+
+Word of warning to any validators out there - I recently updated all of my Linux Mint 21.3 systems to Linux Mint 22, and every one of them that had chronyd configured had it removed during the upgrade process.  My one Ubuntu 22.04 server also didn't have it after upgrading to 24.04, but I'm not certain that one ever did, so I don't know if this is par for the course for *any* Ubuntu-based distribution or if it's specific to LInux Mint.  
+  
+In any case, if you aren't running chronyd for timesync, I recommend it.  There's [a CoinCashew guide](https://www.coincashew.com/coins/overview-eth/archived-guides/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-i-installation/synchronizing-time-with-chrony) for setting it up, but I recommend relaxing the frequency settings to `minpoll 2` and `maxpoll 10` to avoid KoD RATE messages.
+
+</details>
+<details>
+<summary>u/MrCatFace13 shares a memo from Bitwise</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ekfjb6/daily_general_discussion_august_5_2024/lgnetn9/)
+
+The most recent Bitwise memo from Matt Hougan is pretty great. Here is the relevant section:
+
+*The last time the market melted down like this was March 12, 2020. That was the day the world realized that Covid was a big deal.*
+
+*In case you’ve blocked it from your memory, let me remind you: It was chaos.*
+
+*The Dow Jones Industrial Average sold off 2,353 points on March 12, its worst day since 1987. Tech stocks were in free fall, as were commodities. We all thought the global economy was going to end. The president would declare a national emergency the following morning.*
+
+*Among all assets, bitcoin crashed the worst, falling 37% from $7,911 to $4,971. It was a breathtaking one-day move, wiping out a year’s worth of gains in 24 hours.*
+
+*It felt as if we might never recover. The media claimed bitcoin had failed its test as a hedge asset.*
+
+*And then something spectacular happened. As global leaders stepped in to stabilize the economy—cutting interest rates, printing money—bitcoin began to rise. A year later, it was trading at $57,332, up more than 1,000%.*
+
+*In retrospect, March 12, 2020 wasn’t a time to panic. It was the best buying opportunity for bitcoin in a decade.*
+
+*It’s easy to see why with the benefit of hindsight. Nothing fundamental had changed about bitcoin because of Covid. The maximum number of bitcoin that could exist (21 million) was the same on March 11 as it was on March 12. You didn't need to rely on any bank, government, or company to store wealth in bitcoin on March 11, and that was still true on March 12.*
+
+*At the same time, Covid supercharged the reasons for bitcoin’s long-term rise. It showed that central banks would bail out the economy at the first sign of trouble. It demonstrated the limitations of centralized institutions. And it reminded us that the future is more online and digital.*
+
+*The changes all pointed in favor of bitcoin becoming more important, not less. And in the long term, that’s exactly what happened.*
+
+*I see the same setup today.*
+
+Edit to add this:
+
+*But, in brief: Weak economic data in the U.S. on Friday sparked concerns that the global economy is slowing. This prompted a panic in Asia, where a rapid unwind of the yen carry trade—a strategy aimed at exploiting interest-rate differentials between currencies—pushed Japanese markets sharply lower. Things weren’t helped by rising concerns over geopolitical risks in the Middle East, where Iran is threatening to attack Israel.*
+
+*These events collided with idiosyncratic negative developments in the crypto market, where a large market maker (Jump Trading) ran into trouble and faced forced liquidations of large positions in ETH.*
+
+</details>
+<details>
+<summary>u/Dreth fact checks their own comment from a few days ago and u/pa7x1 also has some great input on the macro topic at hand</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1el99as/daily_general_discussion_august_6_2024/lgqvde3/)
+
+[u/Dreth](https://reddit.com/u/Dreth):
+
+Yesterday I made an (apparently) well received [lengthy comment](https://reddit.com/r/ethfinance/comments/1ekfjb6/daily_general_discussion_august_5_2024/lgktwts/) of disorganized thoughts regarding the stock market crash that ocurred this week. I want to correct some inaccuracies or imprecise details I explained regarding the particular events in japan.
+
+The immediate cause is the carry trade, but some corrections about it and the situation in Japan:
+
+> The first immediate reason why this happened is because while the FED and the ECB raised rates to control inflation, the BOJ kept rates at 0. This lack of coordination with other central banks, which is entirely within the rights of the BOJ as a central bank of an independent nation, but not ideal, has made a very profitable trade: borrow money in japan, sell JPY, buy USD or EUR and put that money to work in public debt or other yield bearing instrumnets, or if you prefer a riskier trade, buy stocks denominated in other currencies. So both the FED/ECB and BOJ are at fault because they kept rates high for too long and keeping rates low for too long respectively, creating a very profitable trade. Hence why central bank coordination matters in large markets.
+
+And also bad data from other directions causing more drawdown in the market in the days prior to yesterday's crash: 
+
+> The market had already been pricing in a slowdown in the economy, with unexpectedly low job creation in the US and less than ideal earnings from US companies, though the most concerning figure was the job data. This is likely what caused that first drawdown that brought us to 2700-2900 in the past couple days. But other markets have also been slowing down, not just the US, China too apparently, and Europe we already knew was weak economically from several different directions. Just an example of Europe's weakness at the moment could be seen through [Germany's GDP growth](https://tradingeconomics.com/germany/gdp-growth), which shows a contracting or stagnant economy, rate hikes most definitely affect this by reducing demand and making credit more expensive, and Germany already had had a weak 2022 with [lots of noise in its trade balance](https://tradingeconomics.com/germany/balance-of-trade) as a result of the sanctions to Russia, though this is old news.
+
+Some inaccuracies I layed out that I want to rectify/correct:
+
+> I said the BOJ had had near-zero or zero % interest rates for almost a decade, but it's way more than that. [The BOJ has had interest rates at zero for MOST of the past 20 years](https://tradingeconomics.com/japan/interest-rate), with short periods of increase that never went above 0.5%.
+>
+> Hence this trade being not just _recently_ profitable, but _historically_ profitable, especially because this monetary policy from the BOJ was intended to remain for as long as possible. Even now the rates are extremely low, at 0.25% despite increases. The higher the difference between the BOJ rates and the FED/ECB rates, the more profitable this trade becomes, especially because the JPY was particularly weak vs these currencies, so the profit is double, you earn from shorting JPY relative to USD or EUR and you earn from having high interest rates, so the JPY weakness came from a lot more people taking this short position in JPY. Though this was especially profitable recently.
+>
+> I said that the BOJ wanted to end the carry trade. This is not necessarily true, the BOJ only wants inflation in japan and purchasing power to remain static or to increase (currently [Japan's economy has been contracting](https://tradingeconomics.com/japan/gdp-growth)). The carry trade had been hurting the JPY causing loss of purchasing power because (one example) e.g. commercially, if their currency is lower, their exports are cheaper, but imports are more expensive. Generally this hurts citizens, so the BOJ increased rates to reduce this disparity and give a little more strength to the JPY.
+> 
+> Given that many traders expected the rates to not increase in any meaningful way, and especially expecting the _intent to increase them_ from the BOJ would remain the same, many traders took recent short positions on an already weak JPY, which caused a large cascade of margin calls on JPY borrowers performing carry trades, resulting in that immediate large rise in the JPY.
+> 
+> I won't get into why the [Nikkei crashed](https://finance.yahoo.com/quote/%5EN225/) harder than it ever had in history, it could be due to several factors, but I haven't done any profound research on it. It could be margin calls due to shares being collateral to loans, it could be due to bad earnings, idk, there's probably multiple things at play here.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1el99as/daily_general_discussion_august_6_2024/lgqyq4i/)
+
+[u/pa7x1](https://reddit.com/u/pa7x1):
+
+Pretty good content, both yesterday and today. Some quick complementary comments.
+
+BOJ cannot raise substantially interest rates because Japan's debt to GDP is a ridiculous 263%. This ties their hands, their interest payments would go through the roof. Yes, their debt is issued in Yen. They could always print more but you are just trading one evil for another one.
+
+Nikkei went down because the Yen is strengthening to reflect the new conditions. Japan's economy depends a lot on exports. If the Yen goes up their exports are less competitive. This compresses earnings of their companies. Markets try to see into the future and price that. Plus minus any short term market turmoil, liquidations, etc... But this is short term noise. 
+
+The carry trade is not ending here, it has started to unwind. The yield differential is going to keep existing for quite a while as it's related to point 1. Because of that yield differential the Yen should be weaker and devaluing over very long time horizons (decades). What we have seen is just the tip of the iceberg, the most degen of the degen levered to their tits, getting exposed when the market moves a bit against them. And having to close down positions in a disordered manner. Seems some liquidations must have happened but nothing is publicly known yet.
+
+</details>
+<details>
+<summary>u/ProfessionalNoiseX opens up about their recent liquidation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1el99as/daily_general_discussion_august_6_2024/lgqfz2w/)
+
+*/rant, skip if you don't like sad stories but I need someone to hear me out for my sanity*
+
+These are the hardest days for me ever.
+
+The other day I got liquidated on my ratio long on the scam wick. It was not a very aggressive position (actual breakeven ratio for collateral/debt was at 0.0355) but I guess it got to 90% LTV on the protocol anyway.
+
+I did not expect the ratio to drop that much that fast and I was stubborn and did not reduce it in the coming hours when it was at 0.045.
+
+This is where I don't know if I can ever get closure. The protocol that I have used (which I don't want to badmouth but it definitely has some design issues) leaves the difference between liquidation threshold and actual value all to the liquidator. All this to say that the guy liquidated me at barely 90% LTV and actually got a 27ETH payout on a 225 ETH position because it probably actually bounced back in the time it took for him to actually exchange the BTC for ETH.
+
+If I had not been liquidated, that position would be worth something like 40 more ETH than I have now. Had i kept most of that 10% it would have been 25ETH. Instead, I have zero left from that position. I feel like I got robbed.
+
+So, for me that's it. I am back at my initial ETH stack after all these years of working to increase it (I was at my record just over a month ago at 2x the current ETH amount) and now I'm just left with years of stress for nothing.
+
+I can't honestly bounce back from this, I don't have the mental strength nor the stack to risk it anymore. I know that I would probably blow the rest trying to get it back quickly.
+
+I don't know how will I ever overcome this, I have missed real life goals and have been stressed constantly trying to increase my internet coins and now I have lost all that I had built.
+
+I will stick around and follow the progress for Ethereum for which I truly believe in, just with a different outlook for myself and a bad memory of all these years. Hopefully I will be able to partially forgive myself for the mistakes I have made, because right now I am unable to.
+
+Thanks r/ethfinance, you truly have been a beacon of light in all these years and that will be always a nice memory for me.
+
+</details>
+<details>
+<summary>u/krokodilmannchen is getting flashbacks and shares his 2 wei</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1el99as/daily_general_discussion_august_6_2024/lgqobgg/)
+
+Damn, I'm reading comments from overleveraged people after yesterday's events. It's a trip down memory lane (2018-2020), where plenty of people lost their precious eth. The biggest ethfinance loss I'm aware of was an 8000 eth position that got halved (back then we were talking about a couple of million $ iirc).  
+
+There are no "big lessons" imo. You just have to go through these events to learn, or at the very least, treat much more carefully than you think.  
+
+To those who have lost a lot yesterday (and the prior weeks), I hope you find your way out of it. It's not easy. At least the tech is "proven" right now and eth isn't going to zero.
+
+</details>
+<details>
+<summary>u/NeedlerOP shares some reasons to be bullish</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1em3ca0/daily_general_discussion_august_7_2024/lgydx2j/)
+
+Things to be bullish about :
+
+* ETH ETFs & positive flows
+* +ve YOY M2 supply after 16 months of contraction (in layman terms, Powell is printing)
+* We just had a black swan one per 10 year VIX event comparable to COVID crash and '08 financial crash
+* ETH Retail is shitting the bed due to poor risk management, and is selling now to institutions
+* Bitcoin Dominance & Altcoin Dominance Cycle theory points towards alt capitulation and a Q4 Alt-season. I'm under the belief we have experienced the last flush accelerated by the BOJ black swan, instead of mid Q4.
+* ETH is underperforming all assets within the space currently
+* As an example, in 2019, after the Mid-cycle top, we saw crypto markets & ratio bottom after 75 bps of cuts, which will be 2 FED meetings in our case (Early Nov)
+* The time to be bearish was last week, you're fucked now and it may be too late to be bearish
+* Most metrics and leading economic indicators are flashing positive or neutral, employment is still historically low,  the recession has already happened, and we are coming out of it. (Only -ve signal is yield curve, which is still fucked)
+
+Source : NBER Recession Indicators, Conference Board LEI
+
+* In inflationary environments, the unemployment SAHM recession indicator fires during or after the stock market drawdown has occurred - it appears to have been front-run substantially this time with all the recession fears in '22
+
+BONUS - Short Term
+
+* Jim Cramer bear posted on crypto a couple days ago
+
+</details>
+<details>
+<summary>u/Tricky_Troll talks about mindsets after a setback</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1em3ca0/daily_general_discussion_august_7_2024/lgx301z/)
+
+I just wanted to share a bit of a mindset change I've had over the last couple of years in this bear market which I discussed in response to a fellow EthFinancier at the end of yesterday's daily who lost a lot of ETH (but not their whole stack) to a liquidation this week. I'd love to hear how everyone else who is quite far into this game has had their mindset change over time. I also hope it doesn't come off as pretentious. I'm not some zen guru who is holier than thou for being grateful for what I have. Far from it. I just stress a lot less and chase that calculating my net worth dopamine hit much much less and I hope others can achieve that too.
+
+> Hey friend, I can relate. I lost about 30% of my stack to shitcoins and another 20% I have cashed out because I let my lifestyle adapt based on a price movement (last bullrun) which didn't stay around and which I didn't take anywhere near enough profits on but still had a lot of taxes to pay. I recognise that your story probably stings a lot more than mine ever did with the scam wick, but I think the important difference here is I am 2 years further down the line after taking a big L than you are.
+> 
+> After the my big sudden L with a couple of shitcoins which basically went to 0, I went cold turkey on the bullshit. Anything risky is out of my portfolio. No shitcoins, no leverage. Not even "blue chip" or darling altcoins like LINK or RPL. At the end of the day they're all about taking on risk to get more ETH. But that's just a form of gambling. So all that's left is DCAing (which is out of the picture for me as a student) and staking. So I've just been comfortably holding and staking for the last two years. As time has gone on, I have come to terms with not being able to attain my more lofty price targets and bullish financial goals. Instead I have focused on what I do have. And holy fuck, I'm only sitting on one home validator but my god, this still puts me way ahead of anyone else my age that wasn't born into the 1%. This bear market has been humbling for me in a good way. I'm no longer trying to gamble for more ETH, so I have had time to reflect on what I have and how much freedom it can bring me, how much less it makes me stress over tough financial situations on a daily basis.
+> 
+> My friend, hang in there. You have not lost it all. In fact, if you're patient and responsible, you're right about to find what it is you have and it's more than you think. Just give your mind time to adapt as it moves away from a dopamine filled moon chasing, ETH gambling mindset and towards a more grounded and grateful one. I hope it doesn't sound cheesy or pretentious. But losing half of my stack has been good for my wisdom, financial responsibility and mental health. Try not to stress about it all too much and just let it be. From the sounds of it you're still in this game and I don't want to lose any more EthFinanciers to liquidations and high risk plays.
+> 
+>I know it is painful now, but it will get better. You've just got to focus on the right things.
+> 
+> -----------------------------
+> 
+> <sub>Forgive me for my liberal use of the word gambling. You know what I mean though. It's taking on risk with large sums of money which really shouldn't be at so much risk.</sub>
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>#73: August 2, 2024</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN) | [POAP Checkout](https://checkout.poap.xyz/176266/crypto)
