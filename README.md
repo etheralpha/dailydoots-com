@@ -24337,6 +24337,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | bbroad25              | ".08 today, easy."
 .  | brambramEth           | Working on a seed phrase recovery tool
 .  | bullmeza              | [Bequest](https://www.bequest.finance/) - A Dead Man's switch to distribute your tokens and NFTs to selected recipients
+.  | captainloud           | [Boasty](https://boasty.app/) - Schedule posts to publish on Ethereum
 .  | clamchoda             | “༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”
 .  | corn-potage           | Front End Dev as [NiceNode](http://nicenode.xyz/)
 .  | cryptojobsgg          | [CryptoJobs.gg](https://cryptojobs.gg/) - The #1 crypto jobs board for employers and future employees
