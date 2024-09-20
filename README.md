@@ -1127,6 +1127,322 @@ Rank | Username   | Daily Doots
 
 
 <details>
+  <summary>#79: September 20, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+*Special guests Nick, Wander, and Rhett join us from [NodeSet](https://nodeset.io/), a node operator incentivization layer.*
+
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fl4c68/comment/lo0924m/)
+
+[u/spupul6](https://reddit.com/u/spupul6)
+
+> Ethereum
+
+[u/UgotTrisomy21](https://reddit.com/u/UgotTrisomy21)
+
+> $2539
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> 0.03987
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 90,873 HODLERS SUBSCRIBED (+6)
+
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fjkzpm/comment/lnsx49j/)
+
+*Know where you belong,*
+
+*Interest rates bang a gong,*
+
+*Ether sings along.*
+
+</details>
+<details>
+<summary>Choda time!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fkd3pr/comment/lnwlwim/)
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>Shitpost of the week: u/MinimalGravitas</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fhwp53/daily_general_discussion_september_16_2024/lndwkzz/)
+
+GM EthFam, I've got an idea, feel free to veto it, but hear me out first...
+
+Premise 1: We are pretty well represented in many of the biggest DAOs: https://dailydoots.com/#delegates;
+
+Premise 2: Those DAO's control treasuries worth over $20 billion: https://deepdao.io/organizations;
+
+Premise 3: To successfully take over 50% of Bitcoin's hashrate (either by buying ASICs or setting up facilities to manufacture them yourself) would cost ~ $20 billion: https://blockchainbeat.co/how-much-to-hack-bitcoin-and-ethereum-study-reveals-price/;
+
+Conclusion: EthFinance should orchestrate the take down of Bitcoin, then the annoying trolls that have been showing up here the last few days would be less obnoxious, mods would have less work to do, and the daily threads would be less cluttered.
+
+</details>
+<details>
+<summary>u/benido2030 digs up a ZKSync delegate mystery</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ffmt2l/daily_general_discussion_september_13_2024/lmwbgz5/)
+
+zksync governance went live yesterday. There are no proposals yet, but at least everything seems to be set up technically. Since I am one of the ETHFinance delegates, I had been visiting the page regularly to check for updates. That's why I noticed some interesting changes in voting power, some examples:
+
+- Stani (from AAVE): 9M in August, 45M in September
+
+- Baki Er: 12M in August, 61M in September
+
+- polynya: 8M in August, 38M in September
+
+2 of the top 3 delegates (syncswap, l2beat and olimpio) are more or less unchanged with the exception of L2beat. They have more than doubled in voting power (from 47M to 106M)
+
+For Stani and Baki Er the changes are perfectly visible in the [chart on the right hand side here](https://vote.zknation.io/gov/zksync/delegates). For polynya I checked the "Received Delegations" tab in their [delegate profile](https://vote.zknation.io/dao/delegate/polynya.eth). All three profiles show basically the same, huge delegations on both the September 9th and September 12th. 
+
+So where do all these delegated tokens come from? The biggest delegation to polynya is from [this account](https://vote.zknation.io/dao/delegate/0x3e371a236718417af324acefa6122f00f11750c6) which is basically non-existent onchain according to the [zksync explorer](https://explorer.zksync.io/address/0x3e371a236718417af324acefa6122f00f11750c6). It received the zk tokens 3 months ago from a wallet that received 6999999300 zk tokens and has been transfering the tokens to a lot of new addresses. I did a quick check and most of these accounts don't show any activity. The top delegations to both Stani and Baki Er from the past couple of days show basicalyl the exact same patterns...
+
+With some basic maths we can see that 6.9B is basically 33% of the total supply - which makes me think, this is likely the wallet that distributes to team and investors, because according to this [blog post](https://blog.zknation.io/zk-token/) that's the only receiving party that makes sense? 
+
+So are these changes in voting power just team members and investors delegating their (locked) tokens just before governance goes live? Did zksync just tell everyone to delegate? I don't see any other explanation, but maybe I am completely off? Any other ideas?
+
+</details>
+<details>
+<summary>u/HSuke covers the SEC backpedalling</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fgelps/daily_general_discussion_september_14_2024/ln1uf9v/)
+
+The US SEC backpeddled and finally admitted that cryptocurrencies are not "securities" but simply "crypto assets".
+
+There were multiple articles that covered this yesterday:
+
+* Be In Crypto: [SEC Clarifies What Crypto Asset Securities Means ](https://beincrypto.com/sec-crypto-asset-securities/)
+* Cointelegraph: [SEC 'regrets any confusion' from dubbing tokens as securities: filing](https://cointelegraph.com/news/sec-regrets-confusion-dubbing-tokens-securities)
+* Decrypt: [Kraken Pushes for Jury Trial in SEC Lawsuit, Rails Against 'Crypto Asset Securities' Claims](https://decrypt.co/249313/kraken-pushes-for-jury-trial-in-sec-lawsuit-rails-against-crypto-asset-securities-claims)
+* U Today: [SEC Just "Conceded" That ETH Is Not Security, Coinbase’s Top Lawyer Says](https://u.today/sec-just-conceded-that-eth-is-not-security-coinbases-top-lawyer-says)
+* Crypto News: [SEC backtracks on 'crypto asset securities' claim in Binance suit](https://crypto.news/sec-backtracks-on-crypto-asset-securities-claim-in-binance-suit/)
+
+In summary, the SEC admitted that they didn't consider cryptocurrencies as "securities" but as "crypto assets". (Note that this only applies within the US, and many other countries never classified crypto as securities in the first place but as "digital assets".)
+
+> "With its use of the term 'crypto asset securities,' the SEC is not referring to the crypto asset itself as the security," the agency said. Instead, a token’s status as a security "consists of the full set of contracts, expectations, and understandings centered on the sales and distribution of the [crypto asset]," it said, citing language from an earlier filing.
+
+Thus cryptocurrencies are not securities, but how they're offered along with contracts and expectations can be considered securities.
+
+That's what Coinbase, Binance, Kraken, and the entire crypto community have been saying all along, and it took the SEC this long to finally admit it in court.
+
+</details>
+<details>
+<summary>u/DoubtStarsAreFire has a Hodlercon 2 update</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fgelps/daily_general_discussion_september_14_2024/ln1t1sg/)
+
+Things are starting to (finally) take shape for HodlerCon 2024 Thailand Edition. If you're planning on going to DevCon in Thailand this could be the perfect opportunity for you to spend some time with your EthFinance Fam. 
+
+We'll be in Phuket from Nov 16th - 23rd at the [Pullman Panwa Beach](https://www.pullmanphuketpanwa.com/). Cost of the hotel is $800 and I have 30 rooms currently on hold. If your interested in coming to HodlerCon, fill out the [hotel interest form](https://forms.gle/fGFroTUKnegGaY2N6). 
+
+Here's some of the events from the itinerary:
+
+* Pool party at the hotel
+* Phuket Food tour
+* See the Big Buddha
+* All day boat trip to Phi Phi Island
+* Visit an Elephant sanctuary
+
+We're still working on the final price for the event ticket. Want to stay up to date on what's happening [Join the Discord.](https://discord.gg/6Qv7c5JQm5)
+
+</details>
+<details>
+<summary>u/ethmaxitard shares u/domotheus's write-up on an alternative reality where we went all-in on L1 centric scaling</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fhwp53/daily_general_discussion_september_16_2024/lnddzuc/)
+
+beautiful writeup on an alternate reality where we went all in on L1 scaling (it did not end well) <https://x.com/domothy/status/1835188625950101590>
+
+</details>
+<details>
+<summary>u/hanniabu lists off the upcoming EthStaker community calls</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fhwp53/daily_general_discussion_september_16_2024/lngknef/)
+
+Upcoming EthStaker community calls:
+
+**- Lido CSM**: Run a validator with 2 ETH - *19 Sep, 4pm UTC*  
+**- NodeSet**: Become part of a curated operator set - *25 Sep, 4pm UTC*  
+**- Puffer**: Run a validator with 1 ETH - *2 Oct, 3pm UTC*  
+**- Stereum**: Run a validator on easy mode - *9 Oct, 4pm UTC*  
+**- Ephemery testnet**: Help test upgrades by running testnet validators - *14 Oct, 4pm UTC*
+
+[https://x.com/ethStaker/status/1835768317015101472](https://x.com/ethStaker/status/1835768317015101472)
+
+</details>
+<details>
+<summary>u/haurog covers the continuation of the trend of Google getting into crypto</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fjkzpm/daily_general_discussion_september_18_2024/lnpeo9y/)
+
+Google is coming further and further into the web3 game. They started supporting ENS addresses some time ago and directly show a summary of the address in the search results. Today they announced that they provide Ethereum RPC endpoints for developers for mainnet and testnets: <https://cloud.google.com/blog/topics/financial-services/introducing-blockchain-rpc-service-for-web3-builders>
+
+I guess this is a continuation of what started a year ago when they becam part of the holesky genesis validators and they run 10k holesky validators: <https://
+explorer.rated.network/o/Google%20Cloud%20Web3?network=holesky&timeWindow=1d&idType=nodeOperator>
+
+This new announcement is in direct competition to Alchemy, Infura and all the other commercial RPC providers. Pretty impressive how these large companies enter the Ethereum ecosystem bit by bit. And this time it is definitely not because of a hype they have to sell to their shareholders but probably rather strategically to get a foot into the door of the Ethereum space.
+
+</details>
+<details>
+<summary>u/LogrisTheBard does a deep dive on managing risk</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fjkzpm/daily_general_discussion_september_18_2024/lnt7p9q/)
+
+The next section of my [Rabbit Hole Explorer's Guide](https://reddit.com/r/ethfinance/comments/1dcdm7q/daily_general_discussion_june_10_2024/l8168fk/) is all about managing risk.
+
+*Don't Invest More Than You Can Afford to Lose*
+
+Crypto is full of amazing heights and soul-crushing lows. The fact that there have been multiple 90% drops and it is still the best performing asset class in the last decade is incredible. However, you can't always afford to ride it out. The crypto highs and lows tend to follow the macro highs and lows. So when crypto is low you're also jobless, economic opportunities are scarce, and you're scared. If you invest more than you can afford to lose when times are good, you could very well be one of the millions who find themselves selling while the market is down only to watch it do some crazy 30x the next cycle. People not following this advice is the source of the bitterness every time crypto comes up on your Facebook feed or technology subreddit. The problem was never crypto, the problem was *they invested more than they could afford to lose*.
+
+*Pay Taxes As You Go*
+
+This is actually just a specific case of the above point but I think it bears special mention. It's one thing to be penniless. It's another to be in debt. It's another still to be *in debt to the government*. The first case is miserable but you can still live on credit. The second case is bankruptcy and homelessness. The third case is debtor's prison. You cannot afford to invest money you owe for taxes into speculative assets. Therefore, whenever you rotate positions you should take whatever sum you need to to cover the taxes out to safer havens.
+
+The specific case that wrecks people has to do with a crash just after the start of a new year like happened in... well 2018 and 2022. Just before the crash everyone rotates their capital back into the blue chip coins. When this happens even though they are reducing risk they are now selling something and buying something else at near all-time-high valuations. Then the crash hits, they tell themselves it's just a bear trap and don't sell, and by the time the tax bill is due they can't even liquidate their entire portfolio to pay the tax bill. Seriously, it's just less stressful to *pay taxes as you go*.
+
+*No One Is Giving Away Free Crypto*
+
+Whenever anything of significance happens in crypto some scammer always replies to the announcement to say "To celebrate X event we're giving away free crypto. Send scamAddress some coins and get twice that back!". This is a ridiculously stupid scam that has gotten a ridiculously stupid amount of money. I seriously can't fathom how this bullshit has managed to pull in hundreds of millions of dollars worth of crypto. Sometimes I feel like people who lose money to this type of thing deserve to do so. Mostly though I just feel sad for how this money is going to power the next wave of scams to be that much more prevalent and effective. They do this because it works and they are never going to stop.
+
+Let me make this abundantly clear. I have been around awhile. I have been around for many significant events in crypto. No one reputable is **ever** giving away free ETH. For any reason. **Ever**. I don't care if their account name is Elon Musk and you think he's so eccentric he might actually be doing it. I don't care if they have a blue checkmark next to their name and it appears to be the same account as the one making the announcement. I don't care if it says its part of a fun new airdrop they are doing. **Ever**.
+
+More generally, even in an ecosystem where 1000% gains aren't uncommon, if it looks too good to be true, that's because it is. If you see some 1000% yield LP position on some token you've never heard of it's almost certainly being fueled by inflation and you are gambling against the loss of value of your collateral. If you see some stablecoin position with unusually high yield that stablecoin probably isn't stable. If it actually is using a safe collateral and is on a safe platform and isn't a scam it's either a very new position and is about to be quickly diluted or it's being fueled by someone's marketing budget and is about to be quickly diluted.
+
+Whether in web2 or web3, if you don't understand how you're adding value to an ecosystem you're the product. When you receive airdrops, you are being compensated for being an early user, taking early risks, boosting the numbers the team uses for valuations so they can get more funding, etc. Even legit airdrops that you can sell the day you get them are not free crypto. *No one is giving away free crypto*.
+
+*Inflation Is Not Profit*
+
+Every bull market in crypto has been marked by certain design patterns in tokenomics. I can mostly tell you a time range when a token was launched by its tokenomics alone like how an archeologist can tell you which civilization some ruins come from by pointing at architecture and art styles. One of those design trends in early 2021 was to launch highly inflationary tokens and then use high APR numbers to encourage people to buy the token and stake it for rewards. This was basically just a new type of casino. Your net worth would go down even as the number of tokens you hold went up 10x a year. This was basically preying on the ignorance of users who didn't really understand finance but it worked for a time while the profit the hype generated was able to expand the user base faster than the inflation rate. Once the model ran out of users to expand to the rest was history.[1](https://www.coingecko.com/en/coins/olympus)[2](https://www.coingecko.com/en/coins/klima-dao)[3](https://www.coingecko.com/en/coins/alchemix)[4](https://www.coingecko.com/en/coins/tokemak) Whenever you see a high APR in some LP or staking pool you need to slow down and investigate where the money is coming from. If it's coming from inflation you need to understand that *inflation is not profit*.
+
+*If It's Good Enough For a Screenshot, Take Profit*
+
+As volatile as crypto is there will come a time where you are massively up. You'll be up so much you will be in disbelief. You will refresh your portfolio checker every 15 minutes and the person sitting across the table from you will know you're doing it again because the green from the screen will reflect from your eyes. At this point, they will think you have a problem. At this point you actually do have a problem but that's besides the point. Here's the thing: you aren't a genius. Even if you actually are a genius you aren't up because you are a genius. It's just that time of the cycle.
+
+At that time of the cycle everything you'll see in your media feed will reinforce how much of a genius you are. It's like the whole world just woke up and finally saw what you saw first. However, if you haven't heard this yet let me be the first to tell you: **sentiment follow price**. People love the investment now because it is up. If the price wasn't up, you'd still be waiting like you were when you first bought. 90% of those investments everyone seems to agree can't possibly fail are destined for the dustbin of history. Ever heard of Feathercoin? If you were around at the time you couldn't not hear about it. How about EOS? OmiseGo? Luna? None of these things are going to be top 100 again. When prices are up, everyone is a genius. At the end of the cycle when you're holding the bag you won't feel like it any more.
+
+How will you know when the top is? If there was a numeric answer to that then we'd all just sell then and the top would come sooner. The game theory of that makes the price chart look highly chaotic at the tops. The best answer I can give you having lived through some unbelievable peaks and valleys is *if it's good enough for a screenshot, take profit*.
+
+*Leverage Will Fuck You Up*
+
+Leverage in crypto takes many forms. We have all kinds of financial gizmos you've probably never heard of and which you'll take years to acclimate to. Like, yes, we have options protocols but we also have rate stripping futures protocols, perpetual swaps, and leveraged derivatives. The leverage around here goes to 100x and it all seems to get more complicated and interwoven every year.
+
+Regardless of the form of leverage though, the goal is to amplify the effect of a market change on your portfolio. This is all well and good when you're dealing with something like bond rates that adjust like 0.25% a month and you can just afford to wait to expiry if you're wrong. Waiting it out is basically what banks are doing right now and why their unrealized loss chart looks like [blood dripping down a painting](https://www.fdic.gov/system/files/2024-09/qbp2-2024-chart7.png). Crypto assets are more volatile. You're not just playing with gasoline here; this stuff might as well be nuclear. I wouldn't advise you to play with the nuclear bomb without knowing what you're doing. I don't care if it has a red button that says "Press Me for Limitless Energy". I wouldn't advise you to play with crypto leverage either even if their website has a fun points system.
+
+Applying leverage to crypto assets, means amplifying the financial effect of something that is already known to drop by over 90% and with rate swings in the thousands of percentage points over a year. If you aren't right, continuously right without any blips, you won't be waiting this out. You'll be liquidated. I have seen too many veterans fall to the hubris of thinking the price can't possible fall to X level. Then, for one brief candle of intense market fear it does and they've lost more than they've bargained for. Before you play with leverage you should have a forecast for what the market will do that justifies taking such a risk. You should have contingency plans to execute on if your prediction isn't coming true in the timeframe you expect. Don't let it linger on until you feel like it's a sunk cost. Definitely don't double down. Every time you sign a transaction involving leverage repeat this in your head: *leverage will fuck you up*.
+
+*Get Rich Slow*
+
+This last one summarizes the spirit of all the above advice. Thriving in this ecosystem is first and foremost about survival. Surviving is often a matter of having a clear head and assessing risks rationally when everyone else isn't. That requires having your emotions under control. Whenever you take any extreme action you are going to experience extreme emotions about it. Those emotions will cause you to act rashly. This is how you end up scammed, overexposed and holding shitcoins you don't honestly believe in, having missed the top of the cycle without taking profit because everything seemed so bullish, being liquidated at the bottom, in debt to the government, and joining the ranks of the disillusioned about what is otherwise a wonderful civilization changing technology. Life is a marathon. You are only racing yourself. Take the time to learn before taking big risks. Don't try to get rich quick here. *Get rich slow*.
+
+</details>
+<details>
+<summary>u/vedran_ explains a new protocol which leverages ZK Proofs with identity</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fjkzpm/daily_general_discussion_september_18_2024/lnps1qu/)
+
+Interesting news on the application front. I came across [Rarimo protocol](https://mirror.xyz/0x90699B5A52BccbdFe73d5c9F3d039a33fb2D1AF6/1JSk1fvRwpfUQhLZt1OlaBpVDkXIutVYYXdYgaukh0c), which is building **ZK passport-based voting**. In this post, I'll concentrate on proof of identity aspect of voting. Proof of identity is a stronger guaranty than [proof of personhood](https://en.wikipedia.org/wiki/Proof_of_personhood).
+
+I've been intrigued in leveraging government issued documents as a proof of identity for a while. Yes, government issued.  Blasphemy! First of all, I've been disappointed with current web3 approaches to proof of identity. Ones based on monetary incentives - “If the only tool you have is a hammer, you tend to see every problem as a nail.” Social recovery - not that I delved too deep - seems gameable. Dedicated piece of hardware to scan biometric features - maybe. Think about it, which entities have always had the problem with uniquely identifying a person? Who are the incumbent identity providers? Governments, banks, and lately IT companies like Google, Twitter, FB...("Sign in with Google"...).
+
+Right of the bat, IT company's proof of identity is shit. You can easily sibyl it. Banks - much beater. Having a bank card pretty much means you are a person or a legal entity and not a bot. Nobody can take your money if they don't scam you. Thing is, banks rely on government issued documents. Who caries the burden of identifying a person from the moment they are born? Can they enroll in a school? Can they cross a border? Did they pay taxes? Are the eligible for health care? Important stuff, right? Governments have been doing this for a long time. They have institutions on institutions for making sure that you are who you say you are. The world works thanks to them having done a decent job.
+
+As we enter the third millennium, machine readable government documents have become a thing. Biometric passports are standardized ([ICAO Doc 9303](https://www.icao.int/publications/pages/publication.aspx?docnum=9303)). Almost [all the countries in the world](https://en.wikipedia.org/wiki/Biometric_passport#List_of_biometric_passports) now issue passports compliant with this protocol. 
+
+Rarimo developed the [Freedom tool](https://freedomtool.org/#/) - opensource, ZK powered, mobile app which scans your passport and creates a user profile. It claims to preserve authenticity, eligibility, anonymity and uniqueness. The [whitepaper](https://freedomtool.org/#/doc) addressed security claims and assumptions.
+
+Thanks to ZK proofs, you could prove claims about yourself, without giving away unnecessary  personal information. You could prove that you are of legal age, without giving away any other info, including your identity. Are you a resident of certain country? Are you human and not a bot? 
+
+Proper digital identity unlocks a lot of applications web3 people have been talking about: voting, reputation systems, user profiles, social networks...These are the use cases which cannot be tackled with crypto-economics alone. What do you think?
+
+Edit: grammar.
+
+Edit 2: short [demo video](https://x.com/nickwh8te/status/1835982293044994372).
+
+</details>
+<details>
+<summary>u/benido2030 makes a good point about hardware wallets and u/haurog builds off their comment.</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fkd3pr/daily_general_discussion_september_19_2024/lnv4luq/)
+
+[u/benido2030](https://reddit.com/u/benido2030):
+
+I am bearish hardware wallets. Obviously smart contract wallets are getting way better, which is one reason. But if a nation state can manipulate 1000s of small electronic devices and people don't find out until it's too late, they can manipulate hardware wallets as well. 
+
+This is just a general thought. But be aware of the risks.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fkd3pr/daily_general_discussion_september_19_2024/lnvnapx/)
+
+[u/haurog](https://reddit.com/u/haurog):
+
+The only thing I can say is that when you become a target of one of the larger 3 letter agencies or equivalent governmental (emphasis on 'mental') agencies of some countries there is pretty much nothing you can do. They will get to you, get all your assets and only if you go to the most extreme lengths you might be able to prevent that.
+
+We know since the Snowden revelations that the NSA has an internal catalogue where you can order 'replacement' parts which then get exchanged during shipment of an order to the target. https://en.wikipedia.org/wiki/ANT_catalog This is happening by diverting the shipment to a unknown location, replace part of the electronics device with an NSA produced one and then continue the shipment to the customer which obviously is not aware of any diversions or replacements. As far as I remember they also had ready made casing which included a spy device for the most popular laptops and electronic devices.
+
+I guess the same thing could happen with a hardware wallet. But to be honest I expect it to be easier for them to monitor your used wallets, get a list of your addresses and get to the seed phrases afterwards when they arrest you. Most people will have it written down somewhere. Sure you can always just keep your seed phrase in your head (brainwallet) but I guess only a very small fraction of crypto users really go that far.
+
+For them getting in your hot wallet will probably be easier than attacking a hardware wallet. So, a hot wallet is not safer at all.
+
+If the goal is to attack the chain itself by compromising thousands of hardware wallets. I am pretty sure they could do that. Not sure what the legality of this would be, but hey as history and current events show these agencies have a different legal rulebook than most of us have to follow.
+
+I still think having hardware wallet in some form is one of the best defense one can have. Normal hackers will not be able to get to the private keys as they ideally never leave the device (hello ledger).  If you pair it with a smart contract multisig wallet where an attacker would have to attack several hot wallets or even hardware wallets at the same time I deem it pretty much impossible that you will lose your ETH due to a supply chain attack.
+
+</details>
+<details>
+<summary>u/Ber10 explains why the ratio matters</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fjkzpm/daily_general_discussion_september_18_2024/lnr0t2r/)
+
+The ratio matters for me because objectively Ethereum is better at everything that Bitcoin does. There is no reason why Bitcoin is a better SoV. And this reality has to be reflected in the ratio at some point. BTC is very flawed and is not sustainable. A BTC failure without profound change is inevitable. It is absolutely perplexing that the market does not realize this. I dont care about Dollar price as much because I think the crypto space realizing whats important is the first step on the journey. I care about the ratio because it reflects the market realizing rational facts.
+
+Its not about money. I care about the future of human society and about the improvement of our society.  And I honestly believe that only Ethereum can deliver a credibly neutral trustless financial system a bedrock for finance that can not be corrupted. I want this platform to succeed because it will improve the world. Finally a level playing field that can be set up in a way that empowers people and organizations and stops corrupt governments. Its can be a counterweight for fraud and corruption and government overreach.
+
+That is why I am into crypto. That is my main focus. So I care aboout the ratio because Bitcoin is the wrong way. And Solana is the wrong way as none of them can deliver what is needed.
+
+A financial system that is trustless and can cater to the entire planet. Ethereum is on its way to achieve this. Aslong as Bitcoin ratio is so bad it means people are not realizing what the purpose of blockchain technology is and people did not realize what tools they have at their disposal to manage their finances in a way that can not be tampered with.
+
+Yes obviously we are not there yet, Ethereum has many many flaws, but we are on the path to it. And the ratio is an indicator for blockchain technology to actually fullfill its purpose.
+
+Holding coins that can not be deflated (Bitcoin will fail at this btw) is just part of the equation. People using crypto for everything that banks usually do for crypto to replace centralized systems. That is what I want. I want traditional companies to be either replaced or reorganized on Ethereum rails. I want the upper people to slowly distribute their power to more people.
+
+Blockchain did not achieve anything yet. Its just the start the very first day of a century long journey. And the ratio is an indicator when we are out of phase 1. Realizing why blockchains are valuable. We are still in Phase 1 where the people do not know why blockchain is important.
+
+For me its not about money. Its about change. And the ratio is an indicator for that change.
+
+If Ethereum does not flip Bitcoin. Then blockchains are useless and its really just a speculative meme coin casino. And nothing more.
+
+Bitcoin for me is the nr1 meme coin. It has a strong narrative but it fails at real world utility and is not designed to be sustainable long term. It needs centralized entities to offer services thus the fact that its decentralized matters only in so far that it cant be inflated arbitrarily. However the security of the protocol is dependent on the inflation so the system is about to fail.
+
+Ethereum flipping Bitcoin and Ethereum becoming the most expensive asset on this planet is when we will be able to see crypto change the world profoundly. And thats all I want. Everything else. Is just secondary. I do have enough money. I dont need a Bugatti. I do have a job. I want Ethereum specifically to be a guarantee for a free and open Internet/monetary system that can not be censored. I want entitities like EU China America Google Facebook Apple AGI to not have total control to have to deal with a platform that they can not censor and that wont be corrupted by them. I want Ethereum to be that strong. We are not there yet but we could be one day. And flipping Bitcoin is the first step on that journey.
+
+Seems outlandish but this was the reason why I even got interested in Crypto in the first place. The prospect of that happening. And Bitoin dropped the ball by ossifying too early and just focusing on an unsustainable inflation schedule.
+
+</details>
+<details>
+<summary>u/Tricky_Troll made some cool new user flairs</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1fhwp53/daily_general_discussion_september_16_2024/lnitff3/)
+
+[A good while ago I told you all I am slow to get around to things but I wanted to add some default user flairs.](https://reddit.com/r/ethfinance/comments/1e7nt2y/daily_general_discussion_july_20_2024/le2sqzp/) Well, as prophesied, I was indeed slow to get round to it. But lo and behold, ***we now have default user flairs!***
+
+The new ones have some colour where the old custom ones didn't. Custom ones are still an option, they just won't be as colourful as the default flairs. Also, these default ones should give us a good idea of your vibe. if you're new, a TA guy, long term investor etc. Hopefully we can get a better feel for what angle you're coming from when you make a post here. At the end of the day we want less conflict and hopefully a bit of context as to your leanings might help a bit. If not, it's still just a bit of fun. Feel free to grab a meme flair if that's your style!
+
+Finally, I'm happy to add some more, so let me know what you want to see added and maybe even a colour request (send me ur hex codes 😉). Though I think we might reserve one colour for the mods. Maybe we can colour coordinate our flairs. Currently it's a bright ugly shade of blue so you're not missing out on much.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
   <summary>#78: September 13, 2024</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN)
