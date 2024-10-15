@@ -1129,7 +1129,9 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Upcoming Guests**</summary>
 	
-- Nov 1 - Paul Brody of EY
+- Nov 1 - Paul Brody from EY
+- Nov 22 - Nico from LottoPGF
+- Dec 6 - Mac from Kiwi News
 
 </details>
 
