@@ -25748,14 +25748,15 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 .  | ytocin                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | _weboftrust           | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/50b1e132-b38c-4c44-8c40-021f950e276b)
 .  | atleft                | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/515ad8e2-8b42-440c-b0ea-0f09a46557a6)
+.  | web3magnetic          | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/73b1cb65-edd9-4960-9e7a-f6e9d25a8867)
 .  | dcinvestor            | Uniswap              | [view details and delegate](https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3)
 .  | _weboftrust           | ZKsync               | [view details and delegate](https://www.tally.xyz/gov/zksync/delegate/0x7aaba482329d001d9ab7120f0546b6760ae3fe19)
 .  | benido2030            | ZKsync               | [view details and delegate](https://www.tally.xyz/gov/zksync/delegate/0x05429d5113c06405398f613eaad632f5a00b43e1)
 .  | haurog                | ZKsync               | [view details and delegate](https://www.tally.xyz/gov/zksync/delegate/haurog.eth)
+.  | web3magnetic          | ZKsync               | [view details and delegate](https://www.tally.xyz/gov/zksync/delegate/web3magnetic.eth)
 
 <!--
-.  | web3magnetic          | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/73b1cb65-edd9-4960-9e7a-f6e9d25a8867)
-.  | web3magnetic          | ZKsync               | [view details and delegate](https://www.tally.xyz/gov/zksync/delegate/web3magnetic.eth)
+web3magnetic = u/MediumAdhesiveness5
 -->
 
 
