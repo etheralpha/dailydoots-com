@@ -25940,6 +25940,7 @@ Delegate your votes to a member of the EthFinance community. Are you a delegate 
 .  | minimalgravitas       | Optimism             | [view details and delegate](https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | pseudotheos           | Optimism             | [view details and delegate](https://www.tally.xyz/profile/pseudotheos.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
 .  | ytocin                | Optimism             | [view details and delegate](https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10)
+.  | defewit               | Scroll               | [view details and delegate](https://gov.scroll.io/delegates/norin.eth)
 .  | _weboftrust           | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/50b1e132-b38c-4c44-8c40-021f950e276b)
 .  | atleft                | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/515ad8e2-8b42-440c-b0ea-0f09a46557a6)
 .  | web3magnetic          | Starknet             | [view details and delegate](https://governance.starknet.io/delegates/profile/73b1cb65-edd9-4960-9e7a-f6e9d25a8867)
