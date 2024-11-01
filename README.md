@@ -11,7 +11,7 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1098 Dooters - Last Updated November 1, 2024</small>
+<small>1099 Dooters - Last Updated November 1, 2024</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
@@ -21,7 +21,7 @@ Rank | Username   | Daily Doots
 . | [tricky_troll](https://reddit.com/u/tricky_troll) | 126
 . | [haurog](https://reddit.com/u/haurog) | 120
 . | [696_eth](https://reddit.com/u/696_eth) | 107
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 103
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 104
 . | [set1less](https://reddit.com/u/set1less) | 103
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 99
 . | [hanniabu](https://reddit.com/u/hanniabu) | 92
@@ -574,6 +574,7 @@ Rank | Username   | Daily Doots
 . | [morkogoz](https://reddit.com/u/morkogoz) | 2
 . | [namtaru_x](https://reddit.com/u/namtaru_x) | 2
 . | [nextlevelfantasy](https://reddit.com/u/nextlevelfantasy) | 2
+. | [no-tackle-8652](https://reddit.com/u/no-tackle-8652) | 2
 . | [nomadic8893](https://reddit.com/u/nomadic8893) | 2
 . | [nyruds](https://reddit.com/u/nyruds) | 2
 . | [o-_l_-o](https://reddit.com/u/o-_l_-o) | 2
@@ -898,6 +899,7 @@ Rank | Username   | Daily Doots
 . | [ledrsatan](https://reddit.com/u/ledrsatan) | 1
 . | [leperen](https://reddit.com/u/leperen) | 1
 . | [littlebigdondon](https://reddit.com/u/littlebigdondon) | 1
+. | [livelaughhodl](https://reddit.com/u/livelaughhodl) | 1
 . | [loksfox](https://reddit.com/u/loksfox) | 1
 . | [longforwisdom](https://reddit.com/u/longforwisdom) | 1
 . | [looselaugh](https://reddit.com/u/looselaugh) | 1
@@ -938,7 +940,6 @@ Rank | Username   | Daily Doots
 . | [nightshadeemoji](https://reddit.com/u/nightshadeemoji) | 1
 . | [ninjadk](https://reddit.com/u/ninjadk) | 1
 . | [nlnico](https://reddit.com/u/nlnico) | 1
-. | [no-tackle-8652](https://reddit.com/u/no-tackle-8652) | 1
 . | [no_operation1906](https://reddit.com/u/no_operation1906) | 1
 . | [no_speaker8945](https://reddit.com/u/no_speaker8945) | 1
 . | [nodesinformatziya](https://reddit.com/u/nodesinformatziya) | 1
@@ -1113,7 +1114,6 @@ Rank | Username   | Daily Doots
 . | [zkstx](https://reddit.com/u/zkstx) | 1
 . | [zoopzo](https://reddit.com/u/zoopzo) | 1
 . | [zora](https://reddit.com/u/zora) | 1
-
 
 
 
