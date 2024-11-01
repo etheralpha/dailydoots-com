@@ -11,33 +11,33 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1096 Dooters - Last Updated October 25, 2024</small>
+<small>1098 Dooters - Last Updated November 1, 2024</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 218
 . | [benido2030](https://reddit.com/u/benido2030) | 152
-. | [logristhebard](https://reddit.com/u/logristhebard) | 151
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 125
-. | [haurog](https://reddit.com/u/haurog) | 118
-. | [696_eth](https://reddit.com/u/696_eth) | 105
+. | [logristhebard](https://reddit.com/u/logristhebard) | 152
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 126
+. | [haurog](https://reddit.com/u/haurog) | 120
+. | [696_eth](https://reddit.com/u/696_eth) | 107
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 103
 . | [set1less](https://reddit.com/u/set1less) | 103
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 102
-. | [ethical-trade](https://reddit.com/u/ethical-trade) | 98
+. | [ethical-trade](https://reddit.com/u/ethical-trade) | 99
 . | [hanniabu](https://reddit.com/u/hanniabu) | 92
 . | [syentist](https://reddit.com/u/syentist) | 90
 . | [phimarhal](https://reddit.com/u/phimarhal) | 75
 . | [pa7x1](https://reddit.com/u/pa7x1) | 73
-. | [the-a-word](https://reddit.com/u/the-a-word) | 72
+. | [the-a-word](https://reddit.com/u/the-a-word) | 73
 . | [nixorokish](https://reddit.com/u/nixorokish) | 64
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
+. | [austonst](https://reddit.com/u/austonst) | 63
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 63
-. | [austonst](https://reddit.com/u/austonst) | 62
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [alexiskef](https://reddit.com/u/alexiskef) | 58
 . | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 55
 . | [etheraider](https://reddit.com/u/etheraider) | 51
-. | [interweaver](https://reddit.com/u/interweaver) | 49
+. | [interweaver](https://reddit.com/u/interweaver) | 51
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
 . | [cryptrd285](https://reddit.com/u/cryptrd285) | 47
@@ -48,8 +48,8 @@ Rank | Username   | Daily Doots
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
 . | [15kisfud](https://reddit.com/u/15kisfud) | 41
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 39
+. | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 39
 . | [spacesider](https://reddit.com/u/spacesider) | 38
-. | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 38
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 37
 . | [eggill7227](https://reddit.com/u/eggill7227) | 36
 . | [barthib](https://reddit.com/u/barthib) | 35
@@ -64,11 +64,11 @@ Rank | Username   | Daily Doots
 . | [liberosist](https://reddit.com/u/liberosist) | 30
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 30
 . | [revanchist1](https://reddit.com/u/revanchist1) | 30
+. | [thehansgruber](https://reddit.com/u/thehansgruber) | 30
+. | [hsuke](https://reddit.com/u/hsuke) | 29
 . | [papazio](https://reddit.com/u/papazio) | 29
-. | [thehansgruber](https://reddit.com/u/thehansgruber) | 29
 . | [wolfparking](https://reddit.com/u/wolfparking) | 29
 . | [ender985](https://reddit.com/u/ender985) | 28
-. | [hsuke](https://reddit.com/u/hsuke) | 28
 . | [bagogel12](https://reddit.com/u/bagogel12) | 27
 . | [ber10](https://reddit.com/u/ber10) | 27
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
@@ -105,13 +105,13 @@ Rank | Username   | Daily Doots
 . | [ethacct](https://reddit.com/u/ethacct) | 18
 . | [luukiemans](https://reddit.com/u/luukiemans) | 18
 . | [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 17
+. | [etherbie](https://reddit.com/u/etherbie) | 17
 . | [hblask](https://reddit.com/u/hblask) | 17
 . | [kingleo23](https://reddit.com/u/kingleo23) | 17
 . | [masterroshi9](https://reddit.com/u/masterroshi9) | 17
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 17
 . | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 17
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
-. | [etherbie](https://reddit.com/u/etherbie) | 16
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 16
 . | [sonotyou](https://reddit.com/u/sonotyou) | 16
 . | [thehighflyer](https://reddit.com/u/thehighflyer) | 16
@@ -121,11 +121,11 @@ Rank | Username   | Daily Doots
 . | [hereimalive](https://reddit.com/u/hereimalive) | 15
 . | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 15
 . | [offmyporch](https://reddit.com/u/offmyporch) | 15
+. | [physalisx](https://reddit.com/u/physalisx) | 15
 . | [18boro](https://reddit.com/u/18boro) | 14
 . | [fast_contract](https://reddit.com/u/fast_contract) | 14
 . | [hauntedjockstrap88](https://reddit.com/u/hauntedjockstrap88) | 14
 . | [pbrody](https://reddit.com/u/pbrody) | 14
-. | [physalisx](https://reddit.com/u/physalisx) | 14
 . | [teedeepee](https://reddit.com/u/teedeepee) | 14
 . | [timmerwb](https://reddit.com/u/timmerwb) | 14
 . | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 14
@@ -136,6 +136,7 @@ Rank | Username   | Daily Doots
 . | [dashby1](https://reddit.com/u/dashby1) | 13
 . | [defacticool](https://reddit.com/u/defacticool) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
+. | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 12
 . | [mrs_willy](https://reddit.com/u/mrs_willy) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
@@ -143,7 +144,6 @@ Rank | Username   | Daily Doots
 . | [aaqy](https://reddit.com/u/aaqy) | 11
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
 . | [cutsnek](https://reddit.com/u/cutsnek) | 11
-. | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 11
 . | [kallukoras](https://reddit.com/u/kallukoras) | 11
 . | [kb1985](https://reddit.com/u/kb1985) | 11
 . | [keynya](https://reddit.com/u/keynya) | 11
@@ -210,6 +210,7 @@ Rank | Username   | Daily Doots
 . | [roargrrrr](https://reddit.com/u/roargrrrr) | 8
 . | [showbizza](https://reddit.com/u/showbizza) | 8
 . | [sku](https://reddit.com/u/sku) | 8
+. | [supephiz](https://reddit.com/u/supephiz) | 8
 . | [the_statustician](https://reddit.com/u/the_statustician) | 8
 . | [vandelay101](https://reddit.com/u/vandelay101) | 8
 . | [weedstocks](https://reddit.com/u/weedstocks) | 8
@@ -233,6 +234,7 @@ Rank | Username   | Daily Doots
 . | [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
 . | [shitshotdead](https://reddit.com/u/shitshotdead) | 7
 . | [sm3gh34d](https://reddit.com/u/sm3gh34d) | 7
+. | [smidge](https://reddit.com/u/smidge) | 7
 . | [splintercole](https://reddit.com/u/splintercole) | 7
 . | [stalslagga](https://reddit.com/u/stalslagga) | 7
 . | [steven_a_mma_goat](https://reddit.com/u/steven_a_mma_goat) | 7
@@ -263,9 +265,7 @@ Rank | Username   | Daily Doots
 . | [sal_t_nuts](https://reddit.com/u/sal_t_nuts) | 6
 . | [sbdw0c](https://reddit.com/u/sbdw0c) | 6
 . | [sfcpfc](https://reddit.com/u/sfcpfc) | 6
-. | [smidge](https://reddit.com/u/smidge) | 6
 . | [strawdar](https://reddit.com/u/strawdar) | 6
-. | [supephiz](https://reddit.com/u/supephiz) | 6
 . | [timwithnotoolbelt](https://reddit.com/u/timwithnotoolbelt) | 6
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
 . | [yeopaa](https://reddit.com/u/yeopaa) | 6
@@ -300,6 +300,7 @@ Rank | Username   | Daily Doots
 . | [skidseverywhere](https://reddit.com/u/skidseverywhere) | 5
 . | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
 . | [thoughts4food](https://reddit.com/u/thoughts4food) | 5
+. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 5
 . | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 5
 . | [vvander](https://reddit.com/u/vvander) | 5
 . | [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
@@ -337,6 +338,7 @@ Rank | Username   | Daily Doots
 . | [friedchickentrailer](https://reddit.com/u/friedchickentrailer) | 4
 . | [gandalfgandolfini](https://reddit.com/u/gandalfgandolfini) | 4
 . | [gethwethreth](https://reddit.com/u/gethwethreth) | 4
+. | [gregfoley](https://reddit.com/u/gregfoley) | 4
 . | [hitman616](https://reddit.com/u/hitman616) | 4
 . | [i_love_mom](https://reddit.com/u/i_love_mom) | 4
 . | [imaybeslow](https://reddit.com/u/imaybeslow) | 4
@@ -355,6 +357,7 @@ Rank | Username   | Daily Doots
 . | [obitwokenobi](https://reddit.com/u/obitwokenobi) | 4
 . | [pooeygusset](https://reddit.com/u/pooeygusset) | 4
 . | [pulisordie](https://reddit.com/u/pulisordie) | 4
+. | [randomzileanmain](https://reddit.com/u/randomzileanmain) | 4
 . | [reuptaken](https://reddit.com/u/reuptaken) | 4
 . | [robmacca](https://reddit.com/u/robmacca) | 4
 . | [rumblecat](https://reddit.com/u/rumblecat) | 4
@@ -382,6 +385,7 @@ Rank | Username   | Daily Doots
 . | [baerbelleksa](https://reddit.com/u/baerbelleksa) | 3
 . | [bazzravish32](https://reddit.com/u/bazzravish32) | 3
 . | [bbqcaramelbrulee](https://reddit.com/u/bbqcaramelbrulee) | 3
+. | [bbroad25](https://reddit.com/u/bbroad25) | 3
 . | [believeinapathy](https://reddit.com/u/believeinapathy) | 3
 . | [boomergenxmillgenz](https://reddit.com/u/boomergenxmillgenz) | 3
 . | [breakeizer](https://reddit.com/u/breakeizer) | 3
@@ -409,7 +413,6 @@ Rank | Username   | Daily Doots
 . | [general_illus](https://reddit.com/u/general_illus) | 3
 . | [goobergal97](https://reddit.com/u/goobergal97) | 3
 . | [gravy_vampire](https://reddit.com/u/gravy_vampire) | 3
-. | [gregfoley](https://reddit.com/u/gregfoley) | 3
 . | [gumbeat007](https://reddit.com/u/gumbeat007) | 3
 . | [healthandwealth365](https://reddit.com/u/healthandwealth365) | 3
 . | [hipattern](https://reddit.com/u/hipattern) | 3
@@ -444,7 +447,6 @@ Rank | Username   | Daily Doots
 . | [prostmelone](https://reddit.com/u/prostmelone) | 3
 . | [proto-n](https://reddit.com/u/proto-n) | 3
 . | [ptuchinho19](https://reddit.com/u/ptuchinho19) | 3
-. | [randomzileanmain](https://reddit.com/u/randomzileanmain) | 3
 . | [readreed](https://reddit.com/u/readreed) | 3
 . | [reno007](https://reddit.com/u/reno007) | 3
 . | [sayno2mids](https://reddit.com/u/sayno2mids) | 3
@@ -456,9 +458,9 @@ Rank | Username   | Daily Doots
 . | [supermarkit](https://reddit.com/u/supermarkit) | 3
 . | [survivaleast](https://reddit.com/u/survivaleast) | 3
 . | [tinfoilheadphones](https://reddit.com/u/tinfoilheadphones) | 3
+. | [tiny-height1967](https://reddit.com/u/tiny-height1967) | 3
 . | [tittyfuckmountain](https://reddit.com/u/tittyfuckmountain) | 3
 . | [tokenizedhuman](https://reddit.com/u/tokenizedhuman) | 3
-. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 3
 . | [username_error](https://reddit.com/u/username_error) | 3
 . | [wizad23](https://reddit.com/u/wizad23) | 3
 . | [-darkknight](https://reddit.com/u/-darkknight) | 2
@@ -476,7 +478,6 @@ Rank | Username   | Daily Doots
 . | [ayreuan](https://reddit.com/u/ayreuan) | 2
 . | [bakindhuman](https://reddit.com/u/bakindhuman) | 2
 . | [batmanrockss](https://reddit.com/u/batmanrockss) | 2
-. | [bbroad25](https://reddit.com/u/bbroad25) | 2
 . | [bennybennygg](https://reddit.com/u/bennybennygg) | 2
 . | [bibilieli](https://reddit.com/u/bibilieli) | 2
 . | [biketourthrowaway](https://reddit.com/u/biketourthrowaway) | 2
@@ -490,6 +491,7 @@ Rank | Username   | Daily Doots
 . | [captainofthegate](https://reddit.com/u/captainofthegate) | 2
 . | [carpathianinsomnia](https://reddit.com/u/carpathianinsomnia) | 2
 . | [caterpillarkitchen67](https://reddit.com/u/caterpillarkitchen67) | 2
+. | [christi0007](https://reddit.com/u/christi0007) | 2
 . | [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 2
 . | [consideritwon](https://reddit.com/u/consideritwon) | 2
 . | [cory_eth](https://reddit.com/u/cory_eth) | 2
@@ -523,9 +525,11 @@ Rank | Username   | Daily Doots
 . | [edrews99](https://reddit.com/u/edrews99) | 2
 . | [educatemybrain](https://reddit.com/u/educatemybrain) | 2
 . | [eliirs](https://reddit.com/u/eliirs) | 2
+. | [emp2b3](https://reddit.com/u/emp2b3) | 2
 . | [ethdreamer](https://reddit.com/u/ethdreamer) | 2
 . | [etherenthousiast10k](https://reddit.com/u/etherenthousiast10k) | 2
 . | [ethrocketeer](https://reddit.com/u/ethrocketeer) | 2
+. | [ethzenn](https://reddit.com/u/ethzenn) | 2
 . | [evm_lion](https://reddit.com/u/evm_lion) | 2
 . | [experiencegoblintown](https://reddit.com/u/experiencegoblintown) | 2
 . | [goatwasher](https://reddit.com/u/goatwasher) | 2
@@ -601,7 +605,6 @@ Rank | Username   | Daily Doots
 . | [temporary-music-5468](https://reddit.com/u/temporary-music-5468) | 2
 . | [theubiquitousbubble](https://reddit.com/u/theubiquitousbubble) | 2
 . | [thisisnotlegal](https://reddit.com/u/thisisnotlegal) | 2
-. | [tiny-height1967](https://reddit.com/u/tiny-height1967) | 2
 . | [travist85](https://reddit.com/u/travist85) | 2
 . | [trent_vanepps](https://reddit.com/u/trent_vanepps) | 2
 . | [ubiest](https://reddit.com/u/ubiest) | 2
@@ -697,7 +700,6 @@ Rank | Username   | Daily Doots
 . | [chicoconcarne](https://reddit.com/u/chicoconcarne) | 1
 . | [chris_dea](https://reddit.com/u/chris_dea) | 1
 . | [chrismartinasd](https://reddit.com/u/chrismartinasd) | 1
-. | [christi0007](https://reddit.com/u/christi0007) | 1
 . | [cjuha](https://reddit.com/u/cjuha) | 1
 . | [ckh27](https://reddit.com/u/ckh27) | 1
 . | [clark_now](https://reddit.com/u/clark_now) | 1
@@ -767,7 +769,6 @@ Rank | Username   | Daily Doots
 . | [electricmutiny](https://reddit.com/u/electricmutiny) | 1
 . | [elliottmatt](https://reddit.com/u/elliottmatt) | 1
 . | [emkoscp](https://reddit.com/u/emkoscp) | 1
-. | [emp2b3](https://reddit.com/u/emp2b3) | 1
 . | [ennui85](https://reddit.com/u/ennui85) | 1
 . | [ennygbennyg](https://reddit.com/u/ennygbennyg) | 1
 . | [epicgoblet](https://reddit.com/u/epicgoblet) | 1
@@ -778,10 +779,10 @@ Rank | Username   | Daily Doots
 . | [etherduck](https://reddit.com/u/etherduck) | 1
 . | [etherornot](https://reddit.com/u/etherornot) | 1
 . | [ethfan](https://reddit.com/u/ethfan) | 1
+. | [ethilysm](https://reddit.com/u/ethilysm) | 1
 . | [ethordie](https://reddit.com/u/ethordie) | 1
 . | [ethrevolution](https://reddit.com/u/ethrevolution) | 1
 . | [eththermadness](https://reddit.com/u/eththermadness) | 1
-. | [ethzenn](https://reddit.com/u/ethzenn) | 1
 . | [evilphiz](https://reddit.com/u/evilphiz) | 1
 . | [exdedinside](https://reddit.com/u/exdedinside) | 1
 . | [exploreddit](https://reddit.com/u/exploreddit) | 1
@@ -1089,6 +1090,7 @@ Rank | Username   | Daily Doots
 . | [vbv3ubcxqb9b](https://reddit.com/u/vbv3ubcxqb9b) | 1
 . | [vechain_10_dollars](https://reddit.com/u/vechain_10_dollars) | 1
 . | [vegetable-agent-6491](https://reddit.com/u/vegetable-agent-6491) | 1
+. | [vegetableinevitable](https://reddit.com/u/vegetableinevitable) | 1
 . | [visciousvenison](https://reddit.com/u/visciousvenison) | 1
 . | [vitalik-is-jesus](https://reddit.com/u/vitalik-is-jesus) | 1
 . | [vlatkovr](https://reddit.com/u/vlatkovr) | 1
@@ -1121,6 +1123,7 @@ Rank | Username   | Daily Doots
 
 
 
+
 [↑ Back to top ↑](#)
 
 
@@ -1133,11 +1136,398 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Upcoming Guests**</summary>
 	
-- Nov 1 - Paul Brody from EY
 - Nov 22 - Nico from LottoPGF
 - Dec 6 - Mac from Kiwi News
 
 </details>
+
+
+
+
+
+
+<details>
+  <summary>#85: November 1, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+*Special guest Paul Brody joins us from EY.*
+
+**Announcements**
+
+- 
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ggyuhz/comment/luthwqc/)
+
+[u/johnnydappeth](https://reddit.com/u/johnnydappeth)
+
+> Ethereum
+
+[u/benido2030](https://reddit.com/u/benido2030)
+
+> 2501 USD
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> 0.0361
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gcdmiv/comment/ltwvcbj/)
+
+*Blockchain underneath,*
+
+*The best asset to bequeath,*
+
+*The ticker is ETH.*
+
+</details>
+<details>
+<summary>Choda time!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gg7smg/comment/luptdoa/)
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>Shitpost of the week: u/cryptOwOcurrency</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gg7smg/comment/luqa2uc/)
+
+Since lately it seems like chains with less technology pump more, I suggest we remove some technology from Ethereum. Roll back 1559, go back to PoW... actually we could get rid of the blockchain aspect altogether, since nobody seems to care. We could run it in a SQL database. Or we could even get rid of the ledger altogether. Ethereum would be a system of IOUs, an unstoppable concept, with n-of-n decentralization in the minds of its true believers.
+
+Everyone should write down how much ETH they have before we get rid of the blockchain. Write them onto little pieces of paper with denominations on them. DO NOT create any more paper than you actually owned in ETH. PLEASE, that's very important. Then as a replacement for smart contracts, we will talk about what should happen if something happens, and then you shake hands. You NEED to honor every agreement you shook on. If everyone promises to do that, this might just work.
+
+This plan flips the script on Bitcoin, because now Ethereum has the fewest amount of moving parts. Now Ethereum is the most dependable. If something has no code, it can't have bugs in it. If something has no development, its roadmap cannot be compromised. If something is only an idea, it cannot be shut down.
+
+In other words, the Ethereum Foundation touts its "philosophy of subtraction", but does it really walk the walk? I challenge them to dream smaller.
+
+</details>
+<details>
+<summary>u/interweaver explains how Ethereum's fee markets work</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gbml3v/daily_general_discussion_october_25_2024/ltojfr2/)
+
+Just a quick recap on how fee markets work in Ethereum (both for blockspace and for blobspace):
+
+There's a base fee, which represents the current "state" of the fee market. That base fee sets how much a unit of gas costs (for normal transactions, which use blockspace, and disregarding tips) or how much a blob costs. 
+
+There's also a target amount of resource usage: for normal transactions, that's the target gas (15M units of gas), which is half of the max gas per block (30M), and for blobs it's currently 3 blobs (out of a maximum of 6).
+
+Each block, the *actual* resource usage (gas or blobs) ends up being some number 0 <= amount <= max, which will be either greater than, equal to, or less than, the target for that resource. 
+
+Here's the important part: if the resource usage is *greater than* the target (e.g. 20M gas used, which is greater than the 15M target, or 5 blobs instead of the target 3), *the next block the basefee/blob fee for that resource will be higher by a certain percentage*. The opposite also applies; if the resource usage is *less than* the target, the basefee/blob fee will decrease by a certain percentage. 
+
+It's actually kind of genius; this means that Ethereum's fees automatically adjust to demand. 
+
+If there's **high demand**, aka more users willing to pay higher gas fees for normal transactions, or more L2s willing to pay higher blob fees for blob-carrying transactions, then you would expect to see usage exceed the targets, and the next block will have higher fees, until the fees become too much and the demand (at that fee level) comes back to the target. 
+
+If there's **low demand**, in theory the opposite occurs: it indicates the resource is currently overpriced relative to supply and demand, and so the next block will have a cheaper basefee/blob fee, hopefully encouraging more usage in order to meet the target. This has worked out well for gas fees, because Ethereum has *plenty* of pent-up demand for transactions that are willing to wait for cheap gas; there's never a lack of transactions ready to be submitted when basefees lower. 
+
+However, I said "in theory" because blob fees are in a different situation currently. The mechanism works the same as with the basefee, but L2s are currently not creating enough demand for blobspace the large majority of the time. This means that even when blobfees are extremely cheap (the minimum it can go to, 1 wei per blob), there's simply not enough blobs being submitted for the average block to meet its blob target (3 blobs), and if you'll recall, this means that the blob fee would continue to go down in the next block, except that it's pinned at the minimum. 
+
+So observe this highly binary situation: either there *is* enough demand for a resource, at all times, that Ethereum can always make sure it's on average meeting its target usage for that resource, or there *is not*. Block gas currently has enough demand; blobs currently do not. And observe what this means for fees: if there *is* enough demand for the resource, the fee will stay floating at some fair market rate, much greater than 0, and Ethereum can collect (and burn) those fees. But if there *is not* enough demand, the fee will bottom out at ~0 and stay there, except during occasional spikes in demand. That's where we're at with blobs right now.
+
+And crucially, observe **that this is a switch that can and will flip itself at some point in the future**, when blob demand from L2s and other users increases past a critical threshold, namely 3 blobs per 12 seconds. Once the average demand exceeds that, Ethereum will instantly enter a regime where blob pricing needs to follow market rates, rather than being pinned at 0.
+
+And as we all know, L2s are very insensitive to blob pricing. During recent blob fee spikes, we saw certain L2s paying *absurd* prices for their blobs, think multiple Ether for each blob. This is likely due to them not putting appropriate limits/waits in place, but it illustrates the point: L2s, with their high 'compression ratios' of L2 transactions to L1 commit transactions, are able to pay *much* higher fees than ordinary transactions on L1 are. 
+
+So putting it all together: blob fees will be 0, until suddenly they are *very much not 0* when demand for blobs passes a certain threshhold.
+
+And L2 growth over the past year has been fairly exponential. We *will* pass that threshold in the near future (potentially delayed somewhat if we raise the blob target in Pectra, albeit.)
+
+All the handwringing about how Ethereum is not capturing value from its L2s will seem like a very silly concern not too long from now, in other words.
+
+</details>
+<details>
+<summary>u/HSuke warns us of a US crypto tax rule change</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gbml3v/daily_general_discussion_october_25_2024/ltozg9l/)
+
+[Fairly significant US crypto tax rule change](https://np.reddit.com/r/CryptoCurrency/comments/1gbvgu1/revenue_procedure_202428_what_you_need_to_know/):
+
+> Effective January 1, 2025, ALL taxpayers will be required to track cost basis at the **wallet level**. In other words, if you have ETH in Wallet A and ETH in Wallet B, and then you sell some ETH in Wallet B, you cannot pull the cost basis from Wallet A
+
+So each wallet is treated as a separate tax bucket
+
+Also discussed [here](https://blog.cryptoworth.com/how-revenue-procedure-2024-28-changes-crypto-accounting-and-what-you-need-to-know/)
+
+Edit: This ONLY applies to FIFO. Most of you who transfer assets between wallets/accounts will likely not be able to use FIFO or use Specific ID (based on my limited understanding of this). Honestly, my accounts will be in a bit of a mess and probably cannot use FIFO due to this rule.
+
+</details>
+<details>
+<summary>u/TheHansGruber talks staking with NodeSet and RocketPool</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gcdmiv/daily_general_discussion_october_26_2024/ltwh8ln/)
+
+About an hour ago I had the privilege to launch my first NodeSet validator. There are over 500 now, and the limit per operator has just been increased from 4 to 5. I'll have to wait 24 hours give or take to launch my second, but as long as these big deposits keep flowing in, I will keep launching minipools. It may seem farfetched now, but operators running 100+ minipools each is not out of the question. Adoption can happen fast.
+
+BTW, these ops are sharks...there is a script floating around that checks the pool for deposits and if gas is favorable will automatically launch another minipool. I launched mine manually but am in the process of setting the script up for myself as well. 
+
+The rocketpool deposit pool, which has been bloated for the last several months (and been a drag on rETH APR) has been cut in half in two weeks. And xrETH hasn't even been integrated into defi at all. Really proud to be playing a small part in this fine group of operators.
+
+On top of that, the Saturn 0 upgrade that's coming in a few days is going to further reduce the deposit pool as new minipools will lose the RPL requirement.
+
+Basically, it's been a nice little Saturday. Ignoring the FUD, watching Vitamin B go ham on shitposters, launching 'pools. I got my database and GUI up and running on my little project. Blops 6 released, and they brought back round based zombies (which is the only way to do it, imo) and the I'm lovin' the 90's aesthetic. Might go for some ice cream later, who knows?
+
+Ticker is ETH.
+
+</details>
+<details>
+<summary>u/696_eth shares some of EVMavericks' best achievements so far!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gcdmiv/daily_general_discussion_october_26_2024/lttd7ee/)
+
+[**Top Achievements of EVMavericks in 2023**](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fabbe6918c7cf19c6080c0c1cec48f3b1.png&w=1200&q=75)
+
+🔝Top accomplishments of EVMavericks in the year of 2023👇:
+
+1. [The Withdrowls NFT](https://opensea.io/collection/withdrowls) drop on Arbitrum was created by Naenaebaby and etheraider to celebrate the Shapella upgrade and being able to 'Withdraw' our ETH from the staking contract. All the funds raised -- 9.74e -- went to public goods.
+
+   [Example](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F309a359988b619da03b041d303503a35.webp&w=1200&q=75)
+
+2. Buildathon - Withdrowls Public Goods Funding. Open competition for anyone that wanted to build for public goods or services on web3 with prizes totaling 9.74e. 
+
+   We had a 3-way tie so all winners:
+
+    Lidont, rETH skimmer & EVMavericks Origin - received 3.08 ETH each. Honorable mentions go to projects such as ByteGuide and TwitterBot.
+
+3. Started the [Weekly Dots Roundup podcast](https://paragraph.xyz/@evmavericks/bestofevmavericks2023) highlighting the brilliant community of EVMavericks & Ethfinance. We produced more than 40 episodes with a variety of guests.
+
+4. Creators, Doomfuzz & TheBenMeadows, collaborated with FakeRareDecal for szn1 and created 68 editions of [EVMavericks Decal.](https://opensea.io/assets/ethereum/0x1e16566c94ac5d224607c39ec748117f9fb0447a/10)
+
+5. Collaborated with Swell by participating in the bootstrapping campaign - Swell Voyage. Our members got extra perks such as additional pearls if they held a minimum of 0.2 swETH.
+   [Decal](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fbed0afa4ec98523c038b571c61025558.png&w=1200&q=75)
+
+6. Chad Fund was birthed. The DAO managed portfolio managed by degens.
+
+7. Started [Rocket school - a website along with an educational video series to guide people through the process of setting up a Rocket Pool node.](https://therocketschool.xyz/)
+
+8. Have grown [DAO's treasury](https://docs.google.com/spreadsheets/d/1SUlyDlSXU7vG8Us80ssonWoTtneuNTYEE4TIChRSG6E/edit?gid=0#gid=0):
+
+    Financial report from 2023: Our Treasury has grown 155% since the 1st of August and is now worth $79,329 without NFTs ($149,531 if we were to value the EVMs at the current floor price). We currently hold 17.9 rETH, have launched the Chad Fund (~2 ETH) and are in the progress of setting up and getting started with the Stewards Investment Portfolio (~10 ETH). This is a collective effort so all feedback and suggestions are welcome. Stewards and Chad Fund members are responsible for carrying out the transactions. See the following document for all the Treasury information: 
+
+Other notable events:
+
+* One of our creative members - heeey - dropped his collection [Bright on Art Blocks](https://www.artblocks.io/marketplace/collections/bright-by-heeey). That ended up doing very well and many Mavs got their 'Bright' art as we were eligible for it. [Example](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fa5cf595d84138f955ba68d8e6c84423e.png&w=1200&q=75)
+
+* EVMs such as [The-A-Word](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fec5e54ca088f98826942437d28eb6050.png&w=1200&q=75) helping out fellow lions when they are in need or fell victims to scams, hacks. At the end of the day, it's about the community and social aspect and we are lucky to have such generous and kind members in our pride.
+
+* Celebrated one-year anniversary by doing a lion pride where we encouraged all EVMs to wear their lion for the week. Besides that, we ran some raffles of [EIPandas](https://paragraph.xyz/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2Fec5e54ca088f98826942437d28eb6050.png&w=1200&q=75)!
+
+
+[Subscribe and stay tuned for the upcoming 'best of EVMavericks' from 2024!](https://paragraph.xyz/@evmavericks)
+
+</details>
+<details>
+<summary>u/waqwaqattack introduces us to tomorrow's big RocketPool upgrade</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gcdmiv/daily_general_discussion_october_26_2024/ltvcmyj/)
+
+Rocket Pool is upgrading to Saturn 0 tomorrow (Sunday night, 8pm Eastern time). The upgrade will allow people to stake with Rocket Pool without requiring any RPL bond - ETH only validators are here! Part of this upgrade is that existing node operators will start earning RPL rewards again. 
+
+I recorded a special episode of Rocket Fuel with Samus, one of the RP community members who was involved in researching the upgrade. You can watch it [here https://youtu.be/q0EoHRuCi3g](https://youtu.be/q0EoHRuCi3g). In the episode, Samus explains the reason for this upgrade as part of the official Saturn roadmap. He gives information on what rewards for ETH only validators will be - 1.3x solo staking rewards, how everyone will get RPL rewards from next month, and his ideas on the impact will have on Rocket Pool's growth. 
+
+The Rocket Pool deposit pool has been in an overflow state for months, but that is going to change this week. If you want to mint rETH directly from the Rocket Pool contract, you will have that chance again from Monday onwards. 
+
+If you are an existing node operator with 16 eth validators, you can switch to LEB8s for an immediate boost in rewards - without needing to add a single RPL token. If you have any questions, please let me know, and I'll answer them here. 
+
+Are you ready to join us, u/cryptomoon2020! The water's warm. Get in the pool!
+
+</details>
+<details>
+<summary>u/LogrisTheBard finished his Rabbit Hole Explorer's Guide</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gd4es8/daily_general_discussion_october_27_2024/lu35fn6/)
+
+Finally I'm at the end of my [Rabbit Hole Explorer's Guide](https://reddit.com/r/ethfinance/comments/1fzjust/daily_general_discussion_october_9_2024/lr60i0j/) and boy has that been a journey.
+
+**Recommended First Steps**
+
+Up until now I've covered a frighteningly lengthy sequence of things not to do and ways you can lose everything. To conclude let's focus on what should you do to get started? What's in your metaphorical backpack so you can be prepared like a good little boy scout? Where should you go exploring first?
+
+**Curate Your Feed**
+
+Generally speaking my feed consists of three things:
+
+1) Project introductions. This is mostly YouTube for me. My list changes over time but has included Bankless, Bell Curve, and some much smaller accounts like Jordan McKinney. This type of content is often very biased so don't expect too much from it besides background context on the project, what they are doing and how it's novel, and the bull case. They usually aren't going to compare themselves to their peers here or tell you how the project might fail. This will give you a list of things to research more deeply.
+
+2) Official announcements. I check my Discord/Telegram announcement feed every morning, build up a list of tabs, and clear it by the end of the day. Sometimes I'll hear about new projects from partnership announcements.
+
+3) Discussion. This is where people get into the most trouble. Don't let a social media tech giant direct your learning. Price of a project being shilled (especially on short horizons) is a terrible metric for the quality of a source. You might think to follow technology leaders but without enough background you're as likely to start following Charles Hoskinson or Richard Heart as Vitalik Buterin. They all sound convincing to the uninitiated. What I recommend is rather than look for technical or wealthy people to instead look for project experts other than the team members that post about an application or ecosystem you already understand. You need to be able make sense of what is being said and make an informed decision about whether they are saying it in an intellectually honest way. Personally, I'll also actively talk with community managers and members of projects but I'm looking for much deeper information or collaboration opportunities. You're never going to find a Microsoft dev to ask question to but you very well might find and ask questions directly to a project founder in web3.
+
+The more you fill your feed with people who are only interested in price the less happy you'll be. The more impatient you are to get rich quick, the more money will slip through your fingers and the more you're going to be spending on therapy and blood pressure meds. Instead fill your feed with information worth knowing and spreading.
+
+**Hands On Learning**
+
+Undoubtedly the best way to explore the Rabbit Hole is to go there yourself. As I hopefully gotten across by now, focus on survival. Learn with small amounts to limit the liability of beginners mistakes. Start with stablecoins where you can to avoid price volatility risks. Start with older projects and projects with higher TVL because they tend to be safer. Start with simpler applications. In an attempt to be helpful getting you started here is a bunch of things to search out yourself sorted into categories by relevance to you and then roughly by approachability and importance. There's a lot of editorial discretion here and you can be sure this is incomplete and will be out of date.
+
+*Defi*
+
+1) Money markets such as Aave and Compound
+
+2) Dexs such as Uniswap and Curve
+
+3) Liquidity incentives/farming such as bribes, bonds, marketing, points
+
+4) Leverage such as Gearbox, Defisaver, or GMX
+
+5) Options such as Lyra, Hegic
+
+6) Real world asset protocols such as Centrifuge and Maker
+
+7) Regen finance such as Gitcoin Grants, Greenpill, and Klima
+
+*Digital Identity*
+
+1) Ethereum Name Service (ENS), basically a human readable address
+
+2) Ethereum Attestation Service (EAS). Let anyone prove that you or someone else claimed something.
+
+3) Sybil resistance systems such as WorldCoin, BrightID, Proof of Humanity
+
+4) Achievements such as Rabbit Hole or Layer3
+
+*NFTs* 
+
+1) Communities such as Bored Apes or EVMavericks
+
+2) RWAs such as Get Protocol
+
+3) Corporate NFTs such as Nike and Starbucks
+
+*Gaming*
+
+1) Auto battlers such as Axie Infinity and Illuvium Arena
+
+2) Strategy games such as InfluenceETH and Illuvium Zero
+
+*Memecoins*
+
+1) Doge, Bonk, Wif, etc. I'll mark this cavern with a skull and crossbones.
+
+*Depin*
+
+1) Restaking such as EigenLayer, Symbiotic, and Karak.
+
+2) Oracles such as Chainlink, UMA, and EOracle
+
+3) Keepers such as Keeper Network and Gelato
+
+4) Data availability such as EigenDA and Celestia
+
+5) Compute sharing systems such as Golem and Spheron
+
+6) AI in various forms such as Ritual, BitTensor s19, etc
+
+*Enterprise*
+
+1) Logistics systems such as Nightfall
+
+2) Proof of Authority chains
+
+*Foundational Tech*
+
+1) Rollup technology such as Blobs, Validiums, and Fraud Proofs
+
+2) Scaling Technology such as Verkle Trees and Proposer Builder Separation
+
+3) Privacy Technology such as TEE, FHE, MPC
+
+**Review Prior Scams**
+
+After every hack you'll find a post-mortem. You should bookmark these when you find them and swing by every once in awhile as you level up until one day it clicks. Occasionally you'll even find useful summaries like [this one](https://reddit.com/r/ethfinance/comments/1eer8s9/daily_general_discussion_july_29_2024/lfigqox/) that infodump many of these in one place. Eventually you'll know what jargon like reentrancy guards are. You learn a lot about how things work by how things break.
+
+**Conclusion**
+
+Over time if you follow the advice here you'll know more than 99% of Crypto Twitter on a good variety of topics, you'll be able to take measured and deliberate risks, and you'll fall into communities that share your values. You'll probably meet some of these people in person at conferences. You may end up getting a job here. You may end up not needing a job at all. You'll definitely find sources of joy and points of light in an otherwise dark world. Whatever happens, you will be changed in ways you aren't expecting. I hope you'll come away a better, happier, and wealthier person.
+
+You can find the whole thing at this [self-serving link.](https://tokenomicsexplained.com/the-rabbit-hole-explorers-guide/)
+
+</details>
+<details>
+<summary>u/emp2b3 shares their unlikely solo staker journey!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gd4es8/daily_general_discussion_october_27_2024/lu0lw7i/)
+
+After the Merge I started looking into staking, but the only internet options at the time weren't great and I don't have a tech background / had never used CLI etc. I saw several posts talking about how anyone can do it but really didn't think that could apply to me. I looked at the SomerEsat guides and they looked very thorough but I quickly became overwhelmed.
+
+Well, fiber internet without a data cap was installed in our neighborhood and I decided it was time (and was worried that Allnodes would be cost prohibitive with Saturn 1 for Rocket Pool allowing for 4 ETH validators). People in the Rocket Pool #hardware channel helped me find an appropriate setup and following the RP guides I was able to get up and running on Holesky Testnet. My questions in the #support channel were answered within minutes.
+
+Now I am on Mainnet and I am obsessed with starting at my Grafana dashboard! The SmartNode stack is super helpful for someone like me that only had a vague understanding of what Linux even was.
+
+If you have have been on the fence about running your own node, it really is possible! For me the Rocket Pool community has been a great help and I also found answers in the EthStaker community.
+
+</details>
+<details>
+<summary>u/austonst briefs us on his month ahead in Thailand and the reporting he will be doing</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gdv8ez/daily_general_discussion_october_28_2024/lu5dt72/)
+
+**Devcon & Friends Intro and Plans**
+
+Something I like to do when the time arises is to report on Ethereum conference happenings, e.g. [my EthCC summaries](https://reddit.com/r/ethfinance/comments/1e0gtdv/daily_general_discussion_july_11_2024/lcqtfu9/). This started when I first attended ETHDenver, and I generally just attended talks all day every day, took notes, and summarized my favorites. Now that I'm [more involved](https://aestus.live) on a day-to-day basis, my conference activities have become a bit more varied and I find that if you're already in the loop, conference talks tend to just repeat info that's available in more detail elsewhere.
+
+But I still like to report on the talks that I find interesting, and can always find topics I'm less familiar with if I just step away from the MEV talks for a minute. Regardless of technical content, I also like to convey a little bit of what these events feel like to attend, for anyone who may be interested in the future. And finally, I hope to encourage ethfinanciers to be the change they want to see in the sub: the sorts of summaries I write are the sort of content I also enjoy consuming here, and I'd always like to see more of it.
+
+So today I thought I'd hit on the broader Ethereum event structure. You see, I just arrived in Thailand and will be here for *nearly a month* doing Ethereum stuff. If you really want to you can structure your whole life around bouncing from tangentially-Ethereum-related event to tangentially-Ethereum-related event. Some people do just that, and would be better qualified to explain that lifestyle, but I think I'm getting a taste of it here. So I'll give a bit of an overview of what I'm looking at in Thailand.
+
+-------
+
+To start off, I am in Chiang Mai for the last two weeks of [Edge City](https://www.edgecity.live/about) [Lanna](https://www.edgecity.live/lanna). There are a lot of different potential lenses through which to look at Edge City, but in general it is a month-long *popup village* where attendees all live in the same neighborhood in Chiang Mai, with a number of buildings rented out to serve as communal coworking, dining, social, wellness, and learning spaces. It creates a bit of a university campus feeling. There's lots of room for flexibly structuring your day with some combination of your own work and shared workshops/classes, with infrastructure in place to help you eat well, socialize, and keep your body and mind healthy. That description leaves a lot in the air for what people actually *do* there, but it's generally web3/Ethereum (+longevity/AI/network-state/health/etc) focused: we have tracks on stablecoins and governance this week, and next week I'll be diving into Sequencing Week to focus on based sequencing and preconfirmations.
+
+Then I fly down to Bangkok. Shortly before Devcon I am attending the [Staking Summit](https://lu.ma/stakingsummit24). I went to their event last year in Istanbul and thought it was interesting enough to attend again. The core audience is really institutional staking-as-a-service providers, and a lot of people there see staking as just like a financial product that gives yield, and don't really care about the underlying protocols. But they offered a steep discount to home stakers so I expect to see some friendly faces there, and I can always chat with validators about their thoughts on timing games, MEV, commitments/preconfs, and so on. If it turns out to be boring, well, I could probably use a few days off.
+
+Then comes [Devcon](https://devcon.org/en/) proper. I guess there's still no concrete schedule, but there are four main days on the calendar. A number of side events too, which for the most part come in the days before Devcon or in the evenings after Devcon days. I'm signed up for far too many sequencing events and expect to be thoroughly bored of the subject by the end. For Devcon I intend to be in full conference mode, attending talks and writing up my usual summaries.
+
+Finally comes Hodlercon in Phuket. This is the one place on the internet where Hodlercon needs no particular explanation. I expect to treat Hodlercon kind of like Edge City, aiming for a mix of learning, socializing, and leading for a healthy lifestyle. But of course it's going to be more personal, even less structured, and more vacation-y. The planner that the team has been working with has... not been particularly impressive so far. But as long as we get our hotel rooms confirmed and we can all make it to Phuket together, we can always work out the rest.
+
+-------
+
+That's a lot of time in Thailand! And plenty to do. I think I'm going to be very glad to get back to a cool climate after a long, tropical month.
+
+So I'll give my thoughts on Edge City once it's done, and will report on Staking Summit if it's interesting enough to warrant the posts. Devcon gets daily updates for sure, Hodlercon maybe gets one summary at the end. In the meantime, Edge City provides plenty of opportunity for focused work time, and I think it may be time to write up a primer on based sequencing and preconfs intended for the solo+home staker audience. I think there are even writing clinics here where I can get some feedback first. Anyone else visiting can feel free to reach out whenever!
+
+</details>
+<details>
+<summary>u/unthinkablecryto is thinking about the next killer app</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gdv8ez/daily_general_discussion_october_28_2024/lu8sz4f/)
+
+The Bridge acquisition by Stripe has really got me thinking where this space, particularly for ETH is headed. It's becoming pretty obvious to me that payments across the world will start moving on-chain. This is smart-contracts and blockchains killer use case I believe at least for the next 10 years. But these will primarily done in USD for now. Stablecoins are in the top 20 for holders of US debt worldwide. I believe on bankless they said that above 95% of all stablecoins are USD. Stablecoins are exporting USD to the world, only making it stronger, and the war on inflation, is all but won for now, so everyone feels pretty good about USD.
+   
+But there is still the elephant in the room that is our rising debt. I love reading this article ( https://budgetmodel.wharton.upenn.edu/issues/2023/10/6/when-does-federal-debt-reach-unsustainable-levels )by the School of Wharton last year saying that we have basically have 20 years to turn things around. This is why no really cares about ETH or BTC as money (I mean I do) but the average person thinks well I have the USD now available to me, which has low inflation again, and I have 20 years before I need to worry about exiting USD. Its not even on their radar right now replacing USD.
+    
+So USD stablecoin use rise in countries that have inflation, we have already seen this on Tron, and exchange to exchange wallets.
+    
+What brings on everyone else on-chain? Merchants and banks will love the settlement time of blockchains but for most users credit cards are already a great experience, and people love the rewards. I think this starts as a grass led movement where independent merchants incentivize users to pay on-chain directly with discounts and tokens/NFTs (some of which will have utility). Coinbase seems to be the leader behind this with their wallet and best in class Base experience (paying gas fees in USDC, covering transfer fees, and their SDKs/APIs) (though Stripe could really compete here, I remember the explosive growth of the headphone jack iPhone card reader).
+   
+Beyond that we really need a privacy solution (likely ZK, plus a regulated compliance framework) for general banking I believe. Credit Card companies will likely move on chain in the background too, but the average person won't know tap to pay with phones and cards will still be common place. And they will mainly be doing it to reduce their fees, and settlement times as well, they will likely still charge the same take rate until they are forced to lower it from competition from people making payments directly. Got to keep the reward train rolling somehow. 
+   
+Opportunities for investment I am looking for 1) incentive programs for payments ( I doubt every merchant will create their own from scratch) 2) useable directory of businesses that take stablecoins, (Incentives here for being listed/accepting?) 3) compliance enabled privacy. I think Base / Coinbase dominate in the short term but then as fragmentation issues get cleaned up L2s in general dominate these payments because of the SDKs and developers behind ETH. ETH price will do well with increased usage but look to see major increases in price for ETH for monetary premium in 10 years if the US does nothing to address debts. Until then we need usage and real payments. The user experience seems like it's ready, now it's about making people want to accept and to pay on-chain, and clean up the bad image that crypto is all a scam.
+
+</details>
+<details>
+<summary>u/cryptOwOcurrency introduces us to indistinguishability obfuscation</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1gent1b/daily_general_discussion_october_29_2024/lufr83e/)
+
+I knew about zero knowledge proofs and fully-homomorphic encryption already, but **indistinguishability obfuscation** is an insane new cryptography primitive I'd never heard of before.
+
+Basically, iO lets you encrypt a program in such a way that someone can run it, but can never figure out the program's internals no matter how hard they try to analyze/decompile the program.
+
+More on iO, according to Vitalik:
+
+> While it's still very far from maturity, as of 2020 we have theoretically valid protocols for it based on standard security assumptions, and work is recently starting on implementations. Indistinguishability obfuscation lets you create an "encrypted program" that performs an arbitrary computation, in such a way that all internal details of the program are hidden. As a simple example, you can put a private key into an obfuscated program which only lets you use it to sign prime numbers, and distribute this program to other people. They can use the program to sign any prime number, but cannot take the key out. But it's far more powerful than that: together with hashes, it can be used to implement any other cryptographic primitive, and more.
+
+My understanding is that with FHE and iO combined, theoretically someone could create a program that operates on encrypted data, where the program is itself encrypted. And both the program and the data remain encrypted during the entire operation. So the program and data are both protected from the computer that is running it and storing it.
+
+Further reading [on Wikipedia](https://en.wikipedia.org/wiki/Indistinguishability_obfuscation).
+
+Math is crazy!
+
+Edit: And if I understand it properly, it's gonna be insane for DRM!
+
+</details>
+</details>
+
+
+
+
+
+
 
 
 
