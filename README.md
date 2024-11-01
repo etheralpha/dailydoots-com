@@ -1153,10 +1153,6 @@ Rank | Username   | Daily Doots
 
 *Special guest Paul Brody joins us from EY.*
 
-**Announcements**
-
-- 
-
 <details>
 <summary>The morning roundup</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/1ggyuhz/comment/luthwqc/)
