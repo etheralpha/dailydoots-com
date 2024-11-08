@@ -11,52 +11,52 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1099 Dooters - Last Updated November 1, 2024</small>
+<small>1102 Dooters - Last Updated November 8, 2024</small>
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 218
-. | [benido2030](https://reddit.com/u/benido2030) | 152
+. | [benido2030](https://reddit.com/u/benido2030) | 153
 . | [logristhebard](https://reddit.com/u/logristhebard) | 152
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 126
-. | [haurog](https://reddit.com/u/haurog) | 120
-. | [696_eth](https://reddit.com/u/696_eth) | 107
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 104
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 127
+. | [haurog](https://reddit.com/u/haurog) | 122
+. | [696_eth](https://reddit.com/u/696_eth) | 109
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 105
 . | [set1less](https://reddit.com/u/set1less) | 103
-. | [ethical-trade](https://reddit.com/u/ethical-trade) | 99
+. | [ethical-trade](https://reddit.com/u/ethical-trade) | 101
 . | [hanniabu](https://reddit.com/u/hanniabu) | 92
 . | [syentist](https://reddit.com/u/syentist) | 90
+. | [pa7x1](https://reddit.com/u/pa7x1) | 75
 . | [phimarhal](https://reddit.com/u/phimarhal) | 75
-. | [pa7x1](https://reddit.com/u/pa7x1) | 73
-. | [the-a-word](https://reddit.com/u/the-a-word) | 73
-. | [nixorokish](https://reddit.com/u/nixorokish) | 64
+. | [the-a-word](https://reddit.com/u/the-a-word) | 74
+. | [austonst](https://reddit.com/u/austonst) | 65
+. | [nixorokish](https://reddit.com/u/nixorokish) | 65
+. | [bob-rossi](https://reddit.com/u/bob-rossi) | 64
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
-. | [austonst](https://reddit.com/u/austonst) | 63
-. | [bob-rossi](https://reddit.com/u/bob-rossi) | 63
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [alexiskef](https://reddit.com/u/alexiskef) | 58
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 55
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 56
 . | [etheraider](https://reddit.com/u/etheraider) | 51
 . | [interweaver](https://reddit.com/u/interweaver) | 51
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
-. | [cryptrd285](https://reddit.com/u/cryptrd285) | 47
+. | [cryptrd285](https://reddit.com/u/cryptrd285) | 48
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
 . | [needlerop](https://reddit.com/u/needlerop) | 45
 . | [seamonkey82](https://reddit.com/u/seamonkey82) | 43
+. | [15kisfud](https://reddit.com/u/15kisfud) | 42
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 42
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
-. | [15kisfud](https://reddit.com/u/15kisfud) | 41
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 39
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 39
 . | [spacesider](https://reddit.com/u/spacesider) | 38
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 37
 . | [eggill7227](https://reddit.com/u/eggill7227) | 36
 . | [barthib](https://reddit.com/u/barthib) | 35
+. | [dreth](https://reddit.com/u/dreth) | 35
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
 . | [domotheus](https://reddit.com/u/domotheus) | 34
-. | [asdafari12](https://reddit.com/u/asdafari12) | 32
-. | [dreth](https://reddit.com/u/dreth) | 32
+. | [asdafari12](https://reddit.com/u/asdafari12) | 33
 . | [ro-_-b](https://reddit.com/u/ro-_-b) | 32
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 32
 . | [aaj094](https://reddit.com/u/aaj094) | 31
@@ -81,25 +81,25 @@ Rank | Username   | Daily Doots
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 23
 . | [hipaces](https://reddit.com/u/hipaces) | 23
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 23
+. | [vedran_](https://reddit.com/u/vedran_) | 23
+. | [im_this_guy](https://reddit.com/u/im_this_guy) | 22
 . | [mrcatface13](https://reddit.com/u/mrcatface13) | 22
 . | [skythe4](https://reddit.com/u/skythe4) | 22
 . | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 21
-. | [im_this_guy](https://reddit.com/u/im_this_guy) | 21
 . | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 21
 . | [moschus11](https://reddit.com/u/moschus11) | 21
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 21
-. | [vedran_](https://reddit.com/u/vedran_) | 21
 . | [vvpan](https://reddit.com/u/vvpan) | 21
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 21
 . | [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 20
 . | [nikola_j](https://reddit.com/u/nikola_j) | 20
 . | [savage_x](https://reddit.com/u/savage_x) | 20
+. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 20
 . | [1l0o](https://reddit.com/u/1l0o) | 19
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
 . | [eth2353](https://reddit.com/u/eth2353) | 19
-. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 19
 . | [abcoathup](https://reddit.com/u/abcoathup) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
 . | [ethacct](https://reddit.com/u/ethacct) | 18
@@ -109,34 +109,36 @@ Rank | Username   | Daily Doots
 . | [hblask](https://reddit.com/u/hblask) | 17
 . | [kingleo23](https://reddit.com/u/kingleo23) | 17
 . | [masterroshi9](https://reddit.com/u/masterroshi9) | 17
+. | [physalisx](https://reddit.com/u/physalisx) | 17
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 17
 . | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 17
+. | [ab111292](https://reddit.com/u/ab111292) | 16
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 16
 . | [sonotyou](https://reddit.com/u/sonotyou) | 16
 . | [thehighflyer](https://reddit.com/u/thehighflyer) | 16
-. | [ab111292](https://reddit.com/u/ab111292) | 15
 . | [bigglybillbrasky](https://reddit.com/u/bigglybillbrasky) | 15
 . | [fiberpunk2077](https://reddit.com/u/fiberpunk2077) | 15
 . | [hereimalive](https://reddit.com/u/hereimalive) | 15
 . | [maninthecryptosuit](https://reddit.com/u/maninthecryptosuit) | 15
 . | [offmyporch](https://reddit.com/u/offmyporch) | 15
-. | [physalisx](https://reddit.com/u/physalisx) | 15
 . | [18boro](https://reddit.com/u/18boro) | 14
+. | [2peg2city](https://reddit.com/u/2peg2city) | 14
+. | [buyethordai](https://reddit.com/u/buyethordai) | 14
+. | [defacticool](https://reddit.com/u/defacticool) | 14
 . | [fast_contract](https://reddit.com/u/fast_contract) | 14
 . | [hauntedjockstrap88](https://reddit.com/u/hauntedjockstrap88) | 14
 . | [pbrody](https://reddit.com/u/pbrody) | 14
 . | [teedeepee](https://reddit.com/u/teedeepee) | 14
 . | [timmerwb](https://reddit.com/u/timmerwb) | 14
 . | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 14
-. | [2peg2city](https://reddit.com/u/2peg2city) | 13
 . | [barleythecat](https://reddit.com/u/barleythecat) | 13
-. | [buyethordai](https://reddit.com/u/buyethordai) | 13
 . | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 13
 . | [dashby1](https://reddit.com/u/dashby1) | 13
-. | [defacticool](https://reddit.com/u/defacticool) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
 . | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 12
+. | [kallukoras](https://reddit.com/u/kallukoras) | 12
+. | [kb1985](https://reddit.com/u/kb1985) | 12
 . | [mrs_willy](https://reddit.com/u/mrs_willy) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
@@ -144,8 +146,6 @@ Rank | Username   | Daily Doots
 . | [aaqy](https://reddit.com/u/aaqy) | 11
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
 . | [cutsnek](https://reddit.com/u/cutsnek) | 11
-. | [kallukoras](https://reddit.com/u/kallukoras) | 11
-. | [kb1985](https://reddit.com/u/kb1985) | 11
 . | [keynya](https://reddit.com/u/keynya) | 11
 . | [newman513](https://reddit.com/u/newman513) | 11
 . | [odds-bodkins](https://reddit.com/u/odds-bodkins) | 11
@@ -153,6 +153,7 @@ Rank | Username   | Daily Doots
 . | [proof-of-lake](https://reddit.com/u/proof-of-lake) | 11
 . | [sparta89](https://reddit.com/u/sparta89) | 11
 . | [stobie](https://reddit.com/u/stobie) | 11
+. | [supephiz](https://reddit.com/u/supephiz) | 11
 . | [t0bii](https://reddit.com/u/t0bii) | 11
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
@@ -188,6 +189,7 @@ Rank | Username   | Daily Doots
 . | [strtrd](https://reddit.com/u/strtrd) | 9
 . | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 9
 . | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 9
+. | [vandelay101](https://reddit.com/u/vandelay101) | 9
 . | [will_dance_for_coins](https://reddit.com/u/will_dance_for_coins) | 9
 . | [accidental_green](https://reddit.com/u/accidental_green) | 8
 . | [accountaccumulator](https://reddit.com/u/accountaccumulator) | 8
@@ -210,17 +212,17 @@ Rank | Username   | Daily Doots
 . | [roargrrrr](https://reddit.com/u/roargrrrr) | 8
 . | [showbizza](https://reddit.com/u/showbizza) | 8
 . | [sku](https://reddit.com/u/sku) | 8
-. | [supephiz](https://reddit.com/u/supephiz) | 8
 . | [the_statustician](https://reddit.com/u/the_statustician) | 8
-. | [vandelay101](https://reddit.com/u/vandelay101) | 8
 . | [weedstocks](https://reddit.com/u/weedstocks) | 8
 . | [yeahdave4](https://reddit.com/u/yeahdave4) | 8
 . | [betterluckythengood](https://reddit.com/u/betterluckythengood) | 7
+. | [bitzgi](https://reddit.com/u/bitzgi) | 7
 . | [charitablechair](https://reddit.com/u/charitablechair) | 7
 . | [childsp](https://reddit.com/u/childsp) | 7
 . | [clamchoda](https://reddit.com/u/clamchoda) | 7
 . | [cosmiccollusion](https://reddit.com/u/cosmiccollusion) | 7
 . | [frenkthetank](https://reddit.com/u/frenkthetank) | 7
+. | [growthepie_eth](https://reddit.com/u/growthepie_eth) | 7
 . | [jbroja](https://reddit.com/u/jbroja) | 7
 . | [jmart762](https://reddit.com/u/jmart762) | 7
 . | [keepontruckinbag](https://reddit.com/u/keepontruckinbag) | 7
@@ -244,7 +246,6 @@ Rank | Username   | Daily Doots
 . | [thepaypay](https://reddit.com/u/thepaypay) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [_etherium](https://reddit.com/u/_etherium) | 6
-. | [bitzgi](https://reddit.com/u/bitzgi) | 6
 . | [chromes](https://reddit.com/u/chromes) | 6
 . | [curious-b](https://reddit.com/u/curious-b) | 6
 . | [datacruncha](https://reddit.com/u/datacruncha) | 6
@@ -253,7 +254,7 @@ Rank | Username   | Daily Doots
 . | [ecguy1011](https://reddit.com/u/ecguy1011) | 6
 . | [el-coco-no](https://reddit.com/u/el-coco-no) | 6
 . | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 6
-. | [growthepie_eth](https://reddit.com/u/growthepie_eth) | 6
+. | [eviljordan](https://reddit.com/u/eviljordan) | 6
 . | [hombredecamote](https://reddit.com/u/hombredecamote) | 6
 . | [imelia29](https://reddit.com/u/imelia29) | 6
 . | [labrav](https://reddit.com/u/labrav) | 6
@@ -274,13 +275,15 @@ Rank | Username   | Daily Doots
 . | [baggygravy](https://reddit.com/u/baggygravy) | 5
 . | [best_coder_na](https://reddit.com/u/best_coder_na) | 5
 . | [danksharting](https://reddit.com/u/danksharting) | 5
+. | [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 5
+. | [epic_trader](https://reddit.com/u/epic_trader) | 5
 . | [epiphany153](https://reddit.com/u/epiphany153) | 5
 . | [ethdefiance](https://reddit.com/u/ethdefiance) | 5
-. | [eviljordan](https://reddit.com/u/eviljordan) | 5
 . | [fatlever2](https://reddit.com/u/fatlever2) | 5
 . | [geoffbezos](https://reddit.com/u/geoffbezos) | 5
 . | [hamberdler](https://reddit.com/u/hamberdler) | 5
 . | [intmmtsir](https://reddit.com/u/intmmtsir) | 5
+. | [johnnydappeth](https://reddit.com/u/johnnydappeth) | 5
 . | [kainzilla](https://reddit.com/u/kainzilla) | 5
 . | [kairepaire](https://reddit.com/u/kairepaire) | 5
 . | [kedos25](https://reddit.com/u/kedos25) | 5
@@ -327,8 +330,6 @@ Rank | Username   | Daily Doots
 . | [detroitlions81](https://reddit.com/u/detroitlions81) | 4
 . | [dinny14](https://reddit.com/u/dinny14) | 4
 . | [djlywtf](https://reddit.com/u/djlywtf) | 4
-. | [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 4
-. | [epic_trader](https://reddit.com/u/epic_trader) | 4
 . | [ethsomesense](https://reddit.com/u/ethsomesense) | 4
 . | [fatsopiggy](https://reddit.com/u/fatsopiggy) | 4
 . | [fecalreceptacle](https://reddit.com/u/fecalreceptacle) | 4
@@ -343,7 +344,6 @@ Rank | Username   | Daily Doots
 . | [i_love_mom](https://reddit.com/u/i_love_mom) | 4
 . | [imaybeslow](https://reddit.com/u/imaybeslow) | 4
 . | [johnbmaclemore](https://reddit.com/u/johnbmaclemore) | 4
-. | [johnnydappeth](https://reddit.com/u/johnnydappeth) | 4
 . | [juankestein](https://reddit.com/u/juankestein) | 4
 . | [kotmynetchup](https://reddit.com/u/kotmynetchup) | 4
 . | [kristkind](https://reddit.com/u/kristkind) | 4
@@ -354,6 +354,7 @@ Rank | Username   | Daily Doots
 . | [nagus](https://reddit.com/u/nagus) | 4
 . | [need-a-bencil](https://reddit.com/u/need-a-bencil) | 4
 . | [nevilleharris](https://reddit.com/u/nevilleharris) | 4
+. | [nextlevelfantasy](https://reddit.com/u/nextlevelfantasy) | 4
 . | [obitwokenobi](https://reddit.com/u/obitwokenobi) | 4
 . | [pooeygusset](https://reddit.com/u/pooeygusset) | 4
 . | [pulisordie](https://reddit.com/u/pulisordie) | 4
@@ -449,6 +450,7 @@ Rank | Username   | Daily Doots
 . | [ptuchinho19](https://reddit.com/u/ptuchinho19) | 3
 . | [readreed](https://reddit.com/u/readreed) | 3
 . | [reno007](https://reddit.com/u/reno007) | 3
+. | [samueth_peapks](https://reddit.com/u/samueth_peapks) | 3
 . | [sayno2mids](https://reddit.com/u/sayno2mids) | 3
 . | [sinuio](https://reddit.com/u/sinuio) | 3
 . | [sorangutan](https://reddit.com/u/sorangutan) | 3
@@ -526,6 +528,7 @@ Rank | Username   | Daily Doots
 . | [educatemybrain](https://reddit.com/u/educatemybrain) | 2
 . | [eliirs](https://reddit.com/u/eliirs) | 2
 . | [emp2b3](https://reddit.com/u/emp2b3) | 2
+. | [epicgoblet](https://reddit.com/u/epicgoblet) | 2
 . | [ethdreamer](https://reddit.com/u/ethdreamer) | 2
 . | [etherenthousiast10k](https://reddit.com/u/etherenthousiast10k) | 2
 . | [ethrocketeer](https://reddit.com/u/ethrocketeer) | 2
@@ -536,6 +539,7 @@ Rank | Username   | Daily Doots
 . | [gulmorgg](https://reddit.com/u/gulmorgg) | 2
 . | [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
 . | [hashtagfuzzmaster](https://reddit.com/u/hashtagfuzzmaster) | 2
+. | [ianazch](https://reddit.com/u/ianazch) | 2
 . | [ican20](https://reddit.com/u/ican20) | 2
 . | [ieperen](https://reddit.com/u/ieperen) | 2
 . | [imnotthomas](https://reddit.com/u/imnotthomas) | 2
@@ -573,7 +577,6 @@ Rank | Username   | Daily Doots
 . | [moderatelytortoise](https://reddit.com/u/moderatelytortoise) | 2
 . | [morkogoz](https://reddit.com/u/morkogoz) | 2
 . | [namtaru_x](https://reddit.com/u/namtaru_x) | 2
-. | [nextlevelfantasy](https://reddit.com/u/nextlevelfantasy) | 2
 . | [no-tackle-8652](https://reddit.com/u/no-tackle-8652) | 2
 . | [nomadic8893](https://reddit.com/u/nomadic8893) | 2
 . | [nyruds](https://reddit.com/u/nyruds) | 2
@@ -591,7 +594,6 @@ Rank | Username   | Daily Doots
 . | [rockjones](https://reddit.com/u/rockjones) | 2
 . | [romborg](https://reddit.com/u/romborg) | 2
 . | [rsblk](https://reddit.com/u/rsblk) | 2
-. | [samueth_peapks](https://reddit.com/u/samueth_peapks) | 2
 . | [seanathanwaters](https://reddit.com/u/seanathanwaters) | 2
 . | [silktouchm](https://reddit.com/u/silktouchm) | 2
 . | [sirrayshio](https://reddit.com/u/sirrayshio) | 2
@@ -636,6 +638,7 @@ Rank | Username   | Daily Doots
 . | [9risk](https://reddit.com/u/9risk) | 1
 . | [actionpaulson](https://reddit.com/u/actionpaulson) | 1
 . | [actualbadger](https://reddit.com/u/actualbadger) | 1
+. | [adraffy](https://reddit.com/u/adraffy) | 1
 . | [agreeable_age_734](https://reddit.com/u/agreeable_age_734) | 1
 . | [ahbartsch](https://reddit.com/u/ahbartsch) | 1
 . | [airportatheist](https://reddit.com/u/airportatheist) | 1
@@ -761,6 +764,7 @@ Rank | Username   | Daily Doots
 . | [dudeeggs](https://reddit.com/u/dudeeggs) | 1
 . | [dudermeister](https://reddit.com/u/dudermeister) | 1
 . | [dybsy](https://reddit.com/u/dybsy) | 1
+. | [dystoxin](https://reddit.com/u/dystoxin) | 1
 . | [dysus1](https://reddit.com/u/dysus1) | 1
 . | [earthquakequestion](https://reddit.com/u/earthquakequestion) | 1
 . | [easy_like_sunday](https://reddit.com/u/easy_like_sunday) | 1
@@ -772,7 +776,6 @@ Rank | Username   | Daily Doots
 . | [emkoscp](https://reddit.com/u/emkoscp) | 1
 . | [ennui85](https://reddit.com/u/ennui85) | 1
 . | [ennygbennyg](https://reddit.com/u/ennygbennyg) | 1
-. | [epicgoblet](https://reddit.com/u/epicgoblet) | 1
 . | [equal-jellyfish1](https://reddit.com/u/equal-jellyfish1) | 1
 . | [etereve](https://reddit.com/u/etereve) | 1
 . | [eth_scholar](https://reddit.com/u/eth_scholar) | 1
@@ -803,6 +806,7 @@ Rank | Username   | Daily Doots
 . | [flydeon](https://reddit.com/u/flydeon) | 1
 . | [flyinglineman](https://reddit.com/u/flyinglineman) | 1
 . | [foodloverfoodhater](https://reddit.com/u/foodloverfoodhater) | 1
+. | [forbothofus](https://reddit.com/u/forbothofus) | 1
 . | [forgetitz](https://reddit.com/u/forgetitz) | 1
 . | [freefactoid](https://reddit.com/u/freefactoid) | 1
 . | [fuckmyfate](https://reddit.com/u/fuckmyfate) | 1
@@ -846,7 +850,6 @@ Rank | Username   | Daily Doots
 . | [hotgirls-eth](https://reddit.com/u/hotgirls-eth) | 1
 . | [hwoarangatan](https://reddit.com/u/hwoarangatan) | 1
 . | [i_haven-t_reddit](https://reddit.com/u/i_haven-t_reddit) | 1
-. | [ianazch](https://reddit.com/u/ianazch) | 1
 . | [icecreamketo](https://reddit.com/u/icecreamketo) | 1
 . | [iknowyougotsole](https://reddit.com/u/iknowyougotsole) | 1
 . | [ilovestaplers](https://reddit.com/u/ilovestaplers) | 1
@@ -1114,6 +1117,7 @@ Rank | Username   | Daily Doots
 . | [zkstx](https://reddit.com/u/zkstx) | 1
 . | [zoopzo](https://reddit.com/u/zoopzo) | 1
 . | [zora](https://reddit.com/u/zora) | 1
+
 
 
 
