@@ -27222,7 +27222,7 @@ In an effort to spread awareness of what everyone in the community is working on
 .  | insidethesimulation   | [RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress
 .  | itswhatevermannn      | [BetOnchain](https://betonchain.gg/) - A permissionless blockchain-based betting platform
 .  | jey_s_tears           | Daily haikus until we’re at least at 0.178 on the ETH/BTC ratio or highest market cap
-.  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week<br>Contributor at [Supermodular.xyz](https://supermodular.xyz/) and [Green Pill](https://greenpill.network/)
+.  | jtnichol              | [Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week
 .  | juankestein           | [CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions
 .  | kirill_stakewise      | [Stakewise Co-Founder](https://stakewise.io/)
 .  | kudeta                | [Aestus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders
