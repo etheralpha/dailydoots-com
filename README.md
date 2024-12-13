@@ -11,34 +11,36 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1116 Dooters - Last Updated December 6, 2024</small>
+<small>1117 Dooters - Last Updated December 13, 2024</small>
+
+
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 218
-. | [logristhebard](https://reddit.com/u/logristhebard) | 156
-. | [benido2030](https://reddit.com/u/benido2030) | 154
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 132
-. | [haurog](https://reddit.com/u/haurog) | 131
+. | [logristhebard](https://reddit.com/u/logristhebard) | 158
+. | [benido2030](https://reddit.com/u/benido2030) | 155
+. | [haurog](https://reddit.com/u/haurog) | 138
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 133
 . | [696_eth](https://reddit.com/u/696_eth) | 111
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 108
 . | [ethical-trade](https://reddit.com/u/ethical-trade) | 106
 . | [set1less](https://reddit.com/u/set1less) | 103
-. | [hanniabu](https://reddit.com/u/hanniabu) | 98
+. | [hanniabu](https://reddit.com/u/hanniabu) | 99
 . | [syentist](https://reddit.com/u/syentist) | 90
 . | [pa7x1](https://reddit.com/u/pa7x1) | 80
-. | [the-a-word](https://reddit.com/u/the-a-word) | 76
+. | [the-a-word](https://reddit.com/u/the-a-word) | 77
 . | [phimarhal](https://reddit.com/u/phimarhal) | 75
-. | [austonst](https://reddit.com/u/austonst) | 71
+. | [austonst](https://reddit.com/u/austonst) | 72
 . | [nixorokish](https://reddit.com/u/nixorokish) | 65
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 64
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 61
 . | [alexiskef](https://reddit.com/u/alexiskef) | 60
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 60
 . | [kbrot](https://reddit.com/u/kbrot) | 60
+. | [cryptrd285](https://reddit.com/u/cryptrd285) | 54
 . | [etheraider](https://reddit.com/u/etheraider) | 54
 . | [interweaver](https://reddit.com/u/interweaver) | 54
-. | [cryptrd285](https://reddit.com/u/cryptrd285) | 53
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
@@ -65,41 +67,41 @@ Rank | Username   | Daily Doots
 . | [wolfparking](https://reddit.com/u/wolfparking) | 31
 . | [_weboftrust](https://reddit.com/u/_weboftrust) | 30
 . | [ber10](https://reddit.com/u/ber10) | 30
+. | [hsuke](https://reddit.com/u/hsuke) | 30
 . | [liberosist](https://reddit.com/u/liberosist) | 30
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 30
 . | [revanchist1](https://reddit.com/u/revanchist1) | 30
-. | [hsuke](https://reddit.com/u/hsuke) | 29
 . | [bagogel12](https://reddit.com/u/bagogel12) | 28
 . | [coinanon](https://reddit.com/u/coinanon) | 28
 . | [ender985](https://reddit.com/u/ender985) | 28
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
 . | [therealsilentjohn](https://reddit.com/u/therealsilentjohn) | 26
+. | [decibels42](https://reddit.com/u/decibels42) | 25
+. | [hereimalive](https://reddit.com/u/hereimalive) | 25
 . | [kudeta](https://reddit.com/u/kudeta) | 25
 . | [maswasnos](https://reddit.com/u/maswasnos) | 25
 . | [vedran_](https://reddit.com/u/vedran_) | 25
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 24
-. | [hereimalive](https://reddit.com/u/hereimalive) | 24
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
-. | [decibels42](https://reddit.com/u/decibels42) | 23
 . | [hipaces](https://reddit.com/u/hipaces) | 23
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 23
+. | [wulkingdead](https://reddit.com/u/wulkingdead) | 23
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 22
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 22
 . | [mrcatface13](https://reddit.com/u/mrcatface13) | 22
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 22
 . | [skythe4](https://reddit.com/u/skythe4) | 22
+. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 22
+. | [supephiz](https://reddit.com/u/supephiz) | 22
 . | [vvpan](https://reddit.com/u/vvpan) | 22
-. | [wulkingdead](https://reddit.com/u/wulkingdead) | 22
 . | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 21
+. | [eth2353](https://reddit.com/u/eth2353) | 21
 . | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 21
 . | [moschus11](https://reddit.com/u/moschus11) | 21
-. | [eth2353](https://reddit.com/u/eth2353) | 20
 . | [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
 . | [nikola_j](https://reddit.com/u/nikola_j) | 20
 . | [savage_x](https://reddit.com/u/savage_x) | 20
-. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 20
-. | [supephiz](https://reddit.com/u/supephiz) | 20
 . | [1l0o](https://reddit.com/u/1l0o) | 19
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
 . | [luukiemans](https://reddit.com/u/luukiemans) | 19
@@ -189,6 +191,7 @@ Rank | Username   | Daily Doots
 . | [iscaacsi](https://reddit.com/u/iscaacsi) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
+. | [ournumber4](https://reddit.com/u/ournumber4) | 9
 . | [plaenar](https://reddit.com/u/plaenar) | 9
 . | [strtrd](https://reddit.com/u/strtrd) | 9
 . | [the_statustician](https://reddit.com/u/the_statustician) | 9
@@ -210,12 +213,13 @@ Rank | Username   | Daily Doots
 . | [jumnhy](https://reddit.com/u/jumnhy) | 8
 . | [juxtanotherposition](https://reddit.com/u/juxtanotherposition) | 8
 . | [lawfultots](https://reddit.com/u/lawfultots) | 8
+. | [lops21](https://reddit.com/u/lops21) | 8
 . | [mango_sake](https://reddit.com/u/mango_sake) | 8
 . | [merklechainsaw](https://reddit.com/u/merklechainsaw) | 8
 . | [nomad-nuance](https://reddit.com/u/nomad-nuance) | 8
 . | [not_selling_eth](https://reddit.com/u/not_selling_eth) | 8
-. | [ournumber4](https://reddit.com/u/ournumber4) | 8
 . | [pembull](https://reddit.com/u/pembull) | 8
+. | [profstrangelove](https://reddit.com/u/profstrangelove) | 8
 . | [roargrrrr](https://reddit.com/u/roargrrrr) | 8
 . | [showbizza](https://reddit.com/u/showbizza) | 8
 . | [sku](https://reddit.com/u/sku) | 8
@@ -228,17 +232,16 @@ Rank | Username   | Daily Doots
 . | [clamchoda](https://reddit.com/u/clamchoda) | 7
 . | [cosmiccollusion](https://reddit.com/u/cosmiccollusion) | 7
 . | [defewit](https://reddit.com/u/defewit) | 7
+. | [epic_trader](https://reddit.com/u/epic_trader) | 7
 . | [eviljordan](https://reddit.com/u/eviljordan) | 7
 . | [growthepie_eth](https://reddit.com/u/growthepie_eth) | 7
 . | [jbroja](https://reddit.com/u/jbroja) | 7
 . | [jmart762](https://reddit.com/u/jmart762) | 7
 . | [keepontruckinbag](https://reddit.com/u/keepontruckinbag) | 7
 . | [labrav](https://reddit.com/u/labrav) | 7
-. | [lops21](https://reddit.com/u/lops21) | 7
 . | [mayneminu](https://reddit.com/u/mayneminu) | 7
 . | [miaviv](https://reddit.com/u/miaviv) | 7
 . | [phigo50](https://reddit.com/u/phigo50) | 7
-. | [profstrangelove](https://reddit.com/u/profstrangelove) | 7
 . | [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
 . | [shitshotdead](https://reddit.com/u/shitshotdead) | 7
 . | [sm3gh34d](https://reddit.com/u/sm3gh34d) | 7
@@ -251,6 +254,7 @@ Rank | Username   | Daily Doots
 . | [thepaypay](https://reddit.com/u/thepaypay) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [_etherium](https://reddit.com/u/_etherium) | 6
+. | [adankairo](https://reddit.com/u/adankairo) | 6
 . | [baggygravy](https://reddit.com/u/baggygravy) | 6
 . | [chromes](https://reddit.com/u/chromes) | 6
 . | [curious-b](https://reddit.com/u/curious-b) | 6
@@ -259,7 +263,6 @@ Rank | Username   | Daily Doots
 . | [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 6
 . | [ecguy1011](https://reddit.com/u/ecguy1011) | 6
 . | [el-coco-no](https://reddit.com/u/el-coco-no) | 6
-. | [epic_trader](https://reddit.com/u/epic_trader) | 6
 . | [hombredecamote](https://reddit.com/u/hombredecamote) | 6
 . | [imelia29](https://reddit.com/u/imelia29) | 6
 . | [johnnydappeth](https://reddit.com/u/johnnydappeth) | 6
@@ -281,18 +284,21 @@ Rank | Username   | Daily Doots
 . | [yeopaa](https://reddit.com/u/yeopaa) | 6
 . | [404bachee](https://reddit.com/u/404bachee) | 5
 . | [bad_investment](https://reddit.com/u/bad_investment) | 5
+. | [bergmannskase](https://reddit.com/u/bergmannskase) | 5
 . | [best_coder_na](https://reddit.com/u/best_coder_na) | 5
 . | [captainloud](https://reddit.com/u/captainloud) | 5
 . | [danksharting](https://reddit.com/u/danksharting) | 5
 . | [epiphany153](https://reddit.com/u/epiphany153) | 5
 . | [ethdefiance](https://reddit.com/u/ethdefiance) | 5
 . | [fatlever2](https://reddit.com/u/fatlever2) | 5
+. | [free__will](https://reddit.com/u/free__will) | 5
 . | [geoffbezos](https://reddit.com/u/geoffbezos) | 5
 . | [hamberdler](https://reddit.com/u/hamberdler) | 5
 . | [intmmtsir](https://reddit.com/u/intmmtsir) | 5
 . | [kainzilla](https://reddit.com/u/kainzilla) | 5
 . | [kairepaire](https://reddit.com/u/kairepaire) | 5
 . | [kedos25](https://reddit.com/u/kedos25) | 5
+. | [kotmynetchup](https://reddit.com/u/kotmynetchup) | 5
 . | [lazy_physicist](https://reddit.com/u/lazy_physicist) | 5
 . | [llupine](https://reddit.com/u/llupine) | 5
 . | [lobsterspider](https://reddit.com/u/lobsterspider) | 5
@@ -342,7 +348,6 @@ Rank | Username   | Daily Doots
 . | [fecalreceptacle](https://reddit.com/u/fecalreceptacle) | 4
 . | [fernadopoo](https://reddit.com/u/fernadopoo) | 4
 . | [fiah84](https://reddit.com/u/fiah84) | 4
-. | [free__will](https://reddit.com/u/free__will) | 4
 . | [friedchickentrailer](https://reddit.com/u/friedchickentrailer) | 4
 . | [gandalfgandolfini](https://reddit.com/u/gandalfgandolfini) | 4
 . | [gethwethreth](https://reddit.com/u/gethwethreth) | 4
@@ -352,7 +357,6 @@ Rank | Username   | Daily Doots
 . | [imaybeslow](https://reddit.com/u/imaybeslow) | 4
 . | [johnbmaclemore](https://reddit.com/u/johnbmaclemore) | 4
 . | [juankestein](https://reddit.com/u/juankestein) | 4
-. | [kotmynetchup](https://reddit.com/u/kotmynetchup) | 4
 . | [kristkind](https://reddit.com/u/kristkind) | 4
 . | [mcmatt05](https://reddit.com/u/mcmatt05) | 4
 . | [megroovin](https://reddit.com/u/megroovin) | 4
@@ -376,13 +380,13 @@ Rank | Username   | Daily Doots
 . | [suburbiton](https://reddit.com/u/suburbiton) | 4
 . | [suddenmind](https://reddit.com/u/suddenmind) | 4
 . | [supermarkit](https://reddit.com/u/supermarkit) | 4
+. | [thelordgiveth-taketh](https://reddit.com/u/thelordgiveth-taketh) | 4
 . | [thewalkinglive](https://reddit.com/u/thewalkinglive) | 4
 . | [toethmooonguy](https://reddit.com/u/toethmooonguy) | 4
 . | [tutamtumikia](https://reddit.com/u/tutamtumikia) | 4
 . | [watch_dominion_now](https://reddit.com/u/watch_dominion_now) | 4
 . | [wegotsumnewbands](https://reddit.com/u/wegotsumnewbands) | 4
 . | [---truthseeker---](https://reddit.com/u/---truthseeker---) | 3
-. | [adankairo](https://reddit.com/u/adankairo) | 3
 . | [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 3
 . | [asus_wtf](https://reddit.com/u/asus_wtf) | 3
 . | [auseve](https://reddit.com/u/auseve) | 3
@@ -462,7 +466,6 @@ Rank | Username   | Daily Doots
 . | [splinunz](https://reddit.com/u/splinunz) | 3
 . | [stevieraykatz](https://reddit.com/u/stevieraykatz) | 3
 . | [survivaleast](https://reddit.com/u/survivaleast) | 3
-. | [thelordgiveth-taketh](https://reddit.com/u/thelordgiveth-taketh) | 3
 . | [tinfoilheadphones](https://reddit.com/u/tinfoilheadphones) | 3
 . | [tiny-height1967](https://reddit.com/u/tiny-height1967) | 3
 . | [tittyfuckmountain](https://reddit.com/u/tittyfuckmountain) | 3
@@ -675,7 +678,6 @@ Rank | Username   | Daily Doots
 . | [battlepine](https://reddit.com/u/battlepine) | 1
 . | [benjamin](https://reddit.com/u/benjamin) | 1
 . | [bennyggbennyg](https://reddit.com/u/bennyggbennyg) | 1
-. | [bergmannskase](https://reddit.com/u/bergmannskase) | 1
 . | [betterstartliving](https://reddit.com/u/betterstartliving) | 1
 . | [bigdumbidiot01](https://reddit.com/u/bigdumbidiot01) | 1
 . | [bigoldweapon](https://reddit.com/u/bigoldweapon) | 1
@@ -1038,6 +1040,7 @@ Rank | Username   | Daily Doots
 . | [skilhgt](https://reddit.com/u/skilhgt) | 1
 . | [skyy7](https://reddit.com/u/skyy7) | 1
 . | [slay_the_beast](https://reddit.com/u/slay_the_beast) | 1
+. | [sleetywhistle](https://reddit.com/u/sleetywhistle) | 1
 . | [slocken](https://reddit.com/u/slocken) | 1
 . | [slowmushroom741](https://reddit.com/u/slowmushroom741) | 1
 . | [smithgift](https://reddit.com/u/smithgift) | 1
@@ -1134,17 +1137,13 @@ Rank | Username   | Daily Doots
 
 
 
-
-
-
-
-
-
-
-
-
-
 [↑ Back to top ↑](#)
+
+
+
+
+
+
 
 
 
@@ -1155,24 +1154,13 @@ Rank | Username   | Daily Doots
 
 <details open>
   <summary>**Upcoming Guests**</summary>
-	
-- Dec 6 - Mac from Kiwi News
+
+- Dec 13 - Megan Knab from [Franklin Payroll](https://www.hellofranklin.co/)
+- Jan 3rd - Brian Smocovich from [PistachioFi](https://pistachio.fi/)
+- Jan 10th - Justin Drake on Beam Chain
+- Jan 17th - Kate from [Bloccelerate](https://bloccelerate.vc/)
 
 </details>
-
-
-
-
-
-
-<!-- <details>
-  <summary>#89: November 22, 2024</summary>
-
-[Listen Live](https://discord.gg/b67BUR8uuN)
-
-*Special guest Nico joins us from [LottoPGF](https://lottopgf.org/), permissionless lotteries for public goods funding.*
-
-</details> -->
 
 
 
@@ -1184,7 +1172,373 @@ Rank | Username   | Daily Doots
 
 
 <details>
-  <summary>#90: December 6, 2024</summary>
+  <summary>#90: December 13, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+*Special guest Megan Knab joins us from [Franklin Payroll](https://www.hellofranklin.co/). A crypto friendly payrol solution with automated taxes, unlimited payments, and complete benefits.*
+
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hd5v9m/comment/m1tjtx3/)
+
+[u/DayTraderBiH](https://reddit.com/u/DayTraderBiH)
+
+> Ethereum
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> $3917
+
+[u/UgotTrisomy21](https://reddit.com/u/UgotTrisomy21)
+
+> .039 (didn’t even have to bust out the calculator or look at ratiogang)
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hcem8v/comment/m1rcfr6/)
+
+*In it together,*
+
+*Staking in any weather,*
+
+*Birds of a feather.*
+
+</details>
+<details>
+<summary>Choda time!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hcem8v/comment/m1p5yai/)
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Kristkind</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hbmz67/comment/m1lb8lh/)
+
+4k strikes back
+
+Revenge of the 4k
+
+4k reloaded
+
+4k - the reckoning
+
+</details>
+<details>
+<summary>u/Bergmannskase explains the beam chain to us</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1h72g4u/daily_general_discussion_december_5_2024/m0ncmcc/)
+
+I think a lot of the skepticism might have been due to time constraints for the presentation. It was just 30min to unpack a lot
+ 
+I like to imagine the Beam Chain proposal as another shelling point for Ethereum, where the community can get as excited for it as it was during the Merge. It is an ambitious and accelerationist effort focused on a subset of the Ethereum roadmap. And yes, I'm Beam pilled, but I would still like to hear the drawbacks to it.
+
+There are two other talks where he explains the Beam Chain in more details 
+[here](https://www.youtube.com/watch?v=88FDeg5JaUk) and [here](https://www.youtube.com/watch?v=h_qiFdUSzRg&t)
+
+They are worth watching if you are interested and missed them, if you prefer to read, I'll try to summarize them below (I failed, wall of text alert, now I'll post it anyway): 
+
+**TLDR: You are not bullish enough**
+
+In the DevCon presentation, there was a slide where it showed the transition from [Pow to PoS and now to Zk](https://www.youtube.com/watch?v=Gjuenkv1zrw=758) 
+
+On the other videos, Drake expands and says it should be more accurately called PoS++, seen that it's still PoS, but it will also make use of snarks, and he argues
+we should: 
+
+> 1 - Snarkify it all in Ethereum, from consensus to EVM
+
+By snarkifying it, any entity which consumes the Ethereum chain can do it with extremely low resources, by verifying a single proof, and syncing to the tip of the chain. This would make sure we wouldn't have any further dependency on Infura and other centralizing forces.
+
+> 2 - Enshrine the snarkification of ethereum within itself.
+
+WTF is that?
+
+There will be a zk EVM pre-compile, where if you want to launch a zkrollup, you'll only need a single line of code, and you won't need to worry about bugs, nor 
+governance to enact changes whenever the EVM changes (it'd be reflected immediately on the pre-compile after any changes to the EVM).
+
+Previously, we had execution sharding which would be limited to 64(or up to 1024?) shards, and each shard would have its own state and grow independently, asynchronously.
+
+Now there will be **synchronous programmable execution sharding**. These programs can deploy as many EVMs as they want, which would further increase the horizontal scaling of L1. These shards can also increase gas limit arbitrarily high, bc validators that verify state transition functions within the EVM only need to verify the snark proofs. 
+ 
+Synchronous programmable execution sharding allows Ethereum to be maximally simple and provide building blocks that people can build around however they like, commoditizing VM, which allows L2s to have custom sequencers, gov and fee tokens, and any other infrastructure that they might want to experiment with. 
+
+
+Now is the part I didn't really fully grasp, Justin mentions we can go even further:
+We can boost programmability by not enshrining EVM itself, but enshrine a zkEVM underneath it. Instead of a zkEVM pre-compile, we have zk Risk-V pre-compile. The EVM would be a Risk-V program/bytecode, which is interpreted in real time by the native VM of the Risk-V.
+
+He also expands on the other items that will be treated under the Beam Chain, but which might be well known to ethfinance already:
+
+**Preconfirmations**
+
+>Can be proportionally as low as ping times, would lead to better UX and become better than sqlana's, while keeping decentralization on Ethereum, and can be divided into:
+
+>>1. execution preconfirmations: you know how your tx will execute: eg. you'd know exact uniswap trade price and fees you'll pay
+>>2. inclusion preconfirmations: you only know it'll be included, but you don't know how
+
+>On L1, the best we can do is the weaker type **b**, but we expect most users to move to L2 so they'll enjoy the type **a** instead.
+
+
+Regarding **slot times**:
+
+>12s slot times was picked as a conservative measure as a trade-off to keep the values of Ethereum, which aims to be extremely secure, credibly neutral and robust. After further optimization, we can comfortably reduce slot times to 4s, which is good enough from a UX perspective while safely maintaining the process for a round of attestations (where a subset of validators make signatures, gossip and aggregate it to be included in the chain). 
+
+>>Which trade-off? 
+
+>>1. Have solo stakers with high latency home internet connections worldwide
+>>2. Have as many validators and economic security as possible per slot(see attestations 
+for them all)
+
+
+With **attester proposer separation**, we can:
+ 
+>1. remove timing games as a concern to validators, 
+>2. remove MEV spikes due to volatility, 
+>3. remove worries about sophistication by [having to deposit collateral with preconfirmations](https://ethresear.ch/t/credibly-neutral-preconfirmation-collateral-the-preconfirmation-registry/19634)
+
+> All of these combined can make validators unsophisticated, which would allow the end game of being able to validate from a smartwatch  
+
+Concerns were raised regarding **block building centralization** (could newly announced buildernet be part of the solution(?))
+
+>However, validators are still responsible for the most critical part of block building: which is to include tx on the chain and be censorship resistance, which would be solved with **FOCIL**, where every single slot you have 16 validators that  builds tx they've seen, these lists are aggregated into a masterlist, and that is the starting 
+point for builders to build the block. Builders can adjust the list in 2 ways: 
+>>1. reorder transactions
+>>2. insert transaction here and there to front run and back run
+
+>FOCIL still leads to a healthy and decentralized block building from an inclusion standpoint, and only the final piece by builders would be centralized.
+
+Bonus is that **DA has network effects** instead of becoming commoditized:
+>1. shared security: undeniably secure money legos that others want to compose with leads to ethereum DA.
+>2. syncronous composability: shares sequencer, if you use altDA, another sequencer will play key role to produce and settle those tx, breaking syncronous composability.
+>3. to make use of the enshrined zk EVM pre compile, data needs to be available and published on Ethereum blobs. In order for validators to receive snark proofs, anyone worldwide needs to produce proofs, and to produce, then you need to have the data available.
+
+It was also mentioned a possible **pivot** from the **verkle tree statelessness effort** 
+
+> Due to its inability to be post quantum resistant, a pivot to a **merkle binary tree statelessness** will likely be proposed, which uses snark friendly hash functions, then , when communicating the proof to the user, instead of the whole merkle tree path, you compress all merkle paths under a hash verification into a single snark and answer any stateless query with one snark.
+
+>With binary tree model, the EVM becomes more snark friendly synergyzing with the whole snarkification process.
+
+</details>
+<details>
+<summary>u/LogrisTheBard gives us a brief history of crowd funding on the blockchain</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1h8m296/daily_general_discussion_december_7_2024/m0x6jrp/)
+
+A brief history of crowd funding on the blockchain. The OG killer use case for blockchains once we got permissionless transaction solved was crowd funding. There's just a lot of money globally that would like access to early stage opportunities and blockchains (due to no KYC) allow that money to access them, no matter how hairbrained the scheme may be.
+
+The first manifestations of this back in 2015 were ICOs like Ethereum's. Send us some BTC and we'll give you some genesis tokens on our new chain. Shortly after this were on-chain ICOs like Bancor and Golem that were mega hits in that age. Again, send us some ETH and you get some genesis tokens. Normally, at least in the US, this would be illegal under securities laws but Ethereum got away with it under the guise that ETH is a new commodity because it doesn't give you a claim on revenue but was just a utility token used in the protocol. Once that precedent became set everyone copycatted that answer to raise stupid amounts of money in what was clearly one of the most exciting periods to invest I've ever experienced. Obviously most tokens shouldn't be "utility tokens" and this led to terrible UX for a lot of projects but if you're wondering why this terrible UX caught on, avoiding securities laws is the answer. Thanks Gary!
+
+Then the SEC started suing US companies that tried this so the trend dried up, it wasn't proven illegal mind you, the SEC just created enough regulatory uncertainty and threat so no one wanted to try it just to be the standard bearer in a 4 year lawsuit (thanks Ripple!). Naturally all the ETH that was given to these projects was then cashed out to fund the project or just to grift and we were left holding the bag on a historically awful drawdown of ETH from $1400 to $80. Anyone complaining about the ratio and the bear market this time around has either forgotten what that felt like or wasn't around in 2018. That was *brutal*. I digress though.
+
+A few years later, necessity remains the mother of invention and the need was still there to offer crowd funding so the ecosystem thought up a new mechanism for this. Rather than *selling* tokens, projects would just give tokens away in a massive inflationary bonanza. They would not only give tokens away to people just escrowing some ETH in a pool, they would give *a lot* of tokens away for people to LP their new token so there was liquidity to sell into. It's probably worth reminding you at this point that [no one is giving tokens away](https://tokenomicsexplained.com/the-rabbit-hole-explorers-guide/#no-one-is-giving-away-free-crypto). This created liquidity pools that the token originator could then dump onto to raise money for their project. Also it was very fun to dump some ETH in YFI or YAM Pool-0s and see 1000% APR numbers stream at you in real-time. We were crazy then, the bear market does weird things to you, you just had to be there for it to make sense.
+
+How did this evade securities laws? Well, the token originator never let people directly invest in the project. All money raised by the project was through secondary sales on Dexs. Whomever bought the tokens didn't know they were buying it from the project so there was no reasonable expectation that the sale was an investment in the project. Genius! Thank you Ripple for setting that precedent. Naturally all of the tokens powering themselves using this inflationary model debased themselves down like 99% from the top, investors got burned as devaluation of the token value was even higher than the ridiculous APR these pools promised, and eventually everyone wizened up to the fact that [inflation is not profit](https://tokenomicsexplained.com/the-rabbit-hole-explorers-guide/#inflation-is-not-profit) so the trend dried up.
+
+So, a few years pass and once again the demand for crowd funding was never going to go away and so the ecosystem thought up an even stupider way of accomplishing this. You see, VCs had invested a lot in the past 4 years during the vacuum of viable crowd funding strategies and they wanted a good way to cash out but they couldn't have the company they invested in getting sued for securities violations by the SEC so once again they gave the token away. This time though they were going to airdrop it rather than make you farm it. No inflation, so people weren't scared of it but nonetheless retail were going to get dumped on by VCs. The VCs would recoup more than their initial investment even if the project then died at this stage so everyone was happy except some people who bought YT tokens (you degens!) or bought the token that VCs then dumped on. Most of these projects were so early stage they barely had a functioning product (looking at you Eigen) or were things like LRTs where there isn't even a plan to build a product.
+
+And so what we learn from all of this is that there is a demand for crowd funding and that it isn't going away no matter what the SEC wants. Projects are going to kickstart, gofundme, launch memecoins, brazenly violate SEC desires but base their company outside US legal reach, etc and people are going to invest in those projects no matter how scammy the fundraising mechanism is because that is just human nature and the technology fundamentally enables it in an unstoppable way. Every attempt by the SEC to stop crowd funding has just led to less honest mechanisms for doing so. It's actively hurting investors. Of all of these approaches, ICOs were the most fundamentally honest and I hope we bring them back. Banning ICOs does not stop crowdfunding, it just makes the mechanisms for it less honest and drives innovation overseas.
+
+That said there are a variety of changes I would suggest for how we do ICOs to add better price discovery mechanisms that I'll write about in another post.
+
+/u/Tricky_Troll you should write about the current landscape of grant and retroactive funding for non-token projects.
+
+</details>
+<details>
+<summary>u/haurog discusses his move to signal for an increased gas limit and u/austonst questions the extra data we need to make the right call regarding gas limit changes</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1h8m296/daily_general_discussion_december_7_2024/m0uykvo/)
+
+[u/haurog](https://reddit.com/u/haurog):
+
+Many thanks to u/elixir_knight for initiating the discussion about increasing the block gas limit here and everyone contributing to the discussion: <https://reddit.com/r/ethfinance/comments/1h5gs1z/daily_general_discussion_december_3_2024/m06g83l/>
+
+I had my reservations due to the Pectra hardfork with the blob increase and the not yet approved calldata repricing (EIP-7623). Last Thursday in the ACDE (all core devs execution call) there was a clear vote to include EIP-7623 into Pectra. 
+
+With this in mind I thought about it again and also read the recent ethresearch posts about the block arrival times and available bandwidths: <https://ethresear.ch/t/block-arrivals-home-stakers-bumping-the-blob-count/21096>, <https://ethresear.ch/t/bandwidth-availability-in-ethereum-regional-differences-and-network-impacts/21138>
+
+Both of them focus on the blob number increase and there are some subtle nuances which makes it a bit different for block size increases. Nevertheless, they both agree that the network can safely handle the suggested blob size increase and I do not see from the data that the network would have issues with an additional maximum gas limit increase. If we see the network slowly getting into trouble with the slowly increasing block sizes, it is pretty simple to reduce the max gas limit again. 
+
+Therefore, I set my nodes to broadcast a suggested gas Limit of 60M instead of the current 30M. The instructions for it can be found on pumpthegas.org. Depending on your setup and client choices you have, you need to do the settings in the execution, the consensus or the validator client. I really hope we will get an improvement here as the UX for changing this number is far from optimal. Looking forward to more validators doing this and we will get a slowly increasing block size.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1h8m296/daily_general_discussion_december_7_2024/m0wy4ex/)
+
+[u/austonst](https://reddit.com/u/austonst):
+
+I'm really glad that the call for better analysis of bandwidth overhead was answered. I feel pretty good moving ahead with the 6/9 blob increase. I really hope, now that we have better systems in place for monitoring available bandwidth, that we continue to keep an eye on those metrics. Does the move to 6/9 play out as expected? Does available bandwidth decrease by the expected amounts? We'll be looking at more changes to the blob count in the future, so we need to get a good understanding of the actual effect this change has.
+
+I can understand the reasoning for increasing the gas limit, particularly contingent on inclusion of 7623. And if we've decided that there is bandwidth to spare, it makes sense that some of that should go to the L1 rather than all being allocated to blobs.
+
+I feel less certain about the effect it will have on home staking operations. Presumably bandwidth is the limiting factor for most people, and from that perspective increasing (even doubling) block size isn't too impactful on bandwidth usage compared to adding on a bunch more blobs.
+
+But increased block size has potential effects beyond just bandwidth. CPU load, SSD speed, and SSD space (from increased state growth) could all be limiting factors for some people's setups (would there be an effect on RAM too--I'm not sure). How much "overhead" do home stakers have on each of these metrics before they'd be forced to upgrade? Fortunately these are easier upgrades to make, whereas my upload speed is heavily throttled and I'm already paying for the best Internet plan I can buy. There's the can of worms about what the cost to operate a validator *should* be, but assuming we could all agree on that, it still takes work to figure out the correlation between block size and cost.
+
+Do we have data on this? For a X% increase in average block size, is there an effect on block import time in a way that could effect attestation effectiveness? Which CPUs and SSDs become non-viable and how does this affect the minimum cost to run a validator? Or maybe the answer is that bandwidth is the only limiting factor and there are zero other problems; that would be great! But do we know that's the case?
+
+I'm happy to support a blob increase with the data now to support it. But I feel like I need to be convinced that the gas limit increase is also justified and I just haven't seen that yet.
+
+</details>
+<details>
+<summary>u/Bergmannskase explains a potential security issue if we upped the gas limit immediately and u/lops21 covers clients upping the gas limit to a safe level</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ha36r5/daily_general_discussion_december_9_2024/m17pk4y/)
+
+[u/Bergmannskase](https://reddit.com/u/Bergmannskase):
+
+Apparently there is security problem if the chain goes to 60M gas right now, which was reported by Marek Moraczyński from Nethermind, where all clients wouldn't handle large adversarially-crafted payloads. 
+
+20% bump to 36M is considered safe.
+
+Devs are actively working on a fix for it.
+
+<https://xcancel.com/potuz_eth/status/1865880968935932124>
+
+<https://x.com/potuz_eth/status/1865880968935932124>
+
+>In case you haven't heard, there's an actual security problem if the chain goes to 60M so please stop advertising for this. At least until the next CL client releases. This is regardless of politics or whether I agree with the increase to 60 
+
+>clients will communicate this clearly and openly in the coming days. In short the worst case uncompressed block with a gas limit of about 42M gas would not be importable by any client. The worst case scenario leads to a full liveness attack on the network.
+
+<https://xcancel.com/drakefjustin/status/1866021455437476270>
+
+<https://x.com/drakefjustin/status/1866021455437476270>
+
+> Unfortunately the 60M http://pumpthegas.org/ suggestion hits an issue recently reported by @M25Marek where some clients wouldn't handle large adversarially-crafted payloads. This is being actively patched by devs and will take time for operators to upgrade their clients.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ha36r5/daily_general_discussion_december_9_2024/m18ue4f/)
+
+[u/lops21](https://reddit.com/u/lops21):
+
+Nethermind and Erigon increasing default gas limit to 36M
+
+[https://github.com/NethermindEth/nethermind/pull/7879](https://github.com/NethermindEth/nethermind/pull/7879)
+
+Besu will be doing so soon
+
+[https://x.com/daniellehrner/status/1866183767850664140](https://x.com/daniellehrner/status/1866183767850664140)
+
+</details>
+<details>
+<summary>u/Tricky_Troll updates us on his pivot into working in web 3</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ha36r5/daily_general_discussion_december_9_2024/m19xfm0/)
+
+Hey all, I just thought I'd give you all an update with where I am at regarding web 3 employment after Devcon. As some of you may know, I have been involved with some smaller part-time projects lately, primarily in the grants ecosystem. These have included scouting out grant opportunities for EthStaker, getting some funding to finish off and polish the EVMavs project "RocketSchool" and I also did some grant work a few months back with an NZ based start-up which the founders ended up putting on hold. Then, at Devcon, having chatted with a few people in the grants ecosystem, I had an idea to create a website that displayed a comprehensive list of ecosystem grants with a brief synopsis of who they're for, criteria, funds available etc since everyone I had talked to at that point thought it was a good idea and was unaware of any existing platforms doing this. After two days of planning how to execute on this, in literally the closing hours of Devcon, I met someone who had already done this and 10x better than I'd have been able to do it.
+
+It was a bit demoralising after planning so much for my own project but they gave me some people to contact to see if they're looking to hire and since then I have been in discussions with people (watch this space)...
+
+So, in the spirit of promoting a genuinely useful public good which I can't believe almost nobody I talked to knew existed, if you're interested in finding a grant to fund your project, check out the [KarmaGAP funding map](https://gap.karmahq.xyz/funding-map) for a comprehensive list of grants with filter and search tools, or if you would prefer an AI tool to simply identify what might suit you best, try [ecosystem.vision](https://ecosystem.vision).
+
+Also, shoutout to KarmaGAP for creating a really cool framework for grantee reputation and tracking with the Grantee Accountability Protocol (GAP) which is aiming to create a standard across grant programs which allows grantors and donors to see how previous funding has facilitated grantee project development. This will be a key stepping stone going forwards to improving the grants ecosystem so that we're utilising our funding as efficiently as possible. I will be writing more on this soon as a follow-up to u/LogrisTheBard's piece on [web 3 crowdfunding.](https://reddit.com/r/ethfinance/comments/1h8m296/daily_general_discussion_december_7_2024/m0x6jrp/)
+
+In the mean time, I have decided to continue setting up my own website and service which will aim to raise awareness of grant opportunities through various means and also offer grant consulting and grant writing services to those who need help. So I look forward to announcing something to everyone here soon!
+
+Finally, I have also signed onto a local start-up in the blockchain supply chain tracking space who have some promising partnerships for their app built on Base. This is a part time role and I will be sharing more details on this in tomorrow's daily, but be aware that this is effectively sponsored content. Regardless, I'm excited to share it as they're going for an interesting combo of very serious business-facing real world use case and new age memery to generate a consumer user base beyond their B2B tool. Plus it'll be my first official web 3 role on an ongoing basis!
+
+</details>
+<details>
+<summary>u/Adankairo takes over the daily Devcon watch-along from Superphiz</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ha36r5/daily_general_discussion_december_9_2024/m17tzrk/)
+
+**Daily DevCon #8:**
+
+[Keynote: [title redacted] ](https://www.youtube.com/watch?v=Plvy7fgFCm4)
+
+It's Monday, December 09, 2024 — day 8 of our DevCon listen-along.
+
+Summary:
+
+The transcript discusses a proposed redesign of the Ethereum consensus layer called the "beam chain," aiming to incorporate new ideas and advancements. The proposal focuses on redesigning the consensus layer to address existing technical debt and implement new technologies like SNARKs and ZK VMs. The presenter emphasizes the need for a safe transition and outlines potential steps for implementation and testing. They also highlight the importance of reusing existing infrastructure, encouraging incremental upgrades, and involving multiple consensus client teams.
+
+Discussion Questions:
+
+1. How does the presenter address the risks associated with deploying multiple changes at once in the beam chain proposal?
+
+2. What considerations are made in the proposal regarding the choice of ZK VM for the beam chain, and how does this affect decentralization and flexibility within the Ethereum ecosystem?
+
+Your mission is to consume the content, then comment with insight on this thread, and vote up other valuable comments. The primary goal here is community development through education.
+
+- [Yesterday's discussion](https://reddit.com/r/ethfinance/comments/1h9cc2u/daily_general_discussion_december_8_2024/m10pbn0/)
+- [All DevCon talks ranked by views](https://github.com/hanniabu/devcon-7-videos/blob/main/videos.md)
+- [The grand idea](https://reddit.com/r/ethfinance/comments/1h0xkvx/daily_general_discussion_november_27_2024/lz8b95w/)
+
+</details>
+<details>
+<summary>u/SleetyWhistle is sharing their educational animations</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ha36r5/daily_general_discussion_december_9_2024/m168xvj/)
+
+Hey I'm Sleety, long-time lurker here. I create educational animations around Ethereum/Defi. Just posted the most recent tweet thread which is high-level overview of ERC-20 tokens. Looking into some alternative platforms for future animations, Twitter/X is too gated for my liking.
+
+Anyway, here's the thread: [https://x.com/tokenmotion_io/status/1865865523264659877](https://x.com/tokenmotion_io/status/1865865523264659877)
+
+If you can think of important Ethereum topics I should cover, please suggest here and I will add them to my list for 2025. Thanks!
+
+</details>
+<details>
+<summary>u/epic_trader fights some FUD spread by a Bankless episode guest</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1ha36r5/daily_general_discussion_december_9_2024/m17rcbv/)
+
+So after looking over his article, it seems he's just being dramatic to garner views and make a name for himself. Or maybe it's because he's invested in other projects too and is talking his bags.
+
+Here's his main points from his article:
+
+>**Ethereum is under increasing competition from all sides:**
+
+>BTC is better money than ETH.
+
+No it's not.
+
+>Solana is a more performant smart contract platform.
+
+No it's not. 
+
+>Celestia is a more performant rollup platform.
+
+I honestly don't know if this is true or not. 
+
+>**We need to acknowledge the following trends:**
+
+>L1 – New asset issuance and activity is leaving Ethereum L1 for alt-L1s (e.g., Solana) and L2s (e.g., Unichain). The desire to keep apps on the L1 is unclear (as is the L1 scaling roadmap, consequently).
+
+There really isn't any clear tendency that anyone is leaving Ethereum for any other ecosystem. There's no decline in TPS, users, TVL or apps or anything to indicate this is true. Creating an L2 on Ethereum is not an indication of leaving Ethereum, it's literally the opposite. The roadmap is perfectly clear, we're scaling Ethereum by creating bandwitdth for L2s and we're working towards removing the fragmentation.
+
+>L2 – Ethereum L2s are highly fragmented. A single chain operated by a public company (i.e., Base) is currently set to dominate the field.
+
+Switching to alternative L1s causes even more fragmentation. Again, L2s will not continue to be silo'd so this is a temporary obstacle, but bridging to an L2 is a 100x better experience than bridging to another L1. Also, is way way to early to propose that Base is going to be the L2 winner or that there isn't room for 100s of L2s. 
+
+>ETH – There is ongoing disagreement over ETH’s role (is it money?), value capture (do we need to scale the L1 for value capture?), and importance (should we care about ETH’s value capture and price?) amidst relative underperformance over the past couple years.
+
+There's really not any meaningful disagreement about this within the community. Everyone mostly agrees ETH is money. It's literally THE native currency of Ethereum. This shit is so dumb. Also ETH is up againt BTC over the last 4 years, so in spite of BTC having its moment, we've actually been performing better since the last cycle.
+
+</details>
+<details>
+<summary>u/benido2030 starts a discussion about the community members with more divisive rhetoric</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hbmz67/daily_general_discussion_december_11_2024/m1i3wu9/)
+
+I really like that there are ETH community members that really start pushing the ecosystem/ EF/ researchers out of the comfort zone. And just to be clear, this is not about Max Resnick, though he might have played a part in that (and as stated yesterday, think this was net positive, but it's still good he's gone). 
+
+But there are more people like Jon Charb, Kain Warwick, Eric Connor, Konstantin Lomashuk etc. They all have different approaches, but I think they really want to improve Ethereum. 
+
+Especially after listening to one of the latest bankless episode with Jon Charb (and Mike Ippolito) I have to change my opinion about him. I don't agree with everything he is saying, but I also think that with more context his thoughts aren't so far off. 
+
+Just one example: first he says "we/ the L1 have to compete with Solana execution", which I think is likely wrong. But later he says "we don't have to copy Solana, but we need 60M gas, cut block times from 12 to 8 and later to 4 secs". This is something I can get behind, mostly because I believe we have to because of path dependency, as in: We shouldn't risk to be right long term, but lose on the short term and become cosmos 2.0 (both in a design, but also economic/ relevance sense)
+
+I think this "three fronts" / wartime and peacetime meta is spot on and likely needs more pragmatism. Which is even more fascinating since some years ago "the ETH people" were the pragmatic ones (remember the Vitalik convex blog?) but apparently with each new "generation" this changes, at least on a relative basis.
+
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>#89: December 6, 2024</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN)
 
@@ -4895,7 +5249,7 @@ Of course, the question of which tokens are being traded and how many have susta
 
 </details>
 <details>
-<summary>Shitpost of the week: u/</summary>
+<summary>Shitpost of the week: u/cryptrd285</summary>
 [View on Reddit →](https://reddit.com/r/ethfinance/comments/1exh5g5/daily_general_discussion_august_21_2024/lj7lmtx/)
 
 Vitalik ETH bull post lol
