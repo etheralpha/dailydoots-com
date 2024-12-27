@@ -11,7 +11,7 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1122 Dooters - Last Updated December 19, 2024</small>
+<small>1125 Dooters - Last Updated December 27, 2024</small>
 
 
 
@@ -20,11 +20,11 @@ Rank | Username   | Daily Doots
 . | [superphiz](https://reddit.com/u/superphiz) | 218
 . | [logristhebard](https://reddit.com/u/logristhebard) | 158
 . | [benido2030](https://reddit.com/u/benido2030) | 156
-. | [haurog](https://reddit.com/u/haurog) | 139
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 134
+. | [haurog](https://reddit.com/u/haurog) | 140
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 135
 . | [696_eth](https://reddit.com/u/696_eth) | 111
+. | [ethical-trade](https://reddit.com/u/ethical-trade) | 109
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 108
-. | [ethical-trade](https://reddit.com/u/ethical-trade) | 108
 . | [set1less](https://reddit.com/u/set1less) | 104
 . | [hanniabu](https://reddit.com/u/hanniabu) | 101
 . | [syentist](https://reddit.com/u/syentist) | 90
@@ -35,7 +35,7 @@ Rank | Username   | Daily Doots
 . | [nixorokish](https://reddit.com/u/nixorokish) | 65
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 64
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 62
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 63
 . | [alexiskef](https://reddit.com/u/alexiskef) | 61
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [cryptrd285](https://reddit.com/u/cryptrd285) | 56
@@ -43,10 +43,10 @@ Rank | Username   | Daily Doots
 . | [interweaver](https://reddit.com/u/interweaver) | 54
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
+. | [needlerop](https://reddit.com/u/needlerop) | 46
+. | [seamonkey82](https://reddit.com/u/seamonkey82) | 46
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
-. | [needlerop](https://reddit.com/u/needlerop) | 45
-. | [seamonkey82](https://reddit.com/u/seamonkey82) | 45
-. | [15kisfud](https://reddit.com/u/15kisfud) | 44
+. | [15kisfud](https://reddit.com/u/15kisfud) | 45
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 44
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
 . | [barthib](https://reddit.com/u/barthib) | 39
@@ -61,39 +61,39 @@ Rank | Username   | Daily Doots
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
 . | [domotheus](https://reddit.com/u/domotheus) | 34
 . | [papazio](https://reddit.com/u/papazio) | 33
+. | [wolfparking](https://reddit.com/u/wolfparking) | 33
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 32
 . | [thehansgruber](https://reddit.com/u/thehansgruber) | 31
-. | [wolfparking](https://reddit.com/u/wolfparking) | 31
 . | [_weboftrust](https://reddit.com/u/_weboftrust) | 30
 . | [ber10](https://reddit.com/u/ber10) | 30
 . | [hsuke](https://reddit.com/u/hsuke) | 30
 . | [liberosist](https://reddit.com/u/liberosist) | 30
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 30
 . | [revanchist1](https://reddit.com/u/revanchist1) | 30
-. | [asdafari12](https://reddit.com/u/asdafari12) | 28
-. | [bagogel12](https://reddit.com/u/bagogel12) | 28
+. | [asdafari12](https://reddit.com/u/asdafari12) | 29
+. | [bagogel12](https://reddit.com/u/bagogel12) | 29
 . | [coinanon](https://reddit.com/u/coinanon) | 28
 . | [ender985](https://reddit.com/u/ender985) | 28
+. | [hereimalive](https://reddit.com/u/hereimalive) | 27
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
+. | [decibels42](https://reddit.com/u/decibels42) | 26
 . | [therealsilentjohn](https://reddit.com/u/therealsilentjohn) | 26
 . | [vedran_](https://reddit.com/u/vedran_) | 26
-. | [decibels42](https://reddit.com/u/decibels42) | 25
-. | [hereimalive](https://reddit.com/u/hereimalive) | 25
 . | [kudeta](https://reddit.com/u/kudeta) | 25
 . | [maswasnos](https://reddit.com/u/maswasnos) | 25
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 24
+. | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 24
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
+. | [heringsalat100](https://reddit.com/u/heringsalat100) | 23
 . | [hipaces](https://reddit.com/u/hipaces) | 23
 . | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 23
-. | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 23
 . | [supephiz](https://reddit.com/u/supephiz) | 23
+. | [vvpan](https://reddit.com/u/vvpan) | 23
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 23
-. | [heringsalat100](https://reddit.com/u/heringsalat100) | 22
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 22
 . | [mrcatface13](https://reddit.com/u/mrcatface13) | 22
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 22
 . | [skythe4](https://reddit.com/u/skythe4) | 22
-. | [vvpan](https://reddit.com/u/vvpan) | 22
 . | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 21
 . | [eth2353](https://reddit.com/u/eth2353) | 21
 . | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
@@ -106,15 +106,16 @@ Rank | Username   | Daily Doots
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
 . | [luukiemans](https://reddit.com/u/luukiemans) | 19
 . | [abcoathup](https://reddit.com/u/abcoathup) | 18
+. | [adankairo](https://reddit.com/u/adankairo) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
 . | [ethacct](https://reddit.com/u/ethacct) | 18
 . | [etherbie](https://reddit.com/u/etherbie) | 18
+. | [physalisx](https://reddit.com/u/physalisx) | 18
 . | [arcadesofantiquity](https://reddit.com/u/arcadesofantiquity) | 17
 . | [hblask](https://reddit.com/u/hblask) | 17
 . | [kingleo23](https://reddit.com/u/kingleo23) | 17
 . | [masterroshi9](https://reddit.com/u/masterroshi9) | 17
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 17
-. | [physalisx](https://reddit.com/u/physalisx) | 17
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 17
 . | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 17
 . | [ab111292](https://reddit.com/u/ab111292) | 16
@@ -140,7 +141,6 @@ Rank | Username   | Daily Doots
 . | [cheeky-gorilla](https://reddit.com/u/cheeky-gorilla) | 13
 . | [dashby1](https://reddit.com/u/dashby1) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
-. | [adankairo](https://reddit.com/u/adankairo) | 12
 . | [bitzgi](https://reddit.com/u/bitzgi) | 12
 . | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 12
 . | [kallukoras](https://reddit.com/u/kallukoras) | 12
@@ -188,6 +188,7 @@ Rank | Username   | Daily Doots
 . | [degenkolotoure](https://reddit.com/u/degenkolotoure) | 9
 . | [doubtstarsarefire](https://reddit.com/u/doubtstarsarefire) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
+. | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 9
 . | [harryzke](https://reddit.com/u/harryzke) | 9
 . | [hocilef](https://reddit.com/u/hocilef) | 9
 . | [iscaacsi](https://reddit.com/u/iscaacsi) | 9
@@ -211,7 +212,6 @@ Rank | Username   | Daily Doots
 . | [edmundedgar](https://reddit.com/u/edmundedgar) | 8
 . | [eetherway](https://reddit.com/u/eetherway) | 8
 . | [epic_trader](https://reddit.com/u/epic_trader) | 8
-. | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 8
 . | [frenkthetank](https://reddit.com/u/frenkthetank) | 8
 . | [glittering-duty-4069](https://reddit.com/u/glittering-duty-4069) | 8
 . | [ipeculiarly](https://reddit.com/u/ipeculiarly) | 8
@@ -282,6 +282,7 @@ Rank | Username   | Daily Doots
 . | [sfcpfc](https://reddit.com/u/sfcpfc) | 6
 . | [strawdar](https://reddit.com/u/strawdar) | 6
 . | [timwithnotoolbelt](https://reddit.com/u/timwithnotoolbelt) | 6
+. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 6
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
 . | [wootnasty](https://reddit.com/u/wootnasty) | 6
 . | [wurstgewitter](https://reddit.com/u/wurstgewitter) | 6
@@ -318,7 +319,6 @@ Rank | Username   | Daily Doots
 . | [thefightingtemeraire](https://reddit.com/u/thefightingtemeraire) | 5
 . | [theunderdogrutten](https://reddit.com/u/theunderdogrutten) | 5
 . | [thoughts4food](https://reddit.com/u/thoughts4food) | 5
-. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 5
 . | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 5
 . | [vvander](https://reddit.com/u/vvander) | 5
 . | [wanglubaimu](https://reddit.com/u/wanglubaimu) | 5
@@ -344,6 +344,8 @@ Rank | Username   | Daily Doots
 . | [detroitlions81](https://reddit.com/u/detroitlions81) | 4
 . | [dinny14](https://reddit.com/u/dinny14) | 4
 . | [djlywtf](https://reddit.com/u/djlywtf) | 4
+. | [doublyrobustlydouble](https://reddit.com/u/doublyrobustlydouble) | 4
+. | [empirestake](https://reddit.com/u/empirestake) | 4
 . | [ethsomesense](https://reddit.com/u/ethsomesense) | 4
 . | [fatsopiggy](https://reddit.com/u/fatsopiggy) | 4
 . | [fecalreceptacle](https://reddit.com/u/fecalreceptacle) | 4
@@ -353,6 +355,7 @@ Rank | Username   | Daily Doots
 . | [gandalfgandolfini](https://reddit.com/u/gandalfgandolfini) | 4
 . | [gethwethreth](https://reddit.com/u/gethwethreth) | 4
 . | [gregfoley](https://reddit.com/u/gregfoley) | 4
+. | [hipattern](https://reddit.com/u/hipattern) | 4
 . | [hitman616](https://reddit.com/u/hitman616) | 4
 . | [i_love_mom](https://reddit.com/u/i_love_mom) | 4
 . | [imaybeslow](https://reddit.com/u/imaybeslow) | 4
@@ -390,6 +393,7 @@ Rank | Username   | Daily Doots
 . | [aggravating-ear6289](https://reddit.com/u/aggravating-ear6289) | 3
 . | [asus_wtf](https://reddit.com/u/asus_wtf) | 3
 . | [auseve](https://reddit.com/u/auseve) | 3
+. | [ausgear1](https://reddit.com/u/ausgear1) | 3
 . | [baerbelleksa](https://reddit.com/u/baerbelleksa) | 3
 . | [bazzravish32](https://reddit.com/u/bazzravish32) | 3
 . | [bbqcaramelbrulee](https://reddit.com/u/bbqcaramelbrulee) | 3
@@ -412,10 +416,8 @@ Rank | Username   | Daily Doots
 . | [defijie](https://reddit.com/u/defijie) | 3
 . | [delicious_truffles](https://reddit.com/u/delicious_truffles) | 3
 . | [diego-d](https://reddit.com/u/diego-d) | 3
-. | [doublyrobustlydouble](https://reddit.com/u/doublyrobustlydouble) | 3
 . | [dvdglch](https://reddit.com/u/dvdglch) | 3
 . | [eliirs](https://reddit.com/u/eliirs) | 3
-. | [empirestake](https://reddit.com/u/empirestake) | 3
 . | [esoa](https://reddit.com/u/esoa) | 3
 . | [ethlinkwin](https://reddit.com/u/ethlinkwin) | 3
 . | [ethnocent](https://reddit.com/u/ethnocent) | 3
@@ -427,7 +429,6 @@ Rank | Username   | Daily Doots
 . | [gravy_vampire](https://reddit.com/u/gravy_vampire) | 3
 . | [gumbeat007](https://reddit.com/u/gumbeat007) | 3
 . | [healthandwealth365](https://reddit.com/u/healthandwealth365) | 3
-. | [hipattern](https://reddit.com/u/hipattern) | 3
 . | [hlpe](https://reddit.com/u/hlpe) | 3
 . | [iliiililii](https://reddit.com/u/iliiililii) | 3
 . | [issac_hunt1](https://reddit.com/u/issac_hunt1) | 3
@@ -480,6 +481,7 @@ Rank | Username   | Daily Doots
 . | [-filterfeeder-](https://reddit.com/u/-filterfeeder-) | 2
 . | [0xdepositcontract](https://reddit.com/u/0xdepositcontract) | 2
 . | [0xtimer](https://reddit.com/u/0xtimer) | 2
+. | [14with1eth](https://reddit.com/u/14with1eth) | 2
 . | [_anedi](https://reddit.com/u/_anedi) | 2
 . | [alatarlhun](https://reddit.com/u/alatarlhun) | 2
 . | [allinat40](https://reddit.com/u/allinat40) | 2
@@ -488,7 +490,6 @@ Rank | Username   | Daily Doots
 . | [art__](https://reddit.com/u/art__) | 2
 . | [atyzzze](https://reddit.com/u/atyzzze) | 2
 . | [aur3l1us](https://reddit.com/u/aur3l1us) | 2
-. | [ausgear1](https://reddit.com/u/ausgear1) | 2
 . | [ayreuan](https://reddit.com/u/ayreuan) | 2
 . | [bakindhuman](https://reddit.com/u/bakindhuman) | 2
 . | [batmanrockss](https://reddit.com/u/batmanrockss) | 2
@@ -538,6 +539,7 @@ Rank | Username   | Daily Doots
 . | [eddie_eddie](https://reddit.com/u/eddie_eddie) | 2
 . | [edrews99](https://reddit.com/u/edrews99) | 2
 . | [educatemybrain](https://reddit.com/u/educatemybrain) | 2
+. | [elixir_knight](https://reddit.com/u/elixir_knight) | 2
 . | [emp2b3](https://reddit.com/u/emp2b3) | 2
 . | [epicgoblet](https://reddit.com/u/epicgoblet) | 2
 . | [ethdreamer](https://reddit.com/u/ethdreamer) | 2
@@ -547,6 +549,7 @@ Rank | Username   | Daily Doots
 . | [experiencegoblintown](https://reddit.com/u/experiencegoblintown) | 2
 . | [goatwasher](https://reddit.com/u/goatwasher) | 2
 . | [gulmorgg](https://reddit.com/u/gulmorgg) | 2
+. | [haidren](https://reddit.com/u/haidren) | 2
 . | [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
 . | [hashtagfuzzmaster](https://reddit.com/u/hashtagfuzzmaster) | 2
 . | [ianazch](https://reddit.com/u/ianazch) | 2
@@ -610,6 +613,7 @@ Rank | Username   | Daily Doots
 . | [smegma_farmer](https://reddit.com/u/smegma_farmer) | 2
 . | [smellymammoths](https://reddit.com/u/smellymammoths) | 2
 . | [sn0w_l30pard](https://reddit.com/u/sn0w_l30pard) | 2
+. | [spectacledhero](https://reddit.com/u/spectacledhero) | 2
 . | [speedemon92](https://reddit.com/u/speedemon92) | 2
 . | [srirachaferrari](https://reddit.com/u/srirachaferrari) | 2
 . | [statsticks](https://reddit.com/u/statsticks) | 2
@@ -634,12 +638,12 @@ Rank | Username   | Daily Doots
 . | [zerotrick](https://reddit.com/u/zerotrick) | 2
 . | [zerotricks](https://reddit.com/u/zerotricks) | 2
 . | [zestykite](https://reddit.com/u/zestykite) | 2
+. | [--mrx](https://reddit.com/u/--mrx) | 1
 . | [0661](https://reddit.com/u/0661) | 1
 . | [0xcazador](https://reddit.com/u/0xcazador) | 1
 . | [0xdefiant](https://reddit.com/u/0xdefiant) | 1
 . | [0xrel0aded](https://reddit.com/u/0xrel0aded) | 1
 . | [10kethisfud](https://reddit.com/u/10kethisfud) | 1
-. | [14with1eth](https://reddit.com/u/14with1eth) | 1
 . | [1stpickbird](https://reddit.com/u/1stpickbird) | 1
 . | [2thajovianmoonz](https://reddit.com/u/2thajovianmoonz) | 1
 . | [5quat](https://reddit.com/u/5quat) | 1
@@ -785,7 +789,6 @@ Rank | Username   | Daily Doots
 . | [el_reconquista](https://reddit.com/u/el_reconquista) | 1
 . | [electricmutiny](https://reddit.com/u/electricmutiny) | 1
 . | [eleterelote](https://reddit.com/u/eleterelote) | 1
-. | [elixir_knight](https://reddit.com/u/elixir_knight) | 1
 . | [elliottmatt](https://reddit.com/u/elliottmatt) | 1
 . | [emkoscp](https://reddit.com/u/emkoscp) | 1
 . | [ennui85](https://reddit.com/u/ennui85) | 1
@@ -844,7 +847,6 @@ Rank | Username   | Daily Doots
 . | [gurkang](https://reddit.com/u/gurkang) | 1
 . | [guyfawked](https://reddit.com/u/guyfawked) | 1
 . | [gwenvador](https://reddit.com/u/gwenvador) | 1
-. | [haidren](https://reddit.com/u/haidren) | 1
 . | [hairyguch](https://reddit.com/u/hairyguch) | 1
 . | [halzen627](https://reddit.com/u/halzen627) | 1
 . | [happyfrom2016](https://reddit.com/u/happyfrom2016) | 1
@@ -926,6 +928,7 @@ Rank | Username   | Daily Doots
 . | [looselaugh](https://reddit.com/u/looselaugh) | 1
 . | [lostick](https://reddit.com/u/lostick) | 1
 . | [lotec](https://reddit.com/u/lotec) | 1
+. | [lowelectrical9680](https://reddit.com/u/lowelectrical9680) | 1
 . | [lowievr](https://reddit.com/u/lowievr) | 1
 . | [loyalmedavid](https://reddit.com/u/loyalmedavid) | 1
 . | [lpsupercell25](https://reddit.com/u/lpsupercell25) | 1
@@ -1052,7 +1055,6 @@ Rank | Username   | Daily Doots
 . | [smithgift](https://reddit.com/u/smithgift) | 1
 . | [sp3xl](https://reddit.com/u/sp3xl) | 1
 . | [special-meaning3539](https://reddit.com/u/special-meaning3539) | 1
-. | [spectacledhero](https://reddit.com/u/spectacledhero) | 1
 . | [spupul6](https://reddit.com/u/spupul6) | 1
 . | [squaredk2](https://reddit.com/u/squaredk2) | 1
 . | [stache1](https://reddit.com/u/stache1) | 1
@@ -1108,6 +1110,7 @@ Rank | Username   | Daily Doots
 . | [turtlesaur](https://reddit.com/u/turtlesaur) | 1
 . | [txstreet](https://reddit.com/u/txstreet) | 1
 . | [tyrolf](https://reddit.com/u/tyrolf) | 1
+. | [ufoatlax](https://reddit.com/u/ufoatlax) | 1
 . | [ukanakelderf](https://reddit.com/u/ukanakelderf) | 1
 . | [urbandystopia](https://reddit.com/u/urbandystopia) | 1
 . | [vacremon2](https://reddit.com/u/vacremon2) | 1
@@ -1143,6 +1146,7 @@ Rank | Username   | Daily Doots
 
 
 
+
 [↑ Back to top ↑](#)
 
 
@@ -1161,12 +1165,294 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Upcoming Guests**</summary>
 
-- Dec 13 - Megan Knab from [Franklin Payroll](https://www.hellofranklin.co/)
 - Jan 3 - Brian Smocovich from [PistachioFi](https://pistachio.fi/)
 - Jan 17 - Kate Laurence from [Bloccelerate](https://bloccelerate.vc/)
 - Jan 24 - [DefiDad](https://x.com/DeFi_Dad)
 - Jan 31 - Justin Drake on [Beam Chain](https://www.youtube.com/live/rGE_RDumZGg?t=7200)
 
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>#92: December 27, 2024</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hn8f1y/comment/m3zuc8y/)
+
+[u/Smart-Ocelot-5759](https://reddit.com/u/Smart-Ocelot-5759)
+
+> Eth
+
+[u/elixir_knight](https://reddit.com/u/elixir_knight)
+
+> er
+
+[u/Spacesider](https://reddit.com/u/Spacesider)
+
+> eum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> 3
+
+[u/_tchekov](https://reddit.com/u/_tchekov)
+
+> 3
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> 6
+
+[u/hanniabu](https://reddit.com/u/hanniabu)
+
+> k
+
+[u/epic_trader](https://reddit.com/u/epic_trader)
+
+> Future dollars
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hl77fx/comment/m3ni47u/)
+
+*Christmas is merry,*
+
+*Blockchain goes well with cherry,*
+
+*Speculate fairy.*
+
+</details>
+<details>
+<summary>Choda time!</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hmi8g5/comment/m3ygzrg/)
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>Shitpost of the week: u/TurboJetMegaChrist</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hj3mq7/comment/m35cvwn/)
+
+I've done some technical analysis (lots of triangles, you probably wouldn't understand) and I'm pretty sure this "USDT" coin is going to moon pretty soon. It's competition has been remarkably close in performance but we're coming up on a major divergence, I can feel it.
+
+</details>
+<details>
+<summary>u/ProfStrangelove investigates whether or not MSTR is a pseudo ponzi scheme and u/Dreth also shares his thoughts</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hgv892/daily_general_discussion_december_18_2024/m2mrhh2/)
+
+[u/ProfStrangelove](https://reddit.com/u/ProfStrangelove):
+
+So yesterday I had some questions regarding Microstrategy...
+
+Since I wanted to understand better what they are doing I looked a little bit further into it.
+
+Anyways, like was suspected yesterday, they are raising money through convertible bonds - so if they can't pay back the bond they issue new stocks to cover the debt - as far as I understand the stock price at which the bond converts is set at the beginning of the loan...  
+There are also funds that specialize in convertible bonds - normally they buy those bonds AND short the stock as a hedge. So if the company goes belly up they still get some of its equity for the shares they hold but also have made money on the short.
+
+There is a video by Martin Shkreli (yes that guy, I know I am not a fan but whatever) where he goes over MSTRs valuation
+
+[https://youtu.be/7zaEJ6MutdU?t=490](https://youtu.be/7zaEJ6MutdU?t=490)  
+(Timestamp is where he starts getting into it, before he pretty much just gathered info from financial statements)
+
+Anyways Shkreli more or less also comes to the conclusion that this seems like a ponzi like scheme.  
+Also the amount of additional money Saylor would need to raise in the future might become a problem because the convertible bond market isn't \*that\* huge...
+
+Microstrategy is also doing some shitty "advertising" calling what they are doing "smart leverage" which is pretty much bs.  
+Here is another video which goes into why Saylors strategy is pretty much like a pyramid scheme  
+[https://www.youtube.com/watch?v=P5LKZ1-6BWM](https://www.youtube.com/watch?v=P5LKZ1-6BWM)
+
+\*Edit\*   
+Ah and another take away by Shkreli was the same as I had yesterday:  
+Long Bitcoin, short Microstrategy should be free money if done at the right ratio - and one would need to "delta hedge" as the price moves...  
+Anways I won't be doing that and just stick to holding ETH :D
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hgv892/daily_general_discussion_december_18_2024/m2mx1is/)
+
+[u/Dreth](https://reddit.com/u/Dreth):
+
+From a functional perspective it has most of the relevant characteristics of a ponzi scheme but there are indeed assets backing MSTR stock, the valuation is about 30-40% the price of BTC and the rest is the expectation that saylor can continue to do this + the negligible other business that MSTR has.
+
+My perspective here is that it's pretty simple, there's is demand to obtain exposure to BTC through MSTR, and this is the exclusively relevant bit that could justify this premium. Maybe (idk) those individuals or entities traditionally couldn't hold BTC in their balance sheet, so they instead opted to gain exposure to BTC through MSTR stock.
+
+On a ponzi scheme more and more assets are required to keep it going. In the case of Saylor, this structured trade has been ongoing for quite a long time, MSTR has held BTC through bear periods in deep deep loss. For the trade to survive, no more assets were required through the bear without needing to be unwound.
+
+Is Saylor deceiving his investors and creditors? probably, we can assume that there potentially exists some information asymmetry between what we know and what his creditors _think_ they know. However, as long as the price of BTC holds up and MSTR isn't much more leveraged than 3x (assuming the rest of the business is worthless) there's a low risk for this trade to unwind, especially considering that until the bonds expire, we probably have very little to worry about.
+
+Monitoring the valuation of this stock should be extremely important for us to determine how much risk Saylor is undertaking. 
+
+IMO the biggest concern to me is that it's not just MSTR doing this anymore. Other BTC-related companies have followed MSTR's path and taken on similar debt to do the same thing and their stocks have soared. My guess is that the market perceives this sort of purchase of BTC with debt as low risk and therefore considers that when these companies take that risk, they're probably going to be doing well in the long run because BTC is expected to continue to go up.
+
+The real mystery to me is what will happen if there is some kind of big flash crash? Saylor has kept the price high by continuing to make enormous purchased. Therefore we could question if demand for BTC artificially inflated by this or if there really is demand to continue to hold up the price of BTC irrespective of the fact that Saylor will continue to buy.
+
+Idk, I also fully expect big short sellers to mount shorts on both BTC and MSTR to intentionally drive MSTR underwater. Right now MSTR is well in profit because their cost basis is 50-60k.
+
+</details>
+<details>
+<summary>u/Ethical-trade looks at what is happening while retail sells</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hidcgv/daily_general_discussion_december_20_2024/m3128ey/)
+
+Sony is building a rollup while retail sells.
+Deutsche Bank is building a rollup while retail sells.
+Kraken is launching a rollup while retail sells.
+Blackrock builds on Ethereum while retail sells.
+Robinhood builds on Ethereum while retail sells.
+Staked eth ETFs are coming while retail sells.
+Visa builds on Ethereum while retail sells.
+PayPal builds on Ethereum while retail sells.
+Ethereum dominates on all relevant metrics while retail sells...
+
+...but ETFs see the biggest inflows they ever have. The US president is buying eth. 
+
+If you think the Ethereum game is over, please reconsider.  This is not a good time to sell your eth to institutions.
+
+</details>
+<details>
+<summary>u/ausgear1 just discovered how easy Ethdocker makes running a validator</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hidcgv/daily_general_discussion_december_20_2024/m31lfxb/)
+
+Big shoutout to <https://ethdocker.com/> & the team that put this together. My nvme recently died while switching to reth from nethermind (based on the current diversity stats) & i decided to try this out instead of the completely manual set up I had before - it's unbelievable how much easier this is & how good the docs are
+
+running a node is as simple as installing linux, and running the ethdocker script then going through the config screens
+
+</details>
+<details>
+<summary>u/SpontaneousDream is dreaming about the next market hybrid</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hj3mq7/comment/m35uazi/)
+
+Mods if this is too far off topic, please remove. I don't think it is given the direction ties to ETH and crypto as a whole.
+
+I am bullish AF on (imo) the soon-to-be world's next major stock/crypto hybrid. It is none other than $coin. Okay, okay, hear me out:
+
+1. In 2025, Coinbase will utilize its L2, Base, to either tokenize its stock for more exposure to liquidity (more inflows). Imagine using BTC or ETH to buy a truly tokenized version of $coin directly...or, Coinbase could use Base to provide dividends to $coin holders, possibly in the form of some scheduled airdrop.
+2. $coin will enter s&p next year, which guarantees many millions in inflows (and also gives crypto exposure to virtually all investors). Bitwise has made this prediction as well in their [recent ](https://bitwiseinvestments.com/crypto-market-insights/the-year-ahead-10-crypto-predictions-for-2025)report.
+3. Coinbase has been doing an insane amount of volume. [See overview here.](https://investor.coinbase.com/home/default.aspx) The next earnings report is going to kick ass.
+
+Personally, I think it's a great beta play to btc, eth, and crypto as a whole. I think the market is totally undervaluing the impact of Base on Coinbase revenues and more importantly, *opportunities*, as a company. There are so may ways they can utilize their L2 to drive growth and earnings for the company, and that goes straight back to $coin holders. Yes, Base stats are still small compared to Coinbase as a whole company, but Base's stats having been going wayyyy up this year and most recently. TVL, transactions, developers, volume, commits, etc. [Full stats here for Base. ](https://defillama.com/chain/Base)
+
+I am going low leverage to slowly continue building my position, with ETH as the collateral. LFG.
+
+</details>
+<details>
+<summary>u/haurog reviews the Trezor Safe 3</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hkhgfo/daily_general_discussion_december_23_2024/m3hxws7/)
+
+A few days ago I mention that I just bought a trezor safe 3 to transition away from my dying Ledger Nano S: https://reddit.com/r/ethfinance/comments/1hembku/daily_general_discussion_december_15_2024/m27cc3h/
+
+A few people were interesting in my first impressions so here they are.
+
+TLDR: The trezor safe 3 is a great replacement for my Ledger Nano S.
+
+I went with Trezor because I am an open source maxi and now that the newer trezors (safe 3 and safe 5) also use a secure element chip there is nothing stopping me going there. Trezor has been in the space for a very long time so I assume they know what they are doing. As I was not sure how well it will work with my setup I went with the cheaper option (Trezor Safe 3) instead of the more expensive one (Trezor Safe 5). Security wise they are pretty much the same but the Trezor 5 has a touch screen. Just make sure to not get a Trezor One or the Model T as they do not have a secure element chip which makes them more vulnerable to attacks. There is also no Trezor with bluetooth, so if you depended on that, Trezor is probably not for you.
+
+The Trezor 3 has pretty much a similar feel like the Leder Nano S. Pretty minimal design and als the screen is a monochrome screen. One difference is that you can operate the trezor with one hand only. There is also the equivalent of Ledger Live which is called Trezor suite. I do not think Trezor Suite is particularly useful though. I prefer to do my stuff in third party wallets. Setup is similar to setting up a Ledger. You can chose a pin, a passphrase etc. 
+
+I tested my wallets with Frame.sh, Rabby and Metamask. One important thing is that the Trezor Suite has to run even though you only want to connect to a browser wallet.  
+
+In Frame.sh I can only find my Ledger Legacy wallets and the first one in the Ledger Live derivation path. All other ones in this path cannot be accessed. Same with Metamask. This is a consequence of Ledger not using the standard derivation paths.
+
+Rabby easily finds all my wallets and I can use them perfectly. If you confirm a transaction in Rabby an additional window pops up which connects to the Trezor and through which the transaction is confirmed. It works, but is a bit ugly. 
+
+The trezor itself is relatively simple. There are no settings to configure the device itself. No apps you have to upload and choose. The screen is slightly more informative than on the Ledger Nano S and you can actually see what you are signing. Security wise this is so much better than the blind signing on the Ledger. 
+
+Your device gets wiped if you input the pin wrongly 16 times, which is much more often than on the Ledger which wipes itself after 3 wrong pin inputs. So if you are paranoid about this make the pin one digit longer on the Trezor.
+
+A big difference is how passphrases are handled. On the Ledger you input them on the device and set a pin to access it. On the Trezor you have to input the passphrase on the Computer using the trezor every time you open it. This can be annoying or if you are on the paranoid side, it could be an absolute show stopper because a keylogger could read your passphrase. It is a very different philosophy compared to the ledger. In my view both have pros and cons. Essentially for both of them is that there is no indication if you used a passphrase on your device or not. Plausible deniability for both. 
+
+Overall, the Trezor 3 is a perfect replacement for my slowly dying Ledger Nano S and I am very happy with it. I will probably get a Trezor Safe 5 as well as the touch screen makes inputting the pin so much easier.
+
+</details>
+<details>
+<summary>u/Adankairo drops daily Devcon #23 - Unified Ethereum vs L2 Ecosystem Competition: Can we have both?</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hl77fx/daily_general_discussion_december_24_2024/m3ktk27/)
+
+#Daily DevCon #23:
+
+[Unified Ethereum vs L2 Ecosystem Competition: Can we have both? ](https://www.youtube.com/watch?v=4Tds-Bik7zM)
+
+It's Tuesday, December 24, 2024 — day 23 of our DevCon Ethducation listen-along series.
+
+##Summary:
+
+unified experience across all chains. This requires a common interface, fast and seamless inter-chain execution, and a focus on user security. The competition from other chains like Solana is driving innovation within the Ethereum ecosystem. While there is a risk of decentralization with federations like the super chain, it is crucial to stay decentralized and open source to avoid repeating the mistakes of the centralized web. Vitalik emphasizes the importance of keeping up with advancements in centralized systems and staying competitive in the evolving landscape. Ultimately, the goal is to build a decentralized, competitive, and innovative ecosystem that adapts to the changing technological landscape while preserving decentralization and security.
+
+##Discussion Questions:
+
+How can Ethereum balance the need for innovation and competitiveness with the principles of decentralization and open source development in a rapidly evolving blockchain landscape?
+
+In what ways can Ethereum ensure a unified user experience and seamless inter-chain execution while maintaining a strong focus on user security and decentralization in the face of competition from other blockchain platforms like Solana?
+
+Your mission is to consume the content, then comment with insight on this thread, and vote up other valuable comments. The primary goal here is community development through education.
+
+- [Yesterday's discussion](https://reddit.com/r/ethfinance/comments/1hkhgfo/daily_general_discussion_december_23_2024/m3f6gsq/)
+- [All DevCon talks ranked by views](https://github.com/hanniabu/devcon-7-videos/blob/main/videos.md)
+- [The grand idea](https://reddit.com/r/ethfinance/comments/1h0xkvx/daily_general_discussion_november_27_2024/lz8b95w/)
+
+***
+^The ^summary ^and ^discussion ^questions ^are ^AI-generated ^from ^Youtube's ^autogenerated ^transcript. ^The ^transcript ^may ^capture ^some ^names ^and ^terms ^incorrectly.
+
+</details>
+<details>
+<summary>u/unthinkablecryto reflects on their time here in EthFinance</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hluyp6/daily_general_discussion_december_25_2024/m3rjf8t/)
+
+I made my first comment in ethfinance just over 4 years ago, December 15,2020. ETH was around $580 and was about to start one of the biggest ETH runs I ever seen, by May 11th, 2021 prices would be $4,182. 7.2x in 147 days. So doubling roughly every 20 days. ethfinance is where we celebrated all along the way after a long bear market, 2018,2019,2020 were long years ( I was a lurker back then). I don't have many friends in person that I could talk crypto with so through the highs and lows of the last 4 years I turned to ethfinance. It's bittersweet to see the daily going away, it's been such a big part of my life over the last 4 years, but at the same time I'm ecstatic to see r/Ethereum turn around, and become a quality place for Ethereum discussion again, where we will likely welcome many more generations of Ethereum bulls and builders. Where one door closes, another opens. Cheers to ethfinance. Thank you to everyone that has made it such a welcoming place over the years.
+
+</details>
+<details>
+<summary>u/wolfparking shares Coinbase's bullish outlook for 2025 then doubles down and reminds us to be weary of where we keep our coins</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hmi8g5/daily_general_discussion_december_26_2024/m3uhzkh/)
+
+Coinbase released their 2025 Crypto Market Outlook. I have to agree that the future looks optimistic from this point of view!
+
+Link: <https://www.coinbase.com/blog/crypto-market-outlook-5-things-to-watch-in-2025>
+
+Stablecoins: Total market cap is at an all-time high of nearly $200B and could move much higher. Why? Because we’re getting closer to the day when their primary use case will be commerce and capital flows, not trading.
+
+Tokenization: Tokenized real-word assets (RWAs) grew by 60% in 2024. Looking ahead, we see RWAs gaining traction across asset classes, from private credit to commodities and more.
+
+ETFs: Spot crypto ETFs shattered records for AUM in their first year of existence, reaching nearly $37B. And potential regulatory changes, such as allowing in-kind creations and redemptions or staking, could stoke further demand.
+
+Decentralized Finance: DeFi’s share of crypto trading volume nearly doubled this year to 14%. Innovations like onchain prediction markets are spurring a resurgence of activity.
+
+Regulation: January will see the swearing-in of the most pro-crypto Congress ever. Stay tuned for clear rules that benefit both the industry and consumers.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hmi8g5/daily_general_discussion_december_26_2024/m3uig7x/)
+
+Be wary of your choice in Crypto Exchanges.
+
+2024 is on track to setting new records for the amount of crypto stolen from exploits and hacks. By Q3 2024, blockchain intelligence firm TRM Labs reported that over $2.2 billion had been stolen in crypto hacks—exceeding the estimated $1.8 billion lost in all of 2023.
+
+Here's some of the big ones:
+
+1. Japanese DMM Exchange lost $308 million (stolen private keys were a plausible explanation)
+
+2. PlayDapp’s $290 million (exploiting a private key vulnerability)
+
+3. Indian Exchange WazirX’s $235 million (successful hacking into exchange account)
+
+4. Turkish crypto exchange BtCTurk $54 million (details unclear)
+
+Source: <https://decrypt.co/297206/largest-crypto-exploits-hacks-2024>
+
+PSA: Trending again this year are hacks from exchanges. Please carefully consider carefully which exchanges you trust.
+
+</details>
 </details>
 
 
