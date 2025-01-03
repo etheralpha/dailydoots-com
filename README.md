@@ -11,27 +11,26 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1125 Dooters - Last Updated December 27, 2024</small>
+<small>1125 Dooters - Last Updated January 3, 2025</small>
 
 
 
 Rank | Username   | Daily Doots
 -----|------------|------------
 . | [superphiz](https://reddit.com/u/superphiz) | 218
-. | [logristhebard](https://reddit.com/u/logristhebard) | 158
+. | [logristhebard](https://reddit.com/u/logristhebard) | 161
 . | [benido2030](https://reddit.com/u/benido2030) | 156
 . | [haurog](https://reddit.com/u/haurog) | 140
 . | [tricky_troll](https://reddit.com/u/tricky_troll) | 135
 . | [696_eth](https://reddit.com/u/696_eth) | 111
-. | [ethical-trade](https://reddit.com/u/ethical-trade) | 109
 . | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 108
-. | [set1less](https://reddit.com/u/set1less) | 104
+. | [set1less](https://reddit.com/u/set1less) | 105
 . | [hanniabu](https://reddit.com/u/hanniabu) | 101
 . | [syentist](https://reddit.com/u/syentist) | 90
-. | [pa7x1](https://reddit.com/u/pa7x1) | 80
-. | [the-a-word](https://reddit.com/u/the-a-word) | 78
+. | [pa7x1](https://reddit.com/u/pa7x1) | 81
+. | [the-a-word](https://reddit.com/u/the-a-word) | 80
 . | [phimarhal](https://reddit.com/u/phimarhal) | 75
-. | [austonst](https://reddit.com/u/austonst) | 72
+. | [austonst](https://reddit.com/u/austonst) | 73
 . | [nixorokish](https://reddit.com/u/nixorokish) | 65
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 64
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
@@ -39,15 +38,15 @@ Rank | Username   | Daily Doots
 . | [alexiskef](https://reddit.com/u/alexiskef) | 61
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [cryptrd285](https://reddit.com/u/cryptrd285) | 56
+. | [interweaver](https://reddit.com/u/interweaver) | 55
 . | [etheraider](https://reddit.com/u/etheraider) | 54
-. | [interweaver](https://reddit.com/u/interweaver) | 54
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
 . | [needlerop](https://reddit.com/u/needlerop) | 46
 . | [seamonkey82](https://reddit.com/u/seamonkey82) | 46
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
 . | [15kisfud](https://reddit.com/u/15kisfud) | 45
-. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 44
+. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 45
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
 . | [barthib](https://reddit.com/u/barthib) | 39
 . | [eggill7227](https://reddit.com/u/eggill7227) | 39
@@ -59,11 +58,11 @@ Rank | Username   | Daily Doots
 . | [aaj094](https://reddit.com/u/aaj094) | 36
 . | [ro-_-b](https://reddit.com/u/ro-_-b) | 36
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
+. | [wolfparking](https://reddit.com/u/wolfparking) | 35
 . | [domotheus](https://reddit.com/u/domotheus) | 34
 . | [papazio](https://reddit.com/u/papazio) | 33
-. | [wolfparking](https://reddit.com/u/wolfparking) | 33
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 32
-. | [thehansgruber](https://reddit.com/u/thehansgruber) | 31
+. | [thehansgruber](https://reddit.com/u/thehansgruber) | 32
 . | [_weboftrust](https://reddit.com/u/_weboftrust) | 30
 . | [ber10](https://reddit.com/u/ber10) | 30
 . | [hsuke](https://reddit.com/u/hsuke) | 30
@@ -74,7 +73,7 @@ Rank | Username   | Daily Doots
 . | [bagogel12](https://reddit.com/u/bagogel12) | 29
 . | [coinanon](https://reddit.com/u/coinanon) | 28
 . | [ender985](https://reddit.com/u/ender985) | 28
-. | [hereimalive](https://reddit.com/u/hereimalive) | 27
+. | [hereimalive](https://reddit.com/u/hereimalive) | 28
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
 . | [decibels42](https://reddit.com/u/decibels42) | 26
 . | [therealsilentjohn](https://reddit.com/u/therealsilentjohn) | 26
@@ -83,22 +82,23 @@ Rank | Username   | Daily Doots
 . | [maswasnos](https://reddit.com/u/maswasnos) | 25
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 24
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 24
+. | [wulkingdead](https://reddit.com/u/wulkingdead) | 24
 . | [-lightfoot](https://reddit.com/u/-lightfoot) | 23
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 23
 . | [hipaces](https://reddit.com/u/hipaces) | 23
 . | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 23
 . | [supephiz](https://reddit.com/u/supephiz) | 23
 . | [vvpan](https://reddit.com/u/vvpan) | 23
-. | [wulkingdead](https://reddit.com/u/wulkingdead) | 23
+. | [eth2353](https://reddit.com/u/eth2353) | 22
 . | [im_this_guy](https://reddit.com/u/im_this_guy) | 22
 . | [mrcatface13](https://reddit.com/u/mrcatface13) | 22
 . | [not-ngmi](https://reddit.com/u/not-ngmi) | 22
 . | [skythe4](https://reddit.com/u/skythe4) | 22
 . | [2nice4allthis](https://reddit.com/u/2nice4allthis) | 21
-. | [eth2353](https://reddit.com/u/eth2353) | 21
 . | [insidethesimulation](https://reddit.com/u/insidethesimulation) | 21
 . | [krokodilmannchen](https://reddit.com/u/krokodilmannchen) | 21
 . | [moschus11](https://reddit.com/u/moschus11) | 21
+. | [adankairo](https://reddit.com/u/adankairo) | 20
 . | [ethlongmusk](https://reddit.com/u/ethlongmusk) | 20
 . | [nikola_j](https://reddit.com/u/nikola_j) | 20
 . | [savage_x](https://reddit.com/u/savage_x) | 20
@@ -106,7 +106,6 @@ Rank | Username   | Daily Doots
 . | [coldsnap](https://reddit.com/u/coldsnap) | 19
 . | [luukiemans](https://reddit.com/u/luukiemans) | 19
 . | [abcoathup](https://reddit.com/u/abcoathup) | 18
-. | [adankairo](https://reddit.com/u/adankairo) | 18
 . | [chapo_rouge](https://reddit.com/u/chapo_rouge) | 18
 . | [ethacct](https://reddit.com/u/ethacct) | 18
 . | [etherbie](https://reddit.com/u/etherbie) | 18
@@ -142,6 +141,7 @@ Rank | Username   | Daily Doots
 . | [dashby1](https://reddit.com/u/dashby1) | 13
 . | [kwadrax](https://reddit.com/u/kwadrax) | 13
 . | [bitzgi](https://reddit.com/u/bitzgi) | 12
+. | [doomfuzzslayer](https://reddit.com/u/doomfuzzslayer) | 12
 . | [jebediahkholin](https://reddit.com/u/jebediahkholin) | 12
 . | [kallukoras](https://reddit.com/u/kallukoras) | 12
 . | [kb1985](https://reddit.com/u/kb1985) | 12
@@ -153,7 +153,6 @@ Rank | Username   | Daily Doots
 . | [aaqy](https://reddit.com/u/aaqy) | 11
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
 . | [cutsnek](https://reddit.com/u/cutsnek) | 11
-. | [doomfuzzslayer](https://reddit.com/u/doomfuzzslayer) | 11
 . | [keynya](https://reddit.com/u/keynya) | 11
 . | [newman513](https://reddit.com/u/newman513) | 11
 . | [odds-bodkins](https://reddit.com/u/odds-bodkins) | 11
@@ -167,7 +166,9 @@ Rank | Username   | Daily Doots
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
 . | [bakedent](https://reddit.com/u/bakedent) | 10
 . | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 10
+. | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 10
 . | [defirobot](https://reddit.com/u/defirobot) | 10
+. | [ethical-trade](https://reddit.com/u/ethical-trade) | 10
 . | [ev1501](https://reddit.com/u/ev1501) | 10
 . | [gumpa-bucky](https://reddit.com/u/gumpa-bucky) | 10
 . | [jin366](https://reddit.com/u/jin366) | 10
@@ -176,6 +177,7 @@ Rank | Username   | Daily Doots
 . | [monkeyhold99](https://reddit.com/u/monkeyhold99) | 10
 . | [pocketwailord](https://reddit.com/u/pocketwailord) | 10
 . | [shiftli](https://reddit.com/u/shiftli) | 10
+. | [sku](https://reddit.com/u/sku) | 10
 . | [spinz808](https://reddit.com/u/spinz808) | 10
 . | [theethmeister](https://reddit.com/u/theethmeister) | 10
 . | [vandelay101](https://reddit.com/u/vandelay101) | 10
@@ -184,7 +186,6 @@ Rank | Username   | Daily Doots
 . | [breeezyyyy](https://reddit.com/u/breeezyyyy) | 9
 . | [canadiens1993](https://reddit.com/u/canadiens1993) | 9
 . | [ch3white10](https://reddit.com/u/ch3white10) | 9
-. | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 9
 . | [degenkolotoure](https://reddit.com/u/degenkolotoure) | 9
 . | [doubtstarsarefire](https://reddit.com/u/doubtstarsarefire) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
@@ -192,12 +193,12 @@ Rank | Username   | Daily Doots
 . | [harryzke](https://reddit.com/u/harryzke) | 9
 . | [hocilef](https://reddit.com/u/hocilef) | 9
 . | [iscaacsi](https://reddit.com/u/iscaacsi) | 9
+. | [lawfultots](https://reddit.com/u/lawfultots) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
 . | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
 . | [ournumber4](https://reddit.com/u/ournumber4) | 9
 . | [plaenar](https://reddit.com/u/plaenar) | 9
 . | [profstrangelove](https://reddit.com/u/profstrangelove) | 9
-. | [sku](https://reddit.com/u/sku) | 9
 . | [strtrd](https://reddit.com/u/strtrd) | 9
 . | [the_statustician](https://reddit.com/u/the_statustician) | 9
 . | [theonlyhodlerincuau](https://reddit.com/u/theonlyhodlerincuau) | 9
@@ -217,7 +218,6 @@ Rank | Username   | Daily Doots
 . | [ipeculiarly](https://reddit.com/u/ipeculiarly) | 8
 . | [jumnhy](https://reddit.com/u/jumnhy) | 8
 . | [juxtanotherposition](https://reddit.com/u/juxtanotherposition) | 8
-. | [lawfultots](https://reddit.com/u/lawfultots) | 8
 . | [lops21](https://reddit.com/u/lops21) | 8
 . | [mango_sake](https://reddit.com/u/mango_sake) | 8
 . | [merklechainsaw](https://reddit.com/u/merklechainsaw) | 8
@@ -255,6 +255,7 @@ Rank | Username   | Daily Doots
 . | [the_swingman](https://reddit.com/u/the_swingman) | 7
 . | [thenextbestguess](https://reddit.com/u/thenextbestguess) | 7
 . | [thepaypay](https://reddit.com/u/thepaypay) | 7
+. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [_etherium](https://reddit.com/u/_etherium) | 6
 . | [baggygravy](https://reddit.com/u/baggygravy) | 6
@@ -282,7 +283,6 @@ Rank | Username   | Daily Doots
 . | [sfcpfc](https://reddit.com/u/sfcpfc) | 6
 . | [strawdar](https://reddit.com/u/strawdar) | 6
 . | [timwithnotoolbelt](https://reddit.com/u/timwithnotoolbelt) | 6
-. | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 6
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
 . | [wootnasty](https://reddit.com/u/wootnasty) | 6
 . | [wurstgewitter](https://reddit.com/u/wurstgewitter) | 6
@@ -347,6 +347,7 @@ Rank | Username   | Daily Doots
 . | [doublyrobustlydouble](https://reddit.com/u/doublyrobustlydouble) | 4
 . | [empirestake](https://reddit.com/u/empirestake) | 4
 . | [ethsomesense](https://reddit.com/u/ethsomesense) | 4
+. | [evanvanness](https://reddit.com/u/evanvanness) | 4
 . | [fatsopiggy](https://reddit.com/u/fatsopiggy) | 4
 . | [fecalreceptacle](https://reddit.com/u/fecalreceptacle) | 4
 . | [fernadopoo](https://reddit.com/u/fernadopoo) | 4
@@ -410,6 +411,7 @@ Rank | Username   | Daily Doots
 . | [coin010309](https://reddit.com/u/coin010309) | 3
 . | [cometothecaml](https://reddit.com/u/cometothecaml) | 3
 . | [coregamer90](https://reddit.com/u/coregamer90) | 3
+. | [crumbumcrumbum](https://reddit.com/u/crumbumcrumbum) | 3
 . | [cryptonomikon](https://reddit.com/u/cryptonomikon) | 3
 . | [culi122](https://reddit.com/u/culi122) | 3
 . | [davidahoffman](https://reddit.com/u/davidahoffman) | 3
@@ -422,7 +424,6 @@ Rank | Username   | Daily Doots
 . | [ethlinkwin](https://reddit.com/u/ethlinkwin) | 3
 . | [ethnocent](https://reddit.com/u/ethnocent) | 3
 . | [ethzenn](https://reddit.com/u/ethzenn) | 3
-. | [evanvanness](https://reddit.com/u/evanvanness) | 3
 . | [fheredin](https://reddit.com/u/fheredin) | 3
 . | [general_illus](https://reddit.com/u/general_illus) | 3
 . | [goobergal97](https://reddit.com/u/goobergal97) | 3
@@ -514,7 +515,6 @@ Rank | Username   | Daily Doots
 . | [cptnobvs3](https://reddit.com/u/cptnobvs3) | 2
 . | [criminalnoodle](https://reddit.com/u/criminalnoodle) | 2
 . | [crispykfc](https://reddit.com/u/crispykfc) | 2
-. | [crumbumcrumbum](https://reddit.com/u/crumbumcrumbum) | 2
 . | [crypt0curios](https://reddit.com/u/crypt0curios) | 2
 . | [crypto_rasta](https://reddit.com/u/crypto_rasta) | 2
 . | [cryptomonger](https://reddit.com/u/cryptomonger) | 2
@@ -1147,6 +1147,7 @@ Rank | Username   | Daily Doots
 
 
 
+
 [↑ Back to top ↑](#)
 
 
@@ -1165,11 +1166,295 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Upcoming Guests**</summary>
 
-- Jan 3 - Brian Smocovich from [PistachioFi](https://pistachio.fi/)
 - Jan 17 - Kate Laurence from [Bloccelerate](https://bloccelerate.vc/)
 - Jan 24 - [DefiDad](https://x.com/DeFi_Dad)
 - Jan 31 - Justin Drake on [Beam Chain](https://www.youtube.com/live/rGE_RDumZGg?t=7200)
 
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>#93: January 5, 2025</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+*Special guest Brian Smocovich joins us from [PistachioFi](https://www.pistachio.fi/), your self-custodial checking account.*
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hsgmtm/comment/m55ba8l/)
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> Ethereum
+
+[u/AuspiciousEther](https://reddit.com/u/AuspiciousEther)
+
+> $3438 Ξ €3343
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> 0.03564
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 3,524,775 Ethereans subscribed (+5,043 over two days)
+
+[u/Sku](https://reddit.com/u/Sku)
+
+> $25k in 2025
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hnzdk8/comment/m49ppbi/)
+
+*Take some coping pill,*
+
+*For all extra gas you spill,*
+
+*Tax return to fill.*
+
+</details>
+<details>
+<summary>Choda time!</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hro11y/daily_general_discussion_january_02_2025/m51cd4d/)
+
+༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
+
+</details>
+<details>
+<summary>Shitpost of the week: u/Heringsalat100</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hqxsej/comment/m4ut3ya/)
+
+We haven't reached $7500 in 2024 based on my local time zone, Berlin Time, here in Germany. For [this reason I am gonna eat a darjeeling tea bag as I have stated](https://reddit.com/r/ethfinance/s/GVeq28S41C).
+
+I have agreed with u/majorpickle01 that I am gonna provide a logbook of my experience! (photos/videos are too risky because of doxxing)
+
+And you know what it is here at the moment? 16:05 and thus ... TEA TIME! I am gonna provide the logbook as continuous edits for now.
+
+- 16:07: Water is boiling, preparing tea bag and cup
+- 16:09: Put hot water in tea cup with bag; waiting 3 minutes for steeping
+- 16:13: Put tea bag out of cup and on a plate; let it cool down for now (too hot to eat it)
+- 16:15: tea bag still too hot, waiting
+- 16:17: tea bag temperature good; trying to chew on it
+- 16:18: Oh dear, the bitterness; the bag material is very fibery; Trying to chew more with front teeth
+- 16:20: part of tea bag in my mouth; still chewing on the fibery outer material; the tea itself isn't bad, though! Even though slightly bitter but better than first contact
+- 16:22: Managed to disintegrate the majority of the fibrous stuff in my mouth, swallowed it. Doesn't really feel like paper ... something different ... something more fibrous
+- 16:24: got the second piece into my mouth, the same procedure as a couple of minutes ago!
+- 16:26: There seems to be a thicker part of the outer tea bag material, too thick to chew it. Have to be honest: put it out of my mouth to avoid health risks. (sry. for that)
+- 16:28: Chewing on third piece
+- 16:29: That one was easier, swallowed it
+- 16:30: nipping the tea I got to prepare for last piece
+- 16:31: final piece!
+- 16:32: I was able to train this three times in a row now! Swallowed the last part!
+
+The only part which is left is completely without tea so I guess I attended to my duty!
+
+- 16:43: Drinking Fujian Jade Needle tea now to compensate for my tea bagxperience 😅
+
+</details>
+<details>
+<summary>u/MinimalGravitas makes a toast to EthFinance</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hnzdk8/daily_general_discussion_december_28_2024/m46o2w9/)
+
+Happy holidays EthFam, hope you've all been enjoying stuffing yourselves with quantities of mincepies and Baileys that you will regret upon eventually sobering up.
+
+Just wanted to touch base in one of the final few EthFinance Dailys to say that it honestly has been a gift to have shared the Ethereum journey with you here for the last few years.
+
+I have never found an open online community that has been so wholesome, enjoyable and rewarding to be a part of, especially in crypto where seemingly every other space becomes a zero-sum game of fake hype, manipulation and general nonsense, EthFinance has been a beacon of sanity and good conversation.
+
+I am excited for the next steps as we move to our new home, and shepherded by the best mod team on Reddit, bring our special something to the wider Ethereum community.
+
+Long live EthFinance.
+
+</details>
+<details>
+<summary>u/Wulkingdead takes a minute to look at read world adoption</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hpgla2/daily_general_discussion_december_30_2024/m4hv5dw/)
+
+<https://ethereumadoption.com/>
+
+Just take a minute to look at this. 
+
+I remember coming to the Ethereum reddits 8 years ago and back then we were dreaming about what is a reality today. 
+
+The reality now is that everyone that sees the potential of blockchain and is taking it seriously is building things on Ethereum, which is making more and more people see it's potential. 
+It is absolutely amazing to see this unfold right before our eyes. 
+The list will keep on growing of who is building on Ethereum. 
+
+Becides the success of updates, developers, applications, Dapps, tvl, investments, scaling,... You can see the trend of more and more coming in. 
+- More and more institutions/banks launching tokenized funds, 
+- More and more creating layer2's to be able to build on Ethereum through scaling,
+- More and more are seeing the value of Ethereum with the decentralization and security it provides. 
+
+When you take a second to see the trend and the direction everything is going, the conclusion is that the future of Ethereum is very very promising. 
+
+The ticker is ETH. Happy new year everyone.
+
+</details>
+<details>
+<summary>u/unthinkablecryto starts a discussion about crypto tax accounting software</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hpgla2/daily_general_discussion_december_30_2024/m4kucpx/)
+
+Posting in both dailies. 
+
+What site is everyone in the US using to generate their safe harbor plan / transition plan / or digital asset allocation plan?
+   
+Looks like CryptoTaxGirl and CryptoTaxAudit (any better ones out there?) have forms you can have fill out. Seems like the three things you need to do before the 1st is, 1) document holdings across all wallets 2) choose between Specific Unit Allocation (if able) or Global Allocation 3) If global allocation, choose method, Highest Cost Allocated First, or Lowest Cost Allocated First, or Oldest Allocated First. 
+   
+Seems like Specific Unit Allocation is more complex and both forms are for Global Allocation, which allow you to allocate for example the highest cost allocated first, CryptoTaxGirl says "This method would allocate everything you owned you before 1/1/25 in order from highest cost to lowest cost. The highest-cost lots would be allocated first to your assets on hosted wallets then to your unhosted wallets in order of acquisition date, from oldest to newest. This means starting in 2025, when the default accounting method switches to First-in-first-out (FIFO), your sells,trades, spends, or transfer of assets owned before 1/1/25 will pull from your highest cost units allocated to each wallet and exchange. This approach will generally result in deferring gains and accelerating losses."
+   
+CryptoTaxAudit doesn't seem to have a spot for step 3. And it doesn't seem like you need to assign your cost basis before the 1st but you need to before your first buy or sell in 2025.
+
+</details>
+<details>
+<summary>u/Adankairo drops daily Devcon #29 - Evolution of Scams</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hpgla2/daily_general_discussion_december_30_2024/m4i9369/)
+
+#Daily DevCon #29:
+
+[Evolution of Scams ](https://www.youtube.com/watch?v=SgkEwSDkBnI)
+
+It's Monday, December 30, 2024 — day 29 of our DevCon Ethducation listen-along series.
+
+##Summary:
+
+The speaker discussed the evolution of scams in the crypto space, focusing on end users. They covered various scam methodologies such as seed phishing, money doubling schemes, and drainer kits that exploit open approvals to drain assets. Monkey drainer, Inferno drainer, and Angel drainer are examples of prevalent kits that have targeted users. The talk emphasized the importance of transaction simulation to educate users about the implications of their actions on the blockchain. Additionally, the speaker highlighted the sophistication of current malicious techniques and the ongoing cat-and-mouse game between attackers and security measures, with a focus on enhancing detection methods for malicious transactions.
+
+##Discussion Questions:
+
+1. How can the Ethereum community work together to increase awareness among users about the various scam methodologies in the crypto space and empower them to make informed decisions while engaging in transactions on the blockchain?
+
+2. In what ways can advancements in transaction simulation tools be utilized to enhance user education and prevent falling victim to sophisticated malicious techniques targeting end users in the crypto space?
+
+Your mission is to consume the content, then comment with insight on this thread, and vote up other valuable comments. The primary goal here is community development through education.
+
+- [Yesterday's discussion](https://reddit.com/r/ethfinance/comments/1hopm1d/daily_general_discussion_december_29_2024/m4ecl5t/)
+- [All DevCon talks ranked by views](https://github.com/hanniabu/devcon-7-videos/blob/main/videos.md)
+- [The grand idea](https://reddit.com/r/ethfinance/comments/1h0xkvx/daily_general_discussion_november_27_2024/lz8b95w/)
+
+***
+^The ^summary ^and ^discussion ^questions ^are ^AI-generated ^from ^Youtube's ^autogenerated ^transcript. ^The ^transcript ^may ^capture ^some ^names ^and ^terms ^incorrectly.
+
+</details>
+<details>
+<summary>u/interweaver explains how the new US tax laws might affect you and u/crumbumcrumbum also has US tax PSA</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hq8bu0/daily_general_discussion_december_31_2024/m4oph6r/)
+
+[u/interweaver](https://reddit.com/u/interweaver):
+
+If you were already tracking your cost basis on a per-lot basis (e.g. for Specific Lot, FIFO, or LIFO tracking) then this shouldn't change anything for you; you already have all the info you need. Same if you were not tracking specific lots, but were tracking at a wallet level (e.g. every time assets enter or leave the wallet, you recalculate the average cost basis for that asset in that wallet, distinct from other wallets' cost bases for that asset) - just keep doing that.
+
+If you were tracking your cost basis for assets globally, by recalculating the global cost basis for that asset regardless of where you held it, every time you acquired more of it, regardless of which wallet/account it was in, then you will need to improve your tracking to either of the two more fine-grained levels of tracking mentioned above.
+
+For stakers, tbh you really should have already been tracking at a per-wallet or ideally specific-lot level, if only to keep Eth with long-term capital gain status separate from Eth held for less than a year. But if you were lazy with your tracking, you will need to up your game. There shouldn't be any real staking-specific gotchas there - validators should each be considered wallets, e.g. the Eth in them should each have its own cost basis that you track separately (or even the specific lots of Eth within it), and every time you receive a withdrawal or fee from a proposal, you need to either add a new specific lot to the withdrawal/fee recipient wallet with that day's cost basis, or update the average cost basis for that wallet.
+
+Overall this is a pretty reasonable change; the only people affected are those who were taking what I would personally consider to be somewhat inadvisable shortcuts with their accounting, and it just forces them to be more fine-grained.
+
+Note that I'm pretty sure there's a safe haven rule where you can take the cost basis of your wallets as of January 1st (tomorrow) as a starting point; they won't force you to retroactively recalculate all your cost bases, just to track it going forward in the new year.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hq99kz/daily_general_discussion_december_31_2024/m4ptere/)
+
+[u/crumbumcrumbum](https://reddit.com/u/crumbumcrumbum):
+
+Long Boring (unless you're a tax nerd like me) US Tax PSA: 
+
+IRS crypto cost basis rules are changing in 2025 away from universal cost basis to per-wallet. While I haven't quite worked through all the implications, you can help future you by doing two things: 
+
+1  take a snapshot of your holdings as of January 1 so you can allocate your cost basis under the safe harbor rule.
+1 choose and record your plan for allocating cost basis before the new year. There's no official way to do this, but various crypto tax sites gave templates. 
+
+I like [Crypto Tax Girl](https://cryptotaxgirl.com/blog/understanding-the-safe-harbor-plan-rev-proc-2024-28-and-2025-crypto-tax-reporting-updates/) for a breakdown of some of this and a template to record your plan.
+
+I've missed conversations about this if they've happened in Ethfinance before. While the new rules seem like they will add complexity, I wonder if the new rules might actually simplify specific identification methods, since you can move the specific coins with your desired cost basis to a hot wallet to sell. My accounting software (Tokentax) does give me info on specific tax lots, but does not tell me which wallet each lot is in. If it did, it would make things easier.
+
+TokenTax support says they're waiting for more clarity on how the IRS will implement safe harbor rules before building it into their system - though it would be helpful to know the tax implications of trades that happen starting tomorrow. The simplest thing to do, of course, is to consolidate into one wallet today, but there are plenty of reasons not to do that for security, accounting, convenience, etc.
+
+TLDR: if you have more than one wallet, snapshot your holdings tomorrow to possibly save yourself some accounting headaches
+
+</details>
+<details>
+<summary>u/LogrisTheBard compares blockchain superpowers over TradFi</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hq99kz/daily_general_discussion_december_31_2024/m4rvxni/)
+
+When we first fractionalized the ownership of institutions or companies we gave them a label, units we called shares, and we made them transferrable in a basic way with double entry bookkeeping on paper ledgers that we made copies of around the world and which people notarized the authenticity of. The basic underpinning of stocks hasn't changed much since the first iteration. Granted, we've digitized it and made it accessible to a wider audience, but the digital systems of today have essentially replicated these initial paper systems and inherited most of their flaws. So today I'll be writing about some of these flaws, the inherent benefits of blockchains in solving them, what we have built today, and what is coming next next in the evolution of ownership and financial intents.
+
+Today we live with a stock market with T+1 settlement which basically means it isn't even known who owns what at any given time. We live with a system with trusted counterparties where naked shorting (despite being illegal) regularly happens. We live with a system that happens to shut down whenever it isn't a convenient time in New York City despite serving users globally. That's before we even touch some of the more egregious abuses of power like Robinhood famously disabling the buy button on a certain stock when a bull run was inconveniencing some powerful people.
+
+One of the most amazing superpowers that blockchains have offered the world is one that we don't even talk about except in the most technical sense: finality. Fundamentally a blockchain is just a consensus machine that outputs a time-series of events that we can prove the authenticity of. Practically, what this amounts to is a *basically* incorruptible ledger about anything you like that anyone in the world can access and trust. Finality means that we know who owns what and that once we know this it isn't subject to change in the future except by the consent of the owner. It's a guarantee that you can build upon in a non-fragile way.
+
+Tradfi has only ever managed to create the illusion of this. They only ever figure out who owns all of a stock retrospectively. A court can always undo a transaction or counterparties involved in a transaction can fail to deliver. Anytime you get an instant confirmation of a trade from a web2 app that confirmation isn't *real*; it's only an optimistic estimate backed by the trusted relationships of a bunch of institutions you have no direct relationship with, didn't knowingly consent to use, and which could misbehave at any time.
+
+The difference between a web2 confirmation and a web3 confirmation is an entire court system. The rights carried with the ownership of the asset in web2 are *extrinsic* to the asset. If the bank wrongly forecloses on your home you are entirely out of a home until you take them to court, prove it was wrongly seized from you, and have the courts enforce your rights. That not only comes at a high cost, but also no guarantees. The financial system today has to not only pay the cost of various middlemen but also underwrite the execution and enforcement risk of every legal obligation we delegate to them. There are also of course countless examples where someone was legally in the right but lost in the court system to someone who was better financed.
+
+Contrast this to Defi. In Defi a lending protocol can receive an asset and generate a loan for you instantaneously. It doesn't need a court system to adjudicate the possibility that you didn't own the asset you deposited, that a bankruptcy proceeding a month later from some company you received the asset from might claw back the asset from you, or that the asset has been pledged as collateral multiple times. It has a rock solid guarantee that the transfer of a token means that you and *only you* had legal possession of the token. Because there's nothing to adjudicate with a court system a smart contract can function without having to know where you are in the world so it can pursue legal action against you in your local court of law. Also, unlike Tradfi where there is a byzantine maze of laws for intersecting jurisdictions, smart contracts work the same way for everyone everywhere in the world. Just imagine how many lawyer hours will be avoided by this simple fact. This is a multi-trillion dollar value-add to the world.
+
+</details>
+<details>
+<summary>u/austonst inspires us to cultivate what we want to see in r/Ethereum</summary>
+[View on Reddit →](https://reddit.com/r/ethfinance/comments/1hq8bu0/daily_general_discussion_december_31_2024/m4t1l1o/)
+
+Thanks for everything, r/ethfinance. The new year is traditionally a time for looking ahead and deciding how we want to conduct ourselves in the upcoming year. Through resolutions or just self-reflection, it's a good time to dream about what we want to do with our time and who we want to be.
+
+With this community, we're simultaneously getting a more literal fresh start. An even clearer opportunity to build a sense of who we want to be, from the ground up. There's no better time to start contributing the kind of content you want our new r/ethereum home to show off to the rest of the world.
+
+Let's build a home with the best blockchain discussion on the Internet: technically detailed but accessible to a broad audience. Let's use our position on the more prominent subreddit to welcome curious visitors, competently answer good-faith questions, be humble and open-minded about Ethereum's weaknesses, and demonstrate intellectual curiosity about the broader blockchain space while establishing healthy policies WRT concern trolls.
+
+Let's establish a culture that encourages readers to participate, discuss their experiences, and share their knowledge. Whether it's someone's first DEX trade, or they just took a few hours to read through the documentation for a new identity protocol, or they want to express a controversial opinion on a new EIP, everyone should feel welcome and encouraged to write up their thoughts.
+
+There is no better time to start a new regular post series about something you care about. Give us monthly updates on the governance activity in your favorite DAO, or try syncing one new EL client every week and share some impressions and metrics. Spy on the Solana subs and each day tell us what's on their minds, I dunno.
+
+Let's make r/ethereum great. Happy New Year.
+
+</details>
+<details>
+<summary>u/doomfuzzslayer shares a great post by Vitalik on Twitter</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hqxsej/daily_general_discussion_january_01_2025/m4v02ef/)
+
+Happy new year.
+
+Good post to start off the year - Vitalik on X to Elon Musk.
+
+“I admire your willingness to stand up and fight for freer movement of people, it’s an important freedom that all too easily gets thrown under the busd
+
+That said I think it’s valuable to turn down the temperature here, on both tone of discourse and the social media banhammer.
+
+Respecting free speech is easy when we agree with the speech, and hard when we think it’s awful. But the arguments for respecting free speech anyway are the same as ever: the banhammer is controlled by one group today, it will be controlled by another group tomorrow, and every use of it legitimizes further use, and by the end public discourse collapses into either balkanization, monoculture (where the winner will be the guy with the biggest hammer, not the guy with the best arguments) or constant war of all against all.
+
+And it’s worth reflecting on just how much tone of discourse has fallen here over the past couple of years. I feel like a lot of people have been okay with rising aggressiveness because the target of the aggressiveness was one faction that they disliked, but once that beast is summoned, its nature is to look for new targets, and even if you approve of the first target you may not approve of the second or the third or the fourth - as many people have been finding out this week. Literally “first they came for the communists, and I did not speak out because I was not a communist”. This isn’t the kind of memetic beast we want running the show when we’re entering an era of dangerous global political competition and rapidly improving AI.
+
+The role of leaders in setting the tone is really important, and can be used to great good or great evil. It’s not “wartime mode” that will get humanity to Mars in one piece, it’s something brighter - and we should get into that mode today.”
+
+</details>
+<details>
+<summary>u/EvanVanNess says goodbye for now to Week in Ethereum news 😢</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hqxsej/daily_general_discussion_january_01_2025/m4vwiss/)
+
+New sub who dis?
+
+Goodbye for now Week in Ethereum [https://x.com/evan\_van\_ness/status/1874525460060922103](https://x.com/evan_van_ness/status/1874525460060922103)
+
+</details>
+<details>
+<summary>(Off Topic) Top Ten Albums of 2024</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hqxsej/comment/m4tmot2/)
+
+Off-topic...
+
+[Top Ten Albums of 2024](https://seamonkey.tech/topten/2024)
+
+</details>
 </details>
 
 
