@@ -1235,7 +1235,7 @@ Rank | Username   | Daily Doots
 
 </details>
 <details>
-<summary>Visit from the doctor (u/Dreth</summary>
+<summary>Visit from the doctor (u/Dreth)</summary>
 [View on Reddit →](https://reddit.com/r/ethereum/comments/1hx76vn/comment/m6az9fl/)
 
 reminder that crypto is risky, take your eyes off the charts and enjoy your life
