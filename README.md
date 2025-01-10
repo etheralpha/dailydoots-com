@@ -1181,7 +1181,12 @@ Rank | Username   | Daily Doots
 
 </details>
 
+<details open>
+  <summary>**Announcements**</summary>
 
+[r/Ethereum merge POAP](https://airship.poap.xyz/make-ethereum-reddit-genuinely-excellent)
+
+</details>
 
 
 
