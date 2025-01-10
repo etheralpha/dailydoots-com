@@ -1184,7 +1184,8 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Announcements**</summary>
 
-[r/Ethereum merge POAP](https://airship.poap.xyz/make-ethereum-reddit-genuinely-excellent)
+- [r/Ethereum merge POAP](https://airship.poap.xyz/make-ethereum-reddit-genuinely-excellent)
+- [Octant](https://octant.app/home) Epoch 6 Allocation Window starts January 11th!
 
 </details>
 
