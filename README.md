@@ -11,67 +11,68 @@
 
 <input type="text" id="searchInput" name="search" width="100%" placeholder="Search" aria-label="Search" onkeyup="search()">
 
-<small>1129 Dooters - Last Updated January 10, 2025</small>
+<small>1135 Dooters - Last Updated January 17, 2025</small>
 
 
 
 Rank | Username   | Daily Doots
 -----|------------|------------
-. | [superphiz](https://reddit.com/u/superphiz) | 218
-. | [logristhebard](https://reddit.com/u/logristhebard) | 162
-. | [benido2030](https://reddit.com/u/benido2030) | 157
-. | [haurog](https://reddit.com/u/haurog) | 141
-. | [tricky_troll](https://reddit.com/u/tricky_troll) | 136
+. | [superphiz](https://reddit.com/u/superphiz) | 219
+. | [logristhebard](https://reddit.com/u/logristhebard) | 167
+. | [benido2030](https://reddit.com/u/benido2030) | 160
+. | [haurog](https://reddit.com/u/haurog) | 143
+. | [tricky_troll](https://reddit.com/u/tricky_troll) | 137
 . | [696_eth](https://reddit.com/u/696_eth) | 111
-. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 108
+. | [cryptowocurrency](https://reddit.com/u/cryptowocurrency) | 109
+. | [hanniabu](https://reddit.com/u/hanniabu) | 105
 . | [set1less](https://reddit.com/u/set1less) | 105
-. | [hanniabu](https://reddit.com/u/hanniabu) | 103
+. | [jey_s_tears](https://reddit.com/u/jey_s_tears) | 100
 . | [syentist](https://reddit.com/u/syentist) | 90
 . | [pa7x1](https://reddit.com/u/pa7x1) | 83
-. | [the-a-word](https://reddit.com/u/the-a-word) | 82
-. | [phimarhal](https://reddit.com/u/phimarhal) | 76
+. | [the-a-word](https://reddit.com/u/the-a-word) | 83
+. | [phimarhal](https://reddit.com/u/phimarhal) | 77
 . | [austonst](https://reddit.com/u/austonst) | 73
-. | [nixorokish](https://reddit.com/u/nixorokish) | 68
+. | [nixorokish](https://reddit.com/u/nixorokish) | 69
 . | [bob-rossi](https://reddit.com/u/bob-rossi) | 64
+. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 64
 . | [stablecoin](https://reddit.com/u/stablecoin) | 64
-. | [itur_ad_astra](https://reddit.com/u/itur_ad_astra) | 63
 . | [alexiskef](https://reddit.com/u/alexiskef) | 62
 . | [kbrot](https://reddit.com/u/kbrot) | 60
 . | [cryptrd285](https://reddit.com/u/cryptrd285) | 56
 . | [interweaver](https://reddit.com/u/interweaver) | 55
 . | [etheraider](https://reddit.com/u/etheraider) | 54
+. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 49
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
-. | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 47
 . | [needlerop](https://reddit.com/u/needlerop) | 47
 . | [seamonkey82](https://reddit.com/u/seamonkey82) | 46
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
 . | [15kisfud](https://reddit.com/u/15kisfud) | 45
+. | [dreth](https://reddit.com/u/dreth) | 43
 . | [realjohnbmaclemore](https://reddit.com/u/realjohnbmaclemore) | 42
 . | [barthib](https://reddit.com/u/barthib) | 40
-. | [dreth](https://reddit.com/u/dreth) | 40
+. | [wolfparking](https://reddit.com/u/wolfparking) | 40
 . | [eggill7227](https://reddit.com/u/eggill7227) | 39
 . | [savage-dragon](https://reddit.com/u/savage-dragon) | 39
 . | [waqwaqattack](https://reddit.com/u/waqwaqattack) | 39
 . | [spacesider](https://reddit.com/u/spacesider) | 38
 . | [pr0nh0li0](https://reddit.com/u/pr0nh0li0) | 37
-. | [wolfparking](https://reddit.com/u/wolfparking) | 37
 . | [aaj094](https://reddit.com/u/aaj094) | 36
 . | [ro-_-b](https://reddit.com/u/ro-_-b) | 36
+. | [adankairo](https://reddit.com/u/adankairo) | 35
 . | [maleficent_plankton](https://reddit.com/u/maleficent_plankton) | 35
 . | [domotheus](https://reddit.com/u/domotheus) | 34
 . | [papazio](https://reddit.com/u/papazio) | 33
+. | [hsuke](https://reddit.com/u/hsuke) | 32
 . | [rooftopportapotty](https://reddit.com/u/rooftopportapotty) | 32
 . | [thehansgruber](https://reddit.com/u/thehansgruber) | 32
-. | [hsuke](https://reddit.com/u/hsuke) | 31
-. | [_weboftrust](https://reddit.com/u/_weboftrust) | 30
-. | [ber10](https://reddit.com/u/ber10) | 30
+. | [_weboftrust](https://reddit.com/u/_weboftrust) | 31
+. | [ber10](https://reddit.com/u/ber10) | 31
+. | [asdafari12](https://reddit.com/u/asdafari12) | 30
+. | [bagogel12](https://reddit.com/u/bagogel12) | 30
 . | [liberosist](https://reddit.com/u/liberosist) | 30
 . | [mrvodnik](https://reddit.com/u/mrvodnik) | 30
 . | [revanchist1](https://reddit.com/u/revanchist1) | 30
-. | [asdafari12](https://reddit.com/u/asdafari12) | 29
-. | [bagogel12](https://reddit.com/u/bagogel12) | 29
-. | [adankairo](https://reddit.com/u/adankairo) | 28
 . | [coinanon](https://reddit.com/u/coinanon) | 28
 . | [ender985](https://reddit.com/u/ender985) | 28
 . | [hereimalive](https://reddit.com/u/hereimalive) | 28
@@ -117,6 +118,7 @@ Rank | Username   | Daily Doots
 . | [oyurukemono](https://reddit.com/u/oyurukemono) | 17
 . | [sikhsoldiers](https://reddit.com/u/sikhsoldiers) | 17
 . | [sourdoughpretzel4444](https://reddit.com/u/sourdoughpretzel4444) | 17
+. | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 17
 . | [ab111292](https://reddit.com/u/ab111292) | 16
 . | [buyethordai](https://reddit.com/u/buyethordai) | 16
 . | [dcinvestor](https://reddit.com/u/dcinvestor) | 16
@@ -129,7 +131,6 @@ Rank | Username   | Daily Doots
 . | [fiberpunk2077](https://reddit.com/u/fiberpunk2077) | 15
 . | [offmyporch](https://reddit.com/u/offmyporch) | 15
 . | [turbojetmegachrist](https://reddit.com/u/turbojetmegachrist) | 15
-. | [ugottrisomy21](https://reddit.com/u/ugottrisomy21) | 15
 . | [18boro](https://reddit.com/u/18boro) | 14
 . | [2peg2city](https://reddit.com/u/2peg2city) | 14
 . | [barleythecat](https://reddit.com/u/barleythecat) | 14
@@ -151,6 +152,8 @@ Rank | Username   | Daily Doots
 . | [proof-of-lake](https://reddit.com/u/proof-of-lake) | 12
 . | [quadraticsharting](https://reddit.com/u/quadraticsharting) | 12
 . | [replykindly](https://reddit.com/u/replykindly) | 12
+. | [shiftli](https://reddit.com/u/shiftli) | 12
+. | [sku](https://reddit.com/u/sku) | 12
 . | [unitedterror](https://reddit.com/u/unitedterror) | 12
 . | [aaqy](https://reddit.com/u/aaqy) | 11
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
@@ -160,46 +163,44 @@ Rank | Username   | Daily Doots
 . | [odds-bodkins](https://reddit.com/u/odds-bodkins) | 11
 . | [offthewall1066](https://reddit.com/u/offthewall1066) | 11
 . | [pegcity](https://reddit.com/u/pegcity) | 11
-. | [shiftli](https://reddit.com/u/shiftli) | 11
-. | [sku](https://reddit.com/u/sku) | 11
 . | [sparta89](https://reddit.com/u/sparta89) | 11
 . | [stobie](https://reddit.com/u/stobie) | 11
 . | [t0bii](https://reddit.com/u/t0bii) | 11
+. | [theethmeister](https://reddit.com/u/theethmeister) | 11
 . | [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 11
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
 . | [bakedent](https://reddit.com/u/bakedent) | 10
 . | [blueberry314e-2](https://reddit.com/u/blueberry314e-2) | 10
+. | [canadiens1993](https://reddit.com/u/canadiens1993) | 10
 . | [concernedcustomer33](https://reddit.com/u/concernedcustomer33) | 10
 . | [defirobot](https://reddit.com/u/defirobot) | 10
+. | [epic_trader](https://reddit.com/u/epic_trader) | 10
 . | [gumpa-bucky](https://reddit.com/u/gumpa-bucky) | 10
 . | [jin366](https://reddit.com/u/jin366) | 10
 . | [llamachef](https://reddit.com/u/llamachef) | 10
 . | [magnushansson](https://reddit.com/u/magnushansson) | 10
 . | [monkeyhold99](https://reddit.com/u/monkeyhold99) | 10
+. | [nextlevelfantasy](https://reddit.com/u/nextlevelfantasy) | 10
+. | [ournumber4](https://reddit.com/u/ournumber4) | 10
 . | [pocketwailord](https://reddit.com/u/pocketwailord) | 10
 . | [profstrangelove](https://reddit.com/u/profstrangelove) | 10
 . | [spinz808](https://reddit.com/u/spinz808) | 10
-. | [theethmeister](https://reddit.com/u/theethmeister) | 10
 . | [vandelay101](https://reddit.com/u/vandelay101) | 10
 . | [accidental_green](https://reddit.com/u/accidental_green) | 9
 . | [atyzze](https://reddit.com/u/atyzze) | 9
 . | [breeezyyyy](https://reddit.com/u/breeezyyyy) | 9
-. | [canadiens1993](https://reddit.com/u/canadiens1993) | 9
 . | [ch3white10](https://reddit.com/u/ch3white10) | 9
 . | [degenkolotoure](https://reddit.com/u/degenkolotoure) | 9
 . | [doubtstarsarefire](https://reddit.com/u/doubtstarsarefire) | 9
 . | [ec265](https://reddit.com/u/ec265) | 9
-. | [epic_trader](https://reddit.com/u/epic_trader) | 9
 . | [ethmaxitard](https://reddit.com/u/ethmaxitard) | 9
 . | [harryzke](https://reddit.com/u/harryzke) | 9
 . | [hocilef](https://reddit.com/u/hocilef) | 9
 . | [iscaacsi](https://reddit.com/u/iscaacsi) | 9
 . | [lawfultots](https://reddit.com/u/lawfultots) | 9
 . | [mkkoll](https://reddit.com/u/mkkoll) | 9
-. | [nextlevelfantasy](https://reddit.com/u/nextlevelfantasy) | 9
 . | [nightfallsh4](https://reddit.com/u/nightfallsh4) | 9
-. | [ournumber4](https://reddit.com/u/ournumber4) | 9
 . | [plaenar](https://reddit.com/u/plaenar) | 9
 . | [strtrd](https://reddit.com/u/strtrd) | 9
 . | [the_statustician](https://reddit.com/u/the_statustician) | 9
@@ -228,9 +229,11 @@ Rank | Username   | Daily Doots
 . | [roargrrrr](https://reddit.com/u/roargrrrr) | 8
 . | [showbizza](https://reddit.com/u/showbizza) | 8
 . | [sm3gh34d](https://reddit.com/u/sm3gh34d) | 8
+. | [smidge](https://reddit.com/u/smidge) | 8
 . | [themoondancekid](https://reddit.com/u/themoondancekid) | 8
 . | [weedstocks](https://reddit.com/u/weedstocks) | 8
 . | [yeahdave4](https://reddit.com/u/yeahdave4) | 8
+. | [bergmannskase](https://reddit.com/u/bergmannskase) | 7
 . | [betterluckythengood](https://reddit.com/u/betterluckythengood) | 7
 . | [charitablechair](https://reddit.com/u/charitablechair) | 7
 . | [childsp](https://reddit.com/u/childsp) | 7
@@ -245,10 +248,10 @@ Rank | Username   | Daily Doots
 . | [labrav](https://reddit.com/u/labrav) | 7
 . | [mayneminu](https://reddit.com/u/mayneminu) | 7
 . | [miaviv](https://reddit.com/u/miaviv) | 7
+. | [nick_badlands](https://reddit.com/u/nick_badlands) | 7
 . | [phigo50](https://reddit.com/u/phigo50) | 7
 . | [revolutionarysoil11](https://reddit.com/u/revolutionarysoil11) | 7
 . | [shitshotdead](https://reddit.com/u/shitshotdead) | 7
-. | [smidge](https://reddit.com/u/smidge) | 7
 . | [splintercole](https://reddit.com/u/splintercole) | 7
 . | [stalslagga](https://reddit.com/u/stalslagga) | 7
 . | [steven_a_mma_goat](https://reddit.com/u/steven_a_mma_goat) | 7
@@ -256,10 +259,10 @@ Rank | Username   | Daily Doots
 . | [thenextbestguess](https://reddit.com/u/thenextbestguess) | 7
 . | [thepaypay](https://reddit.com/u/thepaypay) | 7
 . | [unthinkablecryto](https://reddit.com/u/unthinkablecryto) | 7
+. | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 7
 . | [wanderingcryptowolf](https://reddit.com/u/wanderingcryptowolf) | 7
 . | [_etherium](https://reddit.com/u/_etherium) | 6
 . | [baggygravy](https://reddit.com/u/baggygravy) | 6
-. | [bergmannskase](https://reddit.com/u/bergmannskase) | 6
 . | [brambrameth](https://reddit.com/u/brambrameth) | 6
 . | [chromes](https://reddit.com/u/chromes) | 6
 . | [communist_mini_pesto](https://reddit.com/u/communist_mini_pesto) | 6
@@ -275,7 +278,6 @@ Rank | Username   | Daily Doots
 . | [imelia29](https://reddit.com/u/imelia29) | 6
 . | [logic_beach](https://reddit.com/u/logic_beach) | 6
 . | [nefariousnaz](https://reddit.com/u/nefariousnaz) | 6
-. | [nick_badlands](https://reddit.com/u/nick_badlands) | 6
 . | [nothingnotnever](https://reddit.com/u/nothingnotnever) | 6
 . | [oldskool47](https://reddit.com/u/oldskool47) | 6
 . | [pudgypeng](https://reddit.com/u/pudgypeng) | 6
@@ -286,7 +288,6 @@ Rank | Username   | Daily Doots
 . | [sfcpfc](https://reddit.com/u/sfcpfc) | 6
 . | [strawdar](https://reddit.com/u/strawdar) | 6
 . | [timwithnotoolbelt](https://reddit.com/u/timwithnotoolbelt) | 6
-. | [vinegar_strokes__](https://reddit.com/u/vinegar_strokes__) | 6
 . | [wholesome_crypto](https://reddit.com/u/wholesome_crypto) | 6
 . | [wootnasty](https://reddit.com/u/wootnasty) | 6
 . | [wurstgewitter](https://reddit.com/u/wurstgewitter) | 6
@@ -317,6 +318,7 @@ Rank | Username   | Daily Doots
 . | [perleflamme](https://reddit.com/u/perleflamme) | 5
 . | [rapante](https://reddit.com/u/rapante) | 5
 . | [rapidlysequencing](https://reddit.com/u/rapidlysequencing) | 5
+. | [rhythm_of_eth](https://reddit.com/u/rhythm_of_eth) | 5
 . | [shadowking94](https://reddit.com/u/shadowking94) | 5
 . | [sinnu2s](https://reddit.com/u/sinnu2s) | 5
 . | [skidseverywhere](https://reddit.com/u/skidseverywhere) | 5
@@ -495,6 +497,7 @@ Rank | Username   | Daily Doots
 . | [aur3l1us](https://reddit.com/u/aur3l1us) | 2
 . | [ayreuan](https://reddit.com/u/ayreuan) | 2
 . | [bakindhuman](https://reddit.com/u/bakindhuman) | 2
+. | [bananaboatspirit](https://reddit.com/u/bananaboatspirit) | 2
 . | [batmanrockss](https://reddit.com/u/batmanrockss) | 2
 . | [bennybennygg](https://reddit.com/u/bennybennygg) | 2
 . | [bibilieli](https://reddit.com/u/bibilieli) | 2
@@ -509,6 +512,7 @@ Rank | Username   | Daily Doots
 . | [carpathianinsomnia](https://reddit.com/u/carpathianinsomnia) | 2
 . | [caterpillarkitchen67](https://reddit.com/u/caterpillarkitchen67) | 2
 . | [comfortable_novel_49](https://reddit.com/u/comfortable_novel_49) | 2
+. | [consciousskyy](https://reddit.com/u/consciousskyy) | 2
 . | [consideritwon](https://reddit.com/u/consideritwon) | 2
 . | [cory_eth](https://reddit.com/u/cory_eth) | 2
 . | [cowsclaw](https://reddit.com/u/cowsclaw) | 2
@@ -539,6 +543,7 @@ Rank | Username   | Daily Doots
 . | [drogean3](https://reddit.com/u/drogean3) | 2
 . | [durkalurk](https://reddit.com/u/durkalurk) | 2
 . | [dwdwfeefwffffwef](https://reddit.com/u/dwdwfeefwffffwef) | 2
+. | [earthquakequestion](https://reddit.com/u/earthquakequestion) | 2
 . | [eddie_eddie](https://reddit.com/u/eddie_eddie) | 2
 . | [edrews99](https://reddit.com/u/edrews99) | 2
 . | [educatemybrain](https://reddit.com/u/educatemybrain) | 2
@@ -555,6 +560,7 @@ Rank | Username   | Daily Doots
 . | [haidren](https://reddit.com/u/haidren) | 2
 . | [hakuna_m4t4t4](https://reddit.com/u/hakuna_m4t4t4) | 2
 . | [hashtagfuzzmaster](https://reddit.com/u/hashtagfuzzmaster) | 2
+. | [hedgemagus](https://reddit.com/u/hedgemagus) | 2
 . | [ianazch](https://reddit.com/u/ianazch) | 2
 . | [ican20](https://reddit.com/u/ican20) | 2
 . | [icecreamketo](https://reddit.com/u/icecreamketo) | 2
@@ -563,6 +569,7 @@ Rank | Username   | Daily Doots
 . | [impliedpotential3497](https://reddit.com/u/impliedpotential3497) | 2
 . | [inter_mirifica](https://reddit.com/u/inter_mirifica) | 2
 . | [itchykittehs](https://reddit.com/u/itchykittehs) | 2
+. | [j8jweb](https://reddit.com/u/j8jweb) | 2
 . | [jackfreeman_](https://reddit.com/u/jackfreeman_) | 2
 . | [jacoblongesq](https://reddit.com/u/jacoblongesq) | 2
 . | [jamjodsnaj](https://reddit.com/u/jamjodsnaj) | 2
@@ -579,6 +586,7 @@ Rank | Username   | Daily Doots
 . | [leaguegreedy](https://reddit.com/u/leaguegreedy) | 2
 . | [ledgerthrowaway12345](https://reddit.com/u/ledgerthrowaway12345) | 2
 . | [leraq](https://reddit.com/u/leraq) | 2
+. | [letmegocrypto](https://reddit.com/u/letmegocrypto) | 2
 . | [lickmytongue77](https://reddit.com/u/lickmytongue77) | 2
 . | [ltwln](https://reddit.com/u/ltwln) | 2
 . | [lucadonnoh](https://reddit.com/u/lucadonnoh) | 2
@@ -625,6 +633,7 @@ Rank | Username   | Daily Doots
 . | [temporary-music-5468](https://reddit.com/u/temporary-music-5468) | 2
 . | [theubiquitousbubble](https://reddit.com/u/theubiquitousbubble) | 2
 . | [thisisnotlegal](https://reddit.com/u/thisisnotlegal) | 2
+. | [timbuknine](https://reddit.com/u/timbuknine) | 2
 . | [travist85](https://reddit.com/u/travist85) | 2
 . | [trent_vanepps](https://reddit.com/u/trent_vanepps) | 2
 . | [ubiest](https://reddit.com/u/ubiest) | 2
@@ -685,7 +694,6 @@ Rank | Username   | Daily Doots
 . | [badgast](https://reddit.com/u/badgast) | 1
 . | [bagsmcbaggins](https://reddit.com/u/bagsmcbaggins) | 1
 . | [ballsonyah](https://reddit.com/u/ballsonyah) | 1
-. | [bananaboatspirit](https://reddit.com/u/bananaboatspirit) | 1
 . | [barkieg](https://reddit.com/u/barkieg) | 1
 . | [battlepine](https://reddit.com/u/battlepine) | 1
 . | [benjamin](https://reddit.com/u/benjamin) | 1
@@ -722,6 +730,7 @@ Rank | Username   | Daily Doots
 . | [ccgirl21](https://reddit.com/u/ccgirl21) | 1
 . | [chazschmidt](https://reddit.com/u/chazschmidt) | 1
 . | [cheezin05](https://reddit.com/u/cheezin05) | 1
+. | [chefsplattermagik](https://reddit.com/u/chefsplattermagik) | 1
 . | [chicoconcarne](https://reddit.com/u/chicoconcarne) | 1
 . | [chris_dea](https://reddit.com/u/chris_dea) | 1
 . | [chrismartinasd](https://reddit.com/u/chrismartinasd) | 1
@@ -733,7 +742,6 @@ Rank | Username   | Daily Doots
 . | [coinedprince](https://reddit.com/u/coinedprince) | 1
 . | [colangelodid911](https://reddit.com/u/colangelodid911) | 1
 . | [competitive-regret21](https://reddit.com/u/competitive-regret21) | 1
-. | [consciousskyy](https://reddit.com/u/consciousskyy) | 1
 . | [cow_tipping_olympian](https://reddit.com/u/cow_tipping_olympian) | 1
 . | [cpayyyy](https://reddit.com/u/cpayyyy) | 1
 . | [crap___shoot](https://reddit.com/u/crap___shoot) | 1
@@ -786,7 +794,6 @@ Rank | Username   | Daily Doots
 . | [dybsy](https://reddit.com/u/dybsy) | 1
 . | [dystoxin](https://reddit.com/u/dystoxin) | 1
 . | [dysus1](https://reddit.com/u/dysus1) | 1
-. | [earthquakequestion](https://reddit.com/u/earthquakequestion) | 1
 . | [easy_like_sunday](https://reddit.com/u/easy_like_sunday) | 1
 . | [eddyg987](https://reddit.com/u/eddyg987) | 1
 . | [edyth933](https://reddit.com/u/edyth933) | 1
@@ -860,7 +867,6 @@ Rank | Username   | Daily Doots
 . | [hbar_10_dollars](https://reddit.com/u/hbar_10_dollars) | 1
 . | [headwar](https://reddit.com/u/headwar) | 1
 . | [heavy_bluebird_9692](https://reddit.com/u/heavy_bluebird_9692) | 1
-. | [hedgemagus](https://reddit.com/u/hedgemagus) | 1
 . | [hehechibby](https://reddit.com/u/hehechibby) | 1
 . | [helponadme1](https://reddit.com/u/helponadme1) | 1
 . | [henrycharles007](https://reddit.com/u/henrycharles007) | 1
@@ -893,7 +899,6 @@ Rank | Username   | Daily Doots
 . | [ivartheboneless873](https://reddit.com/u/ivartheboneless873) | 1
 . | [iwantmyownspaceship](https://reddit.com/u/iwantmyownspaceship) | 1
 . | [izz2011](https://reddit.com/u/izz2011) | 1
-. | [j8jweb](https://reddit.com/u/j8jweb) | 1
 . | [jade_sorceress](https://reddit.com/u/jade_sorceress) | 1
 . | [jadenpls](https://reddit.com/u/jadenpls) | 1
 . | [jamcowl](https://reddit.com/u/jamcowl) | 1
@@ -931,6 +936,7 @@ Rank | Username   | Daily Doots
 . | [loksfox](https://reddit.com/u/loksfox) | 1
 . | [longforwisdom](https://reddit.com/u/longforwisdom) | 1
 . | [looselaugh](https://reddit.com/u/looselaugh) | 1
+. | [lord_kikora](https://reddit.com/u/lord_kikora) | 1
 . | [lostick](https://reddit.com/u/lostick) | 1
 . | [lotec](https://reddit.com/u/lotec) | 1
 . | [lowelectrical9680](https://reddit.com/u/lowelectrical9680) | 1
@@ -974,6 +980,7 @@ Rank | Username   | Daily Doots
 . | [no_speaker8945](https://reddit.com/u/no_speaker8945) | 1
 . | [nodesinformatziya](https://reddit.com/u/nodesinformatziya) | 1
 . | [nomadic8893-](https://reddit.com/u/nomadic8893-) | 1
+. | [nomadineurope](https://reddit.com/u/nomadineurope) | 1
 . | [nomakoa](https://reddit.com/u/nomakoa) | 1
 . | [nomorealcohol2017](https://reddit.com/u/nomorealcohol2017) | 1
 . | [notimplementedtype](https://reddit.com/u/notimplementedtype) | 1
@@ -1020,7 +1027,6 @@ Rank | Username   | Daily Doots
 . | [responsiblegrass8080](https://reddit.com/u/responsiblegrass8080) | 1
 . | [reterical](https://reddit.com/u/reterical) | 1
 . | [revras8](https://reddit.com/u/revras8) | 1
-. | [rhythm_of_eth](https://reddit.com/u/rhythm_of_eth) | 1
 . | [ribilla_](https://reddit.com/u/ribilla_) | 1
 . | [rickandmowgli](https://reddit.com/u/rickandmowgli) | 1
 . | [rickshawjojo](https://reddit.com/u/rickshawjojo) | 1
@@ -1063,6 +1069,7 @@ Rank | Username   | Daily Doots
 . | [special-meaning3539](https://reddit.com/u/special-meaning3539) | 1
 . | [spupul6](https://reddit.com/u/spupul6) | 1
 . | [squaredk2](https://reddit.com/u/squaredk2) | 1
+. | [squirrel_in_lotus](https://reddit.com/u/squirrel_in_lotus) | 1
 . | [stache1](https://reddit.com/u/stache1) | 1
 . | [stella_ji](https://reddit.com/u/stella_ji) | 1
 . | [stinos_den_e](https://reddit.com/u/stinos_den_e) | 1
@@ -1100,7 +1107,6 @@ Rank | Username   | Daily Doots
 . | [three-polish-cowboys](https://reddit.com/u/three-polish-cowboys) | 1
 . | [thuanjinkee](https://reddit.com/u/thuanjinkee) | 1
 . | [tigawood](https://reddit.com/u/tigawood) | 1
-. | [timbuknine](https://reddit.com/u/timbuknine) | 1
 . | [timwmusic](https://reddit.com/u/timwmusic) | 1
 . | [tmturbo](https://reddit.com/u/tmturbo) | 1
 . | [tom_the_moose](https://reddit.com/u/tom_the_moose) | 1
@@ -1171,7 +1177,6 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Upcoming Guests**</summary>
 
-- Jan. 17 - Kate Laurence from [Bloccelerate](https://bloccelerate.vc/)
 - Jan. 24 - [DefiDad](https://x.com/DeFi_Dad)
 - Jan. 31 - Justin Drake on [Beam Chain](https://www.youtube.com/live/rGE_RDumZGg?t=7200)
 - Feb. 7 - Markus Haas from [Ethereum Phone](https://www.freedomfactory.io/)
@@ -1188,6 +1193,276 @@ Rank | Username   | Daily Doots
 - [Octant](https://octant.app/home) Epoch 6 Allocation Window starts January 11th!
 
 </details>
+
+
+
+
+
+
+
+
+<details>
+  <summary>#95: January 17, 2025</summary>
+
+[Listen Live](https://discord.gg/b67BUR8uuN)
+
+*Special guest Kate Laurence joins us from [Bloccelerate](https://bloccelerate.vc/), a venture fund backing blockchain companies.*
+
+<details>
+<summary>The morning roundup</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i3arl0/comment/m7lciln/)
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine)
+
+> Ethereum
+
+[u/FrenktheTank](https://reddit.com/u/FrenktheTank)
+
+> $3367.45
+
+[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
+
+> 3,559,611 Ethereans subscribed (+2,624)
+
+</details>
+<details>
+<summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i2jajk/comment/m7ja8hu/)
+
+H*older gets older,*
+
+*Beholder needs to smolder,*
+
+*Reach stakeholder.*
+
+</details>
+<details>
+<summary>Shitpost of the week: u/bobsagetslover420</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i2jajk/comment/m7jnwq5/)
+
+You know what we are doing wrong? We're talking about technological developments and use cases rather than just mindlessly posting threads titled "i want number go up" and "buy, buy, buy" over and over like a certain subreddit. Clearly they have the right idea based on price action
+
+</details>
+<details>
+<summary>u/epic_trader explains Ethereum's issuance policy</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hxyrqi/daily_general_discussion_january_10_2025/m6fhihu/)
+
+No, the idea isn't actually to be a deflationary currency.
+
+Ethereum has always had a goal of reaching a "minimal viable issuance", but it's not exactly clear what that amounts to. It seems somewhat likely that Ethereum will make 1 more adjustment to the issuance model, but probably that will be the last change, if any is made.
+
+Having the network issue ETH is what upholds the security of the network, this is how validators get paid. The fact that Bitcoin will stop issuing BTC is actually a huge potential problem because this is where miners get like 95% of their income from, the rest being from tx fees. So while it seems attractive to have 0 inflation on the surface, it's actually not a good design for the longterm. 
+
+The reason why ETH is burned in the first place, is due to the tx gas fee market. By burning the transaction fees, it's impossible for stakers to send free transactions and manipulate the gas fee market or accept payments in other currencies. 
+
+Right now there's a maximum possible theoretical issuance of around 1.5% annually, but that would require for every single ETH to be staked, and that's before considering the amount that gets burned.
+
+The actual current level of inflation is around 0.9% with around 35 million ETH staked, before accounting for burned ETH. After accounting for ETH burned, the inflation is pretty close to 0%.
+
+</details>
+<details>
+<summary>u/rhythm_of_eth shares their thoughts on how L2s aren't parasitic to Ethereum</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1hzh55o/daily_general_discussion_january_12_2025/m6q2486/)
+
+I think considering L2s parasites is a very superficial view of Ethereum. I understand why someone just looking at the price action might think that's the case. Ethereum is reinvesting its profits since 6-8 months ago, and it's not giving the speculators any big gains nor dividend ;)
+
+If we've learned something these past few years is that you cannot have an expensive cryptocurrency and a thriving decentralized economy at the same time. This is a balance that needs to be achieved.
+
+Before the ETH ticker rises, gas prices needs to go down massively. This is what blobs are achieving.
+
+If L2s were paying the fees they used to pay back in the beginning of 2024, no one would complain about them being parasitic, but then Ethereum would still be mostly a 14 TPS L1 with serious scaling problems, and no one would use it. All will gravitate towards Solana and others.
+
+The blob market is ridiculously cheap, and that is good. It's good because the amount of L2 activity keeps growing 30% monthly, and once blob fees from that increased activity start burning ETH at a decent pace, and once we get based rollups, there's really no stopping ETH.
+
+</details>
+<details>
+<summary>u/Canadiens1993 discusses the real fight which Ethereum is one of the few chains still fighting</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i08e3q/daily_general_discussion_january_13_2025/m6yth0m/)
+
+The fight against true decentralization is real and has increasingly been manifested through the constant and relentless coordinated attacks on ETH/Ethereum over the years. The current market (rising rates and fear of inflation etc.) are of course a key factor in the recent PA, but that combined with the negative sentiment artificially created only exacerbates downward pressure.
+
+BTC is not a threat to USG anymore - it’s de facto controlled by it (miners are now large corporations mostly concentrated in the US and subject to strict regulatory compliance and Gvt oversight…and now so are holders via the likes of BlackRock and Microstrategy). You can almost trace the change in sentiment for ETH back to the day of the Merge. Moving away from PoW really pissed off someone off… 
+
+Alt1s are also de facto controlled by USG, with Silicon Valley VCs and limited nodes/validators mostly in the US, all regulated and subject to USG oversight.
+
+It’s my biggest and single concern with ETH/Ethereum. It is too good at what it aims to be: a true instrument of change and decentralization. It is the most disruptive. The most cypherpunk. That’s what brought me to this space in the first place. The gains were just a reward for my conviction.  My hope is that this conviction, this cypherpunk ethos grabs hold of the narrative once again, otherwise it was all for naught.
+
+Ps: you can replace USG by any nation state (or the “Man”), but USG controls the world’s financial system and thus is likely the main culprit.
+
+[edit: glad to be schooled by our dear friend Logris: cypherpunk!!🤦🏻]
+
+</details>
+<details>
+<summary>u/Sku is thinking about the most common narrative and the counter play</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i08e3q/daily_general_discussion_january_13_2025/m6wjz8o/)
+
+Towards the end of last year, almost everyone seemed to be working on the assumption:
+
+* Pump in first half of January, anticipation for pro-crypto Trump presidency
+* Dump after inauguration, as expectation meets reality of not a lot actually happening (sell the news)
+
+I think because that idea became so embedded into many peoples minds, a lot of peoples strategy had them selling in early January, during what they assumed would be a pump season. As markets often do, we are seeing the opposite to what was expected, as everyone tries to front run the expected post inauguration sell off, and is taking profits now "before it's too late", causing the current sell side pressure.
+
+Since we are selling off now, I'd expect that means there is a chance this is the widely expected "sell off", and its just come early. In that case, sellers could actually be exhausting themselves already, and we may see the bottom out and turnaround faster than expected too. Sentiment already seems very bad, which is incredible given BTC still over $90k, and ETH still above $3k, a level it hasn't historically spent much time above. The longest time Ethereum spent over $3k USD was 15 weeks, in this current run we are on week 11.
+
+If this is the expected sell off, I'd say everything is actually holding up remarkably well when measured against comparable sell offs in prior cycles. It's amazing how quickly people forget how painful these sell offs can be, and I'd still argue we are seeing far less pain than we experienced last cycle when we climbed the "wall of worry" in the early bull market.
+
+All eyes are now on whether these $90k BTC and $3k ETH levels hold, which are likely to be seen as psychologically significant. This will tell us a lot about where we may be going next.
+
+</details>
+<details>
+<summary>u/UgotTrisomy21 compares the cost of banks vs Ethereum for remittances</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i08e3q/daily_general_discussion_january_13_2025/m6yixki/)
+
+I probably wasted my time in the r/investing subreddit trying to explain why stablecoin remittances are a huge use case that even crypto haters could appreciate (since many of them aren't aware of Ethereum/stablecoins and just associate crypto with "ponzi bitcoin" cause BTC has no utility), but I went through with it anyway doing a step by step write up (even logging into my bank account to simulate a wire transfer etc).
+
+It actually even surprised me a bit to see how much cheaper it truly was. This is a usecase that every normie/crypto hater should be able to get behind, because they don't even have to ever buy/touch any crypto asset (ETH included) outside of stablecoins (which they won't even have to hold for longer than 1 minute between sending/swapping back to fiat) and they'd be able to greatly benefit from it in terms of fees saved.
+
+See [my comment here](https://reddit.com/r/investing/comments/1i000iv/comment/m6yde8d/) for the full writeup.
+
+TLDR:
+
+As of right now, a US person can pay 0.25 cents to send $5,000 USD to someone in Europe, who would then receive 4883 Euros after 1 day.
+
+If that US person instead decides to send $5,000 USD via Chase Bank (just using the largest US bank as an example) to someone in Europe, they would only receive 4763 Euros after 1-3 days.
+
+Sending stablecoins would be faster and save you 120 Euros in fees compared to the traditional banking route.
+
+</details>
+<details>
+<summary>u/j8jweb asks ETH holders why we hold ETH and gets great responses from u/TimbukNine, u/nomadineurope, and u/PhiMarHal</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i10eon/daily_general_discussion_january_14_2025/m72szoo/)
+
+[u/j8jweb](https://reddit.com/u/j8jweb):
+
+Since you’re here, I assume you think ETH is either 1) a superior (or comparable) investment to BTC; or 2) a long shot that’s worth a punt.
+
+Which is it for most of you?
+
+Do you genuinely think ETH will catch up with (or outperform) BTC this cycle as it has in all previous cycles? Or has the landscape shifted so much in the past 4 years that this is now highly improbable?
+
+My patience has really been tested this cycle for some reason. Perhaps it’s because 6-figure BTC no longer feels remotely underpriced, and ETH is still “down here” near $3k, when it ought to be closer to $6k or $7k.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i10eon/daily_general_discussion_january_14_2025/m72xy81/)
+
+[u/TimbukNine](https://reddit.com/u/TimbukNine):
+
+The Ethereum ecosystem and capability is clearly far superior to Bitcoin, so I’m in it for the very long term. 
+
+That said, the sheer amount of money behind the industries supporting Bitcoin is vast and they have a vested interest in muddying the waters for anything that can be genuine competition. 
+
+The big players employ teams of developers and marketeers who promote anything that can be hyped into a “Bitcoin killer” or fast track to riches. This sucks investment away from actual threats who then find themselves floundering wondering why they aren’t getting anywhere while BTC continues to rise. The Bitcoin killers lose momentum when their owners pull the plug.
+
+A small prediction: Solana will collapse in March this year under a huge sell off from their VC backers.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i10eon/daily_general_discussion_january_14_2025/m7366ww/)
+
+[u/nomadineurope](https://reddit.com/u/nomadineurope):
+
+Neither.
+
+I simply think it has become one of the most widespread - if not most widespread - chains.
+
+It has the early comer's advantage plus significant momentum and I think the L2s have addressed a lot of the shortcomings such as high gas fees.
+
+From a developer's perspective there is a huge ROI on learning Solidity and EVM. 
+
+From a trader's perspective, I don't see ETH as appealing as, say BTC or the high volatility Solana coins.
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i10eon/daily_general_discussion_january_14_2025/m74kqva/)
+
+[u/PhiMarHal](https://reddit.com/u/PhiMarHal):
+
+Both but also a third one, the principle of asymmetry. The more undervalued ETH is, the greater the upside. Consensus investments make consensus money.
+
+What's the path forward for btc? Shilled by president of the United States, propped up by the MSTR ponzi, the Tether ponzi. It's not as if bitcoin will become useful, and we'll eventually run out of greater fools. Miners still drain billions of dollars from their ecosystem. bitcoin still has no plan for economic security in the long run.
+
+What's the path forward for ETH? Ethereum being actual tech that serves a purpose, it can very much scale to planetary needs and deliver a service the world is willing to pay a self-sustaining amount of fees for. We have contigencies for quantum computers and most other threat vectors.
+
+The main risk for Ethereum is that somehow we never manage to communicate that value to the wider world and can't justify high valuation. This would be a bizarre outcome because we already see consistent growth in adoption. I think it's only likely through some weird "black swans". The AI Singularity happens for real and we all turn into space communists with one giant impartial computer to administrate us all, trust in this system is absolute and money becomes obsolete. Or, World War 3 nukes us back to Stone Age. That level of black swanning.
+
+Any of those would kill bitcoin as well anyway. So the final equation is this: do I want more risk and less upside (btc), or less risk and more upside (ETH)?
+
+I think bitcoin only makes sense as an investment for a pure mercenary who believes blockchain is a sham, or at least thinks it'll never live up to the promises; our merc wants to get out at the right time this cycle and kiss crypto goodbye. With that outlook perhaps one could bet on bitcoin. But even with that mindset, still feels like buying at the top of the pyramid. Good luck to the brave merc, me I find believing in something easier.
+
+</details>
+<details>
+<summary>u/LogrisTheBard tells us about the future of AI x crypto</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i1rwrc/daily_general_discussion_january_15_2025/m7ex102/)
+
+Agents today are just a parlor trick of an open source model + some prompt engineering integrated with a Twitter bot. But AI agents can and *will* be so much more than that.
+
+When we make fine-tuning as a service and build AVSs that offer this to end users affordably people will be able to build their own personalized models for anything they like. Make a model that grades your math homework and serves as your tutor. Make a model that diagnoses cancer from MRI scans. Make a model that knows all your preferences and offers recommendations for shows to watch, things to repurchase on your usage schedule, etc without being diverted to inferior products because that makes Amazon more money. Make a model that fights Ethereum FUD so you don't have to type out long replies as you engage with CT trolls for fun.
+
+Eventually we'll attach something like Sentient.AI's billing approach to the model so they can be open sourced without forfeiting the revenue rights to the model indefinitely, then anyone will be able to host it for you for a negotiated revenue split. Then we can tokenize the model at the outset and reward those doing the training compute and those doing the data labeling by issuing them tokens that provide a claim upon the eventual revenue of the model. We'll wrap all of this in DePin so anyone can contribute compute to either train the model or host it on an inference market. We'll add TEE + snarks to prove the computation was done honestly. We'll attach TEE's+MPC to protect your privacy.
+
+Lastly we'll make DAOs that govern the data set the model is trained on so we can have community run fine-tuned models that those communities can monetize at the inference layer rather than the output layer.
+
+What you're seeing with AI agents now is overhyped. Using blockchains to organize efforts to create impactful fine-tuned models is underrated. Blockchains help us excel at human coordination. Crypto x AI is a more coordinated and hopefully value-aligned AI layer in the long term than is likely to be offered by for-profit companies.
+
+</details>
+<details>
+<summary>u/haurog updates us on the latest Pectra hardfork date estimates as well as what to expect with the upgrade</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i2jajk/daily_general_discussion_january_16_2025/m7hv43d/)
+
+During todays all core devs call the timeline for the pectra fork has been discussed. The plan is to have the following schedule:
+
+feb 3, publish new client releases for the upgrade by this date
+
+~feb 12, sepolia fork
+
+~feb 19, holesky fork
+
+and if all works well we will get a mainnet fork in march
+
+That sounds awesome. Looking forward to another great upgrade. 
+
+Exact block numbers for the upgrade will be determined in the coming days.
+
+Source:
+
+<https://x.com/christine_dkim/status/1879919371684127176>
+
+or 
+
+<https://xcancel.com/christine_dkim/status/1879919371684127176>
+
+---
+
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i2jajk/daily_general_discussion_january_16_2025/m7idlvl/)
+
+Let me try to answer that:
+
+- Double the amount of blob space. More rollups and cheaper transactions on them. Scaling that actually works.
+- Reduction of the number of validators but still keeping the same network security. Ethereum needs fewer resources. Scaling L1 will get easier. Will take some time to play out.
+- Account abstraction for your old addresses. Same convenience as smart contract accounts. Will take some time to play out.
+- You can exit your validator from your withdrawal address. Makes LSTs much more trustless. 
+- Increases costs for certain transaction types, which does not interfere with the normal user, but allows for a much more massive scaling of the L1.
+
+</details>
+<details>
+<summary>u/benido2030 introduces r/Ethereum to the EthFinance community delegates</summary>
+[View on Reddit →](https://reddit.com/r/ethereum/comments/1i2jajk/daily_general_discussion_january_16_2025/m7gds7e/)
+
+
+If you scroll all the way down in the [Daily Doots you will find a "delegates" section](https://dailydoots.com/#delegates). Back in the [r/ethfinance](https://reddit.com/r/ethfinance/) days, we started organizing and coordinating as a (reddit) community because there were some initiatives where we agreed that some things should happen (e.g. when one non-censoring relay went offline because of the inability to monetize we agreed to get the Aestus relay some funding via OP grants) or should not happen (e.g. when LDO applied for the (I believe it was) STIP in the Arbitrum ecosystem we coordinated and agreed to voice our concerns about / and vote against them receiving ARB to even further increase their market share).
+
+After that we thought we could take this even further and plan for new airdrops, find ethfinance delegates before TGE and delegate to community members when claiming was possible. This happened for e.g. Starknet, zksync and Scroll. There are many positive effects: You have a rather easy way to reach out to your delegate, either by tagging them or via DM. Delegates like [u/bob-rossi](https://reddit.com/user/bob-rossi/) have made regular governance updates to keep the community posted about proposals, discussions etc. in the different ecosystems. And if there are topics around an L2 or so, even without tagging, delegates will usually comment and share their thoughts and gather feedback if they are undecided.
+
+Does this mean that after the merge all [r/ethereum](https://reddit.com/r/ethereum/) members now should delegate to someone from the list? Of course not! You are free to choose any delegate, become a delegate and if you are a delegate I am sure we can add you to the list as well! But if you still have some L2 tokens (or even bought more in the past couple of months) and haven't delegated those yet, you might consider one of the people from the community.
+
+And if you have questions, I am sure we can activate most delegates to do a quick intro, answer questions and share their idea about why they are (still) delegate.
+
+</details>
+</details>
+
+
 
 
 
