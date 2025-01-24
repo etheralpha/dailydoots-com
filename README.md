@@ -1187,7 +1187,7 @@ Rank | Username   | Daily Doots
 - Jan. 31 - Justin Drake on [Beam Chain](https://www.youtube.com/live/rGE_RDumZGg?t=7200)
 - Feb. 7 - Markus Haas from [Ethereum Phone](https://www.freedomfactory.io/)
 - Feb. 14 - Adam Blumberg CFP from [Interaxis](https://www.interaxis.io/)
-- Feb. 21 - Vitalik? 🙏
+- Feb. 21 - TBD
 - Mar. 14 - Andy Lower from [Scenario Protocol](https://www.scenarioprotocol.io/)
 
 </details>
