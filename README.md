@@ -1186,11 +1186,12 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Upcoming Guests**</summary>
 
-- Jan. 31 - Justin Drake on [Beam Chain](https://www.youtube.com/live/rGE_RDumZGg?t=7200)
 - Feb. 7 - Markus Haas from [Ethereum Phone](https://www.freedomfactory.io/)
 - Feb. 14 - Adam Blumberg CFP from [Interaxis](https://www.interaxis.io/)
 - Feb. 21 - TBD
+- Mar. 7 - Ram Ahluwalia from [Lumida Wealth](https://www.lumidawealth.com/)
 - Mar. 14 - Andy Lower from [Scenario Protocol](https://www.scenarioprotocol.io/)
+- Mar. 28 - Grant Hummer from [Etherealize](https://etherealize.io/)
 
 </details>
 
@@ -2633,7 +2634,7 @@ Your mission is to consume the content, then comment with insight on this thread
 
 
 <details>
-  <summary>#93: January 5, 2025</summary>
+  <summary>#93: January 3, 2025</summary>
 
 [Listen Live](https://discord.gg/b67BUR8uuN)
 
