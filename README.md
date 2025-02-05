@@ -1191,6 +1191,7 @@ Rank | Username   | Daily Doots
 - Feb. 21 - TBD
 - Mar. 7 - Ram Ahluwalia from [Lumida Wealth](https://www.lumidawealth.com/)
 - Mar. 14 - Andy Lower from [Scenario Protocol](https://www.scenarioprotocol.io/)
+- Mar. 21 - BREAD from [MegaETH](https://www.megaeth.com/)
 - Mar. 28 - Grant Hummer from [Etherealize](https://etherealize.io/)
 
 </details>
