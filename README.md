@@ -46,9 +46,9 @@ Rank | Username   | Daily Doots
 . | [minimalgravitas](https://reddit.com/u/minimalgravitas) | 50
 . | [okdragonfruit1929](https://reddit.com/u/okdragonfruit1929) | 49
 . | [swagtimusprime](https://reddit.com/u/swagtimusprime) | 49
+. | [seamonkey82](https://reddit.com/u/seamonkey82) | 48
 . | [needlerop](https://reddit.com/u/needlerop) | 47
 . | [dreth](https://reddit.com/u/dreth) | 46
-. | [seamonkey82](https://reddit.com/u/seamonkey82) | 46
 . | [thecryptosandbloods](https://reddit.com/u/thecryptosandbloods) | 46
 . | [15kisfud](https://reddit.com/u/15kisfud) | 45
 . | [wolfparking](https://reddit.com/u/wolfparking) | 45
@@ -78,15 +78,15 @@ Rank | Username   | Daily Doots
 . | [coinanon](https://reddit.com/u/coinanon) | 28
 . | [decibels42](https://reddit.com/u/decibels42) | 28
 . | [ender985](https://reddit.com/u/ender985) | 28
-. | [vedran_](https://reddit.com/u/vedran_) | 27
+. | [vedran_](https://reddit.com/u/vedran_) | 28
 . | [busterrulezzz](https://reddit.com/u/busterrulezzz) | 26
 . | [eth10kisfud](https://reddit.com/u/eth10kisfud) | 26
+. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 26
 . | [therealsilentjohn](https://reddit.com/u/therealsilentjohn) | 26
+. | [eth2353](https://reddit.com/u/eth2353) | 25
 . | [kudeta](https://reddit.com/u/kudeta) | 25
 . | [maswasnos](https://reddit.com/u/maswasnos) | 25
-. | [somedaysitsdark](https://reddit.com/u/somedaysitsdark) | 25
 . | [spontaneousdream](https://reddit.com/u/spontaneousdream) | 25
-. | [eth2353](https://reddit.com/u/eth2353) | 24
 . | [heringsalat100](https://reddit.com/u/heringsalat100) | 24
 . | [vvpan](https://reddit.com/u/vvpan) | 24
 . | [wulkingdead](https://reddit.com/u/wulkingdead) | 24
@@ -161,6 +161,7 @@ Rank | Username   | Daily Doots
 . | [replykindly](https://reddit.com/u/replykindly) | 12
 . | [shiftli](https://reddit.com/u/shiftli) | 12
 . | [theethmeister](https://reddit.com/u/theethmeister) | 12
+. | [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 12
 . | [unitedterror](https://reddit.com/u/unitedterror) | 12
 . | [cemalpersimsek](https://reddit.com/u/cemalpersimsek) | 11
 . | [cutsnek](https://reddit.com/u/cutsnek) | 11
@@ -175,7 +176,6 @@ Rank | Username   | Daily Doots
 . | [sparta89](https://reddit.com/u/sparta89) | 11
 . | [t0bii](https://reddit.com/u/t0bii) | 11
 . | [the_statustician](https://reddit.com/u/the_statustician) | 11
-. | [twelvemeatballs](https://reddit.com/u/twelvemeatballs) | 11
 . | [vuduchyld](https://reddit.com/u/vuduchyld) | 11
 . | [altsaretrash](https://reddit.com/u/altsaretrash) | 10
 . | [bakedent](https://reddit.com/u/bakedent) | 10
@@ -247,6 +247,7 @@ Rank | Username   | Daily Doots
 . | [childsp](https://reddit.com/u/childsp) | 7
 . | [clamchoda](https://reddit.com/u/clamchoda) | 7
 . | [cosmiccollusion](https://reddit.com/u/cosmiccollusion) | 7
+. | [ethzenn](https://reddit.com/u/ethzenn) | 7
 . | [eviljordan](https://reddit.com/u/eviljordan) | 7
 . | [jbroja](https://reddit.com/u/jbroja) | 7
 . | [jmart762](https://reddit.com/u/jmart762) | 7
@@ -281,7 +282,6 @@ Rank | Username   | Daily Doots
 . | [dr_lambo_mcmoontard](https://reddit.com/u/dr_lambo_mcmoontard) | 6
 . | [ecguy1011](https://reddit.com/u/ecguy1011) | 6
 . | [el-coco-no](https://reddit.com/u/el-coco-no) | 6
-. | [ethzenn](https://reddit.com/u/ethzenn) | 6
 . | [hombredecamote](https://reddit.com/u/hombredecamote) | 6
 . | [imelia29](https://reddit.com/u/imelia29) | 6
 . | [logic_beach](https://reddit.com/u/logic_beach) | 6
@@ -658,7 +658,6 @@ Rank | Username   | Daily Doots
 . | [yawarasuuna](https://reddit.com/u/yawarasuuna) | 2
 . | [yo__ho](https://reddit.com/u/yo__ho) | 2
 . | [yourburningpizza](https://reddit.com/u/yourburningpizza) | 2
-. | [zerotrick](https://reddit.com/u/zerotrick) | 2
 . | [zerotricks](https://reddit.com/u/zerotricks) | 2
 . | [zestykite](https://reddit.com/u/zestykite) | 2
 . | [--mrx](https://reddit.com/u/--mrx) | 1
@@ -941,6 +940,7 @@ Rank | Username   | Daily Doots
 . | [laughing__cow](https://reddit.com/u/laughing__cow) | 1
 . | [lavop](https://reddit.com/u/lavop) | 1
 . | [lawsonm9](https://reddit.com/u/lawsonm9) | 1
+. | [lechuga2010](https://reddit.com/u/lechuga2010) | 1
 . | [ledrsatan](https://reddit.com/u/ledrsatan) | 1
 . | [leperen](https://reddit.com/u/leperen) | 1
 . | [littlebigdondon](https://reddit.com/u/littlebigdondon) | 1
@@ -1170,6 +1170,7 @@ Rank | Username   | Daily Doots
 . | [zkstx](https://reddit.com/u/zkstx) | 1
 . | [zoopzo](https://reddit.com/u/zoopzo) | 1
 . | [zora](https://reddit.com/u/zora) | 1
+
 
 
 
