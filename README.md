@@ -1212,7 +1212,8 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Announcements**</summary>
 
-- EVMavericks Podcast BBQ will be on Wednesday 2/26 at Ethdenver (location TBD)
+- Thursday, February 27 - [EVMavericks Super Smash Bros LAN party](https://lu.ma/ovj4jog2)
+- Friday, February 28 - [EVMavericks ETHDenver BBQ](https://lu.ma/yp2urbog)
 
 </details>
 
@@ -1269,7 +1270,7 @@ Rank | Username   | Daily Doots
 
 Hi frens, happy friday
 
-BTC ETFs had ~157M net outflows
+BTC ETFs had \~157M net outflows
 
 # ETH stats
 
