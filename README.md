@@ -1212,8 +1212,8 @@ Rank | Username   | Daily Doots
 <details open>
   <summary>**Announcements**</summary>
 
-- Thursday, February 27 - [EVMavericks Super Smash Bros LAN party](https://lu.ma/ovj4jog2)
-- Friday, February 28 - [EVMavericks ETHDenver BBQ](https://lu.ma/yp2urbog)
+- Thursday, February 27 - [ETHDenver Super Smash Bros LAN party + BBQ](https://lu.ma/ovj4jog2)
+- Friday, February 28 - [ETHDenver BBQ](https://lu.ma/yp2urbog)
 
 </details>
 
