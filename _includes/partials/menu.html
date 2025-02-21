@@ -1,0 +1,156 @@
+<style type="text/css">
+  #navMenu {
+    padding: 0.75rem;
+    padding-top: 0.95rem;
+    color: var(--brand-color-1);
+  }
+  #navMenu .menu-brand {
+    /*margin-left: 0.75rem;*/
+    margin-left: 5px;
+  }
+  #navMenu .menu-brand a {
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    font-size: 1.25rem;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  }
+  #navMenu .menu-brand img {
+    margin-top: -1px;
+    width: 150px;
+    opacity: 95%;
+  }
+  #navMenu .menu-brand svg {
+    font-size: 1.25rem;
+    margin-top: -3px;
+    margin-right: -2px;
+  }
+  #navMenu .heading {
+    font-weight: 500;
+    color: var(--brand-color-2);
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    line-height: 1rem;
+    letter-spacing: 1px;
+    margin-top: 1rem;
+  }
+  #navMenu .heading span {
+    display: inline-block;
+    font-size: 2em;
+    /* filter: grayscale(100%); */
+    vertical-align: middle;
+    margin-top: -5px;
+  }  #navMenu .menu-items {
+    margin-left: 5px;
+  }
+  #navMenu .menu-link {
+    display: block;
+    width: 100%;
+    /*opacity: 0.8;*/
+    padding: 0.45rem 0.8rem;
+    margin-bottom: 0.125rem;
+    overflow-wrap: break-word;
+    text-decoration: none;
+    color: var(--brand-color-1);
+  }
+  #navMenu .menu-link.disabled {
+    opacity: 0.5;
+  }
+  #navMenu .menu-link:hover {
+    opacity: 1;
+    background-color: rgba(246,246,246,0.1);
+    border-radius: var(--brand-radius);
+  }
+  #navMenu hr {
+    margin: 0.75rem 0.25rem;
+  }
+  #navMenu .credit {
+    display: block;
+    width: 100%;
+    padding: 0.265rem 0.4rem;
+    margin-left: 5px;
+    overflow-wrap: break-word;
+    text-decoration: none;
+    /*color: #8f9092;*/
+    font-size: 0.75rem;
+  }
+  #navMenu .credit div {
+    margin-bottom: 0.4rem;
+  }
+</style>
+
+
+<div id="navMenu" class="d-flex flex-column h-100">
+  <div class="menu-brand">
+    <a href="/" class="link-light">
+      <img src="/assets/img/logo/logo.png">
+    </a>
+    <p></p>
+    <div class="heading mb-3">EVMavericks <span>🤝</span> r/ethereum</div>
+  </div>
+  <div class="menu-items">
+    <a href="/" class="menu-link">
+      {{site.data.icons.columns_gap}}
+      <span class="ms-2">Overview</span>
+    </a>
+    <a href="/leaderboard" class="menu-link">
+      {{site.data.icons.award}}
+      <span class="ms-2">Leaderboard</span>
+    </a>
+    <a href="/daily" class="menu-link">
+      {{site.data.icons.bookmark}}
+      <span class="ms-2">Current Daily</span>
+    </a>
+    <a href="/daily-previous" class="menu-link">
+      {{site.data.icons.bookmark}}
+      <span class="ms-2">Previous Daily</span>
+    </a>
+    <a href="/daily-threads" class="menu-link">
+      {{site.data.icons.archive}}
+      <span class="ms-2">Daily Threads</span>
+    </a>
+    <a href="/podcast" class="menu-link">
+      {{site.data.icons.microphone}}
+      <span class="ms-2">Podcast</span>
+    </a>
+    <!-- <a href="/series" class="menu-link disabled">
+      {{site.data.icons.collection}}
+      <span class="ms-2">Series <span class="badge rounded-pill text-bg-light">soon™</span></span>
+    </a> -->
+    <a href="/delegates" class="menu-link">
+      {{site.data.icons.people}}
+      <span class="ms-2">Delegates</span>
+    </a>
+    <a href="/profiles" class="menu-link">
+      {{site.data.icons.profile}}
+      <span class="ms-2">Profiles</span>
+    </a>
+
+    <hr>
+
+    <div class="heading">Resources</div>
+    <a href="/evmavericks" class="menu-link">
+      {{site.data.icons.lion}}
+      <span class="ms-2">EVMavericks</span>
+    </a>
+    <a href="/events" class="menu-link">
+      {{site.data.icons.calendar_week}}
+      <span class="ms-2">Events</span>
+    </a>
+    <a href="https://github.com/etheralpha/ethfinance-extension/" class="menu-link">
+      {{site.data.icons.puzzle}}
+      <span class="ms-2">Extension</span>
+    </a>
+    <a href="https://ethdash.xyz/" class="menu-link">
+      {{site.data.icons.chart}}
+      <span class="ms-2">Dashboards</span>
+    </a>
+  </div>
+  <hr class="mt-auto">
+  <div class="credit">
+    <div>Contribute on <a href="https://github.com/etheralpha/dailydoots-com" target="_blank" class="link">Github</a></div>
+    <div>Maintained by <a href="https://twitter.com/hanni_abu" target="_blank" class="link">hanniabu.eth</a></div>
+    <div><a href="/tools" class="link">Maintenance Tools</a></div>
+  </div>
+</div>
+

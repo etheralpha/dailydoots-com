@@ -1,0 +1,51 @@
+<style type="text/css">
+  #eventsTable table tr td:first-child {
+    min-width: 9rem;
+  }
+  #eventsTable td:not(:first-child),
+  #eventsTable th:not(:first-child) {
+    min-width: 10.5rem;
+  }
+  #eventsTable td:last-child,
+  #eventsTable th:last-child {
+    min-width: 4rem;
+  }
+</style>
+
+
+<small class="opacity-75">
+  * Not an Ethereum-specific event
+</small>
+
+<div id="eventsTable" class="table-responsive" markdown=1>
+
+Date | Event | Location | Add
+-----|-------|----------|-----
+
+{%- assign events = site.data.events %}
+{%- assign limit_count = 5000 -%}
+{%- if include.limit -%}
+  {%- assign limit_count = include.limit -%}
+{%- endif -%}
+{%- for event in events limit:limit_count %}
+{% capture date -%}
+  {{event.start_date | date: "%b %d"}} - {{event.end_date | date: "%b %d"}}
+{%- endcapture -%}
+{%- if event.date -%}
+  {%- assign date = event.date -%}
+{%- endif -%}
+{%- capture invite_link -%}
+  {%- assign start_date = event.start_date | replace: '-','' -%}
+  {%- assign end_date = event.end_date | replace: '-','' -%}
+  {%- assign title = event.title | replace: ' ','' -%}
+  {%- assign link = event.link -%}
+  {%- assign location = event.location | replace: ',','' | replace: ' ','+' -%}
+  [🗓️](https://www.google.com/calendar/render?action=TEMPLATE&text={{title}}&dates={{start_date}}/{{end_date}}&details={link}}&location={{location}}&output=xml)
+{%- endcapture -%}
+{%- if event.date -%}
+  {%- assign invite_link = '-' -%}
+{%- endif -%}
+{{date}} | [{{event.title}}]({{event.link}}) | {{event.location}} | {{invite_link}}{% endfor %}
+
+</div>
+

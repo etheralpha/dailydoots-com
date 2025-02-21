@@ -1,0 +1,111 @@
+# Schema
+# title:  #string; link group title
+# text:   #string; link text
+# link:   #url; link url
+# extra:  #string; additional comments not part of link, such as "(thanks to @RisingPaw)"
+
+
+# Template to copy for new entries
+# - title: 
+#   items:
+#   - text: 
+#     link: 
+#   - text: 
+#     link: 
+
+
+# Entries are shown in the order listed
+- title: What is EVMavericks?
+  items:
+  - text: Lionpaper
+    link: https://mirror.xyz/0xCF68C873D6925F30FFF58E2BdF2D8DA4c9c6f0Be/61meL896f1tgAIwpEyK8UR4OR9eP_igPGKZO5WneN8M
+  - text: Mega Post
+    link: https://www.reddit.com/r/ethfinance/comments/u0ydiv/evmavericks_the_mega_post
+
+
+- title: Official Resources
+  items:
+    - text: Website
+      link: https://dao.evmavericks.xyz/
+      extra: (thanks to @RisingPaw)
+    - text: EVMavericks NFT
+      link: https://opensea.io/collection/evmavericks
+    - text: EIPandas NFT
+      link: https://opensea.io/collection/eipandas
+    - text: EVMZ Token
+      link: https://etherscan.io/token/0x9d8b6b46d8b1a7fc64995fcf0328dc009a4239cc
+      extra: (Fractionalized EVM \#0 "Roary")
+
+
+- title: Social Media Links
+  items:
+    - text: EVMavericks Discord
+      link: https://discord.gg/EVMavericks
+    - text: EVMavericks Twitter
+      link: https://twitter.com/evmavericks
+    - text: EVMavericks Youtube
+      link: https://youtube.com/@evmavericks
+    - text: EVMavericks Doots Podcast
+      link: https://pods.media/evmavericks
+    - text: EVMavericks Farcaster
+      link: https://warpcast.com/~/channel/evmavericks
+    - text: ╰  Starter Pack
+      link: https://warpcast.com/insidethesim.eth/pack/EVMavericks-xicpzt
+    - text: ╰  Group Chat
+      link: https://warpcast.com/~/group/y5adXR399_xqBYV0dE7gSg
+    - text: Ethereum Subreddit
+      link: https://www.reddit.com/r/ethereum
+    - text: Ethfinance Subreddit
+      link: https://www.reddit.com/r/ethfinance
+      extra: (merged into r/ethereum)
+
+
+- title: DAO Links
+  items:
+    - text: Snapshot
+      link: https://snapshot.box/#/s:evmaverick.eth
+    - text: Discourse
+      link: https://forum.evmavericks.xyz/
+    - text: Dework
+      link: https://app.dework.xyz/evms-dao
+    - text: Github
+      link: https://github.com/EVMavericks
+    - text: Karma GAP (Doots)
+      link: https://gap.karmahq.xyz/project/evmavericks-doots-podcast
+    - text: DAO Multisig
+      link: https://etherscan.io/address/0x29816F59f1c7E1ba69289cf486556929F7743cA2
+    - text: Stewards Multisig
+      link: https://etherscan.io/address/0x5e85CF8751F2f4f74468Eef68688ff9C4B43f9cf
+    - text: Doots Multisig
+      link: https://etherscan.io/address/0x09A38B6187a2c44B6ba71c277c50764B5878b824
+    - text: Rocket School Multisig
+      link: https://etherscan.io/address/0x60e83a5c5c72320763af528244bfd69ad05295e2
+    - text: Chad Fund Multisig
+      link: https://etherscan.io/address/0x33b71b1addd6dbdb45c1848a6d3c6259c735ccdc
+
+
+- title: Community Links
+  items:
+    - text: EVMavericks Info (Dune)
+      link: https://dune.com/mtitus6/evmavericks
+      extra: (thanks to @titey)
+    - text: EVMavericks Resume (Dune)
+      link: https://dune.com/mtitus6/EVMavericks-Resume
+      extra: (thanks to @titey)
+    - text: Rocket School
+      link: https://therocketschool.xyz/
+      extra: (thanks to @Rocket School team)
+    - text: Daily Doots
+      link: https://dailydoots.com/
+      extra: (thanks to @hanniabu)
+    - text: RatioGang
+      link: https://ratiogang.com/
+      extra: (thanks to @🐬 InsideTheSimulation ⓪)
+    - text: Tokenomics Explained
+      link: https://tokenomicsexplained.com/
+      extra: (thanks to @LogrisTheBard)
+
+- title: Branding
+  items:
+    - text: EVMavericks Base Image
+      link: /assets/files/evmavericks-base.tiff

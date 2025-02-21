@@ -1,0 +1,46 @@
+<small class="opacity-75">
+  <a class="text-light" href="https://etherscan.io/address/0x09A38B6187a2c44B6ba71c277c50764B5878b824">Donate to support the show</a>
+</small>
+
+<div class="row gx-4">
+  <div class="col mb-3">
+    <section>
+      <p class="mb-3">📣 Join the <a href="https://www.youtube.com/@evmavericks/streams">Doots Livestream</a> every Friday 2pm EST in the <a href="https://discord.gg/evmavericks">EVMavericks Discord</a> for a discussion with a guest and a roundup of the top 10 r/ethereum comments of the week!</p>
+      <div class="text-center mb-3">
+        <label for="podcastPlatforms" class="d-none d-sm-inline-block small me-2">Listen On: </label>
+        <div id="podcastPlatforms" class="btn-group" role="group" aria-label="podcast platforms">
+          <a class="btn btn-outline-light" href="https://evmavericks.libsyn.com/">Libsyn</a>
+          <a class="btn btn-outline-light" href="https://pods.media/evmavericks">Pods</a>
+          <a class="btn btn-outline-light" href="https://www.youtube.com/@evmavericks/streams">Youtube</a>
+          <a class="btn btn-outline-light" href="https://open.spotify.com/show/08KYYXtOqzZbMpiciUt42I">Spotify</a>
+        </div>
+      </div>
+      <div class="text-center mb-3">
+        <iframe 
+          style="aspect-ratio: 16 / 9; width: 100%; max-width: 500px;" 
+          src="https://www.youtube.com/embed/?listType=playlist&list=UU51nlNbIkBm5Qhm7EwQuWLw" 
+          frameborder="0"
+          allowfullscreen></iframe>
+      </div>
+    </section>
+  </div>
+  <div class="col mb-3">
+    {%- assign announcements_size = site.data.announcements | size -%}
+    {%- if announcements_size > 0 -%}
+      <h6>Announcements</h6>
+      <section class="tight">
+        {%- for announcement in site.data.announcements -%}
+          {{"- " | append: announcement.message | markdownify}}
+        {%- endfor -%}
+      </section>
+    {%- endif -%}
+    <h6>Upcoming Guests</h6>
+    <section>
+      <ul>
+        {%- for guest in site.data.guests -%}
+          <li>{{guest | markdownify | replace: '<p>', '' | replace: '</p>', ''}}</li>
+        {%- endfor -%}
+      </ul>
+    </section>
+  </div>
+</div>

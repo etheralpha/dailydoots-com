@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100" data-bs-theme="dark">
+  {%- include partials/head.html -%}
+  <body class="d-lg-flex min-vh-100">
+    
+    <aside class="d-none d-lg-inline">
+      {%- include partials/menu.html -%}
+    </aside>
+    {%- include partials/menu-mobile.html -%}
+
+    <main class="flex-grow-1 d-flex flex-column">
+      {%- include partials/topbar.html -%}
+      {%- if page.title -%}
+        <h1 class="h3 mb-4 pb-2 fw-normal">{{page.title}}</h1>
+      {%- endif -%}
+
+      {{content}}
+
+      <!-- page bottom padding -->
+      <div class="my-2 my-md-3"></div>
+    </main>
+
+    <!-- Bootstrap 5 JS -->
+    {{site.bootstrap_js}}
+    <!-- Custom JS -->
+  	<script src="/assets/js/main.js" type="application/javascript"></script>
+  </body>
+</html>

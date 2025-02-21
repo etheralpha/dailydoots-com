@@ -1,0 +1,125 @@
+# Schema
+# username:  #string; reddit username
+# project:   #string; name of project
+# profile:   #url; link to delegate profile
+
+
+# Template to copy for new entries
+# - username: 
+#   project: 
+#   profile: 
+
+
+# Entries are shown in the order listed
+- username: _weboftrust
+  project: Arbitrum
+  profile: https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9
+- username: bob-rossi
+  project: Arbitrum
+  profile: https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9
+- username: dmihal
+  project: Arbitrum
+  profile: https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9
+- username: thenextbestguess
+  project: Arbitrum
+  profile: https://www.tally.xyz/profile/fishfearme.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9
+- username: waqwaqattack
+  project: Arbitrum
+  profile: https://www.tally.xyz/profile/0x2600846f4401ae10ca760604036a891bb896649e?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9
+- username: ytocin
+  project: Arbitrum
+  profile: https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:42161:0xf07DeD9dC292157749B6Fd268E37DF6EA38395B9
+- username: lefterisjp
+  project: Diva
+  profile: https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70
+- username: sikhsoldiers
+  project: Diva
+  profile: https://www.tally.xyz/profile/jasperthefriendlyghost.eth?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70
+- username: superphiz
+  project: Diva
+  profile: https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70
+- username: waqwaqattack
+  project: Diva
+  profile: https://www.tally.xyz/profile/0x2600846f4401ae10ca760604036a891bb896649e?governanceId=eip155:1:0xFb6B7C11a55C57767643F1FF65c34C8693a11A70
+- username: dmihal
+  project: ENS
+  profile: https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3
+- username: lefterisjp
+  project: ENS
+  profile: https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3
+- username: superphiz
+  project: ENS
+  profile: https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0x323A76393544d5ecca80cd6ef2A560C6a395b7E3
+- username: lefterisjp
+  project: Gitcoin
+  profile: https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xDbD27635A534A3d3169Ef0498beB56Fb9c937489
+- username: bob-rossi
+  project: Hop
+  profile: https://www.tally.xyz/profile/bobrossi.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48
+- username: dmihal
+  project: Hop
+  profile: https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48
+- username: dybsy
+  project: Hop
+  profile: https://www.tally.xyz/profile/dybsy.sismo.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48
+- username: lefterisjp
+  project: Hop
+  profile: https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48
+- username: liberosist
+  project: Hop
+  profile: https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48
+- username: superphiz
+  project: Hop
+  profile: https://www.tally.xyz/profile/superphiz.eth?governanceId=eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48
+- username: _weboftrust
+  project: Optimism
+  profile: https://www.tally.xyz/profile/hailvitalik.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: dmihal
+  project: Optimism
+  profile: https://www.tally.xyz/profile/mihal.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: lefterisjp
+  project: Optimism
+  profile: https://www.tally.xyz/profile/lefteris.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: liberosist
+  project: Optimism
+  profile: https://www.tally.xyz/profile/polynya.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: minimalgravitas
+  project: Optimism
+  profile: https://www.tally.xyz/profile/minimalgravitas.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: pseudotheos
+  project: Optimism
+  profile: https://www.tally.xyz/profile/pseudotheos.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: ytocin
+  project: Optimism
+  profile: https://www.tally.xyz/profile/ytocin.eth?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10
+- username: defewit
+  project: Scroll
+  profile: https://gov.scroll.io/delegates/norin.eth
+- username: _weboftrust
+  project: Starknet
+  profile: https://governance.starknet.io/delegates/profile/50b1e132-b38c-4c44-8c40-021f950e276b
+- username: atleft
+  project: Starknet
+  profile: https://governance.starknet.io/delegates/profile/515ad8e2-8b42-440c-b0ea-0f09a46557a6
+- username: web3magnetic
+  project: Starknet
+  profile: https://governance.starknet.io/delegates/profile/73b1cb65-edd9-4960-9e7a-f6e9d25a8867
+- username: dcinvestor
+  project: Uniswap
+  profile: https://www.tally.xyz/profile/dcinvestor.eth?governanceId=eip155:1:0x408ED6354d4973f66138C91495F2f2FCbd8724C3
+- username: _weboftrust
+  project: ZKsync
+  profile: https://www.tally.xyz/gov/zksync/delegate/0x7aaba482329d001d9ab7120f0546b6760ae3fe19
+- username: benido2030
+  project: ZKsync
+  profile: https://www.tally.xyz/gov/zksync/delegate/0x05429d5113c06405398f613eaad632f5a00b43e1
+- username: haurog
+  project: ZKsync
+  profile: https://www.tally.xyz/gov/zksync/delegate/haurog.eth
+- username: web3magnetic
+  project: ZKsync
+  profile: https://www.tally.xyz/gov/zksync/delegate/web3magnetic.eth
+
+
+
+

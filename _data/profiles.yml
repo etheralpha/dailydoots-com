@@ -1,0 +1,154 @@
+# Schema
+# username:     #string; reddit username
+# description:  #string; description of company/project, or just description alone
+
+
+# Template to copy for new entries
+# - username: 
+#   background: 
+
+
+# Entries are shown in the order listed
+- username: 0xdefiant
+  background: "[Bankless Advisor Founder](https://www.banklessadvisor.com/) - A web3 social trading platform"
+- username: 404bachee
+  background: "Creating an LSD DEX and lending app"
+- username: 696_eth
+  background: "[EVMavericks Weekly](https://evmavericks-weekly.netlify.app/) - The top EVMavericks events of the week"
+- username: alau1218
+  background: "[MES Protocol Developer ](https://www.mesprotocol.com/)"
+- username: atleft
+  background: "[Influence](https://www.influenceth.io/) - An open-economy, space strategy MMO in which players own all of their content"
+- username: austonst
+  background: "[Aestus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for validators and block builders"
+- username: bbroad25
+  background: "“0.08 today, easy.”"
+- username: brambramEth
+  background: "Working on a seed phrase recovery tool"
+- username: bullmeza
+  background: "[Bequest](https://www.bequest.finance/) - A Dead Man's switch to distribute your tokens and NFTs to selected recipients"
+- username: captainloud
+  background: "[Boasty](https://boasty.app/) - Schedule posts to publish on Ethereum"
+- username: clamchoda
+  background: "“༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ”"
+- username: corn-potage
+  background: "[NiceNode Front End Dev](http://nicenode.xyz/)"
+- username: cryptojobsgg
+  background: "[CryptoJobs.gg](https://cryptojobs.gg/) - The #1 crypto jobs board for employers and future employees"
+- username: cryptouf
+  background: "[Unofficial Curve Newsletter](https://cryptouf.substack.com/) - A newsletter about what's happening in Curve Finance"
+- username: danceratopz
+  background: "[disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits"
+- username: davidahoffman
+  background: "[Bankless Co-Founder](https://www.bankless.com/) - A guide for the crypto journey"
+- username: daw_
+  background: "[AirdropScan](https://airdropscan.org/) - Find unclaimed crypto airdrops"
+- username: dmihal
+  background: "[CryptoStats Founder](https://cryptostats.community/) - A community-driven neutral source for crypto metrics"
+- username: domotheus
+  background: "EF Researcher"
+- username: dreth
+  background: "[dac.ac](https://dac.ac); Writing a book about crypto/defi"
+- username: edmundedgar
+  background: "An r/ethereum moderator"
+- username: eetherway
+  background: "[Influence](https://www.influenceth.io/) - A web3 open-economy, space strategy MMO; [Unstoppable Games Team](https://www.unstoppablegames.io/)"
+- username: empirestake
+  background: "[Lantern Finance Co-Founder](https://www.lantern.finance/) - A US-based staking platform"
+- username: ethmaxitard
+  background: "[L2 Cheatsheet](https://mirror.xyz/ethmaxitard.eth/iyCAlOexgQKOvoSAAk4utYGEdnESOKb5HstM2_LaqL4) - A directory of L2 resources"
+- username: fc-test
+  background: "Working on building a web3 game"
+- username: fly1n_hawaiian
+  background: "[zkSync Community Manager](https://zksync.io/)"
+- username: geoffbezos
+  background: "Crypto opportunities monthly roundup"
+- username: hanniabu
+  background: "[Ξther αlpha](https://etheralpha.org/) - Develops open source tools and resources (including [DailyDoots.com](https://dailydoots.com/)!"
+- username: haurog
+  background: "[disCarbon](https://flight.discarbon.earth/) - An app to offset your flight emissions by purchasing carbon credits"
+- username: hashtagfuzzmaster
+  background: "“ALL HAIL THE ETERNAL CRAB”"
+- username: import-antigravity
+  background: "[Alphaday Founder](https://alphaday.com/) - A customizable dashboard to easily stay up to date and interact with crypto"
+- username: insidethesimulation
+  background: "[RatioGang](https://ratiogang.com/) - A site to track the ETH/BTC ratio and flippening progress"
+- username: itswhatevermannn
+  background: "[BetOnchain](https://betonchain.gg/) - A permissionless blockchain-based betting platform"
+- username: jey_s_tears
+  background: "Daily haikus until flippening"
+- username: jtnichol
+  background: "[Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week"
+- username: juankestein
+  background: "[CryptoNumeris](https://cryptonumeris.com/) - Pocket-sized stainless steel cold storage solutions"
+- username: kirill_stakewise
+  background: "[Stakewise Co-Founder](https://stakewise.io/)"
+- username: kudeta
+  background: "[Aestus MEV-Boost Relay](https://aestus.live/) - A neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders"
+- username: lefterisjp
+  background: "[Rotki Founder](https://rotki.com/) - An open source portfolio tracker, accounting and analytics tool that protects your privacy"
+- username: logic_beach
+  background: "[RobotADay](https://opensea.io/collection/logic-bots) - An NFT collection with the goal of creating one robot per day; [Solidity learners cohor](https://discord.gg/aVnY7jnJWt)"
+- username: logristhebard
+  background: "[Tokenomics Explained](https://tokenomicsexplained.com/) - Explores financial topics related blockchain"
+- username: mango_sake
+  background: "[Kollit](https://kollit.ai/) - A tool to create optimal buy/sell strategies"
+- username: midnightonmars
+  background: "[GridPlus CEO](https://gridplus.io/)"
+- username: mister_eth
+  background: "[ETHTPS.info](https://ethtps.info/) - A dashboard to analyze the TPS of Ethereum and layer 2 networks"
+- username: motionick
+  background: "[Wanderers Founder](https://www.wanderers.ai/game) - A free-to-play sci-fi based rogue-lite game with card collecting and deck building elements"
+- username: nikola_j
+  background: "[DeFi Saver](https://defisaver.com/) - A one-stop dashboard for creating, managing and tracking your DeFi positions"
+- username: nixorokish
+  background: "[EthStaker](https://ethstaker.cc/) - Ethereum Beacon Chain community health consultant"
+- username: nodeset_nick
+  background: "[NodeSet Founder & CEO](https://nodeset.io/) - Connecting node operators to value"
+- username: pbrody
+  background: "[EY Blockchain](https://blockchain.ey.com/)"
+- username: prince_lantern
+  background: "[Lantern Finance Co-Founder](https://www.lantern.finance/) - A US-based staking platform (now u/empirestake)"
+- username: profstrangelove
+  background: "[LimitRanger](https://limitranger.xyz/) - A dapp to use limit orders with Uniswap while paying low — or actually earning — fees"
+- username: pseudotheos
+  background: "[Scroll Researcher](https://scroll.io)"
+- username: readreed
+  background: "[POAP Studio](https://www.poap.studio/)"
+- username: realjohnbmaclemore
+  background: "[Caches](https://caches.xyz/) - A web3 authenticated multi-topic forum on all subjects related to the Ethereum protocol and Web3"
+- username: rooftopportapotty
+  background: "Doing security analysis of browser extensions and web3 wallets; Reincarnation of u/skidseverywhere"
+- username: seamonkey82
+  background: "The client whisperer"
+- username: stevieraykatz
+  background: "[Coinlander](https://coinlander.one/) - An interactive experimental game"
+- username: superphiz
+  background: "Ethereum Beacon Chain community health consultant"
+- username: swagtimusprime
+  background: "[Scroll Developer Relations](https://scroll.io)"
+- username: takegreenpill
+  background: "[OBOL](https://obol.tech/)"
+- username: the-a-word
+  background: "[Ethfinance Doots Happy Hour](https://www.youtube.com/@evmavericks/) - A livestream roundup of the top 10 Doots of the Week"
+- username: therocketman_eth
+  background: "Offchain Labs (Arbitrum) Integration Engineer"
+- username: toethmooonguy
+  background: "“To ETH Mooon!!! ┗(°0°)┛”"
+- username: tricky_troll
+  background: "Tricky's Daily Doots"
+- username: unitedterror
+  background: "[Illuminate Founder](https://illuminate.finance/) - A fixed rate lending protocol aggregator"
+- username: usesbinkvideo
+  background: "The sub countoooor"
+- username: waqwaqattack
+  background: "[Rocket Fuel](https://youtube.com/@RocketFuel-RPL) - A daily summary of all things Rocket Pool"
+- username: wholesome_crypto
+  background: "[Wholesome Crypto](https://wholesomecrypto.com/podcast) - A podcast interviewing prominent people in crypto to share what lead them on their current path"
+- username: wizardofhex
+  background: "[POAP Gated Documents](https://github.com/wizardofhex/poapgateddocuments) - An app to share POAP-encrypted documents"
+- username: zerotricks
+  background: "[EthArchive](https://eth-archive.xyz/blog/on-this-day-in-ethereum-workflow/) - A tool to view what happened “On this Day” in Ethereum"
+
+
+

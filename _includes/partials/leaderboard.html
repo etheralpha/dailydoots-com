@@ -1,0 +1,36 @@
+<style type="text/css">
+  #leaderboardTable table tr td:first-child {
+    /*min-width: 3em;*/
+  }
+  #leaderboardTable td:not(:first-child),
+  #leaderboardTable th:not(:first-child) {
+    min-width: 9rem;
+  }
+  #leaderboardTable td:last-child,
+  #leaderboardTable th:last-child {
+    min-width: 4rem;
+  }
+</style>
+
+
+<small class="opacity-75">
+  {{site.data.doots | size}} Dooters - Updated weekly
+</small>
+
+<div id="leaderboardTable" class="table-responsive" markdown=1>
+
+Rank | Username | Doots
+-----|----------|-------
+
+{%- assign doots = site.data.doots | sort: "doots" | reverse %}
+{%- assign limit_count = 5000 -%}
+{%- if include.limit -%}
+  {%- assign limit_count = include.limit -%}
+{%- endif -%}
+{%- for dooter in doots limit:limit_count %}
+  {% assign username = dooter.username | replace: '_', '\_' -%}
+  {% assign doots = dooter.doots -%}
+{{forloop.index}} | [{{username}}](https://reddit.com/u/{{username}}) | {{doots}} {% endfor %}
+
+</div>
+

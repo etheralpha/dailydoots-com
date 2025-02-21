@@ -1,0 +1,85 @@
+{%- assign years = "2025,2024,2023" -%}
+{%- assign years = years | split: ',' -%}
+
+
+<div class="mb-2">
+  {%- for year in years -%}
+    {%- assign active = '' -%}
+    {%- if year == include.year -%}
+      {%- assign active = 'active' -%}
+    {%- endif -%}
+    <a href="/podcast/{{year}}" class="btn btn-outline-light btn-sm me-1 mb-1 {{active}}">{{year}}</a>
+  {%- endfor -%}
+</div>
+
+
+{%- comment -%}
+<!-- 
+content: "<details>\n<summary>The morning roundup</summary>
+date: "2024-12-27"
+dir: "/weekly/historical/2024-12-27/"
+episode: 92
+guest: null
+guest_topic: null
+layout: "markdown"
+name: "2024-12-27.md"
+path: "weekly/historical/2024-12-27.md"
+podcast_link: "https://www.youtube.com/watch?v=V8Ux5COh4vI"
+url: "/weekly/historical/2024-12-27/"
+weekly_link: "https://reddit.com/r/ethfinance/s/5mYv6X43SC"
+ -->
+{%- endcomment -%}
+
+<div id="podcastWeekly">
+  {%- assign weeklies = site.pages | where: "weekly", true | reverse -%}
+  {%- for weekly in weeklies -%}
+    {%- if weekly.name contains include.year -%}
+      {%- assign open = '' -%}
+      {%- if forloop.first -%}
+        {%- assign open = 'open' -%}
+      {%- endif -%}
+      {%- assign date = weekly.date | date: "%b %d, %Y" -%}
+      {%- assign guest = '' -%}
+      {%- if weekly.guest -%}
+        {%- assign guest = ' (' | append: weekly.guest | append: ')' -%}
+        {%- assign guest = ' &nbsp;|&nbsp; ' | append: weekly.guest | append: '' -%}
+      {%- endif -%}
+      {%- assign extra = "" -%}
+      {%- if weekly.episode -%}
+        {%- capture extra -%}
+           &nbsp;- Episode #{{weekly.episode}}{{guest}}
+        {%- endcapture -%}
+      {%- endif -%}
+      <details>
+        <summary>&nbsp;{{date}}{{extra}}</summary>
+        {%- assign podcast = '' -%}
+        {%- if weekly.podcast_link -%}
+          {%- capture podcast -%}
+            [Stream Recording]({{weekly.podcast_link}})
+          {%- endcapture -%}
+        {%- endif -%}
+        {%- assign poap = '' -%}
+        {%- if weekly.poap_link -%}
+          {%- capture poap -%}
+            &nbsp;\|&nbsp; [POAP]({{weekly.poap_link}})
+          {%- endcapture -%}
+        {%- endif -%}
+        <p>{{podcast | append: poap | markdownify}}</p>
+        {%- assign guest_intro = '' -%}
+        {%- if weekly.guest_topic -%}
+          {%- capture guest_intro -%}
+            *Special guest {{weekly.guest}} joins us from {{weekly.guest_topic}}.*
+          {%- endcapture -%}
+        {%- endif -%}
+        <p>{{guest_intro | markdownify}}</p>
+        {%- if weekly.weekly_link -%}
+          {%- capture weekly_link -%}
+            [View weekly roundup on Reddit →]({{weekly.weekly_link}})
+          {%- endcapture -%}
+        {%- endif -%}
+        {{weekly_link | markdownify}}
+        {{weekly.content | markdownify}}
+      </details>
+    {%- endif -%}
+  {%- endfor -%}
+</div>

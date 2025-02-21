@@ -1,0 +1,314 @@
+# Schema
+# title:       #string; event name, add an * if not ethereum-specific event
+# start_date:  #date; event start date in yyyy-mm-dd format
+# end_date:    #date; event end date in yyyy-mm-dd format
+# date:        #string; date estimate (i.e. "Q4 2025"), only use if no defined date
+# location:    #string; "Virtual" or "City, CTRY" format (CTRY = Country abbreviation)
+# link:        #url; link to event site
+
+
+# Template to copy for new entries
+# - title: 
+#   start_date: 
+#   end_date: 
+#   location: 
+#   link: 
+
+
+# Entries are shown in the order listed
+# - title: BUIDL Europe
+#   start_date: 2025-01-09
+#   end_date: 2025-01-10
+#   location: Lisbon, POR
+#   link: https://buidleurope.com
+# - title: ETHiopia
+#   start_date: 2025-01-21
+#   end_date: 2025-02-21
+#   location: Addis Ababa, ETH
+#   link: https://eth-iopia.xyz
+# - title: EthereumZuri.ch
+#   start_date: 2025-01-30
+#   end_date: 2025-01-31
+#   location: Zurich, CHE
+#   link: https://ethereumzuri.ch/
+# - title: NFT Paris*
+#   start_date: 2025-02-13
+#   end_date: 2025-02-14
+#   location: Paris, FR
+#   link: https://nftparis.xyz
+# - title: RWA Paris Summit*
+#   start_date: 2025-02-13
+#   end_date: 2025-02-14
+#   location: Paris, FR
+#   link: https://rwaparis.xyz
+# - title: Consensus HK*
+#   start_date: 2025-02-18
+#   end_date: 2025-02-20
+#   location: Hong Kong, HKG
+#   link: https://consensus-hongkong2025.coindesk.com/
+- title: ZKDay
+  start_date: 2025-02-20
+  end_date: 2025-02-20
+  location: Denver, USA
+  link: https://zklab.systems/zk-village
+- title: ETHDenver
+  start_date: 2025-02-23
+  end_date: 2025-03-02
+  location: Denver, USA
+  link: https://ethdenver.com
+- title: Pragma Denver
+  start_date: 2025-02-25
+  end_date: 2025-02-25
+  location: Denver, USA
+  link: https://ethglobal.com/events/pragma-denver2025
+- title: Modular Carnival
+  start_date: 2025-02-24
+  end_date: 2025-03-01
+  location: Belo Horizonte, BRA
+  link: https://modularcarnival.xyz
+- title: ETH Pondy
+  start_date: 2025-03-28
+  end_date: 2025-03-30
+  location: Pondicherry, IND
+  link: https://ethpondy.xyz
+- title: ETHTaipei
+  start_date: 2025-04-01
+  end_date: 2025-04-02
+  location: Taipei, TW
+  link: https://ethtaipei.org
+- title: ETH Bucharest
+  start_date: 2025-04-02
+  end_date: 2025-04-05
+  location: Bucharest, Romania
+  link: https://ethbucharest.xyz
+- title: Pragma Taipei
+  start_date: 2025-04-03
+  end_date: 2025-04-03
+  location: Taipei, TWN
+  link: https://ethglobal.com/events/pragma-taipei
+- title: ETHGlobal Taipei
+  start_date: 2025-04-04
+  end_date: 2025-04-06
+  location: Taipei, TWN
+  link: https://ethglobal.com/events/taipei
+- title: zkHack
+  start_date: 2025-04-11
+  end_date: 2025-04-13
+  location: Seoul, KR
+  link: https://zkhack.dev
+- title: ETH Seoul
+  start_date: 2025-04-12
+  end_date: 2025-04-12
+  location: Seoul, KR
+  link: https://ethseoul.org
+- title: BUIDL Asia
+  start_date: 2025-04-15
+  end_date: 2025-04-16
+  location: Seoul, KR
+  link: 
+- title: Staking Summit*
+  start_date: 2025-04-28
+  end_date: 2025-04-29
+  location: Dubai, UAE
+  link: https://stakingsummit.com
+- title: TOKEN2049 Dubai*
+  start_date: 2025-04-30
+  end_date: 2025-05-01
+  location: Dubai, UAE
+  link: https://token2049.com
+- title: FarCon
+  start_date: 2025-05-01
+  end_date: 2025-05-04
+  location: NYC, USA
+  link: https://farcon.nyc
+- title: ETHDam
+  start_date: 2025-05-09
+  end_date: 2025-05-11
+  location: Amsterdam, NL
+  link: https://ethdam.com
+- title: ETH Lisbon
+  start_date: 2025-05-09
+  end_date: 2025-05-11
+  location: Lisbon, POR
+  link: https://ethlisbon.org
+- title: ETHBratislava
+  start_date: 2025-05-09
+  end_date: 2025-05-10
+  location: Bratislava, SVK
+  link: https://ethbratislava.com/
+- title: Consensus Toronto*
+  start_date: 2025-05-14
+  end_date: 2025-05-16
+  location: Hong Kong, HKG
+  link: https://consensus2025.coindesk.com/
+- title: ETHDublin 2025
+  start_date: 2025-05-23
+  end_date: 2025-05-25
+  location: Dublin, IRE
+  link: https://lu.ma/hkl5jcre
+- title: Edge Esmeralda
+  start_date: 2025-05-24
+  end_date: 2025-06-21
+  location: Healdsburg, CA, USA
+  link: https://edgeesmeralda.com
+- title: ETHPrague
+  start_date: 2025-05-27
+  end_date: 2025-05-29
+  location: Prague, CZE
+  link: https://ethprague.com/
+- title: ETHGlobal Prague
+  start_date: 2025-05-30
+  end_date: 2025-06-01
+  location: Prague, CZE
+  link: https://ethglobal.com/events/prague
+- title: Pragma Prague
+  start_date: 2025-05-29
+  end_date: 2025-05-30
+  location: Prague, CZE
+  link: https://ethglobal.com/events/pragma-prague
+- title: ETH Belgrade
+  start_date: 2025-06-03
+  end_date: 2025-06-08
+  location: Belgrade, SRB
+  link: https://ethbelgrade.rs/
+- title: Non Fungible Conference*
+  start_date: 2025-06-04
+  end_date: 2025-06-06
+  location: Lisbon, PRT
+  link: https://nonfungibleconference.com
+- title: Offscript
+  start_date: 2025-06-11
+  end_date: 2025-06-15
+  location: San Miguel de Allende, MX
+  link: https://offscript.web3creatives.com/
+- title: ProtocolBerg
+  start_date: 2025-06-12
+  end_date: 2025-06-13
+  location: Berlin, GER
+  link: https://protocol.berlin
+- title: ETHKyiv
+  start_date: 2025-06-13
+  end_date: 2025-06-15
+  location: Kyiv, Ukraine
+  link: https://ethkyiv.com
+- title: DappCon
+  start_date: 2025-06-16
+  end_date: 2025-06-18
+  location: Berlin, GER
+  link: https://dappcon.io
+- title: NFT NYC*
+  start_date: 2025-06-23
+  end_date: 2025-06-25
+  location: NYC, USA
+  link: https://nft.nyc
+- title: Permissionless IV
+  start_date: 2025-06-24
+  end_date: 2025-06-25
+  location: NYC, USA
+  link: https://blockworks.co/event/permissionless-iv
+- title: ETHCluj
+  start_date: 2025-06-26
+  end_date: 2025-06-28
+  location: Cluj-Napoca, ROU
+  link: https://ethcluj.org
+- title: EthCC
+  start_date: 2025-06-30
+  end_date: 2025-07-03
+  location: Cannes, FR
+  link: https://ethcc.io
+- title: EthCCweek
+  start_date: 2025-06-30
+  end_date: 2025-07-03
+  location: Cannes, FR
+  link: https://ethccweek.fr/
+- title: Pragma Cannes
+  start_date: 2025-07-03
+  end_date: 2025-07-03
+  location: Cannes, FR
+  link: https://ethglobal.com/events/pragma-cannes
+- title: ETHGlobal Cannes
+  start_date: 2025-07-04
+  end_date: 2025-07-06
+  location: Cannes, FR
+  link: https://ethglobal.com/events/cannes
+- title: NapulETH
+  start_date: 2025-07-16
+  end_date: 2025-07-19
+  location: Naples, ITA
+  link: https://napuleth.org/
+- title: SBC (The Science of Blockchain Conference 2025)
+  start_date: 2025-08-04
+  end_date: 2025-08-06
+  location: Berkeley, USA
+  link: https://www.sbc-conference.com/2025/
+- title: Pragma New York
+  start_date: 2025-08-14
+  end_date: 2025-08-14
+  location: NYC, USA
+  link: https://ethglobal.com/events/pragma-newyork2025
+- title: ETHGlobal New York
+  start_date: 2025-08-15
+  end_date: 2025-08-17
+  location: NYC, USA
+  link: https://ethglobal.com/events/newyork2025
+- title: Web3 Lagos Conference
+  start_date: 2025-08-28
+  end_date: 2025-08-30
+  location: Lagos, NGA
+  link: https://event.web3bridge.com
+- title: EthAccra
+  start_date: 2025-08-29
+  end_date: 2025-08-31
+  location: Accra, GHA
+  link: https://ethaccra.xyz
+- title: ETHWarsaw
+  start_date: 2025-09-04
+  end_date: 2025-09-07
+  location: Warsaw, POL
+  link: https://ethwarsaw.dev
+- title: EthSafari
+  start_date: 2025-09-08
+  end_date: 2025-09-15
+  location: Virtual
+  link: https://ethsafari.xyz/
+- title: Boston Blockchain Week
+  start_date: 2025-09-08
+  end_date: 2025-09-11
+  location: Quincy, MA, USA
+  link: https://bostonblockchainweek.com
+- title: ETHSofia
+  start_date: 2025-09-23
+  end_date: 2025-09-25
+  location: Sofia, BGR
+  link: https://ethsofia.com
+- title: Pragma New Delhi
+  start_date: 2025-09-25
+  end_date: 2025-09-25
+  location: New Delhi, IND
+  link: https://ethglobal.com/events/pragma-newdelhi
+- title: ETHGlobal New Delhi
+  start_date: 2025-09-26
+  end_date: 2025-09-28
+  location: New Delhi, IND
+  link: https://ethglobal.com/events/newdelhi
+- title: TOKEN2049 Singapore*
+  start_date: 2025-10-01
+  end_date: 2025-10-02
+  location: Singapore, SGP
+  link: https://asia.token2049.com/
+- title: ProtoLayers Conference
+  start_date: 2025-10-11
+  end_date: 2025-10-11
+  location: Prague, CZ
+  link: https://lu.ma/protolayersprague
+- title: Encode London 2025
+  start_date: 2025-10-24
+  end_date: 2025-10-26
+  location: London, UK
+  link: https://lu.ma/Encode-London-25/
+- title: DevConnect
+  date: Q4 2025
+  start_date: 
+  end_date: 
+  location: TBD # Buenos Aires, AR
+  link: https://devconnect.org
