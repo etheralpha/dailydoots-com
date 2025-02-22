@@ -1,9 +1,8 @@
 <!-- Distribution -->
 <div class="tab-pane fade" id="distribution-tab-pane" role="tabpanel" aria-labelledby="distribution-tab" tabindex="0">
   <div class="mb-3">Outputs doots leaderboard distribution data</div>
-  <pre class="mb-3">
-    <code id="distributionOutput">
-    </code>
+  <pre class="mb-3 ps-0">
+    <code id="distributionOutput"></code>
   </pre>
 </div>
 
@@ -88,6 +87,6 @@
       distribution["100+"] = (distribution["100+"] || 0) + 1;
     }
   });
-  document.getElementById("distributionOutput").innerHTML = JSON.stringify(distribution);
+  document.getElementById("distributionOutput").innerText = JSON.stringify(distribution);
   console.log(distribution);
 </script>

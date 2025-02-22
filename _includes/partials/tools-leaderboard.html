@@ -3,7 +3,7 @@
   <div class="mb-2">Upload RES file to generate leaderboard</div>
   <input id="fileUpload" class="mb-3" type="file" onchange="generateLeaderboard()" />
   <div class="mb-3">Dooters: <span id="dooters">0</span></div>
-  <div class="mb-3">
+  <div class="d-none mb-3">
     <label for="leaderboardMarkdown" class="form-label">Leaderboard Markdown:</label>
     <textarea class="form-control" id="leaderboardMarkdown" rows="8" style="font-family:monospace;font-size:0.85rem;">Upload RES file to generate...</textarea>
     <a class="btn btn-light mt-2" onclick="copyLeaderboard('leaderboardMarkdown')">Copy</a>

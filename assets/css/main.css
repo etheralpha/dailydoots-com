@@ -180,6 +180,8 @@ pre {
   background-color: rgba(0, 0, 0, 0.25);
   border-radius: calc(1.5 * var(--brand-radius));
   opacity: 75%;
+  padding: 1.5em 1.85rem;
+  padding-bottom: 0;
 }
 
 
