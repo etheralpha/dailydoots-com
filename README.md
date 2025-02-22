@@ -46,3 +46,13 @@ Most of the content resides in data files withing `_data`. If you'd like to upda
         1. You'll need to copy the templated `<details> ... </details>` sections for each of the weekly doots, there's a separate template for single and double doots
         1. Do a find/replace to replace all instances of `old.reddit.com` or `www.reddit.com` with `reddit.com`
 
+
+
+## Miscellaneous Info
+
+- [r/ethfinance initiation thread](https://reddit.com/r/ethtrader/comments/cs84ar/6_of_10_moderators_are_leaving_ethtrader_a/)
+- r/ethfinance creation on 2019-01-22 by u/dcinvestor
+- Sub stats
+    - https://subredditstats.com/r/ethfinance
+    - https://subredditstats.com/r/ethereum
+
