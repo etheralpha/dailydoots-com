@@ -29,13 +29,15 @@
     {%- if announcements_size > 0 -%}
       <h6>Announcements</h6>
       <section class="tight">
-        {%- for announcement in site.data.announcements -%}
-          {{"- " | append: announcement.message | markdownify}}
-        {%- endfor -%}
+        <ul>
+          {%- for announcement in site.data.announcements -%}
+            <li>{{announcement.message | markdownify | remove: '<p>' | remove: '</p>'}}</li>
+          {%- endfor -%}
+        </ul>
       </section>
     {%- endif -%}
     <h6>Upcoming Guests</h6>
-    <section>
+    <section class="tight">
       <ul>
         {%- for guest in site.data.guests -%}
           <li>{{guest | markdownify | replace: '<p>', '' | replace: '</p>', ''}}</li>

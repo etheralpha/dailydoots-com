@@ -10,10 +10,10 @@ title: Overview
     <h6>Announcements</h6>
     <section class="tight" style="width: fit-content;">
       <ul>
-      {%- for announcement in site.data.announcements -%}
-        <li>{{announcement.message | markdownify | remove: '<p>' | remove: '</p>'}}</li>
-      {%- endfor -%}
-    </ul>
+        {%- for announcement in site.data.announcements -%}
+          <li>{{announcement.message | markdownify | remove: '<p>' | remove: '</p>'}}</li>
+        {%- endfor -%}
+      </ul>
     </section>
   </div>
 {%- endif -%}

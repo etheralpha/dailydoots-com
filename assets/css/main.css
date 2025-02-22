@@ -257,8 +257,8 @@ details {
   max-width: 100%;
   word-wrap: break-word;
 }
-#podcastWeeky details {
-  width: 750px;
+#podcastWeekly details {
+  width: 650px;
 }
 details summary {
   cursor: pointer;
