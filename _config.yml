@@ -1,7 +1,7 @@
 # Read about configuration here: https://jekyllrb.com/docs/configuration/options/
 title: Daily Doots
-description: 
-keywords: ethereum, ethfinance, reddit, doots
+description: Community site for r/ethereum supported by EVMavericks.
+keywords: ethereum, ethfinance, reddit, doots, evmavericks
 url: https://dailydoots.com
 permalink: pretty # Do not change this, it will break all links
 timezone: America/New_York
