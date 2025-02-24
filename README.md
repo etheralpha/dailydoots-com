@@ -19,6 +19,18 @@ Resources:
 
 
 
+## Integrate Data
+
+To use this data, simply query one of the following endpoints:
+
+- Dailies - https://dailydoots.com/dailies.json (updates 30min after midnight UTC+0)
+- Doots - https://dailydoots.com/doots.json (updates once a week Fridays 2pm EST)
+- Profiles - https://dailydoots.com/profiles.json (updated as needed)
+
+Please do not abuse these endpoints. Checking once or twice a day would be sufficient given the update frequency.
+
+
+
 ## Contributing
 
 Most of the content resides in data files withing `_data`. If you'd like to update your user profile edit/add an entry in `_data/profiles.yml` or send a DM to u/hanniabu on Reddit.
