@@ -12,8 +12,10 @@ module Jekyll
     def getres(url)
       puts "Fetching data: getres('#{url}')"
       res = Net::HTTP.get_response(URI.parse(url))
-      if !res.kind_of? Net::HTTPSuccess
-        abort("ERROR: Fetch failed: getres('#{url}')")
+      status200 = res.kind_of? Net::HTTPSuccess
+      if !status200
+        puts "ERROR: Fetch failed: getres('#{url}')"
+        return
       end
       res.body
     end
