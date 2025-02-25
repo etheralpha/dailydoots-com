@@ -67,4 +67,5 @@ Most of the content resides in data files withing `_data`. If you'd like to upda
 - Sub stats
     - https://subredditstats.com/r/ethfinance
     - https://subredditstats.com/r/ethereum
+- [PushShift Archive](https://api.pushshift.io/reddit/search/comment?author=ethfinance)
 
