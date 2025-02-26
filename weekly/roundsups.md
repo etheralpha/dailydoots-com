@@ -1,10 +1,9 @@
 ---
 layout: markdown
-title: Doots Podcast
+title: Weekly Roundups
+permalink: /weekly/roundups/
 ---
 
-
-{%- include partials/podcast.html -%}
 
 {%- include partials/weekly.html 
     year="2025" -%}

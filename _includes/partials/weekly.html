@@ -8,7 +8,7 @@
     {%- if year == include.year -%}
       {%- assign active = 'active' -%}
     {%- endif -%}
-    <a href="/podcast/{{year}}" class="btn btn-outline-light btn-sm me-1 mb-1 {{active}}">{{year}}</a>
+    <a href="/weekly/{{year}}" class="btn btn-outline-light btn-sm me-1 mb-1 {{active}}">{{year}}</a>
   {%- endfor -%}
 </div>
 
@@ -30,7 +30,7 @@ weekly_link: "https://reddit.com/r/ethfinance/s/5mYv6X43SC"
  -->
 {%- endcomment -%}
 
-<div id="podcastWeekly">
+<div id="weekly">
   {%- assign weeklies = site.pages | where: "weekly", true | reverse -%}
   {%- for weekly in weeklies -%}
     {%- if weekly.name contains include.year -%}
