@@ -35,6 +35,7 @@ error_count = 0
 
 load_dotenv()
 DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK")
+REDDIT_PROXY = os.environ.get("REDDIT_PROXY")
 
 
 
