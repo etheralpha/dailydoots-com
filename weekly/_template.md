@@ -5,7 +5,7 @@ episode: # number
 guest: # guest name
 guest_topic: 
 weekly_link: # link to aword weekly roundup
-podcast_link: # livestream youtube recording
+podcast_link: https://www.youtube.com/@evmavericks/streams # livestream youtube recording
 poap: # poap link
 ---
 
