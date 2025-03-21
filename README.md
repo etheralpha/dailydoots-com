@@ -51,11 +51,11 @@ Most of the content resides in data files withing `_data`. If you'd like to upda
         - `date` follows `yyyy-mm-dd` format
         - `episode` is just the podcast episode number, do not include a `#`
     1. Copy over the weekly doots
-        1. For each item copy the item text and paste into the `<summary>{{paste here}}</summary>` tags
-        1. Copy the comment links into the `[View on Reddit →]({{paste here}})` field
+        1. For each item copy the item text and paste into the `<summary> {{paste here}} </summary>` tags
+        1. Copy the comment links into the `[View on Reddit →]( {{paste here}} )` field
         1. View the comment under `old.reddit.com` using the RES extention to copy the comment "source" (markdown) and paste the in the area below "View on Reddit" and before the closing `</details>` tag
-        1. Bare links need to be wrapped in `<{{link}}>` to properly be converted to a hyperlink
-        1. You'll need to copy the templated `<details> ... </details>` sections for each of the weekly doots, there's a separate template for single and double doots
+        1. Bare links (non hyperlinked) need to be wrapped in `< {{link}} >` to properly be converted to a hyperlink
+        1. You'll need to copy the templated `<details> ... </details>` sections for each of the weekly doots, there's a separate template for single and double doots (double doots means it references 2 comments)
         1. Do a find/replace to replace all instances of `old.reddit.com` or `www.reddit.com` with `reddit.com`
 
 
