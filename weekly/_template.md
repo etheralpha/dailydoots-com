@@ -28,7 +28,7 @@ poap: # poap link
 
 [u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
 
-> 3,600,715 Ethereans subscribed (+2,626)
+> 
 
 </details>
 <details markdown=1>
@@ -39,24 +39,10 @@ poap: # poap link
 
 </details>
 <details markdown=1>
-<summary>Choda time!</summary>
-[View on Reddit →]()
-
-༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
-
-</details>
-<details markdown=1>
 <summary>Stats with u/Dreth</summary>
 [View on Reddit →]()
 
 
-
-</details>
-<details markdown=1>
-<summary>Choda time!</summary>
-[View on Reddit →]()
-
-༼ つ ◕_◕ ༽つ ETH TAKE MY ENERGY ༼ つ ◕_◕ ༽つ
 
 </details>
 <details markdown=1>
