@@ -46,46 +46,46 @@
 #   end_date: 2025-02-20
 #   location: Hong Kong, HKG
 #   link: https://consensus-hongkong2025.coindesk.com/
-- title: ZKDay
-  start_date: 2025-02-20
-  end_date: 2025-02-20
-  location: Denver, USA
-  link: https://zklab.systems/zk-village
-- title: ETHDenver
-  start_date: 2025-02-23
-  end_date: 2025-03-02
-  location: Denver, USA
-  link: https://ethdenver.com
-- title: Pragma Denver
-  start_date: 2025-02-25
-  end_date: 2025-02-25
-  location: Denver, USA
-  link: https://ethglobal.com/events/pragma-denver2025
-- title: Modular Carnival
-  start_date: 2025-02-24
-  end_date: 2025-03-01
-  location: Belo Horizonte, BRA
-  link: https://modularcarnival.xyz
-- title: ETH Pondy
-  start_date: 2025-03-28
-  end_date: 2025-03-30
-  location: Pondicherry, IND
-  link: https://ethpondy.xyz
-- title: ETHTaipei
-  start_date: 2025-04-01
-  end_date: 2025-04-02
-  location: Taipei, TW
-  link: https://ethtaipei.org
-- title: ETH Bucharest
-  start_date: 2025-04-02
-  end_date: 2025-04-05
-  location: Bucharest, Romania
-  link: https://ethbucharest.xyz
-- title: Pragma Taipei
-  start_date: 2025-04-03
-  end_date: 2025-04-03
-  location: Taipei, TWN
-  link: https://ethglobal.com/events/pragma-taipei
+# - title: ZKDay
+#   start_date: 2025-02-20
+#   end_date: 2025-02-20
+#   location: Denver, USA
+#   link: https://zklab.systems/zk-village
+# - title: ETHDenver
+#   start_date: 2025-02-23
+#   end_date: 2025-03-02
+#   location: Denver, USA
+#   link: https://ethdenver.com
+# - title: Pragma Denver
+#   start_date: 2025-02-25
+#   end_date: 2025-02-25
+#   location: Denver, USA
+#   link: https://ethglobal.com/events/pragma-denver2025
+# - title: Modular Carnival
+#   start_date: 2025-02-24
+#   end_date: 2025-03-01
+#   location: Belo Horizonte, BRA
+#   link: https://modularcarnival.xyz
+# - title: ETH Pondy
+#   start_date: 2025-03-28
+#   end_date: 2025-03-30
+#   location: Pondicherry, IND
+#   link: https://ethpondy.xyz
+# - title: ETHTaipei
+#   start_date: 2025-04-01
+#   end_date: 2025-04-02
+#   location: Taipei, TW
+#   link: https://ethtaipei.org
+# - title: ETH Bucharest
+#   start_date: 2025-04-02
+#   end_date: 2025-04-05
+#   location: Bucharest, Romania
+#   link: https://ethbucharest.xyz
+# - title: Pragma Taipei
+#   start_date: 2025-04-03
+#   end_date: 2025-04-03
+#   location: Taipei, TWN
+#   link: https://ethglobal.com/events/pragma-taipei
 - title: ETHGlobal Taipei
   start_date: 2025-04-04
   end_date: 2025-04-06
