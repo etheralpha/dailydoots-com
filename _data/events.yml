@@ -86,26 +86,26 @@
 #   end_date: 2025-04-03
 #   location: Taipei, TWN
 #   link: https://ethglobal.com/events/pragma-taipei
-- title: ETHGlobal Taipei
-  start_date: 2025-04-04
-  end_date: 2025-04-06
-  location: Taipei, TWN
-  link: https://ethglobal.com/events/taipei
-- title: zkHack
-  start_date: 2025-04-11
-  end_date: 2025-04-13
-  location: Seoul, KR
-  link: https://zkhack.dev
-- title: ETH Seoul
-  start_date: 2025-04-12
-  end_date: 2025-04-12
-  location: Seoul, KR
-  link: https://ethseoul.org
-- title: BUIDL Asia
-  start_date: 2025-04-15
-  end_date: 2025-04-16
-  location: Seoul, KR
-  link: 
+# - title: ETHGlobal Taipei
+#   start_date: 2025-04-04
+#   end_date: 2025-04-06
+#   location: Taipei, TWN
+#   link: https://ethglobal.com/events/taipei
+# - title: zkHack
+#   start_date: 2025-04-11
+#   end_date: 2025-04-13
+#   location: Seoul, KR
+#   link: https://zkhack.dev
+# - title: ETH Seoul
+#   start_date: 2025-04-12
+#   end_date: 2025-04-12
+#   location: Seoul, KR
+#   link: https://ethseoul.org
+# - title: BUIDL Asia
+#   start_date: 2025-04-15
+#   end_date: 2025-04-16
+#   location: Seoul, KR
+#   link: 
 - title: Staking Summit*
   start_date: 2025-04-28
   end_date: 2025-04-29
