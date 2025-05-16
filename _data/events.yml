@@ -16,31 +16,31 @@
 
 
 # Entries are shown in the order listed
-- title: FarCon
-  start_date: 2025-05-01
-  end_date: 2025-05-04
-  location: NYC, USA
-  link: https://farcon.nyc
-- title: ETHDam
-  start_date: 2025-05-09
-  end_date: 2025-05-11
-  location: Amsterdam, NL
-  link: https://ethdam.com
-- title: ETH Lisbon
-  start_date: 2025-05-09
-  end_date: 2025-05-11
-  location: Lisbon, POR
-  link: https://ethlisbon.org
-- title: ETHBratislava
-  start_date: 2025-05-09
-  end_date: 2025-05-10
-  location: Bratislava, SVK
-  link: https://ethbratislava.com/
-- title: Consensus Toronto*
-  start_date: 2025-05-14
-  end_date: 2025-05-16
-  location: Hong Kong, HKG
-  link: https://consensus2025.coindesk.com/
+# - title: FarCon
+#   start_date: 2025-05-01
+#   end_date: 2025-05-04
+#   location: NYC, USA
+#   link: https://farcon.nyc
+# - title: ETHDam
+#   start_date: 2025-05-09
+#   end_date: 2025-05-11
+#   location: Amsterdam, NL
+#   link: https://ethdam.com
+# - title: ETH Lisbon
+#   start_date: 2025-05-09
+#   end_date: 2025-05-11
+#   location: Lisbon, POR
+#   link: https://ethlisbon.org
+# - title: ETHBratislava
+#   start_date: 2025-05-09
+#   end_date: 2025-05-10
+#   location: Bratislava, SVK
+#   link: https://ethbratislava.com/
+# - title: Consensus Toronto*
+#   start_date: 2025-05-14
+#   end_date: 2025-05-16
+#   location: Hong Kong, HKG
+#   link: https://consensus2025.coindesk.com/
 - title: ETHDublin 2025
   start_date: 2025-05-23
   end_date: 2025-05-25
