@@ -41,11 +41,11 @@
 #   end_date: 2025-05-16
 #   location: Hong Kong, HKG
 #   link: https://consensus2025.coindesk.com/
-- title: ETHDublin 2025
-  start_date: 2025-05-23
-  end_date: 2025-05-25
-  location: Dublin, IRE
-  link: https://lu.ma/hkl5jcre
+# - title: ETHDublin 2025
+#   start_date: 2025-05-23
+#   end_date: 2025-05-25
+#   location: Dublin, IRE
+#   link: https://lu.ma/hkl5jcre
 - title: Edge Esmeralda
   start_date: 2025-05-24
   end_date: 2025-06-21
