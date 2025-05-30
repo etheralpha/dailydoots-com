@@ -46,16 +46,16 @@
 #   end_date: 2025-05-25
 #   location: Dublin, IRE
 #   link: https://lu.ma/hkl5jcre
-- title: Edge Esmeralda
-  start_date: 2025-05-24
-  end_date: 2025-06-21
-  location: Healdsburg, CA, USA
-  link: https://edgeesmeralda.com
-- title: ETHPrague
-  start_date: 2025-05-27
-  end_date: 2025-05-29
-  location: Prague, CZE
-  link: https://ethprague.com/
+# - title: Edge Esmeralda
+#   start_date: 2025-05-24
+#   end_date: 2025-06-21
+#   location: Healdsburg, CA, USA
+#   link: https://edgeesmeralda.com
+# - title: ETHPrague
+#   start_date: 2025-05-27
+#   end_date: 2025-05-29
+#   location: Prague, CZE
+#   link: https://ethprague.com/
 - title: ETHGlobal Prague
   start_date: 2025-05-30
   end_date: 2025-06-01
