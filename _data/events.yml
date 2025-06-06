@@ -56,16 +56,16 @@
 #   end_date: 2025-05-29
 #   location: Prague, CZE
 #   link: https://ethprague.com/
-- title: ETHGlobal Prague
-  start_date: 2025-05-30
-  end_date: 2025-06-01
-  location: Prague, CZE
-  link: https://ethglobal.com/events/prague
-- title: Pragma Prague
-  start_date: 2025-05-29
-  end_date: 2025-05-30
-  location: Prague, CZE
-  link: https://ethglobal.com/events/pragma-prague
+# - title: ETHGlobal Prague
+#   start_date: 2025-05-30
+#   end_date: 2025-06-01
+#   location: Prague, CZE
+#   link: https://ethglobal.com/events/prague
+# - title: Pragma Prague
+#   start_date: 2025-05-29
+#   end_date: 2025-05-30
+#   location: Prague, CZE
+#   link: https://ethglobal.com/events/pragma-prague
 - title: ETH Belgrade
   start_date: 2025-06-03
   end_date: 2025-06-08
