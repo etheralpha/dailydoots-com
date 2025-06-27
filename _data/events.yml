@@ -16,21 +16,21 @@
 
 
 # Entries are shown in the order listed
-- title: DappCon
-  start_date: 2025-06-16
-  end_date: 2025-06-18
-  location: Berlin, GER
-  link: https://dappcon.io
-- title: NFT NYC*
-  start_date: 2025-06-23
-  end_date: 2025-06-25
-  location: NYC, USA
-  link: https://nft.nyc
-- title: Permissionless IV
-  start_date: 2025-06-24
-  end_date: 2025-06-25
-  location: NYC, USA
-  link: https://blockworks.co/event/permissionless-iv
+# - title: DappCon
+#   start_date: 2025-06-16
+#   end_date: 2025-06-18
+#   location: Berlin, GER
+#   link: https://dappcon.io
+# - title: NFT NYC*
+#   start_date: 2025-06-23
+#   end_date: 2025-06-25
+#   location: NYC, USA
+#   link: https://nft.nyc
+# - title: Permissionless IV
+#   start_date: 2025-06-24
+#   end_date: 2025-06-25
+#   location: NYC, USA
+#   link: https://blockworks.co/event/permissionless-iv
 - title: ETHCluj
   start_date: 2025-06-26
   end_date: 2025-06-28
@@ -126,14 +126,18 @@
   end_date: 2025-10-11
   location: Prague, CZ
   link: https://lu.ma/protolayersprague
+- title: Edge Patagonia
+  start_date: 2025-10-18
+  end_date: 2025-11-15
+  location: San Martin de los Andes, AR
+  link: https://www.edgecity.live/patagonia
 - title: Encode London 2025
   start_date: 2025-10-24
   end_date: 2025-10-26
   location: London, UK
   link: https://lu.ma/Encode-London-25/
 - title: DevConnect
-  date: Q4 2025
-  start_date: 
-  end_date: 
-  location: TBD # Buenos Aires, AR
+  start_date: 2025-11-17
+  end_date: 2025-11-22
+  location: Buenos Aires, AR
   link: https://devconnect.org
