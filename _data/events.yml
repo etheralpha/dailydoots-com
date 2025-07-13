@@ -31,31 +31,31 @@
 #   end_date: 2025-06-25
 #   location: NYC, USA
 #   link: https://blockworks.co/event/permissionless-iv
-- title: ETHCluj
-  start_date: 2025-06-26
-  end_date: 2025-06-28
-  location: Cluj-Napoca, ROU
-  link: https://ethcluj.org
-- title: EthCC
-  start_date: 2025-06-30
-  end_date: 2025-07-03
-  location: Cannes, FR
-  link: https://ethcc.io
-- title: EthCCweek
-  start_date: 2025-06-30
-  end_date: 2025-07-03
-  location: Cannes, FR
-  link: https://ethccweek.fr/
-- title: Pragma Cannes
-  start_date: 2025-07-03
-  end_date: 2025-07-03
-  location: Cannes, FR
-  link: https://ethglobal.com/events/pragma-cannes
-- title: ETHGlobal Cannes
-  start_date: 2025-07-04
-  end_date: 2025-07-06
-  location: Cannes, FR
-  link: https://ethglobal.com/events/cannes
+# - title: ETHCluj
+#   start_date: 2025-06-26
+#   end_date: 2025-06-28
+#   location: Cluj-Napoca, ROU
+#   link: https://ethcluj.org
+# - title: EthCC
+#   start_date: 2025-06-30
+#   end_date: 2025-07-03
+#   location: Cannes, FR
+#   link: https://ethcc.io
+# - title: EthCCweek
+#   start_date: 2025-06-30
+#   end_date: 2025-07-03
+#   location: Cannes, FR
+#   link: https://ethccweek.fr/
+# - title: Pragma Cannes
+#   start_date: 2025-07-03
+#   end_date: 2025-07-03
+#   location: Cannes, FR
+#   link: https://ethglobal.com/events/pragma-cannes
+# - title: ETHGlobal Cannes
+#   start_date: 2025-07-04
+#   end_date: 2025-07-06
+#   location: Cannes, FR
+#   link: https://ethglobal.com/events/cannes
 - title: NapulETH
   start_date: 2025-07-16
   end_date: 2025-07-19
@@ -91,11 +91,16 @@
   end_date: 2025-09-07
   location: Warsaw, POL
   link: https://ethwarsaw.dev
+- title: ETHIstanbul
+  start_date: 2025-09-05
+  end_date: 2025-09-07
+  location: Istanbul, TR
+  link: https://ethistanbul.io
 - title: EthSafari
-  start_date: 2025-09-08
-  end_date: 2025-09-15
-  location: Virtual
-  link: https://ethsafari.xyz/
+  start_date: 2025-09-07
+  end_date: 2025-09-14
+  location: Kilifi
+  link: https://ethsafari.xyz
 - title: Boston Blockchain Week
   start_date: 2025-09-08
   end_date: 2025-09-11
