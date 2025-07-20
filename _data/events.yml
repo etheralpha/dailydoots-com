@@ -16,51 +16,6 @@
 
 
 # Entries are shown in the order listed
-# - title: DappCon
-#   start_date: 2025-06-16
-#   end_date: 2025-06-18
-#   location: Berlin, GER
-#   link: https://dappcon.io
-# - title: NFT NYC*
-#   start_date: 2025-06-23
-#   end_date: 2025-06-25
-#   location: NYC, USA
-#   link: https://nft.nyc
-# - title: Permissionless IV
-#   start_date: 2025-06-24
-#   end_date: 2025-06-25
-#   location: NYC, USA
-#   link: https://blockworks.co/event/permissionless-iv
-# - title: ETHCluj
-#   start_date: 2025-06-26
-#   end_date: 2025-06-28
-#   location: Cluj-Napoca, ROU
-#   link: https://ethcluj.org
-# - title: EthCC
-#   start_date: 2025-06-30
-#   end_date: 2025-07-03
-#   location: Cannes, FR
-#   link: https://ethcc.io
-# - title: EthCCweek
-#   start_date: 2025-06-30
-#   end_date: 2025-07-03
-#   location: Cannes, FR
-#   link: https://ethccweek.fr/
-# - title: Pragma Cannes
-#   start_date: 2025-07-03
-#   end_date: 2025-07-03
-#   location: Cannes, FR
-#   link: https://ethglobal.com/events/pragma-cannes
-# - title: ETHGlobal Cannes
-#   start_date: 2025-07-04
-#   end_date: 2025-07-06
-#   location: Cannes, FR
-#   link: https://ethglobal.com/events/cannes
-- title: NapulETH
-  start_date: 2025-07-16
-  end_date: 2025-07-19
-  location: Naples, ITA
-  link: https://napuleth.org/
 - title: SBC (The Science of Blockchain Conference 2025)
   start_date: 2025-08-04
   end_date: 2025-08-06
