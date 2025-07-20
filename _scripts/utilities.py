@@ -40,7 +40,7 @@ REDDIT_PROXY = os.environ.get("REDDIT_PROXY")
 
 
 def fetch(url, method="GET", payload={}, headers={}, retries=2, delay=0, retry_delay=0.5, context="", data_type="json"):
-  log(f"Fetch: {url}")
+  print(f"Fetch: {url}")
   response = {"status": 0, "attempts": 0, "data": None}
   try: 
     while response["attempts"] <= retries and (response["status"] != 200 or response["data"] == None):

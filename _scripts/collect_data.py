@@ -26,7 +26,8 @@ def get_recent_daily():
   source = utilities.fetch(url=url, data_type="json", retry_delay=delay)
   print(f"status: {source['status']}")
   if source['status'] != 200:
-    return
+    print(f'Fetch failed: {source['status']} status')
+    return []
   entries = source['data']['data']['children']
   # print(entries)
   # print(len(entries))

@@ -19,6 +19,18 @@ Resources:
 
 
 
+## Run Scripts
+
+1. Create virtual environment: `python3 -m venv _scripts/venv/`
+1. Install dependencies and run script: `. _scripts/venv/bin/activate && pip install -r _scripts/requirements.txt && python _scripts/collect_data.py && deactivate`
+1. Or run each command individually:
+    1. Start python virtual environment: `. _scripts/venv/bin/activate`
+    1. Install dependencies: `pip install -r _scripts/requirements.txt`
+    1. Run the script: `python _scripts/collect_data.py`
+    1. Close virtual environment: `deactivate`
+
+
+
 ## Integrate Data
 
 To use this data, simply query one of the following endpoints:
