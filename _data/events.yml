@@ -16,21 +16,21 @@
 
 
 # Entries are shown in the order listed
-- title: SBC (The Science of Blockchain Conference 2025)
-  start_date: 2025-08-04
-  end_date: 2025-08-06
-  location: Berkeley, USA
-  link: https://www.sbc-conference.com/2025/
-- title: Pragma New York
-  start_date: 2025-08-14
-  end_date: 2025-08-14
-  location: NYC, USA
-  link: https://ethglobal.com/events/pragma-newyork2025
-- title: ETHGlobal New York
-  start_date: 2025-08-15
-  end_date: 2025-08-17
-  location: NYC, USA
-  link: https://ethglobal.com/events/newyork2025
+# - title: SBC (The Science of Blockchain Conference 2025)
+#   start_date: 2025-08-04
+#   end_date: 2025-08-06
+#   location: Berkeley, USA
+#   link: https://www.sbc-conference.com/2025/
+# - title: Pragma New York
+#   start_date: 2025-08-14
+#   end_date: 2025-08-14
+#   location: NYC, USA
+#   link: https://ethglobal.com/events/pragma-newyork2025
+# - title: ETHGlobal New York
+#   start_date: 2025-08-15
+#   end_date: 2025-08-17
+#   location: NYC, USA
+#   link: https://ethglobal.com/events/newyork2025
 - title: Web3 Lagos Conference
   start_date: 2025-08-28
   end_date: 2025-08-30
