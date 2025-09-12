@@ -41,26 +41,26 @@
 #   end_date: 2025-08-31
 #   location: Accra, GHA
 #   link: https://ethaccra.xyz
-- title: ETHWarsaw
-  start_date: 2025-09-04
-  end_date: 2025-09-07
-  location: Warsaw, POL
-  link: https://ethwarsaw.dev
-- title: ETHIstanbul
-  start_date: 2025-09-05
-  end_date: 2025-09-07
-  location: Istanbul, TR
-  link: https://ethistanbul.io
+# - title: ETHWarsaw
+#   start_date: 2025-09-04
+#   end_date: 2025-09-07
+#   location: Warsaw, POL
+#   link: https://ethwarsaw.dev
+# - title: ETHIstanbul
+#   start_date: 2025-09-05
+#   end_date: 2025-09-07
+#   location: Istanbul, TR
+#   link: https://ethistanbul.io
 - title: EthSafari
   start_date: 2025-09-07
   end_date: 2025-09-14
   location: Kilifi
   link: https://ethsafari.xyz
-- title: Boston Blockchain Week
-  start_date: 2025-09-08
-  end_date: 2025-09-11
-  location: Quincy, MA, USA
-  link: https://bostonblockchainweek.com
+# - title: Boston Blockchain Week
+#   start_date: 2025-09-08
+#   end_date: 2025-09-11
+#   location: Quincy, MA, USA
+#   link: https://bostonblockchainweek.com
 - title: ETHSofia
   start_date: 2025-09-23
   end_date: 2025-09-25
