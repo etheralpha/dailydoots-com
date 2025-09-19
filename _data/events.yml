@@ -51,11 +51,11 @@
 #   end_date: 2025-09-07
 #   location: Istanbul, TR
 #   link: https://ethistanbul.io
-- title: EthSafari
-  start_date: 2025-09-07
-  end_date: 2025-09-14
-  location: Kilifi
-  link: https://ethsafari.xyz
+# - title: EthSafari
+#   start_date: 2025-09-07
+#   end_date: 2025-09-14
+#   location: Kilifi
+#   link: https://ethsafari.xyz
 # - title: Boston Blockchain Week
 #   start_date: 2025-09-08
 #   end_date: 2025-09-11
