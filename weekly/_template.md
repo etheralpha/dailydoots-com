@@ -39,13 +39,6 @@ poap: # poap link
 
 </details>
 <details markdown=1>
-<summary>Stats with u/Dreth</summary>
-[View on Reddit →]()
-
-
-
-</details>
-<details markdown=1>
 <summary>Shitpost of the week: u/</summary>
 [View on Reddit →]()
 

@@ -61,26 +61,26 @@
 #   end_date: 2025-09-11
 #   location: Quincy, MA, USA
 #   link: https://bostonblockchainweek.com
-- title: ETHSofia
-  start_date: 2025-09-23
-  end_date: 2025-09-25
-  location: Sofia, BGR
-  link: https://ethsofia.com
-- title: Pragma New Delhi
-  start_date: 2025-09-25
-  end_date: 2025-09-25
-  location: New Delhi, IND
-  link: https://ethglobal.com/events/pragma-newdelhi
-- title: ETHGlobal New Delhi
-  start_date: 2025-09-26
-  end_date: 2025-09-28
-  location: New Delhi, IND
-  link: https://ethglobal.com/events/newdelhi
-- title: TOKEN2049 Singapore*
-  start_date: 2025-10-01
-  end_date: 2025-10-02
-  location: Singapore, SGP
-  link: https://asia.token2049.com/
+# - title: ETHSofia
+#   start_date: 2025-09-23
+#   end_date: 2025-09-25
+#   location: Sofia, BGR
+#   link: https://ethsofia.com
+# - title: Pragma New Delhi
+#   start_date: 2025-09-25
+#   end_date: 2025-09-25
+#   location: New Delhi, IND
+#   link: https://ethglobal.com/events/pragma-newdelhi
+# - title: ETHGlobal New Delhi
+#   start_date: 2025-09-26
+#   end_date: 2025-09-28
+#   location: New Delhi, IND
+#   link: https://ethglobal.com/events/newdelhi
+# - title: TOKEN2049 Singapore*
+#   start_date: 2025-10-01
+#   end_date: 2025-10-02
+#   location: Singapore, SGP
+#   link: https://asia.token2049.com/
 - title: ProtoLayers Conference
   start_date: 2025-10-11
   end_date: 2025-10-11
