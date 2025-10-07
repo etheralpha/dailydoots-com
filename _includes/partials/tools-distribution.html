@@ -4,7 +4,8 @@
   <pre class="mb-3 ps-0">
     <code id="distributionOutput"></code>
   </pre>
-  <a id="downloadQualifiers" class="btn btn-light mt-2">Download Qualifiers</a>
+  <a id="downloadZip" class="btn btn-light mt-2">Download Qualifiers (.zip > .txt)</a>
+  <a id="downloadQualifiers" class="btn btn-light mt-2">Download Qualifiers (.json)</a>
 </div>
 
 
@@ -66,6 +67,118 @@
   downloadLink.download = "qualifiers.json";
   downloadLink.href = window.URL.createObjectURL(blob);
   downloadLink.dataset.downloadurl = ["text/json", downloadLink.download, downloadLink.href].join(":");
+
+
+
+  document.getElementById("downloadZip").addEventListener("click", () => {
+    downloadZip(qualifiers);
+  });
+
+  async function downloadZip(dataObj) {
+    const files = Object.entries(dataObj).map(([key, arr]) => ({
+      name: key.replace(/\s+/g, "_") + ".txt",
+      content: arr.join("\n")
+    }));
+
+    // Create ZIP file structure manually
+    const zipParts = [];
+    const centralDir = [];
+    let offset = 0;
+
+    const encoder = new TextEncoder();
+
+    for (const file of files) {
+      const fileData = encoder.encode(file.content);
+      const filename = encoder.encode(file.name);
+      const crc = crc32(fileData);
+
+      const localHeader = [
+        0x50, 0x4b, 0x03, 0x04, // Local file header signature
+        0x14, 0x00,             // Version needed to extract
+        0x00, 0x00,             // General purpose bit flag
+        0x00, 0x00,             // Compression method (store)
+        0x00, 0x00, 0x00, 0x00, // File last mod time/date
+        ...toBytes(crc, 4),
+        ...toBytes(fileData.length, 4), // Compressed size
+        ...toBytes(fileData.length, 4), // Uncompressed size
+        ...toBytes(filename.length, 2),
+        0x00, 0x00,             // Extra field length
+      ];
+
+      zipParts.push(new Uint8Array(localHeader));
+      zipParts.push(filename);
+      zipParts.push(fileData);
+
+      const localHeaderSize = localHeader.length + filename.length + fileData.length;
+
+      const centralHeader = [
+        0x50, 0x4b, 0x01, 0x02, // Central file header signature
+        0x14, 0x00, 0x14, 0x00, // Version info
+        0x00, 0x00, 0x00, 0x00, // Flags/method
+        0x00, 0x00, 0x00, 0x00, // Time/date
+        ...toBytes(crc, 4),
+        ...toBytes(fileData.length, 4),
+        ...toBytes(fileData.length, 4),
+        ...toBytes(filename.length, 2),
+        0x00, 0x00, 0x00, 0x00, // Extra/comment length
+        0x00, 0x00,             // Disk number
+        0x00, 0x00,             // Internal attrs
+        0x00, 0x00, 0x00, 0x00, // External attrs
+        ...toBytes(offset, 4),
+      ];
+
+      centralDir.push(new Uint8Array(centralHeader));
+      centralDir.push(filename);
+
+      offset += localHeaderSize;
+    }
+
+    const centralSize = centralDir.reduce((a, b) => a + b.length, 0);
+    const centralOffset = offset;
+
+    const endRecord = [
+      0x50, 0x4b, 0x05, 0x06, // End of central dir signature
+      0x00, 0x00, 0x00, 0x00, // Disk numbers
+      ...toBytes(files.length, 2),
+      ...toBytes(files.length, 2),
+      ...toBytes(centralSize, 4),
+      ...toBytes(centralOffset, 4),
+      0x00, 0x00 // Comment length
+    ];
+
+    const allParts = [...zipParts, ...centralDir, new Uint8Array(endRecord)];
+    const blob = new Blob(allParts, { type: "application/zip" });
+
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "qualifiers.zip";
+    a.click();
+    URL.revokeObjectURL(a.href);
+  }
+
+  // Helper functions
+  function toBytes(num, len) {
+    const out = [];
+    for (let i = 0; i < len; i++) out.push(num & 0xff), (num >>>= 8);
+    return out;
+  }
+
+  function crc32(buf) {
+    let table = crc32.table;
+    if (!table) {
+      table = crc32.table = new Uint32Array(256);
+      for (let i = 0; i < 256; i++) {
+        let c = i;
+        for (let k = 0; k < 8; k++)
+          c = ((c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1));
+        table[i] = c >>> 0;
+      }
+    }
+    let crc = -1;
+    for (let i = 0; i < buf.length; i++)
+      crc = (crc >>> 8) ^ table[(crc ^ buf[i]) & 0xFF];
+    return (crc ^ -1) >>> 0;
+  }
 
   // const evt = new MouseEvent("click", {
   //     view: window,
