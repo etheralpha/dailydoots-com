@@ -81,11 +81,11 @@
 #   end_date: 2025-10-02
 #   location: Singapore, SGP
 #   link: https://asia.token2049.com/
-- title: ProtoLayers Conference
-  start_date: 2025-10-11
-  end_date: 2025-10-11
-  location: Prague, CZ
-  link: https://lu.ma/protolayersprague
+# - title: ProtoLayers Conference
+#   start_date: 2025-10-11
+#   end_date: 2025-10-11
+#   location: Prague, CZ
+#   link: https://lu.ma/protolayersprague
 - title: Edge Patagonia
   start_date: 2025-10-18
   end_date: 2025-11-15
