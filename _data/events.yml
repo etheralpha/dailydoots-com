@@ -16,88 +16,9 @@
 
 
 # Entries are shown in the order listed
-# - title: SBC (The Science of Blockchain Conference 2025)
-#   start_date: 2025-08-04
-#   end_date: 2025-08-06
-#   location: Berkeley, USA
-#   link: https://www.sbc-conference.com/2025/
-# - title: Pragma New York
-#   start_date: 2025-08-14
-#   end_date: 2025-08-14
-#   location: NYC, USA
-#   link: https://ethglobal.com/events/pragma-newyork2025
-# - title: ETHGlobal New York
-#   start_date: 2025-08-15
-#   end_date: 2025-08-17
-#   location: NYC, USA
-#   link: https://ethglobal.com/events/newyork2025
-# - title: Web3 Lagos Conference
-#   start_date: 2025-08-28
-#   end_date: 2025-08-30
-#   location: Lagos, NGA
-#   link: https://event.web3bridge.com
-# - title: EthAccra
-#   start_date: 2025-08-29
-#   end_date: 2025-08-31
-#   location: Accra, GHA
-#   link: https://ethaccra.xyz
-# - title: ETHWarsaw
-#   start_date: 2025-09-04
-#   end_date: 2025-09-07
-#   location: Warsaw, POL
-#   link: https://ethwarsaw.dev
-# - title: ETHIstanbul
-#   start_date: 2025-09-05
-#   end_date: 2025-09-07
-#   location: Istanbul, TR
-#   link: https://ethistanbul.io
-# - title: EthSafari
-#   start_date: 2025-09-07
-#   end_date: 2025-09-14
-#   location: Kilifi
-#   link: https://ethsafari.xyz
-# - title: Boston Blockchain Week
-#   start_date: 2025-09-08
-#   end_date: 2025-09-11
-#   location: Quincy, MA, USA
-#   link: https://bostonblockchainweek.com
-# - title: ETHSofia
-#   start_date: 2025-09-23
-#   end_date: 2025-09-25
-#   location: Sofia, BGR
-#   link: https://ethsofia.com
-# - title: Pragma New Delhi
-#   start_date: 2025-09-25
-#   end_date: 2025-09-25
-#   location: New Delhi, IND
-#   link: https://ethglobal.com/events/pragma-newdelhi
-# - title: ETHGlobal New Delhi
-#   start_date: 2025-09-26
-#   end_date: 2025-09-28
-#   location: New Delhi, IND
-#   link: https://ethglobal.com/events/newdelhi
-# - title: TOKEN2049 Singapore*
-#   start_date: 2025-10-01
-#   end_date: 2025-10-02
-#   location: Singapore, SGP
-#   link: https://asia.token2049.com/
-# - title: ProtoLayers Conference
-#   start_date: 2025-10-11
-#   end_date: 2025-10-11
-#   location: Prague, CZ
-#   link: https://lu.ma/protolayersprague
-- title: Edge Patagonia
-  start_date: 2025-10-18
-  end_date: 2025-11-15
-  location: San Martin de los Andes, AR
-  link: https://www.edgecity.live/patagonia
-- title: Encode London 2025
-  start_date: 2025-10-24
-  end_date: 2025-10-26
-  location: London, UK
-  link: https://lu.ma/Encode-London-25/
 - title: DevConnect
   start_date: 2025-11-17
   end_date: 2025-11-22
   location: Buenos Aires, AR
   link: https://devconnect.org
+
