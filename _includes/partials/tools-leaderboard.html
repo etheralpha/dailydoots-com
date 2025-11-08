@@ -13,14 +13,27 @@
     <textarea class="form-control" id="leaderboardJson" rows="8" style="font-family:monospace;font-size:0.85rem;">Upload RES file to generate...</textarea>
     <a class="btn btn-light mt-2" onclick="copyLeaderboard('leaderboardJson')">Copy</a>
   </div>
+  <div class="mb-3">
+    <label for="leaderboardList1" class="form-label">Leaderboard List By Doots:</label>
+    <textarea class="form-control" id="leaderboardList1" rows="8" style="font-family:monospace;font-size:0.85rem;">Upload RES file to generate...</textarea>
+    <a class="btn btn-light mt-2" onclick="copyLeaderboard('leaderboardList1')">Copy</a>
+  </div>
+  <div class="mb-3">
+    <label for="leaderboardList2" class="form-label">Leaderboard List By Username:</label>
+    <textarea class="form-control" id="leaderboardList2" rows="8" style="font-family:monospace;font-size:0.85rem;">Upload RES file to generate...</textarea>
+    <a class="btn btn-light mt-2" onclick="copyLeaderboard('leaderboardList2')">Copy</a>
+  </div>
 </div>
 
 
 <script type="text/javascript">
   function generateLeaderboard() {
     let dooters = [];
-    let leaderboardMarkdown = ""
-    leaderboardMarkdown += `Rank | Username   | Daily Doots\n`
+    let dooters2 = [];
+    let leaderboardMarkdown = "";
+    let dootersList1 = "";
+    let dootersList2 = "";
+    leaderboardMarkdown += `Rank | Username   | Daily Doots\n`;
     leaderboardMarkdown += `-----|------------|------------\n`;
     let file = document.getElementById("fileUpload").files[0];
     let reader = new FileReader();
@@ -34,20 +47,29 @@
             "doots": Number(value.text.toLowerCase().split("dooter")[1].trim().split(" ")[0])
           }
           dooters.push(entry);
+          dooters2.push(entry);
         }
       }
       dooters.sort((a, b) => b.doots - a.doots);
-      dooterIndex = 1
+      dooterIndex = 1;
       dooters.forEach(item => {
         item["rank"] = dooterIndex;
-        leaderboardMarkdown += `. | [${item.username}](https://reddit.com/u/${item.username}) | ${item.doots}\n`
+        // leaderboardMarkdown += `. | [${item.username}](https://reddit.com/u/${item.username}) | ${item.doots}\n`
+        dootersList1 += `${dooterIndex}. ${item.username}: ${item.doots}\n`
         dooterIndex += 1;
       });
-      console.log(`Dooters: ${dooters.length}`);
-      console.log(leaderboardMarkdown);
       document.getElementById('dooters').innerHTML = dooters.length;
-      document.getElementById('leaderboardMarkdown').value = leaderboardMarkdown;
+      // document.getElementById('leaderboardMarkdown').value = leaderboardMarkdown;
       document.getElementById('leaderboardJson').value = JSON.stringify(dooters);
+      document.getElementById('leaderboardList1').value = dootersList1;
+
+      dooters2.sort((a, b) => b.username - a.username);
+      dooterIndex2 = 1;
+      dooters2.forEach(item => {
+        dootersList2 += `${item.username}: ${item.doots}\n`
+        dooterIndex2 += 1;
+      });
+      document.getElementById('leaderboardList2').value = dootersList2;
     }
   }
 
