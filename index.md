@@ -26,8 +26,8 @@ title: Overview
   </div>
 
   <div class="col mb-3">
-    <h6>Upcoming Events</h6>
-    {% include partials/events.html limit=10 %}
+    <h6>Doots Podcast</h6>
+    {% include partials/podcast.html announcements=false guests=false %}
   </div>
 
   <div class="col mb-3">
