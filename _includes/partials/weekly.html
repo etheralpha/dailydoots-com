@@ -1,16 +1,18 @@
-{%- assign years = "2025,2024,2023" -%}
+{%- assign current_year = 'now' | date: "%Y" | append: "" -%}
+{%- assign years = "2026,2025,2024,2023" -%}
 {%- assign years = years | split: ',' -%}
 
 
 <div class="mb-2">
   {%- for year in years -%}
     {%- assign active = '' -%}
-    {%- if year == include.year -%}
+    {%- if year == current_year -%}
       {%- assign active = 'active' -%}
     {%- endif -%}
     <a href="/weekly/{{year}}" class="btn btn-outline-light btn-sm me-1 mb-1 {{active}}">{{year}}</a>
   {%- endfor -%}
 </div>
+
 
 
 {%- comment -%}
@@ -33,7 +35,7 @@ weekly_link: "https://reddit.com/r/ethfinance/s/5mYv6X43SC"
 <div id="weekly">
   {%- assign weeklies = site.pages | where: "weekly", true | reverse -%}
   {%- for weekly in weeklies -%}
-    {%- if weekly.name contains include.year -%}
+    {%- if weekly.name contains current_year -%}
       {%- assign open = '' -%}
       {%- if forloop.first -%}
         {%- assign open = 'open' -%}
