@@ -8,4 +8,4 @@ permalink: /podcast/
 {%- include partials/podcast.html -%}
 
 {%- include partials/weekly.html 
-    year="2025" -%}
+    year="2026" -%}
