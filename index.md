@@ -27,7 +27,7 @@ title: Overview
 
   <div class="col mb-3">
     <h6>Doots Podcast</h6>
-    {% include partials/podcast.html announcements=false guests=false %}
+    {% include partials/podcast.html announcements=false %}
   </div>
 
   <div class="col mb-3">
