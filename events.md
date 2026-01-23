@@ -2,6 +2,7 @@
 layout: markdown
 title: Events
 permalink: /events/
+redirect_to: https://ethereum.org/en/community/events/
 ---
 
 

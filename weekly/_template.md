@@ -26,13 +26,17 @@ poap: # poap link
 
 > 0.031
 
-[u/usesbinkvideo](https://reddit.com/u/usesbinkvideo)
-
-> 
 
 </details>
 <details markdown=1>
 <summary>Weekly Haiku: u/Jey_s_TeArS</summary>
+[View on Reddit →]()
+
+
+
+</details>
+<details markdown=1>
+<summary>Ethereal News: u/abcoathup</summary>
 [View on Reddit →]()
 
 
