@@ -1,4 +1,7 @@
 {%- assign current_year = 'now' | date: "%Y" | append: "" -%}
+{%- if include.year -%}
+  {%- assign current_year = include.year -%}
+{%- endif -%}
 {%- assign years = "2026,2025,2024,2023" -%}
 {%- assign years = years | split: ',' -%}
 
