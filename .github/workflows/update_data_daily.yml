@@ -35,6 +35,7 @@ jobs:
       run: python _scripts/collect_data.py
       env:
         REDDIT_PROXY: ${{ secrets.REDDIT_PROXY }}
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       
     - name: Commit and push changes
       env:
