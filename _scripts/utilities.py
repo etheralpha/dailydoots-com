@@ -11,6 +11,7 @@ import xmltodict
 import pprint
 from datetime import datetime, timezone
 from dotenv import load_dotenv
+import traceback
 
 
 current_time = round(time.time()) # seconds
@@ -39,35 +40,42 @@ REDDIT_PROXY = os.environ.get("REDDIT_PROXY")
 
 
 
-def fetch(url, method="GET", payload={}, headers={}, retries=2, delay=0, retry_delay=0.5, context="", data_type="json"):
-  print(f"Fetch: {url}")
-  response = {"status": 0, "attempts": 0, "data": None}
+def fetch(url, method='GET', payload={}, headers={}, retries=2, delay=0, retry_delay=0.5, context='', data_type='json'):
+  print(f'Fetch: {url}')
+  if not url:
+    raise ValueError('fetch() called with empty URL')
+  response = {'status': 0, 'attempts': 0, 'data': None}
   try: 
-    while response["attempts"] <= retries and (response["status"] != 200 or response["data"] == None):
-      if (response["attempts"] == 0):
+    # print(f"[DEBUG] Attempt {response['attempts']} URL: {url}")
+    while response['attempts'] <= retries and (response['status'] != 200 or response['data'] == None):
+      if (response['attempts'] == 0):
         time.sleep(delay)
-      elif (response["attempts"] > 0):
-        print(f"Retrying fetch: {url}")
+      elif (response['attempts'] > 0):
+        # print(f"Retrying fetch: {url}")
         time.sleep(retry_delay)
-      response["attempts"] = response["attempts"] + 1
-      r = requests.request(method, url, headers=headers, data=payload)
-      if data_type == "json":
-        response = {"status": r.status_code, "attempts": response["attempts"], "data": r.json()}
-      elif data_type == "xml":
-        response = {"status": r.status_code, "attempts": response["attempts"], "data": xml2json(r.text)}
-      elif data_type == "yaml" or data_type == "yml":
-        response = {"status": r.status_code, "attempts": response["attempts"], "data": yaml.safe_load(r.content.decode("utf-8"))}
-      elif data_type == "text":
-        response = {"status": r.status_code, "attempts": response["attempts"], "data": r.text}
-      else:
-        response = {"status": r.status_code, "attempts": response["attempts"], "data": r.text}
-  except:
-    error = f"Fetch failed: {url}"
+      response['attempts'] = response['attempts'] + 1
+      r = requests.request(method, url, headers=headers, data=payload, verify=False)
+      # print(f"[DEBUG] Response: {{'status': {r.status_code}, 'attempts': {response['attempts']}, 'data': {r.text[:500]}}}")
+      try:
+        if data_type == 'json':
+          response = {'status': r.status_code, 'attempts': response['attempts'], 'data': r.json()}
+        elif data_type == 'xml':
+          response = {'status': r.status_code, 'attempts': response['attempts'], 'data': xml2json(r.text)}
+        elif data_type == 'yaml' or data_type == 'yml':
+          response = {'status': r.status_code, 'attempts': response['attempts'], 'data': yaml.safe_load(r.content.decode('utf-8'))}
+        elif data_type == 'text':
+          response = {'status': r.status_code, 'attempts': response['attempts'], 'data': r.text}
+        else:
+          response = {'status': r.status_code, 'attempts': response['attempts'], 'data': r.text}
+      except Exception as json_error:
+        # print(f"[DEBUG] Parse failed. Raw text:\n{r.text[:500]}")
+        raise json_error
+  except Exception as e:
+    error = f"Fetch failed: {url} | Exception: {repr(e)}"
     report_error(error, context)
+    traceback.print_exc()
     if exit_on_fetch_error:
       raise SystemExit(error)
-    else:
-      print(error)
   finally:
     context = f"Fetch response for {url}"
     log(data=response, context=context)
@@ -76,12 +84,12 @@ def fetch(url, method="GET", payload={}, headers={}, retries=2, delay=0, retry_d
 
 def save_to_file(rel_path, data, context="", data_type="json"):
   # log(data, context=f"Saving file: {context}")
-  log("", context=f"Saving file: {rel_path}")
+  log('', context=f"Saving file: {rel_path}")
   # rel_path is relative to project root folder
-  # add preceeding "/" to path if not already included
-  if not rel_path.startswith("/"):
-    rel_path = "/" + rel_path
-  abs_path = os.path.abspath(__file__ + "/../../") + rel_path
+  # add preceeding '/' to path if not already included
+  if not rel_path.startswith('/'):
+    rel_path = '/' + rel_path
+  abs_path = os.path.abspath(__file__ + '/../../') + rel_path
   # skip file save if using test data
   if use_test_data or not save_file:
     print(f"Save aborted: file save turned off")
@@ -90,7 +98,7 @@ def save_to_file(rel_path, data, context="", data_type="json"):
     try:
       # write to file
       with open(abs_path, 'w') as f:
-        if data_type == "json":
+        if data_type == 'json':
           json.dump(data, f, indent=None, separators=(',', ':'), ensure_ascii=False)
         else:
           f.write(data)
@@ -106,20 +114,20 @@ def save_to_file(rel_path, data, context="", data_type="json"):
         print(error)
 
 
-def read_file(rel_path, file_type="json", context=""):
+def read_file(rel_path, file_type='json', context=""):
   log(f"Reading file: {rel_path}", context)
   # rel_path is relative to project root folder
-  # add preceeding "/" to path if not already included
-  if not rel_path.startswith("/"):
-    rel_path = "/" + rel_path
-  abs_path = os.path.abspath(__file__ + "/../../") + rel_path
+  # add preceeding '/' to path if not already included
+  if not rel_path.startswith('/'):
+    rel_path = '/' + rel_path
+  abs_path = os.path.abspath(__file__ + '/../../') + rel_path
   try:
     with open(abs_path, 'r') as f:
-      if file_type == "json":
+      if file_type == 'json':
         response = json.load(f)
-      elif file_type == "yaml":
+      elif file_type == 'yaml':
         response = yaml.safe_load(f)
-      elif file_type == "text":
+      elif file_type == 'text':
         response = f.read()
       f.close()
       return response
@@ -136,18 +144,18 @@ def xml2json(xml):
   return xmltodict.parse(xml)
 
 
-def report_error(error, context=""):
+def report_error(error, context=''):
   global error_count
   error_count += 1
-  if context == "":
-      msg = f"{error}"
+  if context == '':
+    msg = f"{error}"
   else:
     msg = f"{context}: {error}"
   print(msg)
   if use_test_data and not submit_error:
     return
   else:
-    data = {"content": msg}
+    data = {'content': msg}
     attempts = 0
     status = 0
     try:
@@ -163,7 +171,7 @@ def report_error(error, context=""):
         print(error)
 
 
-def print_file(rel_path, file_type="json", context=""):
+def print_file(rel_path, file_type='json', context=''):
   # rel_path is relative to project root folder
   data = read_file(rel_path, file_type, context)
   log(data)
@@ -171,7 +179,7 @@ def print_file(rel_path, file_type="json", context=""):
 
 def print_path(rel_path):
   # rel_path is relative to project root folder
-  abs_path = os.path.abspath(__file__ + "/../../") + rel_path
+  abs_path = os.path.abspath(__file__ + '/../../') + rel_path
   print(abs_path)
 
 
@@ -194,7 +202,7 @@ def sendDiscordMsg(msg):
   # if use_test_data:
   #   print(msg)
   # else:
-  #   data = {"content": msg}
+  #   data = {'content': msg}
   #   attempts = 0
   #   status = 0
   #   try:

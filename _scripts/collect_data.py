@@ -18,15 +18,15 @@ def run_app():
 
 def get_recent_daily():
   daily_list = []
-  daily_yml = ""
+  daily_yml = ''
   weeklies_list = []
-  weeklies_yml = ""
+  weeklies_yml = ''
   delay = 60
   url = utilities.REDDIT_PROXY
-  source = utilities.fetch(url=url, data_type="json", retry_delay=delay)
+  source = utilities.fetch(url=url, data_type='json', retry_delay=delay)
   print(f"status: {source['status']}")
   if source['status'] != 200:
-    print(f'Fetch failed: {source['status']} status')
+    print(f"Fetch failed: {source['status']} status")
     return []
   entries = source['data']['data']['children']
   # print(entries)
@@ -39,17 +39,17 @@ def get_recent_daily():
     link = f"https://reddit.com/r/ethereum/comments/{entry['data']['id']}/"
     comments = entry['data']['num_comments']
     entry_yml = f"- date: {date}\n  title: {title}\n  link: {link}\n  comments: {comments}\n"
-    entry_dict = {"date":date, "title":title, "link":link, "comments":comments}
-    if "daily_general_discussion" in entry['data']['permalink']:
+    entry_dict = {'date':date, 'title':title, 'link':link, 'comments':comments}
+    if 'daily_general_discussion' in entry['data']['permalink']:
       daily_list.append(entry_dict)
       daily_yml += entry_yml
-    if "weekly_discussion_thread" in entry['data']['permalink']:
+    if 'weekly_discussion_thread' in entry['data']['permalink']:
       weeklies_list.append(entry_dict)
       weeklies_yml += entry_yml
   # print(daily_yml)
-  # print("-----------")
+  # print('-----------')
   # print(weeklies_yml)
-  # print("-----------")
+  # print('-----------')
   print(daily_list)
   # daily_list = sorted(daily_list, key=lambda x: x['date'], reverse=True)
   return daily_list[:5]
@@ -62,15 +62,15 @@ def get_recent_daily():
 #   entries_yml = ""
 #   weeklies_list = []
 #   delay = 60
-#   url = "https://old.reddit.com/user/EthereumDailyThread/submitted/"
-#   source = utilities.fetch(url=url, data_type="text", retry_delay=delay)
+#   url = 'https://old.reddit.com/user/EthereumDailyThread/submitted/'
+#   source = utilities.fetch(url=url, data_type='text', retry_delay=delay)
 #   print(f"status: {source['status']}")
 #   if source['status'] != 200:
 #     return
 #   entries = source['data'].split('thing id')
 #   entries.pop(0)
 #   # print(entries)
-#   # print("-----------")
+#   # print('-----------')
 #   for entry in entries:
 #     date = entry.split('datetime="')[1].split('T')[0]
 #     title = entry.split('tabindex="1"')[1].split('<')[0].split('>')[1]
@@ -80,12 +80,12 @@ def get_recent_daily():
 #     entry_yml = f"- date: {date}\n  title: {title}\n  link: {link}\n  comments: {comments}\n"
 #     entries_yml += entry_yml
 #     entry_dict = {"date":date, "title":title, "link":link, "comments":comments}
-#     if "daily" in entry_dict['title'].lower():
+#     if 'daily' in entry_dict['title'].lower():
 #       entries_list.append(entry_dict)
-#     if "weekly" in entry_dict['link'].lower():
+#     if 'weekly' in entry_dict['link'].lower():
 #       weeklies_list.append(entry_dict)
 #   print(entries_yml)
-#   # print("-----------")
+#   # print('-----------')
 #   # print(entries_list)
 #   # entries_list = sorted(entries_list, key=lambda x: x['date'], reverse=True)
 #   return entries_list[:5]
@@ -118,7 +118,7 @@ def update_dailies(new_dailies):
   print(dailies[:5])
 
   # save file
-  with open(dailies_path, "w") as dailies_file:
+  with open(dailies_path, 'w') as dailies_file:
     json.dump(dailies, dailies_file)
 
 
@@ -142,10 +142,10 @@ def get_daily_details(url_list):
     comments = source['data'].split('data-event-action="comments"')[1].split(' comments</')[0].split('>')[1]
     entry_yml = f"- date: {date}\n  title: {title}\n  link: {link}\n  comments: {comments}\n"
     entries_yml += entry_yml
-    entry_dict = {"date":date, "title":title, "link":link, "comments":comments}
+    entry_dict = {'date':date, 'title':title, 'link':link, 'comments':comments}
     entries_list.append(entry_dict)
     print(entries_yml)
-    print("-----------")
+    print('-----------')
     print(entries_list)
     time.sleep(delay)
 
